@@ -49,7 +49,9 @@ for n in z.namelist():
   text=Path('/tmp/bookworms-import/return.txt').read_text();parts=re.split(r'(?m)^(The (?:Adventure|Return) of[^\n]+)\n',text);chapters=[]
   if len(parts)<3:raise ValueError('DOC headings missing')
   for i in range(1,len(parts),2):
-   name=parts[i].strip();body=parts[i+1];p=directory/f'chapter-{len(chapters):02}.html'
+   name=parts[i].strip();body=parts[i+1]
+   if not body.strip():continue
+   p=directory/f'chapter-{len(chapters):02}.html'
    p.write_text('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>'+html.escape(name)+'</title><style>'+css+'</style></head><body><h1>'+html.escape(name)+'</h1>'+''.join('<p>'+html.escape(t)+'</p>' for t in body.splitlines() if t.strip())+'</body></html>')
    chapters.append({'title':name,'href':p.relative_to(root).as_posix(),'children':[]})
   entry.update(href=chapters[0]['href'],format='html',children=chapters)
