@@ -1,0 +1,261 @@
+body{word-wrap:break-word;text-align:justify;line-height:1.618em;}
+p{margin-top: 1em;text-indent: 0em;}
+.xt{font-style:italic;}
+.big{font-size:1.3em;}
+a{color:#000ccc;}
+.title1 {
+	font-size: 2em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+.title01 {
+	font-size: 1.6em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	font-weight: bold;
+}
+.title2 {
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+.title3 {
+	font-size: 1.3em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+.title4 {
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+.title5 {
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+.title6 {
+	font-size: 0.85em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+.subtitle{
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	text-indent: 0em;
+}
+.subtitle1{
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	text-align: center;
+}
+.normaltext {
+	text-indent: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.normaltext1 {
+	text-indent: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	text-align: right;
+}
+.normaltext2 {
+	text-indent: 0em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.normaltext2a {
+	text-indent: 0em;
+	margin-top: 1.5em;
+	margin-bottom: 0pt;
+}
+.normaltext2b {
+	text-indent: 2em;
+	margin-top: 1.5em;
+	margin-bottom: 0pt;
+}
+.normaltext02 {
+	text-indent: 0em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size:0.85em;
+}
+.normaltext3 {
+	text-indent: -1em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	margin-left:1em;
+}
+.dqkh {
+	text-indent: 2em;
+	margin-top: 20pt;
+	margin-bottom: 0pt;
+}
+.lk {
+	font-size: 0.9em;
+	font-weight: bold;
+    text-align: right;
+   	margin-right: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.picture {
+    text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.table {
+    width:100%;
+	margin-bottom: 1em;
+    text-align: center;
+}
+.table1 {
+    width:100%;
+	margin-bottom: 1em;
+}
+.bt{
+	font-size: 1.1em;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 8px;
+}
+.bz{
+	font-size: 0.85em;
+	text-indent: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.tpzz{
+	vertical-align: text-top;
+}
+.note {
+	font-size: 1.2em;
+	font-weight: bold;
+	text-indent: 0em;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+}
+.note1 {
+	font-size: 0.85em;
+	text-indent: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.mulu {
+	font-size: 1.8em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+.mulu1 {
+	margin-left: 0em;
+	margin-right: 0em;
+	margin-top: 0.2em;
+	margin-bottom: 0em;
+}
+.mulu01 {
+	margin-left: 1em;
+	margin-right: 0em;
+	margin-top: 0.2em;
+	margin-bottom: 0em;
+}
+.mulu2 {
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-left: 2em;
+	margin-right: 0em;
+	margin-top: 0.2em;
+	margin-bottom: 0em;
+}
+.mulu3 {
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-left: 4em;
+	margin-right: 0em;
+	margin-top: 0.2em;
+	margin-bottom: 0em;
+}
+.mulu4 {
+	font-weight: bold;
+	margin-left: 6em;
+	margin-right: 0em;
+	margin-top: 0.2em;
+	margin-bottom: 0em;
+}
+.bqbt01{
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-indent: 2em;
+}
+.bqbt02{
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+.bqbt1{
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 0.8em;
+	text-indent:2em;
+}
+.bq-text1{
+	margin-top: 0em;
+	margin-bottom: 0em;
+	text-indent:2em;
+}
+.bq-text2{
+	font-size:0.85em;
+	margin-top: 0em;
+	margin-bottom: 0em;
+	text-indent: 0em;
+}
+.bq-text3{
+	margin-top: 0em;
+	margin-bottom: 0em;
+	text-indent: 0em;
+}
+.bq-text03{
+	margin-top: 0em;
+	margin-bottom: 0em;
+	text-indent: 0em;
+	font-weight:bold;
+}
+.bq-text03a{
+	margin-top: 0em;
+	margin-bottom: 0em;
+	text-indent: 0em;
+	font-weight:bold;
+	margin-left:5.4em;
+}
+.underline{
+	text-decoration:underline;
+}
+.doubleline{
+	text-decoration:underline;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+}
+.zjj{letter-spacing:0.5em;}
+.xx{border-bottom-style:dotted;border-bottom-width:2px;padding:1px;}
+.szxc{font-size:2.9em;float:left;line-height:1em;padding:1px 5px 1px 1px;}

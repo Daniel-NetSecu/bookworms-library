@@ -1,0 +1,289 @@
+p{margin-top: 1em;text-indent: 0em;}
+body {
+	font-size: 1em;
+	text-align: justify;
+	line-height: 1.618em;
+	word-wrap: break-word;
+}
+h1.title1 {
+	font-size: 2em; 
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+	line-height:1em;
+}
+h1.title1a {
+	font-size: 2em; 
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-indent: 0em;
+	line-height:1em;
+}
+h2.title2 {
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+h3.title3 {
+	font-size: 1.3em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+h4.title4 {
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+h5.title5 {
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+h6.title6 {
+	font-size: 0.85em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+.subtitle{
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	text-indent: 0em;
+}
+.subtitle0{
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	text-indent: 0em;
+	margin-left:2em;
+}
+.subtitle1{
+	font-size: 1.3em;
+	font-weight: bold;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	text-align: center;
+	text-indent: 0em;
+}
+.normaltext {
+	text-indent: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.normaltext1 {
+	text-indent: 0em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	text-align: right;
+}
+.lk {
+	font-size: 0.9em;
+	font-weight: bold;
+    text-align: right;
+   	margin-right: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.picture {
+	text-indent: 0em;
+    text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.table {
+	text-indent: 0em;
+    width:100%;
+	margin-bottom: 1em;
+    text-align: center;
+}
+.table1 {
+	margin-left: 2em;
+    width:100%;
+}
+.bt{
+	font-size: 1.1em;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 8px;
+	text-indent: 0em;
+}
+.bz{
+	font-size: 0.85em;
+	text-indent: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.tpzz{
+	vertical-align: text-top;
+}
+td{
+	vertical-align: text-top;
+}
+.note {
+	font-size: 1.2em;
+	font-weight: bold;
+	text-indent: 0em;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+}
+.note1 {
+	font-size: 0.85em;
+	text-indent: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.tz{
+	font-size: 0.85em;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 10px;
+	text-indent: 0em;
+}
+.tz1{
+	font-size: 0.85em;
+	text-indent: 2em;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+.underline{
+	text-decoration:underline;
+}
+.doubleline{
+	text-decoration:underline;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+}
+.suptext{
+    font-size: 0.5em;
+}
+.fy{
+   page-break-before: always;
+}
+a {
+	color: #0000CC;
+}
+
+.mulu {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+	text-align: center;
+	}
+.contents {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    text-align: center;
+}
+.mulu1 {
+    margin-left: 0em;
+}
+.mulu01 {
+    margin-left: 1.5em;
+}
+.mulu2 {
+    margin-left: 1.5em;
+}
+.mulu3 {
+    margin-left: 4em;
+}
+
+.mulu4 {
+    margin-left: 4em;
+}
+
+.mulu5 {
+    margin-left: 4em;
+}
+
+.mulu6 {
+    margin-left: 4em;
+}
+.CN_Kindle_Kai{ 
+	font-family: STKai, "MKai PRC", Kai;
+}
+.zj{letter-spacing:0.35em;}
+.xz{font-family:0.85em;}
+.xt {
+	font-style: italic;
+}
+.xx{
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+}
+.sx{border-bottom:1pt solid;margin-left:30%;margin-right:30%;}
+.sx1{border-bottom:1pt solid;}
+.normaltext02{
+	font-size: 0.85em;
+	text-indent: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: STKai, "MKai PRC", Kai;
+}
+.normaltext3 {
+	text-indent: 0em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.normaltext4{
+	text-indent: -1.5em;
+	margin-top: 10pt;
+	margin-bottom: 10pt;
+	margin-left: 1.5em;
+	font-weight: bold;
+}
+.normaltext4a{
+	text-indent: -1.5em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	margin-left: 1.5em;
+	font-weight: bold;
+}
+.normaltext5{
+	text-indent: -1.5em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	margin-left: 3em;
+}
+.normaltext5a{
+	text-indent: -1.5em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	margin-left: 3em;
+}
+.normaltext6{
+	text-indent: 0em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	margin-left: 3em;
+}
+.normaltext8{
+	font-size: 1.1em;
+	text-indent: 2em;
+	margin-top: 10pt;
+	margin-bottom: 10pt;
+	font-weight: bold;
+}
+.normaltext12 {
+	text-indent: -3em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	margin-left:4.5em;
+}
+.normaltexty {
+ text-indent: 1em;
+ margin-top: 0pt;
+ margin-bottom: 0pt;
+}
