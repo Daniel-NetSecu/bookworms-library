@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:480bd2bc-eebf-4eac-a456-13d9031a55f8"/>
+    <meta name="dtb:depth" content="1"/>
+  </head>
+  <docTitle>
+    <text>The Da Vinci Code</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="part1" playOrder="0">
+      <navLabel>
+        <text>The Da Vinci Code</text>
+      </navLabel>
+      <content src="part1.xhtml"/>
+    </navPoint>
+    <navPoint id="part2" playOrder="1">
+      <navLabel>
+        <text>CHAPTER 1</text>
+      </navLabel>
+      <content src="part2.xhtml"/>
+    </navPoint>
+    <navPoint id="part3" playOrder="2">
+      <navLabel>
+        <text>CHAPTER 2</text>
+      </navLabel>
+      <content src="part3.xhtml"/>
+    </navPoint>
+    <navPoint id="part4" playOrder="3">
+      <navLabel>
+        <text>CHAPTER 3</text>
+      </navLabel>
+      <content src="part4.xhtml"/>
+    </navPoint>
+    <navPoint id="part5" playOrder="4">
+      <navLabel>
+        <text>CHAPTER 4</text>
+      </navLabel>
+      <content src="part5.xhtml"/>
+    </navPoint>
+    <navPoint id="part6" playOrder="5">
+      <navLabel>
+        <text>CHAPTER 5</text>
+      </navLabel>
+      <content src="part6.xhtml"/>
+    </navPoint>
+    <navPoint id="part7" playOrder="6">
+      <navLabel>
+        <text>CHAPTER 6</text>
+      </navLabel>
+      <content src="part7.xhtml"/>
+    </navPoint>
+    <navPoint id="part8" playOrder="7">
+      <navLabel>
+        <text>CHAPTER 7</text>
+      </navLabel>
+      <content src="part8.xhtml"/>
+    </navPoint>
+    <navPoint id="part9" playOrder="8">
+      <navLabel>
+        <text>CHAPTER 8</text>
+      </navLabel>
+      <content src="part9.xhtml"/>
+    </navPoint>
+    <navPoint id="part10" playOrder="9">
+      <navLabel>
+        <text>CHAPTER 9</text>
+      </navLabel>
+      <content src="part10.xhtml"/>
+    </navPoint>
+    <navPoint id="part11" playOrder="10">
+      <navLabel>
+        <text>CHAPTER 10</text>
+      </navLabel>
+      <content src="part11.xhtml"/>
+    </navPoint>
+    <navPoint id="part12" playOrder="11">
+      <navLabel>
+        <text>CHAPTER 11</text>
+      </navLabel>
+      <content src="part12.xhtml"/>
+    </navPoint>
+    <navPoint id="part13" playOrder="12">
+      <navLabel>
+        <text>CHAPTER 12</text>
+      </navLabel>
+      <content src="part13.xhtml"/>
+    </navPoint>
+    <navPoint id="part14" playOrder="13">
+      <navLabel>
+        <text>CHAPTER 13</text>
+      </navLabel>
+      <content src="part14.xhtml"/>
+    </navPoint>
+    <navPoint id="part15" playOrder="14">
+      <navLabel>
+        <text>CHAPTER 14</text>
+      </navLabel>
+      <content src="part15.xhtml"/>
+    </navPoint>
+    <navPoint id="part16" playOrder="15">
+      <navLabel>
+        <text>CHAPTER 15</text>
+      </navLabel>
+      <content src="part16.xhtml"/>
+    </navPoint>
+    <navPoint id="part17" playOrder="16">
+      <navLabel>
+        <text>CHAPTER 16</text>
+      </navLabel>
+      <content src="part17.xhtml"/>
+    </navPoint>
+    <navPoint id="part18" playOrder="17">
+      <navLabel>
+        <text>CHAPTER 17</text>
+      </navLabel>
+      <content src="part18.xhtml"/>
+    </navPoint>
+    <navPoint id="part19" playOrder="18">
+      <navLabel>
+        <text>CHAPTER 18</text>
+      </navLabel>
+      <content src="part19.xhtml"/>
+    </navPoint>
+    <navPoint id="part20" playOrder="19">
+      <navLabel>
+        <text>CHAPTER 19</text>
+      </navLabel>
+      <content src="part20.xhtml"/>
+    </navPoint>
+    <navPoint id="part21" playOrder="20">
+      <navLabel>
+        <text>CHAPTER 20</text>
+      </navLabel>
+      <content src="part21.xhtml"/>
+    </navPoint>
+    <navPoint id="part22" playOrder="21">
+      <navLabel>
+        <text>CHAPTER 21</text>
+      </navLabel>
+      <content src="part22.xhtml"/>
+    </navPoint>
+    <navPoint id="part23" playOrder="22">
+      <navLabel>
+        <text>CHAPTER 22</text>
+      </navLabel>
+      <content src="part23.xhtml"/>
+    </navPoint>
+    <navPoint id="part24" playOrder="23">
+      <navLabel>
+        <text>CHAPTER 23</text>
+      </navLabel>
+      <content src="part24.xhtml"/>
+    </navPoint>
+    <navPoint id="part25" playOrder="24">
+      <navLabel>
+        <text>CHAPTER 24</text>
+      </navLabel>
+      <content src="part25.xhtml"/>
+    </navPoint>
+    <navPoint id="part26" playOrder="25">
+      <navLabel>
+        <text>CHAPTER 25</text>
+      </navLabel>
+      <content src="part26.xhtml"/>
+    </navPoint>
+    <navPoint id="part27" playOrder="26">
+      <navLabel>
+        <text>CHAPTER 26</text>
+      </navLabel>
+      <content src="part27.xhtml"/>
+    </navPoint>
+    <navPoint id="part28" playOrder="27">
+      <navLabel>
+        <text>CHAPTER 27</text>
+      </navLabel>
+      <content src="part28.xhtml"/>
+    </navPoint>
+    <navPoint id="part29" playOrder="28">
+      <navLabel>
+        <text>CHAPTER 28</text>
+      </navLabel>
+      <content src="part29.xhtml"/>
+    </navPoint>
+    <navPoint id="part30" playOrder="29">
+      <navLabel>
+        <text>CHAPTER 29</text>
+      </navLabel>
+      <content src="part30.xhtml"/>
+    </navPoint>
+    <navPoint id="part31" playOrder="30">
+      <navLabel>
+        <text>CHAPTER 30</text>
+      </navLabel>
+      <content src="part31.xhtml"/>
+    </navPoint>
+    <navPoint id="part32" playOrder="31">
+      <navLabel>
+        <text>CHAPTER 31</text>
+      </navLabel>
+      <content src="part32.xhtml"/>
+    </navPoint>
+    <navPoint id="part33" playOrder="32">
+      <navLabel>
+        <text>CHAPTER 32</text>
+      </navLabel>
+      <content src="part33.xhtml"/>
+    </navPoint>
+    <navPoint id="part34" playOrder="33">
+      <navLabel>
+        <text>CHAPTER 33</text>
+      </navLabel>
+      <content src="part34.xhtml"/>
+    </navPoint>
+    <navPoint id="part35" playOrder="34">
+      <navLabel>
+        <text>CHAPTER 34</text>
+      </navLabel>
+      <content src="part35.xhtml"/>
+    </navPoint>
+    <navPoint id="part36" playOrder="35">
+      <navLabel>
+        <text>CHAPTER 35</text>
+      </navLabel>
+      <content src="part36.xhtml"/>
+    </navPoint>
+    <navPoint id="part37" playOrder="36">
+      <navLabel>
+        <text>CHAPTER 36</text>
+      </navLabel>
+      <content src="part37.xhtml"/>
+    </navPoint>
+    <navPoint id="part38" playOrder="37">
+      <navLabel>
+        <text>CHAPTER 37</text>
+      </navLabel>
+      <content src="part38.xhtml"/>
+    </navPoint>
+    <navPoint id="part39" playOrder="38">
+      <navLabel>
+        <text>CHAPTER 38</text>
+      </navLabel>
+      <content src="part39.xhtml"/>
+    </navPoint>
+    <navPoint id="part40" playOrder="39">
+      <navLabel>
+        <text>CHAPTER 39</text>
+      </navLabel>
+      <content src="part40.xhtml"/>
+    </navPoint>
+    <navPoint id="part41" playOrder="40">
+      <navLabel>
+        <text>CHAPTER 40</text>
+      </navLabel>
+      <content src="part41.xhtml"/>
+    </navPoint>
+    <navPoint id="part42" playOrder="41">
+      <navLabel>
+        <text>CHAPTER 41</text>
+      </navLabel>
+      <content src="part42.xhtml"/>
+    </navPoint>
+    <navPoint id="part43" playOrder="42">
+      <navLabel>
+        <text>CHAPTER 42</text>
+      </navLabel>
+      <content src="part43.xhtml"/>
+    </navPoint>
+    <navPoint id="part44" playOrder="43">
+      <navLabel>
+        <text>CHAPTER 43</text>
+      </navLabel>
+      <content src="part44.xhtml"/>
+    </navPoint>
+    <navPoint id="part45" playOrder="44">
+      <navLabel>
+        <text>CHAPTER 44</text>
+      </navLabel>
+      <content src="part45.xhtml"/>
+    </navPoint>
+    <navPoint id="part46" playOrder="45">
+      <navLabel>
+        <text>CHAPTER 45</text>
+      </navLabel>
+      <content src="part46.xhtml"/>
+    </navPoint>
+    <navPoint id="part47" playOrder="46">
+      <navLabel>
+        <text>CHAPTER 46</text>
+      </navLabel>
+      <content src="part47.xhtml"/>
+    </navPoint>
+    <navPoint id="part48" playOrder="47">
+      <navLabel>
+        <text>CHAPTER 47</text>
+      </navLabel>
+      <content src="part48.xhtml"/>
+    </navPoint>
+    <navPoint id="part49" playOrder="48">
+      <navLabel>
+        <text>CHAPTER 48</text>
+      </navLabel>
+      <content src="part49.xhtml"/>
+    </navPoint>
+    <navPoint id="part50" playOrder="49">
+      <navLabel>
+        <text>CHAPTER 49</text>
+      </navLabel>
+      <content src="part50.xhtml"/>
+    </navPoint>
+    <navPoint id="part51" playOrder="50">
+      <navLabel>
+        <text>CHAPTER 50</text>
+      </navLabel>
+      <content src="part51.xhtml"/>
+    </navPoint>
+    <navPoint id="part52" playOrder="51">
+      <navLabel>
+        <text>CHAPTER 51</text>
+      </navLabel>
+      <content src="part52.xhtml"/>
+    </navPoint>
+    <navPoint id="part53" playOrder="52">
+      <navLabel>
+        <text>CHAPTER 52</text>
+      </navLabel>
+      <content src="part53.xhtml"/>
+    </navPoint>
+    <navPoint id="part54" playOrder="53">
+      <navLabel>
+        <text>CHAPTER 53</text>
+      </navLabel>
+      <content src="part54.xhtml"/>
+    </navPoint>
+    <navPoint id="part55" playOrder="54">
+      <navLabel>
+        <text>CHAPTER 54</text>
+      </navLabel>
+      <content src="part55.xhtml"/>
+    </navPoint>
+    <navPoint id="part56" playOrder="55">
+      <navLabel>
+        <text>CHAPTER 55</text>
+      </navLabel>
+      <content src="part56.xhtml"/>
+    </navPoint>
+    <navPoint id="part57" playOrder="56">
+      <navLabel>
+        <text>CHAPTER 56</text>
+      </navLabel>
+      <content src="part57.xhtml"/>
+    </navPoint>
+    <navPoint id="part58" playOrder="57">
+      <navLabel>
+        <text>CHAPTER 57</text>
+      </navLabel>
+      <content src="part58.xhtml"/>
+    </navPoint>
+    <navPoint id="part59" playOrder="58">
+      <navLabel>
+        <text>CHAPTER 58</text>
+      </navLabel>
+      <content src="part59.xhtml"/>
+    </navPoint>
+    <navPoint id="part60" playOrder="59">
+      <navLabel>
+        <text>CHAPTER 59</text>
+      </navLabel>
+      <content src="part60.xhtml"/>
+    </navPoint>
+    <navPoint id="part61" playOrder="60">
+      <navLabel>
+        <text>CHAPTER 60</text>
+      </navLabel>
+      <content src="part61.xhtml"/>
+    </navPoint>
+    <navPoint id="part62" playOrder="61">
+      <navLabel>
+        <text>CHAPTER 61</text>
+      </navLabel>
+      <content src="part62.xhtml"/>
+    </navPoint>
+    <navPoint id="part63" playOrder="62">
+      <navLabel>
+        <text>CHAPTER 62</text>
+      </navLabel>
+      <content src="part63.xhtml"/>
+    </navPoint>
+    <navPoint id="part64" playOrder="63">
+      <navLabel>
+        <text>CHAPTER 63</text>
+      </navLabel>
+      <content src="part64.xhtml"/>
+    </navPoint>
+    <navPoint id="part65" playOrder="64">
+      <navLabel>
+        <text>CHAPTER 64</text>
+      </navLabel>
+      <content src="part65.xhtml"/>
+    </navPoint>
+    <navPoint id="part66" playOrder="65">
+      <navLabel>
+        <text>CHAPTER 65</text>
+      </navLabel>
+      <content src="part66.xhtml"/>
+    </navPoint>
+    <navPoint id="part67" playOrder="66">
+      <navLabel>
+        <text>CHAPTER 66</text>
+      </navLabel>
+      <content src="part67.xhtml"/>
+    </navPoint>
+    <navPoint id="part68" playOrder="67">
+      <navLabel>
+        <text>CHAPTER 67</text>
+      </navLabel>
+      <content src="part68.xhtml"/>
+    </navPoint>
+    <navPoint id="part69" playOrder="68">
+      <navLabel>
+        <text>CHAPTER 68</text>
+      </navLabel>
+      <content src="part69.xhtml"/>
+    </navPoint>
+    <navPoint id="part70" playOrder="69">
+      <navLabel>
+        <text>CHAPTER 69</text>
+      </navLabel>
+      <content src="part70.xhtml"/>
+    </navPoint>
+    <navPoint id="part71" playOrder="70">
+      <navLabel>
+        <text>CHAPTER 70</text>
+      </navLabel>
+      <content src="part71.xhtml"/>
+    </navPoint>
+    <navPoint id="part72" playOrder="71">
+      <navLabel>
+        <text>CHAPTER 71</text>
+      </navLabel>
+      <content src="part72.xhtml"/>
+    </navPoint>
+    <navPoint id="part73" playOrder="72">
+      <navLabel>
+        <text>CHAPTER 72</text>
+      </navLabel>
+      <content src="part73.xhtml"/>
+    </navPoint>
+    <navPoint id="part74" playOrder="73">
+      <navLabel>
+        <text>CHAPTER 73</text>
+      </navLabel>
+      <content src="part74.xhtml"/>
+    </navPoint>
+    <navPoint id="part75" playOrder="74">
+      <navLabel>
+        <text>CHAPTER 74</text>
+      </navLabel>
+      <content src="part75.xhtml"/>
+    </navPoint>
+    <navPoint id="part76" playOrder="75">
+      <navLabel>
+        <text>CHAPTER 75</text>
+      </navLabel>
+      <content src="part76.xhtml"/>
+    </navPoint>
+    <navPoint id="part77" playOrder="76">
+      <navLabel>
+        <text>CHAPTER 76</text>
+      </navLabel>
+      <content src="part77.xhtml"/>
+    </navPoint>
+    <navPoint id="part78" playOrder="77">
+      <navLabel>
+        <text>CHAPTER 77</text>
+      </navLabel>
+      <content src="part78.xhtml"/>
+    </navPoint>
+    <navPoint id="part79" playOrder="78">
+      <navLabel>
+        <text>CHAPTER 78</text>
+      </navLabel>
+      <content src="part79.xhtml"/>
+    </navPoint>
+    <navPoint id="part80" playOrder="79">
+      <navLabel>
+        <text>CHAPTER 79</text>
+      </navLabel>
+      <content src="part80.xhtml"/>
+    </navPoint>
+    <navPoint id="part81" playOrder="80">
+      <navLabel>
+        <text>CHAPTER 80</text>
+      </navLabel>
+      <content src="part81.xhtml"/>
+    </navPoint>
+    <navPoint id="part82" playOrder="81">
+      <navLabel>
+        <text>CHAPTER 81</text>
+      </navLabel>
+      <content src="part82.xhtml"/>
+    </navPoint>
+    <navPoint id="part83" playOrder="82">
+      <navLabel>
+        <text>CHAPTER 82</text>
+      </navLabel>
+      <content src="part83.xhtml"/>
+    </navPoint>
+    <navPoint id="part84" playOrder="83">
+      <navLabel>
+        <text>CHAPTER 83</text>
+      </navLabel>
+      <content src="part84.xhtml"/>
+    </navPoint>
+    <navPoint id="part85" playOrder="84">
+      <navLabel>
+        <text>CHAPTER 84</text>
+      </navLabel>
+      <content src="part85.xhtml"/>
+    </navPoint>
+    <navPoint id="part86" playOrder="85">
+      <navLabel>
+        <text>CHAPTER 85</text>
+      </navLabel>
+      <content src="part86.xhtml"/>
+    </navPoint>
+    <navPoint id="part87" playOrder="86">
+      <navLabel>
+        <text>CHAPTER 86</text>
+      </navLabel>
+      <content src="part87.xhtml"/>
+    </navPoint>
+    <navPoint id="part88" playOrder="87">
+      <navLabel>
+        <text>CHAPTER 87</text>
+      </navLabel>
+      <content src="part88.xhtml"/>
+    </navPoint>
+    <navPoint id="part89" playOrder="88">
+      <navLabel>
+        <text>CHAPTER 88</text>
+      </navLabel>
+      <content src="part89.xhtml"/>
+    </navPoint>
+    <navPoint id="part90" playOrder="89">
+      <navLabel>
+        <text>CHAPTER 89</text>
+      </navLabel>
+      <content src="part90.xhtml"/>
+    </navPoint>
+    <navPoint id="part91" playOrder="90">
+      <navLabel>
+        <text>CHAPTER 90</text>
+      </navLabel>
+      <content src="part91.xhtml"/>
+    </navPoint>
+    <navPoint id="part92" playOrder="91">
+      <navLabel>
+        <text>CHAPTER 91</text>
+      </navLabel>
+      <content src="part92.xhtml"/>
+    </navPoint>
+    <navPoint id="part93" playOrder="92">
+      <navLabel>
+        <text>CHAPTER 92</text>
+      </navLabel>
+      <content src="part93.xhtml"/>
+    </navPoint>
+    <navPoint id="part94" playOrder="93">
+      <navLabel>
+        <text>CHAPTER 93</text>
+      </navLabel>
+      <content src="part94.xhtml"/>
+    </navPoint>
+    <navPoint id="part95" playOrder="94">
+      <navLabel>
+        <text>CHAPTER 94</text>
+      </navLabel>
+      <content src="part95.xhtml"/>
+    </navPoint>
+    <navPoint id="part96" playOrder="95">
+      <navLabel>
+        <text>CHAPTER 95</text>
+      </navLabel>
+      <content src="part96.xhtml"/>
+    </navPoint>
+    <navPoint id="part97" playOrder="96">
+      <navLabel>
+        <text>CHAPTER 96</text>
+      </navLabel>
+      <content src="part97.xhtml"/>
+    </navPoint>
+    <navPoint id="part98" playOrder="97">
+      <navLabel>
+        <text>CHAPTER 97</text>
+      </navLabel>
+      <content src="part98.xhtml"/>
+    </navPoint>
+    <navPoint id="part99" playOrder="98">
+      <navLabel>
+        <text>CHAPTER 98</text>
+      </navLabel>
+      <content src="part99.xhtml"/>
+    </navPoint>
+    <navPoint id="part100" playOrder="99">
+      <navLabel>
+        <text>CHAPTER 99</text>
+      </navLabel>
+      <content src="part100.xhtml"/>
+    </navPoint>
+    <navPoint id="part101" playOrder="100">
+      <navLabel>
+        <text>CHAPTER 100</text>
+      </navLabel>
+      <content src="part101.xhtml"/>
+    </navPoint>
+    <navPoint id="part102" playOrder="101">
+      <navLabel>
+        <text>CHAPTER 101</text>
+      </navLabel>
+      <content src="part102.xhtml"/>
+    </navPoint>
+    <navPoint id="part103" playOrder="102">
+      <navLabel>
+        <text>CHAPTER 102</text>
+      </navLabel>
+      <content src="part103.xhtml"/>
+    </navPoint>
+    <navPoint id="part104" playOrder="103">
+      <navLabel>
+        <text>CHAPTER 103</text>
+      </navLabel>
+      <content src="part104.xhtml"/>
+    </navPoint>
+    <navPoint id="part105" playOrder="104">
+      <navLabel>
+        <text>CHAPTER 104</text>
+      </navLabel>
+      <content src="part105.xhtml"/>
+    </navPoint>
+    <navPoint id="part106" playOrder="105">
+      <navLabel>
+        <text>CHAPTER 105</text>
+      </navLabel>
+      <content src="part106.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

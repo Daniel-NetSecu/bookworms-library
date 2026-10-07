@@ -22,8 +22,8 @@ jobs:
       - name: Stage site
         run: |
           mkdir _site
-          cp index.html style.css app.js catalog.json _site/
-          cp -r content _site/
+          cp index.html style.css app.js catalog.json classics.json _site/
+          cp -r content vendor _site/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

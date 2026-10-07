@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Dan Brown</string>
+	<key>book-info</key>
+	<dict>
+		<key>package-file-hash</key>
+		<string>7E549DDAA30970FA707F7E6DD2A1A54C</string>
+		<key>publisher-unique-id</key>
+		<string>urn:uuid:480bd2bc-eebf-4eac-a456-13d9031a55f8</string>
+		<key>unique-id</key>
+		<integer>6159205728446738471</integer>
+	</dict>
+	<key>itemName</key>
+	<string>The Da Vinci Code</string>
+	<key>playlistName</key>
+	<string>The Da Vinci Code</string>
+</dict>
+</plist>
