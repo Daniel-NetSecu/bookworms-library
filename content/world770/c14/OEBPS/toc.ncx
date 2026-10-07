@@ -1,0 +1,1754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="bookid"/>
+      <meta name="dtb:depth" content="0"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>UnKnown</text>
+   </docTitle>
+   <navMap>
+     <navPoint id="id1" playOrder="1">
+       <navLabel>
+         <text>棚车少年·第1辑(中英双语)(套装共8册)</text>
+       </navLabel>
+       <content src="text00001.html#a002"/>
+     <navPoint id="id2" playOrder="2">
+       <navLabel>
+         <text>棚车少年1·棚车少年</text>
+       </navLabel>
+       <content src="text00003.html#a002"/>
+     </navPoint>
+     <navPoint id="id3" playOrder="3">
+       <navLabel>
+         <text>棚车少年2·奇异岛</text>
+       </navLabel>
+       <content src="text00031.html#a002"/>
+     </navPoint>
+     <navPoint id="id4" playOrder="4">
+       <navLabel>
+         <text>棚车少年3·黄色小屋的秘密</text>
+       </navLabel>
+       <content src="text00063.html#a002"/>
+     </navPoint>
+     <navPoint id="id5" playOrder="5">
+       <navLabel>
+         <text>棚车少年4·神秘农场</text>
+       </navLabel>
+       <content src="text00097.html#a002"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id6" playOrder="6">
+       <navLabel>
+         <text>棚车少年·第2辑(中英双语)(套装共8册)</text>
+       </navLabel>
+       <content src="text00129.html#a002"/>
+     <navPoint id="id7" playOrder="7">
+       <navLabel>
+         <text>棚车少年5·迈克的迷案</text>
+       </navLabel>
+       <content src="text00131.html#a004"/>
+     </navPoint>
+     <navPoint id="id8" playOrder="8">
+       <navLabel>
+         <text>棚车少年6·蓝色海湾之谜</text>
+       </navLabel>
+       <content src="text00161.html#a004"/>
+     </navPoint>
+     <navPoint id="id9" playOrder="9">
+       <navLabel>
+         <text>棚车少年7·小木屋之谜</text>
+       </navLabel>
+       <content src="text00191.html#a004"/>
+     </navPoint>
+     <navPoint id="id10" playOrder="10">
+       <navLabel>
+         <text>棚车少年8·灯塔之谜</text>
+       </navLabel>
+       <content src="text00225.html#a004"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id11" playOrder="11">
+       <navLabel>
+         <text>棚车少年·第3辑(中英双语)(套装共8册)</text>
+       </navLabel>
+       <content src="text00253.html#a002"/>
+     <navPoint id="id12" playOrder="12">
+       <navLabel>
+         <text>棚车少年9·平古峰寻宝</text>
+       </navLabel>
+       <content src="text00255.html#a003"/>
+     </navPoint>
+     <navPoint id="id13" playOrder="13">
+       <navLabel>
+         <text>棚车少年10·校舍的秘密</text>
+       </navLabel>
+       <content src="text00285.html#a003"/>
+     </navPoint>
+     <navPoint id="id14" playOrder="14">
+       <navLabel>
+         <text>棚车少年11·尾车谜案</text>
+       </navLabel>
+       <content src="text00317.html#a003"/>
+     </navPoint>
+     <navPoint id="id15" playOrder="15">
+       <navLabel>
+         <text>棚车少年12·船屋之谜</text>
+       </navLabel>
+       <content src="text00347.html#a003"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id16" playOrder="16">
+       <navLabel>
+         <text>棚车少年·第4辑(中英双语)(套装共8册)</text>
+       </navLabel>
+       <content src="text00369.html#a002"/>
+     <navPoint id="id17" playOrder="17">
+       <navLabel>
+         <text>棚车少年·暴雪中的秘密</text>
+       </navLabel>
+       <content src="text00372.html"/>
+     <navPoint id="id18" playOrder="18">
+       <navLabel>
+         <text>第一章 旅行还是冒险？</text>
+       </navLabel>
+       <content src="text00373.html#a004"/>
+     </navPoint>
+     <navPoint id="id19" playOrder="19">
+       <navLabel>
+         <text>第二章 林中小屋</text>
+       </navLabel>
+       <content src="text00374.html#a006"/>
+     </navPoint>
+     <navPoint id="id20" playOrder="20">
+       <navLabel>
+         <text>第三章 黑夜里的响动</text>
+       </navLabel>
+       <content src="text00375.html#a007"/>
+     </navPoint>
+     <navPoint id="id21" playOrder="21">
+       <navLabel>
+         <text>第四章 阁楼来客</text>
+       </navLabel>
+       <content src="text00376.html#a008"/>
+     </navPoint>
+     <navPoint id="id22" playOrder="22">
+       <navLabel>
+         <text>第五章 班尼的谜题</text>
+       </navLabel>
+       <content src="text00377.html#a009"/>
+     </navPoint>
+     <navPoint id="id23" playOrder="23">
+       <navLabel>
+         <text>第六章 暴 雪</text>
+       </navLabel>
+       <content src="text00378.html#a010"/>
+     </navPoint>
+     <navPoint id="id24" playOrder="24">
+       <navLabel>
+         <text>第七章 简易的雪地靴</text>
+       </navLabel>
+       <content src="text00379.html#a011"/>
+     </navPoint>
+     <navPoint id="id25" playOrder="25">
+       <navLabel>
+         <text>第八章 救 援</text>
+       </navLabel>
+       <content src="text00380.html#a012"/>
+     </navPoint>
+     <navPoint id="id26" playOrder="26">
+       <navLabel>
+         <text>第九章 失踪的部分</text>
+       </navLabel>
+       <content src="text00381.html#a013"/>
+     </navPoint>
+     <navPoint id="id27" playOrder="27">
+       <navLabel>
+         <text>第十章 商店里的惊喜</text>
+       </navLabel>
+       <content src="text00382.html#a014"/>
+     </navPoint>
+     <navPoint id="id28" playOrder="28">
+       <navLabel>
+         <text>第十一章 最后的疑问</text>
+       </navLabel>
+       <content src="text00383.html#a015"/>
+     </navPoint>
+     <navPoint id="id29" playOrder="29">
+       <navLabel>
+         <text>Chapter 1 Trip—or Adventure？</text>
+       </navLabel>
+       <content src="text00384.html#a016"/>
+     </navPoint>
+     <navPoint id="id30" playOrder="30">
+       <navLabel>
+         <text>Chapter 2 Cabin in the Woods</text>
+       </navLabel>
+       <content src="text00385.html#a018"/>
+     </navPoint>
+     <navPoint id="id31" playOrder="31">
+       <navLabel>
+         <text>Chapter 3 Noises in the Night</text>
+       </navLabel>
+       <content src="text00386.html#a019"/>
+     </navPoint>
+     <navPoint id="id32" playOrder="32">
+       <navLabel>
+         <text>Chapter 4 Attic Guests</text>
+       </navLabel>
+       <content src="text00387.html#a020"/>
+     </navPoint>
+     <navPoint id="id33" playOrder="33">
+       <navLabel>
+         <text>Chapter 5 Benny’s Puzzle</text>
+       </navLabel>
+       <content src="text00388.html#a021"/>
+     </navPoint>
+     <navPoint id="id34" playOrder="34">
+       <navLabel>
+         <text>Chapter 6 Snow！</text>
+       </navLabel>
+       <content src="text00389.html#a022"/>
+     </navPoint>
+     <navPoint id="id35" playOrder="35">
+       <navLabel>
+         <text>Chapter 7 Making Do</text>
+       </navLabel>
+       <content src="text00390.html#a023"/>
+     </navPoint>
+     <navPoint id="id36" playOrder="36">
+       <navLabel>
+         <text>Chapter 8 To the Rescue</text>
+       </navLabel>
+       <content src="text00391.html#a024"/>
+     </navPoint>
+     <navPoint id="id37" playOrder="37">
+       <navLabel>
+         <text>Chapter 9 Missing Piece</text>
+       </navLabel>
+       <content src="text00392.html#a025"/>
+     </navPoint>
+     <navPoint id="id38" playOrder="38">
+       <navLabel>
+         <text>Chapter 10 A Surprise in Store</text>
+       </navLabel>
+       <content src="text00393.html#a026"/>
+     </navPoint>
+     <navPoint id="id39" playOrder="39">
+       <navLabel>
+         <text>Chapter 11 One More Question</text>
+       </navLabel>
+       <content src="text00394.html#a027"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id40" playOrder="40">
+       <navLabel>
+         <text>棚车少年·树屋之谜</text>
+       </navLabel>
+       <content src="text00395.html#a004"/>
+     <navPoint id="id41" playOrder="41">
+       <navLabel>
+         <text>第一章 隔壁住进新邻居</text>
+       </navLabel>
+       <content src="text00397.html#a004"/>
+     </navPoint>
+     <navPoint id="id42" playOrder="42">
+       <navLabel>
+         <text>第二章 班尼想出新点子</text>
+       </navLabel>
+       <content src="text00398.html#a006"/>
+     </navPoint>
+     <navPoint id="id43" playOrder="43">
+       <navLabel>
+         <text>第三章 锤儿钉儿响叮当</text>
+       </navLabel>
+       <content src="text00399.html#a007"/>
+     </navPoint>
+     <navPoint id="id44" playOrder="44">
+       <navLabel>
+         <text>第四章 寻找马克斯叔叔</text>
+       </navLabel>
+       <content src="text00400.html#a008"/>
+     </navPoint>
+     <navPoint id="id45" playOrder="45">
+       <navLabel>
+         <text>第五章 树上风景</text>
+       </navLabel>
+       <content src="text00401.html#a009"/>
+     </navPoint>
+     <navPoint id="id46" playOrder="46">
+       <navLabel>
+         <text>第六章 圆窗后面的秘密</text>
+       </navLabel>
+       <content src="text00402.html#a010"/>
+     </navPoint>
+     <navPoint id="id47" playOrder="47">
+       <navLabel>
+         <text>第七章 谜团重重</text>
+       </navLabel>
+       <content src="text00403.html#a011"/>
+     </navPoint>
+     <navPoint id="id48" playOrder="48">
+       <navLabel>
+         <text>第八章 麦格雷戈太太的线索</text>
+       </navLabel>
+       <content src="text00404.html#a012"/>
+     </navPoint>
+     <navPoint id="id49" playOrder="49">
+       <navLabel>
+         <text>第九章 有价值的线索</text>
+       </navLabel>
+       <content src="text00405.html#a013"/>
+     </navPoint>
+     <navPoint id="id50" playOrder="50">
+       <navLabel>
+         <text>第十章 古老的秘密</text>
+       </navLabel>
+       <content src="text00406.html#a014"/>
+     </navPoint>
+     <navPoint id="id51" playOrder="51">
+       <navLabel>
+         <text>第十一章 失而复得</text>
+       </navLabel>
+       <content src="text00407.html#a015"/>
+     </navPoint>
+     <navPoint id="id52" playOrder="52">
+       <navLabel>
+         <text>Chapter 1 New Next Door</text>
+       </navLabel>
+       <content src="text00408.html#a016"/>
+     </navPoint>
+     <navPoint id="id53" playOrder="53">
+       <navLabel>
+         <text>Chapter 2 Benny’s Plot</text>
+       </navLabel>
+       <content src="text00409.html#a018"/>
+     </navPoint>
+     <navPoint id="id54" playOrder="54">
+       <navLabel>
+         <text>Chapter 3 With Hammer and Nails</text>
+       </navLabel>
+       <content src="text00410.html#a019"/>
+     </navPoint>
+     <navPoint id="id55" playOrder="55">
+       <navLabel>
+         <text>Chapter 4 Finding Uncle Max</text>
+       </navLabel>
+       <content src="text00411.html#a020"/>
+     </navPoint>
+     <navPoint id="id56" playOrder="56">
+       <navLabel>
+         <text>Chapter 5 Up a Tree</text>
+       </navLabel>
+       <content src="text00412.html#a021"/>
+     </navPoint>
+     <navPoint id="id57" playOrder="57">
+       <navLabel>
+         <text>Chapter 6 Behind the Round Window</text>
+       </navLabel>
+       <content src="text00413.html#a022"/>
+     </navPoint>
+     <navPoint id="id58" playOrder="58">
+       <navLabel>
+         <text>Chapter 7 More Questions</text>
+       </navLabel>
+       <content src="text00414.html#a023"/>
+     </navPoint>
+     <navPoint id="id59" playOrder="59">
+       <navLabel>
+         <text>Chapter 8 Mrs. McGregor’s Clue</text>
+       </navLabel>
+       <content src="text00415.html#a024"/>
+     </navPoint>
+     <navPoint id="id60" playOrder="60">
+       <navLabel>
+         <text>Chapter 9 Good News</text>
+       </navLabel>
+       <content src="text00416.html#a025"/>
+     </navPoint>
+     <navPoint id="id61" playOrder="61">
+       <navLabel>
+         <text>Chapter 10 An Old Secret</text>
+       </navLabel>
+       <content src="text00417.html#a026"/>
+     </navPoint>
+     <navPoint id="id62" playOrder="62">
+       <navLabel>
+         <text>Chapter 11 Lost and Found</text>
+       </navLabel>
+       <content src="text00418.html#a027"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id63" playOrder="63">
+       <navLabel>
+         <text>棚车少年·骑行之谜</text>
+       </navLabel>
+       <content src="text00419.html#a004"/>
+     <navPoint id="id64" playOrder="64">
+       <navLabel>
+         <text>第一章 班尼的绝妙猜想</text>
+       </navLabel>
+       <content src="text00421.html#a004"/>
+     </navPoint>
+     <navPoint id="id65" playOrder="65">
+       <navLabel>
+         <text>第二章 救急</text>
+       </navLabel>
+       <content src="text00422.html#a006"/>
+     </navPoint>
+     <navPoint id="id66" playOrder="66">
+       <navLabel>
+         <text>第三章 大雨</text>
+       </navLabel>
+       <content src="text00423.html#a007"/>
+     </navPoint>
+     <navPoint id="id67" playOrder="67">
+       <navLabel>
+         <text>第四章 阳光与小影儿</text>
+       </navLabel>
+       <content src="text00424.html#a008"/>
+     </navPoint>
+     <navPoint id="id68" playOrder="68">
+       <navLabel>
+         <text>第五章 “八只”帮手</text>
+       </navLabel>
+       <content src="text00425.html#a009"/>
+     </navPoint>
+     <navPoint id="id69" playOrder="69">
+       <navLabel>
+         <text>第六章 路上的麻烦</text>
+       </navLabel>
+       <content src="text00426.html#a010"/>
+     </navPoint>
+     <navPoint id="id70" playOrder="70">
+       <navLabel>
+         <text>第七章 夜间遇险</text>
+       </navLabel>
+       <content src="text00427.html#a011"/>
+     </navPoint>
+     <navPoint id="id71" playOrder="71">
+       <navLabel>
+         <text>第八章 诱捕</text>
+       </navLabel>
+       <content src="text00428.html#a012"/>
+     </navPoint>
+     <navPoint id="id72" playOrder="72">
+       <navLabel>
+         <text>第九章 幸运日</text>
+       </navLabel>
+       <content src="text00429.html#a013"/>
+     </navPoint>
+     <navPoint id="id73" playOrder="73">
+       <navLabel>
+         <text>第十章 最后一个谜题</text>
+       </navLabel>
+       <content src="text00430.html#a014"/>
+     </navPoint>
+     <navPoint id="id74" playOrder="74">
+       <navLabel>
+         <text>第十一章 表演的狗狗</text>
+       </navLabel>
+       <content src="text00431.html#a015"/>
+     </navPoint>
+     <navPoint id="id75" playOrder="75">
+       <navLabel>
+         <text>Chapter 1 Good Guess by Benny</text>
+       </navLabel>
+       <content src="text00432.html#a016"/>
+     </navPoint>
+     <navPoint id="id76" playOrder="76">
+       <navLabel>
+         <text>Chapter 2 First Aid</text>
+       </navLabel>
+       <content src="text00433.html#a018"/>
+     </navPoint>
+     <navPoint id="id77" playOrder="77">
+       <navLabel>
+         <text>Chapter 3 Out of the Rain</text>
+       </navLabel>
+       <content src="text00434.html#a019"/>
+     </navPoint>
+     <navPoint id="id78" playOrder="78">
+       <navLabel>
+         <text>Chapter 4 Sunshine and Shadow</text>
+       </navLabel>
+       <content src="text00435.html#a020"/>
+     </navPoint>
+     <navPoint id="id79" playOrder="79">
+       <navLabel>
+         <text>Chapter 5 Eight Helping Hands</text>
+       </navLabel>
+       <content src="text00436.html#a021"/>
+     </navPoint>
+     <navPoint id="id80" playOrder="80">
+       <navLabel>
+         <text>Chapter 6 Trouble on the Road</text>
+       </navLabel>
+       <content src="text00437.html#a022"/>
+     </navPoint>
+     <navPoint id="id81" playOrder="81">
+       <navLabel>
+         <text>Chapter 7 Danger in the Night</text>
+       </navLabel>
+       <content src="text00438.html#a023"/>
+     </navPoint>
+     <navPoint id="id82" playOrder="82">
+       <navLabel>
+         <text>Chapter 8 Catch as Catch Can</text>
+       </navLabel>
+       <content src="text00439.html#a024"/>
+     </navPoint>
+     <navPoint id="id83" playOrder="83">
+       <navLabel>
+         <text>Chapter 9 Lucky Day</text>
+       </navLabel>
+       <content src="text00440.html#a025"/>
+     </navPoint>
+     <navPoint id="id84" playOrder="84">
+       <navLabel>
+         <text>Chapter 10 One Puzzle Left</text>
+       </navLabel>
+       <content src="text00441.html#a026"/>
+     </navPoint>
+     <navPoint id="id85" playOrder="85">
+       <navLabel>
+         <text>Chapter 11 Show Dog</text>
+       </navLabel>
+       <content src="text00442.html#a027"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id86" playOrder="86">
+       <navLabel>
+         <text>棚车少年·海滩奇遇</text>
+       </navLabel>
+       <content src="text00443.html#a004"/>
+     <navPoint id="id87" playOrder="87">
+       <navLabel>
+         <text>第一章 大海和沙滩</text>
+       </navLabel>
+       <content src="text00445.html#a004"/>
+     </navPoint>
+     <navPoint id="id88" playOrder="88">
+       <navLabel>
+         <text>第二章 班尼寻找宝藏</text>
+       </navLabel>
+       <content src="text00446.html#a006"/>
+     </navPoint>
+     <navPoint id="id89" playOrder="89">
+       <navLabel>
+         <text>第三章 午夜奥秘</text>
+       </navLabel>
+       <content src="text00447.html#a007"/>
+     </navPoint>
+     <navPoint id="id90" playOrder="90">
+       <navLabel>
+         <text>第四章 发现者们会是守护者吗？</text>
+       </navLabel>
+       <content src="text00448.html#a008"/>
+     </navPoint>
+     <navPoint id="id91" playOrder="91">
+       <navLabel>
+         <text>第五章 100只猫！</text>
+       </navLabel>
+       <content src="text00449.html#a009"/>
+     </navPoint>
+     <navPoint id="id92" playOrder="92">
+       <navLabel>
+         <text>第六章 班尼的救援行动</text>
+       </navLabel>
+       <content src="text00450.html#a010"/>
+     </navPoint>
+     <navPoint id="id93" playOrder="93">
+       <navLabel>
+         <text>第七章 维莉的冒险经历</text>
+       </navLabel>
+       <content src="text00451.html#a011"/>
+     </navPoint>
+     <navPoint id="id94" playOrder="94">
+       <navLabel>
+         <text>第八章 邀请</text>
+       </navLabel>
+       <content src="text00452.html#a012"/>
+     </navPoint>
+     <navPoint id="id95" playOrder="95">
+       <navLabel>
+         <text>第九章 最终答案</text>
+       </navLabel>
+       <content src="text00453.html#a013"/>
+     </navPoint>
+     <navPoint id="id96" playOrder="96">
+       <navLabel>
+         <text>第十章 老狗狗和小把戏</text>
+       </navLabel>
+       <content src="text00454.html#a014"/>
+     </navPoint>
+     <navPoint id="id97" playOrder="97">
+       <navLabel>
+         <text>Chapter 1 Sea and Sand</text>
+       </navLabel>
+       <content src="text00455.html#a015"/>
+     </navPoint>
+     <navPoint id="id98" playOrder="98">
+       <navLabel>
+         <text>Chapter 2 Benny Hunts for Treasure</text>
+       </navLabel>
+       <content src="text00456.html#a017"/>
+     </navPoint>
+     <navPoint id="id99" playOrder="99">
+       <navLabel>
+         <text>Chapter 3 Midnight Mystery</text>
+       </navLabel>
+       <content src="text00457.html#a018"/>
+     </navPoint>
+     <navPoint id="id100" playOrder="100">
+       <navLabel>
+         <text>Chapter 4 Are Finders Keepers?</text>
+       </navLabel>
+       <content src="text00458.html#a019"/>
+     </navPoint>
+     <navPoint id="id101" playOrder="101">
+       <navLabel>
+         <text>Chapter 5 A Hundred Cats!</text>
+       </navLabel>
+       <content src="text00459.html#a020"/>
+     </navPoint>
+     <navPoint id="id102" playOrder="102">
+       <navLabel>
+         <text>Chapter 6 Benny to the Rescue</text>
+       </navLabel>
+       <content src="text00460.html#a021"/>
+     </navPoint>
+     <navPoint id="id103" playOrder="103">
+       <navLabel>
+         <text>Chapter 7 Violet’s Adventure</text>
+       </navLabel>
+       <content src="text00461.html#a022"/>
+     </navPoint>
+     <navPoint id="id104" playOrder="104">
+       <navLabel>
+         <text>Chapter 8 An Invitation</text>
+       </navLabel>
+       <content src="text00462.html#a023"/>
+     </navPoint>
+     <navPoint id="id105" playOrder="105">
+       <navLabel>
+         <text>Chapter 9 Answers at Last</text>
+       </navLabel>
+       <content src="text00463.html#a024"/>
+     </navPoint>
+     <navPoint id="id106" playOrder="106">
+       <navLabel>
+         <text>Chapter 10 New Trick for an Old Dog</text>
+       </navLabel>
+       <content src="text00464.html#a025"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id107" playOrder="107">
+       <navLabel>
+         <text>棚车少年·第5辑(中英双语)(套装共8册)</text>
+       </navLabel>
+       <content src="text00465.html"/>
+     <navPoint id="id108" playOrder="108">
+       <navLabel>
+         <text>棚车少年·17墙后谜团</text>
+       </navLabel>
+       <content src="text00467.html"/>
+     <navPoint id="id109" playOrder="109">
+       <navLabel>
+         <text>第一章 班尼的烦恼</text>
+       </navLabel>
+       <content src="text00468.html"/>
+     </navPoint>
+     <navPoint id="id110" playOrder="110">
+       <navLabel>
+         <text>第二章 墙上的洞</text>
+       </navLabel>
+       <content src="text00469.html#sigil_toc_id_1"/>
+     </navPoint>
+     <navPoint id="id111" playOrder="111">
+       <navLabel>
+         <text>第三章 来自过去的惊喜</text>
+       </navLabel>
+       <content src="text00470.html#sigil_toc_id_2"/>
+     </navPoint>
+     <navPoint id="id112" playOrder="112">
+       <navLabel>
+         <text>第四章 只有这些吗？</text>
+       </navLabel>
+       <content src="text00471.html#sigil_toc_id_3"/>
+     </navPoint>
+     <navPoint id="id113" playOrder="113">
+       <navLabel>
+         <text>第五章 新线索</text>
+       </navLabel>
+       <content src="text00472.html#sigil_toc_id_4"/>
+     </navPoint>
+     <navPoint id="id114" playOrder="114">
+       <navLabel>
+         <text>第六章 珍妮·雷恩</text>
+       </navLabel>
+       <content src="text00473.html#sigil_toc_id_5"/>
+     </navPoint>
+     <navPoint id="id115" playOrder="115">
+       <navLabel>
+         <text>第七章 一个真正的谜语</text>
+       </navLabel>
+       <content src="text00474.html#sigil_toc_id_6"/>
+     </navPoint>
+     <navPoint id="id116" playOrder="116">
+       <navLabel>
+         <text>第八章 远在天边，近在眼前</text>
+       </navLabel>
+       <content src="text00475.html#sigil_toc_id_7"/>
+     </navPoint>
+     <navPoint id="id117" playOrder="117">
+       <navLabel>
+         <text>第九章 别打碎玻璃！</text>
+       </navLabel>
+       <content src="text00476.html#sigil_toc_id_8"/>
+     </navPoint>
+     <navPoint id="id118" playOrder="118">
+       <navLabel>
+         <text>第十章 大揭秘</text>
+       </navLabel>
+       <content src="text00477.html#sigil_toc_id_9"/>
+     </navPoint>
+     <navPoint id="id119" playOrder="119">
+       <navLabel>
+         <text>Chapter 1 Benny’s Problem</text>
+       </navLabel>
+       <content src="text00478.html#sigil_toc_id_10"/>
+     </navPoint>
+     <navPoint id="id120" playOrder="120">
+       <navLabel>
+         <text>Chapter 2 A Hole in the Wall</text>
+       </navLabel>
+       <content src="text00479.html#sigil_toc_id_11"/>
+     </navPoint>
+     <navPoint id="id121" playOrder="121">
+       <navLabel>
+         <text>Chapter 3 Surprise from the Past</text>
+       </navLabel>
+       <content src="text00480.html#sigil_toc_id_12"/>
+     </navPoint>
+     <navPoint id="id122" playOrder="122">
+       <navLabel>
+         <text>Chapter 4 Is That All？</text>
+       </navLabel>
+       <content src="text00481.html#sigil_toc_id_13"/>
+     </navPoint>
+     <navPoint id="id123" playOrder="123">
+       <navLabel>
+         <text>Chapter 5 A New Clue</text>
+       </navLabel>
+       <content src="text00482.html#sigil_toc_id_14"/>
+     </navPoint>
+     <navPoint id="id124" playOrder="124">
+       <navLabel>
+         <text>Chapter 6 Jenny Wren</text>
+       </navLabel>
+       <content src="text00483.html#sigil_toc_id_15"/>
+     </navPoint>
+     <navPoint id="id125" playOrder="125">
+       <navLabel>
+         <text>Chapter 7 A Real Puzzle</text>
+       </navLabel>
+       <content src="text00484.html#sigil_toc_id_16"/>
+     </navPoint>
+     <navPoint id="id126" playOrder="126">
+       <navLabel>
+         <text>Chapter 8 So Near， So Far</text>
+       </navLabel>
+       <content src="text00485.html#sigil_toc_id_17"/>
+     </navPoint>
+     <navPoint id="id127" playOrder="127">
+       <navLabel>
+         <text>Chapter 9 Don’t Break the Glass！</text>
+       </navLabel>
+       <content src="text00486.html#sigil_toc_id_18"/>
+     </navPoint>
+     <navPoint id="id128" playOrder="128">
+       <navLabel>
+         <text>Chapter 10 What It All Meant</text>
+       </navLabel>
+       <content src="text00487.html#sigil_toc_id_19"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id129" playOrder="129">
+       <navLabel>
+         <text>棚车少年·18车站之谜</text>
+       </navLabel>
+       <content src="text00489.html"/>
+     <navPoint id="id130" playOrder="130">
+       <navLabel>
+         <text>第一章 “在外面等着！”</text>
+       </navLabel>
+       <content src="text00490.html"/>
+     </navPoint>
+     <navPoint id="id131" playOrder="131">
+       <navLabel>
+         <text>第二章 屋里的麻烦</text>
+       </navLabel>
+       <content src="text00491.html#sigil_toc_id_1"/>
+     </navPoint>
+     <navPoint id="id132" playOrder="132">
+       <navLabel>
+         <text>第三章 巴士不见踪影</text>
+       </navLabel>
+       <content src="text00492.html#sigil_toc_id_2"/>
+     </navPoint>
+     <navPoint id="id133" playOrder="133">
+       <navLabel>
+         <text>第四章 发现</text>
+       </navLabel>
+       <content src="text00493.html#sigil_toc_id_3"/>
+     </navPoint>
+     <navPoint id="id134" playOrder="134">
+       <navLabel>
+         <text>第五章 反了！</text>
+       </navLabel>
+       <content src="text00494.html#sigil_toc_id_4"/>
+     </navPoint>
+     <navPoint id="id135" playOrder="135">
+       <navLabel>
+         <text>第六章 出什么事了？</text>
+       </navLabel>
+       <content src="text00495.html#sigil_toc_id_5"/>
+     </navPoint>
+     <navPoint id="id136" playOrder="136">
+       <navLabel>
+         <text>第七章 偷窥者</text>
+       </navLabel>
+       <content src="text00496.html#sigil_toc_id_6"/>
+     </navPoint>
+     <navPoint id="id137" playOrder="137">
+       <navLabel>
+         <text>第八章 两次上当</text>
+       </navLabel>
+       <content src="text00497.html#sigil_toc_id_7"/>
+     </navPoint>
+     <navPoint id="id138" playOrder="138">
+       <navLabel>
+         <text>第九章 弗兰克的烦恼</text>
+       </navLabel>
+       <content src="text00498.html#sigil_toc_id_8"/>
+     </navPoint>
+     <navPoint id="id139" playOrder="139">
+       <navLabel>
+         <text>第十章 班尼的猜想</text>
+       </navLabel>
+       <content src="text00499.html#sigil_toc_id_9"/>
+     </navPoint>
+     <navPoint id="id140" playOrder="140">
+       <navLabel>
+         <text>第十一章 故地重游</text>
+       </navLabel>
+       <content src="text00500.html#sigil_toc_id_10"/>
+     </navPoint>
+     <navPoint id="id141" playOrder="141">
+       <navLabel>
+         <text>Chapter 1 “Wait Outside！”</text>
+       </navLabel>
+       <content src="text00501.html#sigil_toc_id_11"/>
+     </navPoint>
+     <navPoint id="id142" playOrder="142">
+       <navLabel>
+         <text>Chapter 2 Trouble Inside</text>
+       </navLabel>
+       <content src="text00502.html#sigil_toc_id_12"/>
+     </navPoint>
+     <navPoint id="id143" playOrder="143">
+       <navLabel>
+         <text>Chapter 3 No Bus in Sight</text>
+       </navLabel>
+       <content src="text00503.html#sigil_toc_id_13"/>
+     </navPoint>
+     <navPoint id="id144" playOrder="144">
+       <navLabel>
+         <text>Chapter 4 A Discovery</text>
+       </navLabel>
+       <content src="text00504.html#sigil_toc_id_14"/>
+     </navPoint>
+     <navPoint id="id145" playOrder="145">
+       <navLabel>
+         <text>Chapter 5 Not Fair！</text>
+       </navLabel>
+       <content src="text00505.html#sigil_toc_id_15"/>
+     </navPoint>
+     <navPoint id="id146" playOrder="146">
+       <navLabel>
+         <text>Chapter 6 What Did Happen？</text>
+       </navLabel>
+       <content src="text00506.html#sigil_toc_id_16"/>
+     </navPoint>
+     <navPoint id="id147" playOrder="147">
+       <navLabel>
+         <text>Chapter 7 The Snooper</text>
+       </navLabel>
+       <content src="text00507.html#sigil_toc_id_17"/>
+     </navPoint>
+     <navPoint id="id148" playOrder="148">
+       <navLabel>
+         <text>Chapter 8 Tricked Twice</text>
+       </navLabel>
+       <content src="text00508.html#sigil_toc_id_18"/>
+     </navPoint>
+     <navPoint id="id149" playOrder="149">
+       <navLabel>
+         <text>Chapter 9 Frank’s Problem</text>
+       </navLabel>
+       <content src="text00509.html#sigil_toc_id_19"/>
+     </navPoint>
+     <navPoint id="id150" playOrder="150">
+       <navLabel>
+         <text>Chapter 10 Benny Guesses</text>
+       </navLabel>
+       <content src="text00510.html#sigil_toc_id_20"/>
+     </navPoint>
+     <navPoint id="id151" playOrder="151">
+       <navLabel>
+         <text>Chapter 11 Back to the Station</text>
+       </navLabel>
+       <content src="text00511.html#sigil_toc_id_21"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id152" playOrder="152">
+       <navLabel>
+         <text>棚车少年·19班尼破解谜案</text>
+       </navLabel>
+       <content src="text00513.html"/>
+     <navPoint id="id153" playOrder="153">
+       <navLabel>
+         <text>第一章 闲不住的班尼</text>
+       </navLabel>
+       <content src="text00514.html"/>
+     </navPoint>
+     <navPoint id="id154" playOrder="154">
+       <navLabel>
+         <text>第二章 求招暑期工</text>
+       </navLabel>
+       <content src="text00515.html#sigil_toc_id_1"/>
+     </navPoint>
+     <navPoint id="id155" playOrder="155">
+       <navLabel>
+         <text>第三章 奥登家的死对头</text>
+       </navLabel>
+       <content src="text00516.html#sigil_toc_id_2"/>
+     </navPoint>
+     <navPoint id="id156" playOrder="156">
+       <navLabel>
+         <text>第四章 神秘的顾客</text>
+       </navLabel>
+       <content src="text00517.html#sigil_toc_id_3"/>
+     </navPoint>
+     <navPoint id="id157" playOrder="157">
+       <navLabel>
+         <text>第五章 隐蔽的房子</text>
+       </navLabel>
+       <content src="text00518.html#sigil_toc_id_4"/>
+     </navPoint>
+     <navPoint id="id158" playOrder="158">
+       <navLabel>
+         <text>第六章 是谁写的信？</text>
+       </navLabel>
+       <content src="text00519.html#sigil_toc_id_5"/>
+     </navPoint>
+     <navPoint id="id159" playOrder="159">
+       <navLabel>
+         <text>第七章 一个新谜团</text>
+       </navLabel>
+       <content src="text00520.html#sigil_toc_id_6"/>
+     </navPoint>
+     <navPoint id="id160" playOrder="160">
+       <navLabel>
+         <text>第八章 亨利的历险</text>
+       </navLabel>
+       <content src="text00521.html#sigil_toc_id_7"/>
+     </navPoint>
+     <navPoint id="id161" playOrder="161">
+       <navLabel>
+         <text>第九章 班尼有了主意</text>
+       </navLabel>
+       <content src="text00522.html#sigil_toc_id_8"/>
+     </navPoint>
+     <navPoint id="id162" playOrder="162">
+       <navLabel>
+         <text>第十章 最终的答案</text>
+       </navLabel>
+       <content src="text00523.html#sigil_toc_id_9"/>
+     </navPoint>
+     <navPoint id="id163" playOrder="163">
+       <navLabel>
+         <text>Chapter 1 No Lazy Days for Benny</text>
+       </navLabel>
+       <content src="text00524.html#sigil_toc_id_10"/>
+     </navPoint>
+     <navPoint id="id164" playOrder="164">
+       <navLabel>
+         <text>Chapter 2 Wanted： A Summer Job</text>
+       </navLabel>
+       <content src="text00525.html#sigil_toc_id_11"/>
+     </navPoint>
+     <navPoint id="id165" playOrder="165">
+       <navLabel>
+         <text>Chapter 3 The Aldens Make An Enemy</text>
+       </navLabel>
+       <content src="text00526.html#sigil_toc_id_12"/>
+     </navPoint>
+     <navPoint id="id166" playOrder="166">
+       <navLabel>
+         <text>Chapter 4 A Mysterious Shopper</text>
+       </navLabel>
+       <content src="text00527.html#sigil_toc_id_13"/>
+     </navPoint>
+     <navPoint id="id167" playOrder="167">
+       <navLabel>
+         <text>Chapter 5 The Hidden House</text>
+       </navLabel>
+       <content src="text00528.html#sigil_toc_id_14"/>
+     </navPoint>
+     <navPoint id="id168" playOrder="168">
+       <navLabel>
+         <text>Chapter 6 Who Wrote the Letters？</text>
+       </navLabel>
+       <content src="text00529.html#sigil_toc_id_15"/>
+     </navPoint>
+     <navPoint id="id169" playOrder="169">
+       <navLabel>
+         <text>Chapter 7 A New Puzzle</text>
+       </navLabel>
+       <content src="text00530.html#sigil_toc_id_16"/>
+     </navPoint>
+     <navPoint id="id170" playOrder="170">
+       <navLabel>
+         <text>Chapter 8 Henry’s Adventure</text>
+       </navLabel>
+       <content src="text00531.html#sigil_toc_id_17"/>
+     </navPoint>
+     <navPoint id="id171" playOrder="171">
+       <navLabel>
+         <text>Chapter 9 Benny Has Ideas</text>
+       </navLabel>
+       <content src="text00532.html#sigil_toc_id_18"/>
+     </navPoint>
+     <navPoint id="id172" playOrder="172">
+       <navLabel>
+         <text>Chapter 10 Answers at Last</text>
+       </navLabel>
+       <content src="text00533.html#sigil_toc_id_19"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id173" playOrder="173">
+       <navLabel>
+         <text>棚车少年·20闹鬼小屋之谜</text>
+       </navLabel>
+       <content src="text00535.html"/>
+     <navPoint id="id174" playOrder="174">
+       <navLabel>
+         <text>第一章 一封电报</text>
+       </navLabel>
+       <content src="text00536.html"/>
+     </navPoint>
+     <navPoint id="id175" playOrder="175">
+       <navLabel>
+         <text>第二章 双重庆祝</text>
+       </navLabel>
+       <content src="text00537.html#sigil_toc_id_1"/>
+     </navPoint>
+     <navPoint id="id176" playOrder="176">
+       <navLabel>
+         <text>第三章 凯普与多多</text>
+       </navLabel>
+       <content src="text00538.html#sigil_toc_id_2"/>
+     </navPoint>
+     <navPoint id="id177" playOrder="177">
+       <navLabel>
+         <text>第四章 奇怪的声响，神秘的光亮</text>
+       </navLabel>
+       <content src="text00539.html#sigil_toc_id_3"/>
+     </navPoint>
+     <navPoint id="id178" playOrder="178">
+       <navLabel>
+         <text>第五章 鬼火</text>
+       </navLabel>
+       <content src="text00540.html#sigil_toc_id_4"/>
+     </navPoint>
+     <navPoint id="id179" playOrder="179">
+       <navLabel>
+         <text>第六章 打碎的鸡蛋</text>
+       </navLabel>
+       <content src="text00541.html#sigil_toc_id_5"/>
+     </navPoint>
+     <navPoint id="id180" playOrder="180">
+       <navLabel>
+         <text>第七章 猫鸟</text>
+       </navLabel>
+       <content src="text00542.html#sigil_toc_id_6"/>
+     </navPoint>
+     <navPoint id="id181" playOrder="181">
+       <navLabel>
+         <text>第八章 木匠</text>
+       </navLabel>
+       <content src="text00543.html#sigil_toc_id_7"/>
+     </navPoint>
+     <navPoint id="id182" playOrder="182">
+       <navLabel>
+         <text>第九章 风暴云</text>
+       </navLabel>
+       <content src="text00544.html#sigil_toc_id_8"/>
+     </navPoint>
+     <navPoint id="id183" playOrder="183">
+       <navLabel>
+         <text>第十章 亨利的计划</text>
+       </navLabel>
+       <content src="text00545.html#sigil_toc_id_9"/>
+     </navPoint>
+     <navPoint id="id184" playOrder="184">
+       <navLabel>
+         <text>第十一章 干草棚</text>
+       </navLabel>
+       <content src="text00546.html#sigil_toc_id_10"/>
+     </navPoint>
+     <navPoint id="id185" playOrder="185">
+       <navLabel>
+         <text>第十二章 真正的财宝</text>
+       </navLabel>
+       <content src="text00547.html#sigil_toc_id_11"/>
+     </navPoint>
+     <navPoint id="id186" playOrder="186">
+       <navLabel>
+         <text>第十三章 最后的惊喜</text>
+       </navLabel>
+       <content src="text00548.html#sigil_toc_id_12"/>
+     </navPoint>
+     <navPoint id="id187" playOrder="187">
+       <navLabel>
+         <text>Chapter 1 The Telegram</text>
+       </navLabel>
+       <content src="text00549.html#sigil_toc_id_13"/>
+     </navPoint>
+     <navPoint id="id188" playOrder="188">
+       <navLabel>
+         <text>Chapter 2 The Double Celebration</text>
+       </navLabel>
+       <content src="text00550.html#sigil_toc_id_14"/>
+     </navPoint>
+     <navPoint id="id189" playOrder="189">
+       <navLabel>
+         <text>Chapter 3 Cap and Doodle</text>
+       </navLabel>
+       <content src="text00551.html#sigil_toc_id_15"/>
+     </navPoint>
+     <navPoint id="id190" playOrder="190">
+       <navLabel>
+         <text>Chapter 4 Weird Noises， Strange Lights</text>
+       </navLabel>
+       <content src="text00552.html#sigil_toc_id_16"/>
+     </navPoint>
+     <navPoint id="id191" playOrder="191">
+       <navLabel>
+         <text>Chapter 5 Will-o’-the-Wisp</text>
+       </navLabel>
+       <content src="text00553.html#sigil_toc_id_17"/>
+     </navPoint>
+     <navPoint id="id192" playOrder="192">
+       <navLabel>
+         <text>Chapter 6 Scrambled Eggs</text>
+       </navLabel>
+       <content src="text00554.html#sigil_toc_id_18"/>
+     </navPoint>
+     <navPoint id="id193" playOrder="193">
+       <navLabel>
+         <text>Chapter 7 The Cat Bird</text>
+       </navLabel>
+       <content src="text00555.html#sigil_toc_id_19"/>
+     </navPoint>
+     <navPoint id="id194" playOrder="194">
+       <navLabel>
+         <text>Chapter 8 The Carpenter</text>
+       </navLabel>
+       <content src="text00556.html#sigil_toc_id_20"/>
+     </navPoint>
+     <navPoint id="id195" playOrder="195">
+       <navLabel>
+         <text>Chapter 9 Storm Clouds</text>
+       </navLabel>
+       <content src="text00557.html#sigil_toc_id_21"/>
+     </navPoint>
+     <navPoint id="id196" playOrder="196">
+       <navLabel>
+         <text>Chapter 10 Henry’s Plan</text>
+       </navLabel>
+       <content src="text00558.html#sigil_toc_id_22"/>
+     </navPoint>
+     <navPoint id="id197" playOrder="197">
+       <navLabel>
+         <text>Chapter 11 The Hayloft</text>
+       </navLabel>
+       <content src="text00559.html#sigil_toc_id_23"/>
+     </navPoint>
+     <navPoint id="id198" playOrder="198">
+       <navLabel>
+         <text>Chapter 12 The Real Treasure</text>
+       </navLabel>
+       <content src="text00560.html#sigil_toc_id_24"/>
+     </navPoint>
+     <navPoint id="id199" playOrder="199">
+       <navLabel>
+         <text>Chapter 13 The Final Surprise</text>
+       </navLabel>
+       <content src="text00561.html#sigil_toc_id_25"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id200" playOrder="200">
+       <navLabel>
+         <text>棚车少年·第6辑(中英双语)(套装共8册)</text>
+       </navLabel>
+       <content src="text00562.html"/>
+     <navPoint id="id201" playOrder="201">
+       <navLabel>
+         <text>棚车少年·21废弃的图书馆</text>
+       </navLabel>
+       <content src="text00564.html"/>
+     <navPoint id="id202" playOrder="202">
+       <navLabel>
+         <text>第一章 爷爷的消息</text>
+       </navLabel>
+       <content src="text00565.html"/>
+     </navPoint>
+     <navPoint id="id203" playOrder="203">
+       <navLabel>
+         <text>第二章 古老的图书馆</text>
+       </navLabel>
+       <content src="text00566.html#sigil_toc_id_1"/>
+     </navPoint>
+     <navPoint id="id204" playOrder="204">
+       <navLabel>
+         <text>第三章 逃走的松鼠</text>
+       </navLabel>
+       <content src="text00567.html#sigil_toc_id_2"/>
+     </navPoint>
+     <navPoint id="id205" playOrder="205">
+       <navLabel>
+         <text>第四章 失踪的食物</text>
+       </navLabel>
+       <content src="text00568.html#sigil_toc_id_3"/>
+     </navPoint>
+     <navPoint id="id206" playOrder="206">
+       <navLabel>
+         <text>第五章 逃跑的米格尔</text>
+       </navLabel>
+       <content src="text00569.html#sigil_toc_id_4"/>
+     </navPoint>
+     <navPoint id="id207" playOrder="207">
+       <navLabel>
+         <text>第六章 灰色的手套</text>
+       </navLabel>
+       <content src="text00570.html#sigil_toc_id_5"/>
+     </navPoint>
+     <navPoint id="id208" playOrder="208">
+       <navLabel>
+         <text>第七章 奇怪的小调</text>
+       </navLabel>
+       <content src="text00571.html#sigil_toc_id_6"/>
+     </navPoint>
+     <navPoint id="id209" playOrder="209">
+       <navLabel>
+         <text>第八章 上锁的门</text>
+       </navLabel>
+       <content src="text00572.html#sigil_toc_id_7"/>
+     </navPoint>
+     <navPoint id="id210" playOrder="210">
+       <navLabel>
+         <text>第九章 一片狼藉</text>
+       </navLabel>
+       <content src="text00573.html#sigil_toc_id_8"/>
+     </navPoint>
+     <navPoint id="id211" playOrder="211">
+       <navLabel>
+         <text>第十章 剑尖</text>
+       </navLabel>
+       <content src="text00574.html#sigil_toc_id_9"/>
+     </navPoint>
+     <navPoint id="id212" playOrder="212">
+       <navLabel>
+         <text>第十一章 不速之客</text>
+       </navLabel>
+       <content src="text00575.html#sigil_toc_id_10"/>
+     </navPoint>
+     <navPoint id="id213" playOrder="213">
+       <navLabel>
+         <text>第十二章 父子团圆</text>
+       </navLabel>
+       <content src="text00576.html#sigil_toc_id_11"/>
+     </navPoint>
+     <navPoint id="id214" playOrder="214">
+       <navLabel>
+         <text>第十三章 直面陌生人</text>
+       </navLabel>
+       <content src="text00577.html#sigil_toc_id_12"/>
+     </navPoint>
+     <navPoint id="id215" playOrder="215">
+       <navLabel>
+         <text>Chapter 1 Grandfather’s News</text>
+       </navLabel>
+       <content src="text00578.html#sigil_toc_id_13"/>
+     </navPoint>
+     <navPoint id="id216" playOrder="216">
+       <navLabel>
+         <text>Chapter 2 The Old Library</text>
+       </navLabel>
+       <content src="text00579.html#sigil_toc_id_14"/>
+     </navPoint>
+     <navPoint id="id217" playOrder="217">
+       <navLabel>
+         <text>Chapter 3 The Squirrel That Wasn’t There</text>
+       </navLabel>
+       <content src="text00580.html#sigil_toc_id_15"/>
+     </navPoint>
+     <navPoint id="id218" playOrder="218">
+       <navLabel>
+         <text>Chapter 4 The Missing Food</text>
+       </navLabel>
+       <content src="text00581.html#sigil_toc_id_16"/>
+     </navPoint>
+     <navPoint id="id219" playOrder="219">
+       <navLabel>
+         <text>Chapter 5 Miguel， the Runaway</text>
+       </navLabel>
+       <content src="text00582.html#sigil_toc_id_17"/>
+     </navPoint>
+     <navPoint id="id220" playOrder="220">
+       <navLabel>
+         <text>Chapter 6 The Gray Glove</text>
+       </navLabel>
+       <content src="text00583.html#sigil_toc_id_18"/>
+     </navPoint>
+     <navPoint id="id221" playOrder="221">
+       <navLabel>
+         <text>Chapter 7 The Strange Little Tune</text>
+       </navLabel>
+       <content src="text00584.html#sigil_toc_id_19"/>
+     </navPoint>
+     <navPoint id="id222" playOrder="222">
+       <navLabel>
+         <text>Chapter 8 The Locked Door</text>
+       </navLabel>
+       <content src="text00585.html#sigil_toc_id_20"/>
+     </navPoint>
+     <navPoint id="id223" playOrder="223">
+       <navLabel>
+         <text>Chapter 9 The Upside-down Mess</text>
+       </navLabel>
+       <content src="text00586.html#sigil_toc_id_21"/>
+     </navPoint>
+     <navPoint id="id224" playOrder="224">
+       <navLabel>
+         <text>Chapter 10 The Last Missing Piece</text>
+       </navLabel>
+       <content src="text00587.html#sigil_toc_id_22"/>
+     </navPoint>
+     <navPoint id="id225" playOrder="225">
+       <navLabel>
+         <text>Chapter 11 The Prowler</text>
+       </navLabel>
+       <content src="text00588.html#sigil_toc_id_23"/>
+     </navPoint>
+     <navPoint id="id226" playOrder="226">
+       <navLabel>
+         <text>Chapter 12 What Did Benny See？</text>
+       </navLabel>
+       <content src="text00589.html#sigil_toc_id_24"/>
+     </navPoint>
+     <navPoint id="id227" playOrder="227">
+       <navLabel>
+         <text>Chapter 13 Face to Face with the Stranger</text>
+       </navLabel>
+       <content src="text00590.html#sigil_toc_id_25"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id228" playOrder="228">
+       <navLabel>
+         <text>棚车少年·22动物收容所之谜</text>
+       </navLabel>
+       <content src="text00592.html"/>
+     <navPoint id="id229" playOrder="229">
+       <navLabel>
+         <text>第一章 窗户上的拍打声</text>
+       </navLabel>
+       <content src="text00593.html"/>
+     </navPoint>
+     <navPoint id="id230" playOrder="230">
+       <navLabel>
+         <text>第二章 失踪的人</text>
+       </navLabel>
+       <content src="text00594.html#sigil_toc_id_1"/>
+     </navPoint>
+     <navPoint id="id231" playOrder="231">
+       <navLabel>
+         <text>第三章 禁止擅自入内</text>
+       </navLabel>
+       <content src="text00595.html#sigil_toc_id_2"/>
+     </navPoint>
+     <navPoint id="id232" playOrder="232">
+       <navLabel>
+         <text>第四章 被藏起来的笔记本</text>
+       </navLabel>
+       <content src="text00596.html#sigil_toc_id_3"/>
+     </navPoint>
+     <navPoint id="id233" playOrder="233">
+       <navLabel>
+         <text>第五章 棚车里的时光</text>
+       </navLabel>
+       <content src="text00597.html#sigil_toc_id_4"/>
+     </navPoint>
+     <navPoint id="id234" playOrder="234">
+       <navLabel>
+         <text>第六章 又来一只猫和狗</text>
+       </navLabel>
+       <content src="text00598.html#sigil_toc_id_5"/>
+     </navPoint>
+     <navPoint id="id235" playOrder="235">
+       <navLabel>
+         <text>第七章 一件善事</text>
+       </navLabel>
+       <content src="text00599.html#sigil_toc_id_6"/>
+     </navPoint>
+     <navPoint id="id236" playOrder="236">
+       <navLabel>
+         <text>第八章 失物招领</text>
+       </navLabel>
+       <content src="text00600.html#sigil_toc_id_7"/>
+     </navPoint>
+     <navPoint id="id237" playOrder="237">
+       <navLabel>
+         <text>第九章 感人的一天</text>
+       </navLabel>
+       <content src="text00601.html#sigil_toc_id_8"/>
+     </navPoint>
+     <navPoint id="id238" playOrder="238">
+       <navLabel>
+         <text>Chapter 1 A Thump at the Window</text>
+       </navLabel>
+       <content src="text00602.html#sigil_toc_id_9"/>
+     </navPoint>
+     <navPoint id="id239" playOrder="239">
+       <navLabel>
+         <text>Chapter 2 Missing Person</text>
+       </navLabel>
+       <content src="text00603.html#sigil_toc_id_10"/>
+     </navPoint>
+     <navPoint id="id240" playOrder="240">
+       <navLabel>
+         <text>Chapter 3 No Trespassing！</text>
+       </navLabel>
+       <content src="text00604.html#sigil_toc_id_11"/>
+     </navPoint>
+     <navPoint id="id241" playOrder="241">
+       <navLabel>
+         <text>Chapter 4 The Hidden Notebooks</text>
+       </navLabel>
+       <content src="text00605.html#sigil_toc_id_12"/>
+     </navPoint>
+     <navPoint id="id242" playOrder="242">
+       <navLabel>
+         <text>Chapter 5 Boxcar Days</text>
+       </navLabel>
+       <content src="text00606.html#sigil_toc_id_13"/>
+     </navPoint>
+     <navPoint id="id243" playOrder="243">
+       <navLabel>
+         <text>Chapter 6 Raining Cats and Dogs</text>
+       </navLabel>
+       <content src="text00607.html#sigil_toc_id_14"/>
+     </navPoint>
+     <navPoint id="id244" playOrder="244">
+       <navLabel>
+         <text>Chapter 7 A Good Deed</text>
+       </navLabel>
+       <content src="text00608.html#sigil_toc_id_15"/>
+     </navPoint>
+     <navPoint id="id245" playOrder="245">
+       <navLabel>
+         <text>Chapter 8 Lost and Found</text>
+       </navLabel>
+       <content src="text00609.html#sigil_toc_id_16"/>
+     </navPoint>
+     <navPoint id="id246" playOrder="246">
+       <navLabel>
+         <text>Chapter 9 Moving Day</text>
+       </navLabel>
+       <content src="text00610.html#sigil_toc_id_17"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id247" playOrder="247">
+       <navLabel>
+         <text>棚车少年·23汽车旅馆的秘密</text>
+       </navLabel>
+       <content src="text00612.html"/>
+     <navPoint id="id248" playOrder="248">
+       <navLabel>
+         <text>第一章 汽车旅馆</text>
+       </navLabel>
+       <content src="text00613.html"/>
+     </navPoint>
+     <navPoint id="id249" playOrder="249">
+       <navLabel>
+         <text>第二章 空荡荡的游泳池</text>
+       </navLabel>
+       <content src="text00614.html#sigil_toc_id_1"/>
+     </navPoint>
+     <navPoint id="id250" playOrder="250">
+       <navLabel>
+         <text>第三章 米尔森·菲尔</text>
+       </navLabel>
+       <content src="text00615.html#sigil_toc_id_2"/>
+     </navPoint>
+     <navPoint id="id251" playOrder="251">
+       <navLabel>
+         <text>第四章 短吻鳄与沼泽鸟</text>
+       </navLabel>
+       <content src="text00616.html#sigil_toc_id_3"/>
+     </navPoint>
+     <navPoint id="id252" playOrder="252">
+       <navLabel>
+         <text>第五章 摘橙子</text>
+       </navLabel>
+       <content src="text00617.html#sigil_toc_id_4"/>
+     </navPoint>
+     <navPoint id="id253" playOrder="253">
+       <navLabel>
+         <text>第六章 贼影再现</text>
+       </navLabel>
+       <content src="text00618.html#sigil_toc_id_5"/>
+     </navPoint>
+     <navPoint id="id254" playOrder="254">
+       <navLabel>
+         <text>第七章 闪烁的黄眼睛</text>
+       </navLabel>
+       <content src="text00619.html#sigil_toc_id_6"/>
+     </navPoint>
+     <navPoint id="id255" playOrder="255">
+       <navLabel>
+         <text>第八章 停电了</text>
+       </navLabel>
+       <content src="text00620.html#sigil_toc_id_7"/>
+     </navPoint>
+     <navPoint id="id256" playOrder="256">
+       <navLabel>
+         <text>第九章 斯迈利先生</text>
+       </navLabel>
+       <content src="text00621.html#sigil_toc_id_8"/>
+     </navPoint>
+     <navPoint id="id257" playOrder="257">
+       <navLabel>
+         <text>第十章 夜半洪水</text>
+       </navLabel>
+       <content src="text00622.html#sigil_toc_id_9"/>
+     </navPoint>
+     <navPoint id="id258" playOrder="258">
+       <navLabel>
+         <text>第十一章 嫌疑犯</text>
+       </navLabel>
+       <content src="text00623.html#sigil_toc_id_10"/>
+     </navPoint>
+     <navPoint id="id259" playOrder="259">
+       <navLabel>
+         <text>第十二章 逮捕</text>
+       </navLabel>
+       <content src="text00624.html#sigil_toc_id_11"/>
+     </navPoint>
+     <navPoint id="id260" playOrder="260">
+       <navLabel>
+         <text>Chapter 1 The Old Motel</text>
+       </navLabel>
+       <content src="text00625.html#sigil_toc_id_12"/>
+     </navPoint>
+     <navPoint id="id261" playOrder="261">
+       <navLabel>
+         <text>Chapter 2 The Empty Swimming Pool</text>
+       </navLabel>
+       <content src="text00626.html#sigil_toc_id_13"/>
+     </navPoint>
+     <navPoint id="id262" playOrder="262">
+       <navLabel>
+         <text>Chapter 3 Millicent Fair</text>
+       </navLabel>
+       <content src="text00627.html#sigil_toc_id_14"/>
+     </navPoint>
+     <navPoint id="id263" playOrder="263">
+       <navLabel>
+         <text>Chapter 4 Alligators and Swamp Birds</text>
+       </navLabel>
+       <content src="text00628.html#sigil_toc_id_15"/>
+     </navPoint>
+     <navPoint id="id264" playOrder="264">
+       <navLabel>
+         <text>Chapter 5 Oranges and More Oranges</text>
+       </navLabel>
+       <content src="text00629.html#sigil_toc_id_16"/>
+     </navPoint>
+     <navPoint id="id265" playOrder="265">
+       <navLabel>
+         <text>Chapter 6 Oranges， Oranges， Oranges</text>
+       </navLabel>
+       <content src="text00630.html#sigil_toc_id_17"/>
+     </navPoint>
+     <navPoint id="id266" playOrder="266">
+       <navLabel>
+         <text>Chapter 7 Glittering Yellow Eyes</text>
+       </navLabel>
+       <content src="text00631.html#sigil_toc_id_18"/>
+     </navPoint>
+     <navPoint id="id267" playOrder="267">
+       <navLabel>
+         <text>Chapter 8 The Lights Go Out</text>
+       </navLabel>
+       <content src="text00632.html#sigil_toc_id_19"/>
+     </navPoint>
+     <navPoint id="id268" playOrder="268">
+       <navLabel>
+         <text>Chapter 9 Mr. Smiley</text>
+       </navLabel>
+       <content src="text00633.html#sigil_toc_id_20"/>
+     </navPoint>
+     <navPoint id="id269" playOrder="269">
+       <navLabel>
+         <text>Chapter 10 Running Water</text>
+       </navLabel>
+       <content src="text00634.html#sigil_toc_id_21"/>
+     </navPoint>
+     <navPoint id="id270" playOrder="270">
+       <navLabel>
+         <text>Chapter 11 The Suspects</text>
+       </navLabel>
+       <content src="text00635.html#sigil_toc_id_22"/>
+     </navPoint>
+     <navPoint id="id271" playOrder="271">
+       <navLabel>
+         <text>Chapter 12 The Capture</text>
+       </navLabel>
+       <content src="text00636.html#sigil_toc_id_23"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id272" playOrder="272">
+       <navLabel>
+         <text>棚车少年·24神秘油画之谜</text>
+       </navLabel>
+       <content src="text00638.html"/>
+     <navPoint id="id273" playOrder="273">
+       <navLabel>
+         <text>第一章 生日派对</text>
+       </navLabel>
+       <content src="text00639.html"/>
+     </navPoint>
+     <navPoint id="id274" playOrder="274">
+       <navLabel>
+         <text>第二章 画像</text>
+       </navLabel>
+       <content src="text00640.html#sigil_toc_id_1"/>
+     </navPoint>
+     <navPoint id="id275" playOrder="275">
+       <navLabel>
+         <text>第三章 拜访简姑婆</text>
+       </navLabel>
+       <content src="text00641.html#sigil_toc_id_2"/>
+     </navPoint>
+     <navPoint id="id276" playOrder="276">
+       <navLabel>
+         <text>第四章 博物馆</text>
+       </navLabel>
+       <content src="text00642.html#sigil_toc_id_3"/>
+     </navPoint>
+     <navPoint id="id277" playOrder="277">
+       <navLabel>
+         <text>第五章 顺藤摸瓜</text>
+       </navLabel>
+       <content src="text00643.html#sigil_toc_id_4"/>
+     </navPoint>
+     <navPoint id="id278" playOrder="278">
+       <navLabel>
+         <text>第六章 洛林太太</text>
+       </navLabel>
+       <content src="text00644.html#sigil_toc_id_5"/>
+     </navPoint>
+     <navPoint id="id279" playOrder="279">
+       <navLabel>
+         <text>第七章 线索中断</text>
+       </navLabel>
+       <content src="text00645.html#sigil_toc_id_6"/>
+     </navPoint>
+     <navPoint id="id280" playOrder="280">
+       <navLabel>
+         <text>第八章 意外的访客</text>
+       </navLabel>
+       <content src="text00646.html#sigil_toc_id_7"/>
+     </navPoint>
+     <navPoint id="id281" playOrder="281">
+       <navLabel>
+         <text>第九章 美好的结局</text>
+       </navLabel>
+       <content src="text00647.html#sigil_toc_id_8"/>
+     </navPoint>
+     <navPoint id="id282" playOrder="282">
+       <navLabel>
+         <text>Chapter 1 Birthday Plans</text>
+       </navLabel>
+       <content src="text00648.html#sigil_toc_id_9"/>
+     </navPoint>
+     <navPoint id="id283" playOrder="283">
+       <navLabel>
+         <text>Chapter 2 The Painting</text>
+       </navLabel>
+       <content src="text00649.html#sigil_toc_id_10"/>
+     </navPoint>
+     <navPoint id="id284" playOrder="284">
+       <navLabel>
+         <text>Chapter 3 A Visit to Aunt Jane</text>
+       </navLabel>
+       <content src="text00650.html#sigil_toc_id_11"/>
+     </navPoint>
+     <navPoint id="id285" playOrder="285">
+       <navLabel>
+         <text>Chapter 4 At the Museum</text>
+       </navLabel>
+       <content src="text00651.html#sigil_toc_id_12"/>
+     </navPoint>
+     <navPoint id="id286" playOrder="286">
+       <navLabel>
+         <text>Chapter 5 Follow the Leader</text>
+       </navLabel>
+       <content src="text00652.html#sigil_toc_id_13"/>
+     </navPoint>
+     <navPoint id="id287" playOrder="287">
+       <navLabel>
+         <text>Chapter 6 Another Strange Visit</text>
+       </navLabel>
+       <content src="text00653.html#sigil_toc_id_14"/>
+     </navPoint>
+     <navPoint id="id288" playOrder="288">
+       <navLabel>
+         <text>Chapter 7 No More Clues？</text>
+       </navLabel>
+       <content src="text00654.html#sigil_toc_id_15"/>
+     </navPoint>
+     <navPoint id="id289" playOrder="289">
+       <navLabel>
+         <text>Chapter 8 Surprise Visits</text>
+       </navLabel>
+       <content src="text00655.html#sigil_toc_id_16"/>
+     </navPoint>
+     <navPoint id="id290" playOrder="290">
+       <navLabel>
+         <text>Chapter 9 Happy Endings</text>
+       </navLabel>
+       <content src="text00656.html#sigil_toc_id_17"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+   </navMap>
+</ncx>

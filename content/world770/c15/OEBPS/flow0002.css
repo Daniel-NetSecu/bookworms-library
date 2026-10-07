@@ -1,0 +1,526 @@
+/* -------------- General Styles -------------- */
+body {
+	margin: 20px;
+}
+p {
+	line-height: 1.2em;
+	margin-top: 0em;
+	margin-bottom: 0em;
+	text-align: left;
+}
+
+.indent {text-indent: 2em;}
+.indent-space1 {text-indent: 2em; margin-top: 1.1em;}
+.indent-space2 {text-indent: 2em; margin-top: 2.2em;}
+.indent1 {text-indent: 2em; margin-left: 2em;}
+.indent1-space1 {text-indent: 2em; margin-left: 2em; margin-top: 1.1em;}
+.indent1-space2 {text-indent: 2em; margin-left: 2em; margin-top: 2.2em;}
+.indent2 {text-indent: 2em; margin-left: 4em;}
+.indent2-space1 {text-indent: 2em; margin-left: 4em; margin-top: 1.1em;}
+.indent2-space2 {text-indent: 2em; margin-left: 4em; margin-top: 2.2em;}
+.indent3 {text-indent: 2em; margin-left: 6em;}
+.indent3-space1 {text-indent: 2em; margin-left: 6em; margin-top: 1.1em;}
+.indent3-space2 {text-indent: 2em; margin-left: 6em; margin-top: 2.2em;}
+.indent4 {text-indent: 2em; margin-left: 8em;}
+.indent4-space1 {text-indent: 2em; margin-left: 8em; margin-top: 1.1em;}
+.indent4-space2 {text-indent: 2em; margin-left: 8em; margin-top: 2.2em;}
+
+.noindent {text-indent: 0;}
+.noindent-space1 {text-indent: 0; margin-top: 1.1em;}
+.noindent-space2 {text-indent: 0; margin-top: 2.2em;}
+.noindent1 {text-indent: 0; margin-left: 2em;}
+.noindent1-space1 {text-indent: 0; margin-left: 2em; margin-top: 1.1em;}
+.noindent1-space2 {text-indent: 0; margin-left: 2em; margin-top: 2.2em;}
+.noindent2 {text-indent: 0; margin-left: 4em;}
+.noindent2-space1 {text-indent: 0; margin-left: 4em; margin-top: 1.1em;}
+.noindent2-space2 {text-indent: 0; margin-left: 4em; margin-top: 2.2em;}
+.noindent3 {text-indent: 0; margin-left: 6em;}
+.noindent3-space1 {text-indent: 0; margin-left: 6em; margin-top: 1.1em;}
+.noindent3-space2 {text-indent: 0; margin-left: 6em; margin-top: 2.2em;}
+.noindent4 {text-indent: 0; margin-left: 8em;}
+.noindent4-space1 {text-indent: 0; margin-left: 8em; margin-top: 1.1em;}
+.noindent4-space2 {text-indent: 0; margin-left: 8em; margin-top: 2.2em;}
+
+.hang {margin-left: 2em; text-indent: -2em;}
+.hang-space1 {margin-left: 2em; text-indent: -2em; margin-top: 1.1em;}
+.hang-space2 {margin-left: 2em; text-indent: -2em; margin-top: 2.2em;}
+.hang1 {margin-left: 4em; text-indent: -2em;}
+.hang1-space1 {margin-left: 4em; text-indent: -2em; margin-top: 1.1em;}
+.hang1-space2 {margin-left: 4em; text-indent: -2em; margin-top: 2.2em;}
+.hang2 {margin-left: 6em; text-indent: -2em;}
+.hang2-space1 {margin-left: 6em; text-indent: -2em; margin-top: 1.1em;}
+.hang2-space2 {margin-left: 6em; text-indent: -2em; margin-top: 2.2em;}
+.hang3 {margin-left: 8em; text-indent: -2em;}
+.hang3-space1 {margin-left: 8em; text-indent: -2em; margin-top: 1.1em;}
+.hang3-space2 {margin-left: 8em; text-indent: -2em; margin-top: 2.2em;}
+.hang4 {margin-left: 10em; text-indent: -2em;}
+.hang4-space1 {margin-left: 10em; text-indent: -2em; margin-top: 1.1em;}
+.hang4-space2 {margin-left: 10em; text-indent: -2em; margin-top: 2.2em;}
+
+.center {text-align: center;}
+.center-space1 {text-align: center; margin-top: 1.1em;}
+.center-space2 {text-align: center; margin-top: 2.2em;}
+
+.right {text-align: right;}
+.right-space1 {text-align: right; margin-top: 1.1em;}
+.right-space2 {text-align: right; margin-top: 2.2em;}
+
+.left {text-align: left;}
+.first {margin-top: 2em;}
+.spacer {margin-top: 1em;}
+
+.tbmargins {
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+blockquote {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 2em;
+	margin-right: 2em;
+
+}
+blockquote.quote {
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
+img {
+	border: 0;
+}
+
+span.dropcap {
+	font-size: 3em;
+	font-weight: bold;
+	line-height: 0.9em;
+}
+span.big {font-size: 1.2em;}
+span.small {font-size: 0.8em;}
+span.underline {text-decoration: underline;}
+span.strike {text-decoration: line-through;}
+
+sup {
+	vertical-align: 4px;
+}
+
+sup.frac {
+	font-size: 0.7em;
+	line-height: 0em;
+}
+
+sub.frac {
+	font-size: 0.7em;
+	line-height: 0em;
+}
+
+.clear {clear: both}
+
+
+/* -------------- Headings -------------- */
+h1 {
+	text-align: center;
+	margin-bottom: 3em;
+}
+h2 {
+	text-align: center;
+	margin-top: 1em;
+}
+h3 {
+	text-align: center;
+	margin-top: 1em;
+}
+h4 {
+	text-align: left;
+	margin-top: 1em;
+}
+h5 {
+	text-align: left;
+	margin-top: 1em;
+}
+h6 {
+	text-align: left;
+	margin-top: 1em;
+}
+
+/* -------------- Cover page -------------- */
+div#coverpage {
+	text-align: center;
+}
+
+.pagebreak {
+        page-break-before: always;}
+
+/* -------------- Title Page -------------- */
+div#titlepage {
+
+}
+.booktitle {
+	margin-top: 3em;
+	margin-bottom: 3em;
+	text-align: center;
+}
+.subtitle {
+	margin-bottom: 3em;
+	text-align: center;
+}
+.byline {			/* by, translated by, edited by, etc. */
+	text-align: center;
+}
+.author {
+	text-align: center;
+}
+.othertext {		/* "a novel", "author of...", etc. */
+	text-align: center;
+}
+.publogo {
+	margin-top: 2em;
+	text-align: center;
+	font-size: 0.8em;
+}
+	
+
+
+/* -------------- Copyright -------------- */
+div#copyright {
+	font-size: 0.8em;
+}
+div#copyright p {
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+div#copyright blockquote {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+/* -------------- Dedication -------------- */
+div#dedication {
+	padding-top: 30%;
+}
+
+
+/* -------------- TOC -------------- */
+div#TOC p {
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+div#TOC blockquote {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+/* -------------- Front Matter (Preface, Forward, Introduction) -------------- */
+div.fbmatter {
+	display: block;	
+}
+.fbmtitle {
+	font-style: italic;
+	font-size: 1.5rem;
+}
+
+
+
+/* -------------- Parts/Sections -------------- */
+div#part {
+	display: block;	
+}
+
+.notextbelow {
+	margin-top: 30%;
+}
+
+hr {
+	border: 0;
+	color: black;
+	background-color: black;
+	height: 2px;
+	text-align: center;
+}
+
+
+/* -------------- Chapters -------------- */
+
+div.chapter {
+	display: block;	
+}
+
+/* -------------- Extracts, Sidebars, Pull Quotes -------------- */
+div.extract {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: sans-serif;
+	margin-top: 1.5em;
+	margin-bottom: 1em;
+}
+
+div.sidebar-center {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 1.5em;
+	margin-bottom: 1em;
+}
+div.sidebar-left {
+	float: left;
+	width: 30%;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 1.5em;
+	margin-bottom: 1em;
+	margin-right: 1em;
+}
+div.sidebar-right {
+	float: right;
+	width: 30%;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 1.5em;
+	margin-bottom: 1em;
+	margin-left: 1em;
+}
+
+
+
+/* -------------- Images -------------- */
+div.image {
+	text-align: center;
+	margin: 10px 0;
+
+}
+.floatleft {
+	float: left;
+	margin: 10px 10px 10px 0;
+}
+.floatright {
+	float: right;
+	margin: 10px 0 10px 10px;
+}
+img.inline {
+	vertical-align: middle;
+}
+p.caption {
+	text-indent: 0;
+	margin: 0 2em 2em 2em;
+	font-family: sans-serif;
+	font-size: 0.8em;
+	text-align: center;
+}
+p.title {
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+
+/* -------------- Tables -------------- */
+div.table {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+table {
+	border-collapse: collapse;
+	margin: 1em 0;
+}
+td, th {
+	padding: 3px 5px;
+}
+
+table.grid {
+	border: 1px solid black;
+}
+table.grid td, table.grid th {
+	border: 1px solid black;
+}
+/* use p.title and p.caption from image section above */
+.bdrtop {
+	border-top: 1px solid black;
+}
+.bdrbottom {
+	border-bottom: 1px solid black;
+}
+.bdrleft {
+	border-left: 1px solid black;
+}
+.bdrright {
+	border-right: 1px solid black;
+}
+.boxedcells {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+/* -------------- Lists -------------- */
+ul, ol {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 1em;
+	margin-right: 0em;
+	font-size: 1em;
+	text-align: left;
+}
+ol ol, ul ul, ul ol, ol ul {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+ul.disc {
+	list-style-type: disc;
+}
+ul.circle {
+	list-style-type: circle;
+}
+ul.square {
+	list-style-type: square;
+}
+ol.decimal {
+	list-style-type: decimal;
+}
+ol.upper-roman {
+	list-style-type: upper-roman;
+}
+ol.lower-roman {
+	list-style-type: lower-roman;
+}
+ol.upper-alpha {
+	list-style-type: upper-alpha;
+}
+ol.lower-alpha {
+	list-style-type: lower-alpha;
+}
+
+/* -------------- Index -------------- */
+
+div#index p {
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+.index1 {
+	margin-left: 2em;
+	text-indent: -2em;
+}
+.index2 {
+	margin-left: 4em;
+	text-indent: -2em;
+}
+.index3 {
+	margin-left: 6em;
+	text-indent: -2em;
+}
+
+
+/* -------------- Footnotes -------------- */
+div#footnotes  {
+	display: block;
+	font-size: 0.8em;
+}
+
+
+.note {
+	text-indent: 0;
+	margin-top: 2em;
+}
+
+/* ------------- About the Publisher --------- */
+div#atp p {
+	font-size: 0.9em;
+	text-align: left;
+	text-indent: 0em;
+}
+.atpimg {
+	margin-top: 1em;
+	margin-bottom: 2em;
+}
+.atptext {
+	margin-bottom: 0.9em;
+	text-indent: 0em;
+	font-size: 0.9em;
+}
+h2.atphead {
+	text-align: left;
+	font-size: 1.5em;
+	margin-bottom: 2em;
+}
+
+.white1 {
+	font-family: serif;
+	font-size: 1em;
+	font-weight: normal;
+	line-height: 1.1;
+	margin: 0em;
+	padding: 0em;
+	height: 1.1em;
+}
+.white2 {
+	font-family: serif;
+	font-size: 1em;
+	font-weight: normal;
+	line-height: 2.2;
+	margin: 0em;
+	padding: 0em;
+	height: 2.2em;
+}
+.white3 {
+	font-family: serif;
+	font-size: 1em;
+	font-weight: normal;
+	line-height: 3.3;
+	margin: 0em;
+	padding: 0em;
+	height: 3.3em;
+}
+.white4 {
+	font-family: serif;
+	font-size: 1em;
+	font-weight: normal;
+	line-height: 4.4;
+	margin: 0em;
+	padding: 0em;
+	height: 4.4em; 
+	}
+
+/* -------------- Colored Text ---------------- */
+
+a.puburl {
+	color: #dc7ea8;
+	font-size: 0.8em;
+	margin-top: 1em;
+}
+
+.backgroundBlue {
+	background-color: #d7e3ee;
+}
+
+
+
+
+span.red {color: RGB(155,3,48);}
+span.yellow {color: RGB(87,92,2);}
+span.blue {color: RGB(32,28,63);}
+span.orange {color: RGB(241,90,34);}
+span.green {color: RGB(87,151,133);}
+span.pink {color: RGB(255,153,204);}
+span.purple {color: RGB(204,153,255);}
+span.gray {color: RGB(153,153,153);}

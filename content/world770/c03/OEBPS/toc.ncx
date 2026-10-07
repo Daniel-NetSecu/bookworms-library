@@ -1,0 +1,5355 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+<head>
+<meta content="2383659344" name="dtb:uid"/>
+<meta content="6" name="dtb:depth"/>
+<meta content="mobiunpack.py" name="dtb:generator"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>伟大的思想（全6辑·共48册）</text>
+</docTitle>
+<navMap>
+    <navPoint id="np_1" playOrder="1">
+    <navLabel>
+    <text>伟大的思想第1辑（套装共8册）</text>
+    </navLabel>
+    <content src="Text/part0001.xhtml"/>
+      <navPoint id="np_2" playOrder="2">
+      <navLabel>
+      <text>马可·波罗游记</text>
+      </navLabel>
+      <content src="Text/part0003.xhtml"/>
+        <navPoint id="np_3" playOrder="3">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0008.xhtml"/>
+        </navPoint>
+        <navPoint id="np_4" playOrder="4">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0009.xhtml"/>
+        </navPoint>
+        <navPoint id="np_5" playOrder="5">
+        <navLabel>
+        <text>通往契丹之路</text>
+        </navLabel>
+        <content src="Text/part0010.xhtml"/>
+        </navPoint>
+        <navPoint id="np_6" playOrder="6">
+        <navLabel>
+        <text>忽必烈汗</text>
+        </navLabel>
+        <content src="Text/part0011.xhtml"/>
+        </navPoint>
+        <navPoint id="np_7" playOrder="7">
+        <navLabel>
+        <text>从北京到孟加拉</text>
+        </navLabel>
+        <content src="Text/part0012.xhtml"/>
+        </navPoint>
+        <navPoint id="np_8" playOrder="8">
+        <navLabel>
+        <text>Travels in the Land of Kubilai Khan</text>
+        </navLabel>
+        <content src="Text/part0014.xhtml"/>
+          <navPoint id="np_9" playOrder="9">
+          <navLabel>
+          <text>The Road to Cathay</text>
+          </navLabel>
+          <content src="Text/part0016.xhtml"/>
+          </navPoint>
+          <navPoint id="np_10" playOrder="10">
+          <navLabel>
+          <text>Kubilai Khan</text>
+          </navLabel>
+          <content src="Text/part0017.xhtml"/>
+          </navPoint>
+          <navPoint id="np_11" playOrder="11">
+          <navLabel>
+          <text>From Peking to Bengal</text>
+          </navLabel>
+          <content src="Text/part0018.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_12" playOrder="12">
+      <navLabel>
+      <text>慰妻书</text>
+      </navLabel>
+      <content src="Text/part0019.xhtml"/>
+        <navPoint id="np_13" playOrder="13">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0024.xhtml"/>
+        </navPoint>
+        <navPoint id="np_14" playOrder="14">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0025.xhtml"/>
+        </navPoint>
+        <navPoint id="np_15" playOrder="15">
+        <navLabel>
+        <text>慰妻书</text>
+        </navLabel>
+        <content src="Text/part0026.xhtml"/>
+        </navPoint>
+        <navPoint id="np_16" playOrder="16">
+        <navLabel>
+        <text>认识德行的进步</text>
+        </navLabel>
+        <content src="Text/part0027.xhtml"/>
+        </navPoint>
+        <navPoint id="np_17" playOrder="17">
+        <navLabel>
+        <text>论制怒</text>
+        </navLabel>
+        <content src="Text/part0028.xhtml"/>
+        </navPoint>
+        <navPoint id="np_18" playOrder="18">
+        <navLabel>
+        <text>论知足</text>
+        </navLabel>
+        <content src="Text/part0029.xhtml"/>
+        </navPoint>
+        <navPoint id="np_19" playOrder="19">
+        <navLabel>
+        <text>In Consolation to his Wife</text>
+        </navLabel>
+        <content src="Text/part0030.xhtml"/>
+          <navPoint id="np_20" playOrder="20">
+          <navLabel>
+          <text>In consolation to his wife</text>
+          </navLabel>
+          <content src="Text/part0032.xhtml"/>
+          </navPoint>
+          <navPoint id="np_21" playOrder="21">
+          <navLabel>
+          <text>On being aware of moral progress</text>
+          </navLabel>
+          <content src="Text/part0033.xhtml"/>
+          </navPoint>
+          <navPoint id="np_22" playOrder="22">
+          <navLabel>
+          <text>On the avoidance of anger</text>
+          </navLabel>
+          <content src="Text/part0034.xhtml"/>
+          </navPoint>
+          <navPoint id="np_23" playOrder="23">
+          <navLabel>
+          <text>On contentment</text>
+          </navLabel>
+          <content src="Text/part0035.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_24" playOrder="24">
+      <navLabel>
+      <text>论君权</text>
+      </navLabel>
+      <content src="Text/part0036.xhtml"/>
+        <navPoint id="np_25" playOrder="25">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0041.xhtml"/>
+        </navPoint>
+        <navPoint id="np_26" playOrder="26">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0042.xhtml"/>
+        </navPoint>
+        <navPoint id="np_27" playOrder="27">
+        <navLabel>
+        <text>论复仇</text>
+        </navLabel>
+        <content src="Text/part0043.xhtml"/>
+        </navPoint>
+        <navPoint id="np_28" playOrder="28">
+        <navLabel>
+        <text>论双亲与子女</text>
+        </navLabel>
+        <content src="Text/part0044.xhtml"/>
+        </navPoint>
+        <navPoint id="np_29" playOrder="29">
+        <navLabel>
+        <text>论婚姻和独身</text>
+        </navLabel>
+        <content src="Text/part0045.xhtml"/>
+        </navPoint>
+        <navPoint id="np_30" playOrder="30">
+        <navLabel>
+        <text>论妒忌</text>
+        </navLabel>
+        <content src="Text/part0046.xhtml"/>
+        </navPoint>
+        <navPoint id="np_31" playOrder="31">
+        <navLabel>
+        <text>论爱</text>
+        </navLabel>
+        <content src="Text/part0047.xhtml"/>
+        </navPoint>
+        <navPoint id="np_32" playOrder="32">
+        <navLabel>
+        <text>论高位</text>
+        </navLabel>
+        <content src="Text/part0048.xhtml"/>
+        </navPoint>
+        <navPoint id="np_33" playOrder="33">
+        <navLabel>
+        <text>论善与本性之善</text>
+        </navLabel>
+        <content src="Text/part0049.xhtml"/>
+        </navPoint>
+        <navPoint id="np_34" playOrder="34">
+        <navLabel>
+        <text>论游历</text>
+        </navLabel>
+        <content src="Text/part0050.xhtml"/>
+        </navPoint>
+        <navPoint id="np_35" playOrder="35">
+        <navLabel>
+        <text>论君权</text>
+        </navLabel>
+        <content src="Text/part0051.xhtml"/>
+        </navPoint>
+        <navPoint id="np_36" playOrder="36">
+        <navLabel>
+        <text>论狡猾</text>
+        </navLabel>
+        <content src="Text/part0052.xhtml"/>
+        </navPoint>
+        <navPoint id="np_37" playOrder="37">
+        <navLabel>
+        <text>论利己的学问</text>
+        </navLabel>
+        <content src="Text/part0053.xhtml"/>
+        </navPoint>
+        <navPoint id="np_38" playOrder="38">
+        <navLabel>
+        <text>论新事物</text>
+        </navLabel>
+        <content src="Text/part0054.xhtml"/>
+        </navPoint>
+        <navPoint id="np_39" playOrder="39">
+        <navLabel>
+        <text>论消费</text>
+        </navLabel>
+        <content src="Text/part0055.xhtml"/>
+        </navPoint>
+        <navPoint id="np_40" playOrder="40">
+        <navLabel>
+        <text>论养生</text>
+        </navLabel>
+        <content src="Text/part0056.xhtml"/>
+        </navPoint>
+        <navPoint id="np_41" playOrder="41">
+        <navLabel>
+        <text>论猜疑</text>
+        </navLabel>
+        <content src="Text/part0057.xhtml"/>
+        </navPoint>
+        <navPoint id="np_42" playOrder="42">
+        <navLabel>
+        <text>论言谈</text>
+        </navLabel>
+        <content src="Text/part0058.xhtml"/>
+        </navPoint>
+        <navPoint id="np_43" playOrder="43">
+        <navLabel>
+        <text>论财富</text>
+        </navLabel>
+        <content src="Text/part0059.xhtml"/>
+        </navPoint>
+        <navPoint id="np_44" playOrder="44">
+        <navLabel>
+        <text>论野心</text>
+        </navLabel>
+        <content src="Text/part0060.xhtml"/>
+        </navPoint>
+        <navPoint id="np_45" playOrder="45">
+        <navLabel>
+        <text>论美</text>
+        </navLabel>
+        <content src="Text/part0061.xhtml"/>
+        </navPoint>
+        <navPoint id="np_46" playOrder="46">
+        <navLabel>
+        <text>论残疾</text>
+        </navLabel>
+        <content src="Text/part0062.xhtml"/>
+        </navPoint>
+        <navPoint id="np_47" playOrder="47">
+        <navLabel>
+        <text>论建筑</text>
+        </navLabel>
+        <content src="Text/part0063.xhtml"/>
+        </navPoint>
+        <navPoint id="np_48" playOrder="48">
+        <navLabel>
+        <text>论花园</text>
+        </navLabel>
+        <content src="Text/part0064.xhtml"/>
+        </navPoint>
+        <navPoint id="np_49" playOrder="49">
+        <navLabel>
+        <text>论交涉</text>
+        </navLabel>
+        <content src="Text/part0065.xhtml"/>
+        </navPoint>
+        <navPoint id="np_50" playOrder="50">
+        <navLabel>
+        <text>论请托者</text>
+        </navLabel>
+        <content src="Text/part0066.xhtml"/>
+        </navPoint>
+        <navPoint id="np_51" playOrder="51">
+        <navLabel>
+        <text>论学问</text>
+        </navLabel>
+        <content src="Text/part0067.xhtml"/>
+        </navPoint>
+        <navPoint id="np_52" playOrder="52">
+        <navLabel>
+        <text>论虚荣</text>
+        </navLabel>
+        <content src="Text/part0068.xhtml"/>
+        </navPoint>
+        <navPoint id="np_53" playOrder="53">
+        <navLabel>
+        <text>论愤怒</text>
+        </navLabel>
+        <content src="Text/part0069.xhtml"/>
+        </navPoint>
+        <navPoint id="np_54" playOrder="54">
+        <navLabel>
+        <text>Of Empire</text>
+        </navLabel>
+        <content src="Text/part0071.xhtml"/>
+          <navPoint id="np_55" playOrder="55">
+          <navLabel>
+          <text>Of Revenge</text>
+          </navLabel>
+          <content src="Text/part0073.xhtml"/>
+          </navPoint>
+          <navPoint id="np_56" playOrder="56">
+          <navLabel>
+          <text>Of Parents and Children</text>
+          </navLabel>
+          <content src="Text/part0074.xhtml"/>
+          </navPoint>
+          <navPoint id="np_57" playOrder="57">
+          <navLabel>
+          <text>Of Marriage and Single Life</text>
+          </navLabel>
+          <content src="Text/part0075.xhtml"/>
+          </navPoint>
+          <navPoint id="np_58" playOrder="58">
+          <navLabel>
+          <text>Of Envy</text>
+          </navLabel>
+          <content src="Text/part0076.xhtml"/>
+          </navPoint>
+          <navPoint id="np_59" playOrder="59">
+          <navLabel>
+          <text>Of Love</text>
+          </navLabel>
+          <content src="Text/part0077.xhtml"/>
+          </navPoint>
+          <navPoint id="np_60" playOrder="60">
+          <navLabel>
+          <text>Of Great Place</text>
+          </navLabel>
+          <content src="Text/part0078.xhtml"/>
+          </navPoint>
+          <navPoint id="np_61" playOrder="61">
+          <navLabel>
+          <text>Of Goodness and Goodness of Nature</text>
+          </navLabel>
+          <content src="Text/part0079.xhtml"/>
+          </navPoint>
+          <navPoint id="np_62" playOrder="62">
+          <navLabel>
+          <text>Of Travel</text>
+          </navLabel>
+          <content src="Text/part0080.xhtml"/>
+          </navPoint>
+          <navPoint id="np_63" playOrder="63">
+          <navLabel>
+          <text>Of Empire</text>
+          </navLabel>
+          <content src="Text/part0081.xhtml"/>
+          </navPoint>
+          <navPoint id="np_64" playOrder="64">
+          <navLabel>
+          <text>Of Cunning</text>
+          </navLabel>
+          <content src="Text/part0082.xhtml"/>
+          </navPoint>
+          <navPoint id="np_65" playOrder="65">
+          <navLabel>
+          <text>Of Wisdom for a Man's Self</text>
+          </navLabel>
+          <content src="Text/part0083.xhtml"/>
+          </navPoint>
+          <navPoint id="np_66" playOrder="66">
+          <navLabel>
+          <text>Of Innovations</text>
+          </navLabel>
+          <content src="Text/part0084.xhtml"/>
+          </navPoint>
+          <navPoint id="np_67" playOrder="67">
+          <navLabel>
+          <text>Of Expense</text>
+          </navLabel>
+          <content src="Text/part0085.xhtml"/>
+          </navPoint>
+          <navPoint id="np_68" playOrder="68">
+          <navLabel>
+          <text>Of Regiment of Health</text>
+          </navLabel>
+          <content src="Text/part0086.xhtml"/>
+          </navPoint>
+          <navPoint id="np_69" playOrder="69">
+          <navLabel>
+          <text>Of Suspicion</text>
+          </navLabel>
+          <content src="Text/part0087.xhtml"/>
+          </navPoint>
+          <navPoint id="np_70" playOrder="70">
+          <navLabel>
+          <text>Of Discourse</text>
+          </navLabel>
+          <content src="Text/part0088.xhtml"/>
+          </navPoint>
+          <navPoint id="np_71" playOrder="71">
+          <navLabel>
+          <text>Of Riches</text>
+          </navLabel>
+          <content src="Text/part0089.xhtml"/>
+          </navPoint>
+          <navPoint id="np_72" playOrder="72">
+          <navLabel>
+          <text>Of Ambition</text>
+          </navLabel>
+          <content src="Text/part0090.xhtml"/>
+          </navPoint>
+          <navPoint id="np_73" playOrder="73">
+          <navLabel>
+          <text>Of Beauty</text>
+          </navLabel>
+          <content src="Text/part0091.xhtml"/>
+          </navPoint>
+          <navPoint id="np_74" playOrder="74">
+          <navLabel>
+          <text>Of Deformity</text>
+          </navLabel>
+          <content src="Text/part0092.xhtml"/>
+          </navPoint>
+          <navPoint id="np_75" playOrder="75">
+          <navLabel>
+          <text>Of Building</text>
+          </navLabel>
+          <content src="Text/part0093.xhtml"/>
+          </navPoint>
+          <navPoint id="np_76" playOrder="76">
+          <navLabel>
+          <text>Of Gardens</text>
+          </navLabel>
+          <content src="Text/part0094.xhtml"/>
+          </navPoint>
+          <navPoint id="np_77" playOrder="77">
+          <navLabel>
+          <text>Of Negotiating</text>
+          </navLabel>
+          <content src="Text/part0095.xhtml"/>
+          </navPoint>
+          <navPoint id="np_78" playOrder="78">
+          <navLabel>
+          <text>Of Suitors</text>
+          </navLabel>
+          <content src="Text/part0096.xhtml"/>
+          </navPoint>
+          <navPoint id="np_79" playOrder="79">
+          <navLabel>
+          <text>Of Studies</text>
+          </navLabel>
+          <content src="Text/part0097.xhtml"/>
+          </navPoint>
+          <navPoint id="np_80" playOrder="80">
+          <navLabel>
+          <text>Of Vainglory</text>
+          </navLabel>
+          <content src="Text/part0098.xhtml"/>
+          </navPoint>
+          <navPoint id="np_81" playOrder="81">
+          <navLabel>
+          <text>Of Anger</text>
+          </navLabel>
+          <content src="Text/part0099.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_82" playOrder="82">
+      <navLabel>
+      <text>弗洛伊德：文明与缺憾</text>
+      </navLabel>
+      <content src="Text/part0100.xhtml"/>
+        <navPoint id="np_83" playOrder="83">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0105.xhtml"/>
+        </navPoint>
+        <navPoint id="np_84" playOrder="84">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0106.xhtml"/>
+        </navPoint>
+        <navPoint id="np_85" playOrder="85">
+        <navLabel>
+        <text>文明与缺憾</text>
+        </navLabel>
+        <content src="Text/part0107.xhtml"/>
+        </navPoint>
+        <navPoint id="np_86" playOrder="86">
+        <navLabel>
+        <text>Ⅰ</text>
+        </navLabel>
+        <content src="Text/part0107.xhtml#sigil_toc_id_1"/>
+        </navPoint>
+        <navPoint id="np_87" playOrder="87">
+        <navLabel>
+        <text>Ⅱ</text>
+        </navLabel>
+        <content src="Text/part0107.xhtml#sigil_toc_id_2"/>
+        </navPoint>
+        <navPoint id="np_88" playOrder="88">
+        <navLabel>
+        <text>Ⅲ</text>
+        </navLabel>
+        <content src="Text/part0107.xhtml#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="np_89" playOrder="89">
+        <navLabel>
+        <text>Ⅳ</text>
+        </navLabel>
+        <content src="Text/part0107.xhtml#sigil_toc_id_4"/>
+        </navPoint>
+        <navPoint id="np_90" playOrder="90">
+        <navLabel>
+        <text>Ⅴ</text>
+        </navLabel>
+        <content src="Text/part0107.xhtml#sigil_toc_id_5"/>
+        </navPoint>
+        <navPoint id="np_91" playOrder="91">
+        <navLabel>
+        <text>Ⅵ</text>
+        </navLabel>
+        <content src="Text/part0107.xhtml#sigil_toc_id_6"/>
+        </navPoint>
+        <navPoint id="np_92" playOrder="92">
+        <navLabel>
+        <text>Ⅶ</text>
+        </navLabel>
+        <content src="Text/part0107.xhtml#sigil_toc_id_7"/>
+        </navPoint>
+        <navPoint id="np_93" playOrder="93">
+        <navLabel>
+        <text>Ⅷ</text>
+        </navLabel>
+        <content src="Text/part0107.xhtml#sigil_toc_id_8"/>
+        </navPoint>
+        <navPoint id="np_94" playOrder="94">
+        <navLabel>
+        <text>Civilization and Its Discontents</text>
+        </navLabel>
+        <content src="Text/part0109.xhtml"/>
+          <navPoint id="np_95" playOrder="95">
+          <navLabel>
+          <text>1</text>
+          </navLabel>
+          <content src="Text/part0111.xhtml"/>
+          </navPoint>
+          <navPoint id="np_96" playOrder="96">
+          <navLabel>
+          <text>2</text>
+          </navLabel>
+          <content src="Text/part0112.xhtml"/>
+          </navPoint>
+          <navPoint id="np_97" playOrder="97">
+          <navLabel>
+          <text>3</text>
+          </navLabel>
+          <content src="Text/part0113.xhtml"/>
+          </navPoint>
+          <navPoint id="np_98" playOrder="98">
+          <navLabel>
+          <text>4</text>
+          </navLabel>
+          <content src="Text/part0114.xhtml"/>
+          </navPoint>
+          <navPoint id="np_99" playOrder="99">
+          <navLabel>
+          <text>5</text>
+          </navLabel>
+          <content src="Text/part0115.xhtml"/>
+          </navPoint>
+          <navPoint id="np_100" playOrder="100">
+          <navLabel>
+          <text>6</text>
+          </navLabel>
+          <content src="Text/part0116.xhtml"/>
+          </navPoint>
+          <navPoint id="np_101" playOrder="101">
+          <navLabel>
+          <text>7</text>
+          </navLabel>
+          <content src="Text/part0117.xhtml"/>
+          </navPoint>
+          <navPoint id="np_102" playOrder="102">
+          <navLabel>
+          <text>8</text>
+          </navLabel>
+          <content src="Text/part0118.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_103" playOrder="103">
+      <navLabel>
+      <text>第一哲学沉思录</text>
+      </navLabel>
+      <content src="Text/part0119.xhtml"/>
+        <navPoint id="np_104" playOrder="104">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0124.xhtml"/>
+        </navPoint>
+        <navPoint id="np_105" playOrder="105">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0125.xhtml"/>
+        </navPoint>
+        <navPoint id="np_106" playOrder="106">
+        <navLabel>
+        <text>前言</text>
+        </navLabel>
+        <content src="Text/part0126.xhtml"/>
+        </navPoint>
+        <navPoint id="np_107" playOrder="107">
+        <navLabel>
+        <text>六个沉思之总结</text>
+        </navLabel>
+        <content src="Text/part0127.xhtml"/>
+        </navPoint>
+        <navPoint id="np_108" playOrder="108">
+        <navLabel>
+        <text>第一哲学沉思录</text>
+        </navLabel>
+        <content src="Text/part0128.xhtml"/>
+        </navPoint>
+        <navPoint id="np_109" playOrder="109">
+        <navLabel>
+        <text>反驳和答辩（节选）</text>
+        </navLabel>
+        <content src="Text/part0129.xhtml"/>
+        </navPoint>
+        <navPoint id="np_110" playOrder="110">
+        <navLabel>
+        <text>Meditations</text>
+        </navLabel>
+        <content src="Text/part0130.xhtml"/>
+          <navPoint id="np_111" playOrder="111">
+          <navLabel>
+          <text>Preface to the Reader</text>
+          </navLabel>
+          <content src="Text/part0132.xhtml"/>
+          </navPoint>
+          <navPoint id="np_112" playOrder="112">
+          <navLabel>
+          <text>Summary of the Following Six Meditations</text>
+          </navLabel>
+          <content src="Text/part0133.xhtml"/>
+          </navPoint>
+          <navPoint id="np_113" playOrder="113">
+          <navLabel>
+          <text>Meditations on First Philosophy</text>
+          </navLabel>
+          <content src="Text/part0134.xhtml"/>
+          </navPoint>
+          <navPoint id="np_114" playOrder="114">
+          <navLabel>
+          <text>Objections and Replies（Selections）</text>
+          </navLabel>
+          <content src="Text/part0135.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_115" playOrder="115">
+      <navLabel>
+      <text>恐惧和战栗</text>
+      </navLabel>
+      <content src="Text/part0136.xhtml"/>
+        <navPoint id="np_116" playOrder="116">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0141.xhtml"/>
+        </navPoint>
+        <navPoint id="np_117" playOrder="117">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0142.xhtml"/>
+        </navPoint>
+        <navPoint id="np_118" playOrder="118">
+        <navLabel>
+        <text>恐惧和战栗</text>
+        </navLabel>
+        <content src="Text/part0143.xhtml"/>
+          <navPoint id="np_119" playOrder="119">
+          <navLabel>
+          <text>前言</text>
+          </navLabel>
+          <content src="Text/part0143.xhtml#sigil_toc_id_1"/>
+          </navPoint>
+          <navPoint id="np_120" playOrder="120">
+          <navLabel>
+          <text>序幕</text>
+          </navLabel>
+          <content src="Text/part0143.xhtml#sigil_toc_id_2"/>
+          </navPoint>
+          <navPoint id="np_121" playOrder="121">
+          <navLabel>
+          <text>亚伯拉罕颂</text>
+          </navLabel>
+          <content src="Text/part0143.xhtml#sigil_toc_id_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="np_122" playOrder="122">
+        <navLabel>
+        <text>问题</text>
+        </navLabel>
+        <content src="Text/part0144.xhtml"/>
+          <navPoint id="np_123" playOrder="123">
+          <navLabel>
+          <text>源自内心的引言</text>
+          </navLabel>
+          <content src="Text/part0144.xhtml#sigil_toc_id_4"/>
+          </navPoint>
+          <navPoint id="np_124" playOrder="124">
+          <navLabel>
+          <text>问题一 可以从目的论的角度暂时停用伦理吗？</text>
+          </navLabel>
+          <content src="Text/part0144.xhtml#sigil_toc_id_5"/>
+          </navPoint>
+          <navPoint id="np_125" playOrder="125">
+          <navLabel>
+          <text>问题二 对上帝有一种绝对的义务吗？</text>
+          </navLabel>
+          <content src="Text/part0144.xhtml#sigil_toc_id_6"/>
+          </navPoint>
+          <navPoint id="np_126" playOrder="126">
+          <navLabel>
+          <text>问题三 亚伯拉罕对撒拉、以利亚撒和以撒隐瞒自己的目的，这在伦理上合乎情理吗？</text>
+          </navLabel>
+          <content src="Text/part0144.xhtml#sigil_toc_id_7"/>
+          </navPoint>
+          <navPoint id="np_127" playOrder="127">
+          <navLabel>
+          <text>后记</text>
+          </navLabel>
+          <content src="Text/part0144.xhtml#sigil_toc_id_8"/>
+          </navPoint>
+          <navPoint id="np_128" playOrder="128">
+          <navLabel>
+          <text>Fear and Trembling</text>
+          </navLabel>
+          <content src="Text/part0146.xhtml"/>
+            <navPoint id="np_129" playOrder="129">
+            <navLabel>
+            <text>Fear and Trembling</text>
+            </navLabel>
+            <content src="Text/part0148.xhtml"/>
+            </navPoint>
+            <navPoint id="np_130" playOrder="130">
+            <navLabel>
+            <text>Preface</text>
+            </navLabel>
+            <content src="Text/part0149.xhtml"/>
+            </navPoint>
+            <navPoint id="np_131" playOrder="131">
+            <navLabel>
+            <text>Attunement</text>
+            </navLabel>
+            <content src="Text/part0150.xhtml"/>
+            </navPoint>
+            <navPoint id="np_132" playOrder="132">
+            <navLabel>
+            <text>Speech in Praise of Abraham</text>
+            </navLabel>
+            <content src="Text/part0151.xhtml"/>
+            </navPoint>
+            <navPoint id="np_133" playOrder="133">
+            <navLabel>
+            <text>Problemata</text>
+            </navLabel>
+            <content src="Text/part0152.xhtml"/>
+            </navPoint>
+            <navPoint id="np_134" playOrder="134">
+            <navLabel>
+            <text>Epilogue</text>
+            </navLabel>
+            <content src="Text/part0153.xhtml"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_135" playOrder="135">
+      <navLabel>
+      <text>驳自由之敌</text>
+      </navLabel>
+      <content src="Text/part0154.xhtml"/>
+        <navPoint id="np_136" playOrder="136">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0159.xhtml"/>
+        </navPoint>
+        <navPoint id="np_137" playOrder="137">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0160.xhtml"/>
+        </navPoint>
+        <navPoint id="np_138" playOrder="138">
+        <navLabel>
+        <text>反腓力辞之一：驳马克·安东尼</text>
+        </navLabel>
+        <content src="Text/part0161.xhtml"/>
+        </navPoint>
+        <navPoint id="np_139" playOrder="139">
+        <navLabel>
+        <text>驳自由之敌（反腓力辞之二：驳马克·安东尼）</text>
+        </navLabel>
+        <content src="Text/part0162.xhtml"/>
+        </navPoint>
+        <navPoint id="np_140" playOrder="140">
+        <navLabel>
+        <text>An Attack on an Enemy of Freedom</text>
+        </navLabel>
+        <content src="Text/part0164.xhtml"/>
+          <navPoint id="np_141" playOrder="141">
+          <navLabel>
+          <text>The First Philippic against Mark Antony</text>
+          </navLabel>
+          <content src="Text/part0166.xhtml"/>
+          </navPoint>
+          <navPoint id="np_142" playOrder="142">
+          <navLabel>
+          <text>An Attack on an Enemy of Freedom （The Second Philippic against Mark Antony）</text>
+          </navLabel>
+          <content src="Text/part0167.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_143" playOrder="143">
+      <navLabel>
+      <text>记忆之灯</text>
+      </navLabel>
+      <content src="Text/part0168.xhtml"/>
+        <navPoint id="np_144" playOrder="144">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0173.xhtml"/>
+        </navPoint>
+        <navPoint id="np_145" playOrder="145">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0174.xhtml"/>
+        </navPoint>
+        <navPoint id="np_146" playOrder="146">
+        <navLabel>
+        <text>记忆之灯</text>
+        </navLabel>
+        <content src="Text/part0175.xhtml"/>
+        </navPoint>
+        <navPoint id="np_147" playOrder="147">
+        <navLabel>
+        <text>剑桥艺术学校：开学致辞（1858）</text>
+        </navLabel>
+        <content src="Text/part0176.xhtml"/>
+        </navPoint>
+        <navPoint id="np_148" playOrder="148">
+        <navLabel>
+        <text>国王的宝藏</text>
+        </navLabel>
+        <content src="Text/part0177.xhtml"/>
+        </navPoint>
+        <navPoint id="np_149" playOrder="149">
+        <navLabel>
+        <text>交易</text>
+        </navLabel>
+        <content src="Text/part0178.xhtml"/>
+        </navPoint>
+        <navPoint id="np_150" playOrder="150">
+        <navLabel>
+        <text>The Lamp of Memory</text>
+        </navLabel>
+        <content src="Text/part0180.xhtml"/>
+          <navPoint id="np_151" playOrder="151">
+          <navLabel>
+          <text>The Lamp of Memory</text>
+          </navLabel>
+          <content src="Text/part0182.xhtml"/>
+          </navPoint>
+          <navPoint id="np_152" playOrder="152">
+          <navLabel>
+          <text>Cambridge School of Art: Inaugural Address (1858)</text>
+          </navLabel>
+          <content src="Text/part0183.xhtml"/>
+          </navPoint>
+          <navPoint id="np_153" playOrder="153">
+          <navLabel>
+          <text>Of Kings' Treasuries</text>
+          </navLabel>
+          <content src="Text/part0184.xhtml"/>
+          </navPoint>
+          <navPoint id="np_154" playOrder="154">
+          <navLabel>
+          <text>Traffic</text>
+          </navLabel>
+          <content src="Text/part0185.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_155" playOrder="155">
+    <navLabel>
+    <text>伟大的思想第2辑（套装共8册）</text>
+    </navLabel>
+    <content src="Text/part0187.xhtml"/>
+      <navPoint id="np_156" playOrder="156">
+      <navLabel>
+      <text>奥古斯丁：忏悔录</text>
+      </navLabel>
+      <content src="Text/part0189.xhtml"/>
+        <navPoint id="np_157" playOrder="157">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0194.xhtml"/>
+        </navPoint>
+        <navPoint id="np_158" playOrder="158">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0195.xhtml"/>
+        </navPoint>
+        <navPoint id="np_159" playOrder="159">
+        <navLabel>
+        <text>第一卷</text>
+        </navLabel>
+        <content src="Text/part0196.xhtml"/>
+        </navPoint>
+        <navPoint id="np_160" playOrder="160">
+        <navLabel>
+        <text>第二卷</text>
+        </navLabel>
+        <content src="Text/part0197.xhtml"/>
+        </navPoint>
+        <navPoint id="np_161" playOrder="161">
+        <navLabel>
+        <text>第三卷</text>
+        </navLabel>
+        <content src="Text/part0198.xhtml"/>
+        </navPoint>
+        <navPoint id="np_162" playOrder="162">
+        <navLabel>
+        <text>第四卷</text>
+        </navLabel>
+        <content src="Text/part0199.xhtml"/>
+        </navPoint>
+        <navPoint id="np_163" playOrder="163">
+        <navLabel>
+        <text>第五卷</text>
+        </navLabel>
+        <content src="Text/part0200.xhtml"/>
+        </navPoint>
+        <navPoint id="np_164" playOrder="164">
+        <navLabel>
+        <text>第六卷</text>
+        </navLabel>
+        <content src="Text/part0201.xhtml"/>
+        </navPoint>
+        <navPoint id="np_165" playOrder="165">
+        <navLabel>
+        <text>第七卷</text>
+        </navLabel>
+        <content src="Text/part0202.xhtml"/>
+        </navPoint>
+        <navPoint id="np_166" playOrder="166">
+        <navLabel>
+        <text>第八卷</text>
+        </navLabel>
+        <content src="Text/part0203.xhtml"/>
+        </navPoint>
+        <navPoint id="np_167" playOrder="167">
+        <navLabel>
+        <text>第九卷</text>
+        </navLabel>
+        <content src="Text/part0204.xhtml"/>
+        </navPoint>
+        <navPoint id="np_168" playOrder="168">
+        <navLabel>
+        <text>第十卷</text>
+        </navLabel>
+        <content src="Text/part0205.xhtml"/>
+        </navPoint>
+        <navPoint id="np_169" playOrder="169">
+        <navLabel>
+        <text>第十一卷</text>
+        </navLabel>
+        <content src="Text/part0206.xhtml"/>
+        </navPoint>
+        <navPoint id="np_170" playOrder="170">
+        <navLabel>
+        <text>第十二卷</text>
+        </navLabel>
+        <content src="Text/part0207.xhtml"/>
+        </navPoint>
+        <navPoint id="np_171" playOrder="171">
+        <navLabel>
+        <text>第十三卷</text>
+        </navLabel>
+        <content src="Text/part0208.xhtml"/>
+        </navPoint>
+        <navPoint id="np_172" playOrder="172">
+        <navLabel>
+        <text>Confessions of a Sinner</text>
+        </navLabel>
+        <content src="Text/part0210.xhtml"/>
+          <navPoint id="np_173" playOrder="173">
+          <navLabel>
+          <text>Book I</text>
+          </navLabel>
+          <content src="Text/part0212.xhtml"/>
+          </navPoint>
+          <navPoint id="np_174" playOrder="174">
+          <navLabel>
+          <text>Book II</text>
+          </navLabel>
+          <content src="Text/part0213.xhtml"/>
+          </navPoint>
+          <navPoint id="np_175" playOrder="175">
+          <navLabel>
+          <text>Book III</text>
+          </navLabel>
+          <content src="Text/part0214.xhtml"/>
+          </navPoint>
+          <navPoint id="np_176" playOrder="176">
+          <navLabel>
+          <text>Book IV</text>
+          </navLabel>
+          <content src="Text/part0215.xhtml"/>
+          </navPoint>
+          <navPoint id="np_177" playOrder="177">
+          <navLabel>
+          <text>Book V</text>
+          </navLabel>
+          <content src="Text/part0216.xhtml"/>
+          </navPoint>
+          <navPoint id="np_178" playOrder="178">
+          <navLabel>
+          <text>Book VI</text>
+          </navLabel>
+          <content src="Text/part0217.xhtml"/>
+          </navPoint>
+          <navPoint id="np_179" playOrder="179">
+          <navLabel>
+          <text>Book VII</text>
+          </navLabel>
+          <content src="Text/part0218.xhtml"/>
+          </navPoint>
+          <navPoint id="np_180" playOrder="180">
+          <navLabel>
+          <text>Book VIII</text>
+          </navLabel>
+          <content src="Text/part0219.xhtml"/>
+          </navPoint>
+          <navPoint id="np_181" playOrder="181">
+          <navLabel>
+          <text>Book IX</text>
+          </navLabel>
+          <content src="Text/part0220.xhtml"/>
+          </navPoint>
+          <navPoint id="np_182" playOrder="182">
+          <navLabel>
+          <text>Book X</text>
+          </navLabel>
+          <content src="Text/part0221.xhtml"/>
+          </navPoint>
+          <navPoint id="np_183" playOrder="183">
+          <navLabel>
+          <text>Book XI</text>
+          </navLabel>
+          <content src="Text/part0222.xhtml"/>
+          </navPoint>
+          <navPoint id="np_184" playOrder="184">
+          <navLabel>
+          <text>Book XII</text>
+          </navLabel>
+          <content src="Text/part0223.xhtml"/>
+          </navPoint>
+          <navPoint id="np_185" playOrder="185">
+          <navLabel>
+          <text>Book XIII</text>
+          </navLabel>
+          <content src="Text/part0224.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_186" playOrder="186">
+      <navLabel>
+      <text>论友谊</text>
+      </navLabel>
+      <content src="Text/part0225.xhtml"/>
+        <navPoint id="np_187" playOrder="187">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0230.xhtml"/>
+        </navPoint>
+        <navPoint id="np_188" playOrder="188">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0231.xhtml"/>
+        </navPoint>
+        <navPoint id="np_189" playOrder="189">
+        <navLabel>
+        <text>论友谊</text>
+        </navLabel>
+        <content src="Text/part0232.xhtml"/>
+        </navPoint>
+        <navPoint id="np_190" playOrder="190">
+        <navLabel>
+        <text>依靠我们自己的能力来判断是非那简直是疯了</text>
+        </navLabel>
+        <content src="Text/part0233.xhtml"/>
+        </navPoint>
+        <navPoint id="np_191" playOrder="191">
+        <navLabel>
+        <text>论谈话艺术</text>
+        </navLabel>
+        <content src="Text/part0234.xhtml"/>
+        </navPoint>
+        <navPoint id="np_192" playOrder="192">
+        <navLabel>
+        <text>论闲散</text>
+        </navLabel>
+        <content src="Text/part0235.xhtml"/>
+        </navPoint>
+        <navPoint id="np_193" playOrder="193">
+        <navLabel>
+        <text>论父亲对孩子的感情</text>
+        </navLabel>
+        <content src="Text/part0236.xhtml"/>
+        </navPoint>
+        <navPoint id="np_194" playOrder="194">
+        <navLabel>
+        <text>论适度</text>
+        </navLabel>
+        <content src="Text/part0237.xhtml"/>
+        </navPoint>
+        <navPoint id="np_195" playOrder="195">
+        <navLabel>
+        <text>直到死才能断定是不是幸福</text>
+        </navLabel>
+        <content src="Text/part0238.xhtml"/>
+        </navPoint>
+        <navPoint id="np_196" playOrder="196">
+        <navLabel>
+        <text>On Friendship</text>
+        </navLabel>
+        <content src="Text/part0240.xhtml"/>
+          <navPoint id="np_197" playOrder="197">
+          <navLabel>
+          <text>1 On friendship</text>
+          </navLabel>
+          <content src="Text/part0242.xhtml"/>
+          </navPoint>
+          <navPoint id="np_198" playOrder="198">
+          <navLabel>
+          <text>2 That it is madness to judge the true and the false from our own capacities</text>
+          </navLabel>
+          <content src="Text/part0243.xhtml"/>
+          </navPoint>
+          <navPoint id="np_199" playOrder="199">
+          <navLabel>
+          <text>3 On the art of conversation</text>
+          </navLabel>
+          <content src="Text/part0244.xhtml"/>
+          </navPoint>
+          <navPoint id="np_200" playOrder="200">
+          <navLabel>
+          <text>4 On idleness</text>
+          </navLabel>
+          <content src="Text/part0245.xhtml"/>
+          </navPoint>
+          <navPoint id="np_201" playOrder="201">
+          <navLabel>
+          <text>5 On the affection of fathers for their children</text>
+          </navLabel>
+          <content src="Text/part0246.xhtml"/>
+          </navPoint>
+          <navPoint id="np_202" playOrder="202">
+          <navLabel>
+          <text>6 On moderation</text>
+          </navLabel>
+          <content src="Text/part0247.xhtml"/>
+          </navPoint>
+          <navPoint id="np_203" playOrder="203">
+          <navLabel>
+          <text>7 That we should not be deemed happy till after our death</text>
+          </navLabel>
+          <content src="Text/part0248.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_204" playOrder="204">
+      <navLabel>
+      <text>女权辩护</text>
+      </navLabel>
+      <content src="Text/part0249.xhtml"/>
+        <navPoint id="np_205" playOrder="205">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0254.xhtml"/>
+        </navPoint>
+        <navPoint id="np_206" playOrder="206">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0255.xhtml"/>
+        </navPoint>
+        <navPoint id="np_207" playOrder="207">
+        <navLabel>
+        <text>作者前言</text>
+        </navLabel>
+        <content src="Text/part0256.xhtml"/>
+        </navPoint>
+        <navPoint id="np_208" playOrder="208">
+        <navLabel>
+        <text>关于两性品格流行观点的讨论</text>
+        </navLabel>
+        <content src="Text/part0257.xhtml"/>
+        </navPoint>
+        <navPoint id="np_209" playOrder="209">
+        <navLabel>
+        <text>再论关于两性品格的流行观点</text>
+        </navLabel>
+        <content src="Text/part0258.xhtml"/>
+        </navPoint>
+        <navPoint id="np_210" playOrder="210">
+        <navLabel>
+        <text>关于使女人堕落的原因探讨</text>
+        </navLabel>
+        <content src="Text/part0259.xhtml"/>
+        </navPoint>
+        <navPoint id="np_211" playOrder="211">
+        <navLabel>
+        <text>各种关于良好声誉重要性的性别观念对道德的损害</text>
+        </navLabel>
+        <content src="Text/part0260.xhtml"/>
+        </navPoint>
+        <navPoint id="np_212" playOrder="212">
+        <navLabel>
+        <text>社会上既定的不合理差别造成的有害影响</text>
+        </navLabel>
+        <content src="Text/part0261.xhtml"/>
+        </navPoint>
+        <navPoint id="np_213" playOrder="213">
+        <navLabel>
+        <text>论国民教育</text>
+        </navLabel>
+        <content src="Text/part0262.xhtml"/>
+        </navPoint>
+        <navPoint id="np_214" playOrder="214">
+        <navLabel>
+        <text>女人的无知导致的数例蠢行；结束语：论女性习俗的变革必然期望带来的道德进步</text>
+        </navLabel>
+        <content src="Text/part0263.xhtml"/>
+        </navPoint>
+        <navPoint id="np_215" playOrder="215">
+        <navLabel>
+        <text>A Vindication of the Rights of Woman</text>
+        </navLabel>
+        <content src="Text/part0265.xhtml"/>
+          <navPoint id="np_216" playOrder="216">
+          <navLabel>
+          <text>Author's Introduction</text>
+          </navLabel>
+          <content src="Text/part0267.xhtml"/>
+          </navPoint>
+          <navPoint id="np_217" playOrder="217">
+          <navLabel>
+          <text>The Prevailing Opinion of a Sexual Character Discussed</text>
+          </navLabel>
+          <content src="Text/part0268.xhtml"/>
+          </navPoint>
+          <navPoint id="np_218" playOrder="218">
+          <navLabel>
+          <text>The Same Subject Continued</text>
+          </navLabel>
+          <content src="Text/part0269.xhtml"/>
+          </navPoint>
+          <navPoint id="np_219" playOrder="219">
+          <navLabel>
+          <text>Observations on the State of Degradation to which Woman is Reduced by Various Causes</text>
+          </navLabel>
+          <content src="Text/part0270.xhtml"/>
+          </navPoint>
+          <navPoint id="np_220" playOrder="220">
+          <navLabel>
+          <text>Morality Undermined by Sexual Notions of the Importance of a Good Reputation</text>
+          </navLabel>
+          <content src="Text/part0271.xhtml"/>
+          </navPoint>
+          <navPoint id="np_221" playOrder="221">
+          <navLabel>
+          <text>Of the Pernicious Effects which Arise from the Unnatural Distinctions Established in Society</text>
+          </navLabel>
+          <content src="Text/part0272.xhtml"/>
+          </navPoint>
+          <navPoint id="np_222" playOrder="222">
+          <navLabel>
+          <text>On National Education</text>
+          </navLabel>
+          <content src="Text/part0273.xhtml"/>
+          </navPoint>
+          <navPoint id="np_223" playOrder="223">
+          <navLabel>
+          <text>Some Instances of the Folly which the Ignorance of Women Generates; with Concluding Reflections on the Moral Improvement that a Revolution in Female Manners Might Naturally Be Expected to Produce</text>
+          </navLabel>
+          <content src="Text/part0274.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_224" playOrder="224">
+      <navLabel>
+      <text>沉思录</text>
+      </navLabel>
+      <content src="Text/part0275.xhtml"/>
+        <navPoint id="np_225" playOrder="225">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0280.xhtml"/>
+        </navPoint>
+        <navPoint id="np_226" playOrder="226">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0281.xhtml"/>
+        </navPoint>
+        <navPoint id="np_227" playOrder="227">
+        <navLabel>
+        <text>卷一</text>
+        </navLabel>
+        <content src="Text/part0282.xhtml"/>
+        </navPoint>
+        <navPoint id="np_228" playOrder="228">
+        <navLabel>
+        <text>卷二</text>
+        </navLabel>
+        <content src="Text/part0283.xhtml"/>
+        </navPoint>
+        <navPoint id="np_229" playOrder="229">
+        <navLabel>
+        <text>卷三</text>
+        </navLabel>
+        <content src="Text/part0284.xhtml"/>
+        </navPoint>
+        <navPoint id="np_230" playOrder="230">
+        <navLabel>
+        <text>卷四</text>
+        </navLabel>
+        <content src="Text/part0285.xhtml"/>
+        </navPoint>
+        <navPoint id="np_231" playOrder="231">
+        <navLabel>
+        <text>卷五</text>
+        </navLabel>
+        <content src="Text/part0286.xhtml"/>
+        </navPoint>
+        <navPoint id="np_232" playOrder="232">
+        <navLabel>
+        <text>卷六</text>
+        </navLabel>
+        <content src="Text/part0287.xhtml"/>
+        </navPoint>
+        <navPoint id="np_233" playOrder="233">
+        <navLabel>
+        <text>卷七</text>
+        </navLabel>
+        <content src="Text/part0288.xhtml"/>
+        </navPoint>
+        <navPoint id="np_234" playOrder="234">
+        <navLabel>
+        <text>卷八</text>
+        </navLabel>
+        <content src="Text/part0289.xhtml"/>
+        </navPoint>
+        <navPoint id="np_235" playOrder="235">
+        <navLabel>
+        <text>卷九</text>
+        </navLabel>
+        <content src="Text/part0290.xhtml"/>
+        </navPoint>
+        <navPoint id="np_236" playOrder="236">
+        <navLabel>
+        <text>卷十</text>
+        </navLabel>
+        <content src="Text/part0291.xhtml"/>
+        </navPoint>
+        <navPoint id="np_237" playOrder="237">
+        <navLabel>
+        <text>卷十一</text>
+        </navLabel>
+        <content src="Text/part0292.xhtml"/>
+        </navPoint>
+        <navPoint id="np_238" playOrder="238">
+        <navLabel>
+        <text>卷十二</text>
+        </navLabel>
+        <content src="Text/part0293.xhtml"/>
+        </navPoint>
+        <navPoint id="np_239" playOrder="239">
+        <navLabel>
+        <text>Meditations</text>
+        </navLabel>
+        <content src="Text/part0295.xhtml"/>
+          <navPoint id="np_240" playOrder="240">
+          <navLabel>
+          <text>Book One</text>
+          </navLabel>
+          <content src="Text/part0297.xhtml"/>
+          </navPoint>
+          <navPoint id="np_241" playOrder="241">
+          <navLabel>
+          <text>Book Two</text>
+          </navLabel>
+          <content src="Text/part0298.xhtml"/>
+          </navPoint>
+          <navPoint id="np_242" playOrder="242">
+          <navLabel>
+          <text>Book Three</text>
+          </navLabel>
+          <content src="Text/part0299.xhtml"/>
+          </navPoint>
+          <navPoint id="np_243" playOrder="243">
+          <navLabel>
+          <text>Book Four</text>
+          </navLabel>
+          <content src="Text/part0300.xhtml"/>
+          </navPoint>
+          <navPoint id="np_244" playOrder="244">
+          <navLabel>
+          <text>Book Five</text>
+          </navLabel>
+          <content src="Text/part0301.xhtml"/>
+          </navPoint>
+          <navPoint id="np_245" playOrder="245">
+          <navLabel>
+          <text>Book Six</text>
+          </navLabel>
+          <content src="Text/part0302.xhtml"/>
+          </navPoint>
+          <navPoint id="np_246" playOrder="246">
+          <navLabel>
+          <text>Book Seven</text>
+          </navLabel>
+          <content src="Text/part0303.xhtml"/>
+          </navPoint>
+          <navPoint id="np_247" playOrder="247">
+          <navLabel>
+          <text>Book Eight</text>
+          </navLabel>
+          <content src="Text/part0304.xhtml"/>
+          </navPoint>
+          <navPoint id="np_248" playOrder="248">
+          <navLabel>
+          <text>Book Nine</text>
+          </navLabel>
+          <content src="Text/part0305.xhtml"/>
+          </navPoint>
+          <navPoint id="np_249" playOrder="249">
+          <navLabel>
+          <text>Book Ten</text>
+          </navLabel>
+          <content src="Text/part0306.xhtml"/>
+          </navPoint>
+          <navPoint id="np_250" playOrder="250">
+          <navLabel>
+          <text>Book Eleven</text>
+          </navLabel>
+          <content src="Text/part0307.xhtml"/>
+          </navPoint>
+          <navPoint id="np_251" playOrder="251">
+          <navLabel>
+          <text>Book Twelve</text>
+          </navLabel>
+          <content src="Text/part0308.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_252" playOrder="252">
+      <navLabel>
+      <text>伦敦夜行记</text>
+      </navLabel>
+      <content src="Text/part0309.xhtml"/>
+        <navPoint id="np_253" playOrder="253">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0314.xhtml"/>
+        </navPoint>
+        <navPoint id="np_254" playOrder="254">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0315.xhtml"/>
+        </navPoint>
+        <navPoint id="np_255" playOrder="255">
+        <navLabel>
+        <text>伦敦夜行记</text>
+        </navLabel>
+        <content src="Text/part0316.xhtml"/>
+        </navPoint>
+        <navPoint id="np_256" playOrder="256">
+        <navLabel>
+        <text>迷失金融城</text>
+        </navLabel>
+        <content src="Text/part0317.xhtml"/>
+        </navPoint>
+        <navPoint id="np_257" playOrder="257">
+        <navLabel>
+        <text>查塔姆造船厂</text>
+        </navLabel>
+        <content src="Text/part0318.xhtml"/>
+        </navPoint>
+        <navPoint id="np_258" playOrder="258">
+        <navLabel>
+        <text>沃平救济院</text>
+        </navLabel>
+        <content src="Text/part0319.xhtml"/>
+        </navPoint>
+        <navPoint id="np_259" playOrder="259">
+        <navLabel>
+        <text>东方的小星</text>
+        </navLabel>
+        <content src="Text/part0320.xhtml"/>
+        </navPoint>
+        <navPoint id="np_260" playOrder="260">
+        <navLabel>
+        <text>业余警察在巡逻</text>
+        </navLabel>
+        <content src="Text/part0321.xhtml"/>
+        </navPoint>
+        <navPoint id="np_261" playOrder="261">
+        <navLabel>
+        <text>赛马彩票店</text>
+        </navLabel>
+        <content src="Text/part0322.xhtml"/>
+        </navPoint>
+        <navPoint id="np_262" playOrder="262">
+        <navLabel>
+        <text>死亡交易</text>
+        </navLabel>
+        <content src="Text/part0323.xhtml"/>
+        </navPoint>
+        <navPoint id="np_263" playOrder="263">
+        <navLabel>
+        <text>Night Walks</text>
+        </navLabel>
+        <content src="Text/part0325.xhtml"/>
+          <navPoint id="np_264" playOrder="264">
+          <navLabel>
+          <text>Night Walks</text>
+          </navLabel>
+          <content src="Text/part0327.xhtml"/>
+          </navPoint>
+          <navPoint id="np_265" playOrder="265">
+          <navLabel>
+          <text>Gone Astray</text>
+          </navLabel>
+          <content src="Text/part0328.xhtml"/>
+          </navPoint>
+          <navPoint id="np_266" playOrder="266">
+          <navLabel>
+          <text>Chatham Dockyard</text>
+          </navLabel>
+          <content src="Text/part0329.xhtml"/>
+          </navPoint>
+          <navPoint id="np_267" playOrder="267">
+          <navLabel>
+          <text>Wapping Workhouse</text>
+          </navLabel>
+          <content src="Text/part0330.xhtml"/>
+          </navPoint>
+          <navPoint id="np_268" playOrder="268">
+          <navLabel>
+          <text>A Small Star in the East</text>
+          </navLabel>
+          <content src="Text/part0331.xhtml"/>
+          </navPoint>
+          <navPoint id="np_269" playOrder="269">
+          <navLabel>
+          <text>On an Amateur Beat</text>
+          </navLabel>
+          <content src="Text/part0332.xhtml"/>
+          </navPoint>
+          <navPoint id="np_270" playOrder="270">
+          <navLabel>
+          <text>Betting-Shops</text>
+          </navLabel>
+          <content src="Text/part0333.xhtml"/>
+          </navPoint>
+          <navPoint id="np_271" playOrder="271">
+          <navLabel>
+          <text>Trading in Death</text>
+          </navLabel>
+          <content src="Text/part0334.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_272" playOrder="272">
+      <navLabel>
+      <text>空袭中的沉思</text>
+      </navLabel>
+      <content src="Text/part0335.xhtml"/>
+        <navPoint id="np_273" playOrder="273">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0340.xhtml"/>
+        </navPoint>
+        <navPoint id="np_274" playOrder="274">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0341.xhtml"/>
+        </navPoint>
+        <navPoint id="np_275" playOrder="275">
+        <navLabel>
+        <text>空袭中的沉思</text>
+        </navLabel>
+        <content src="Text/part0342.xhtml"/>
+        </navPoint>
+        <navPoint id="np_276" playOrder="276">
+        <navLabel>
+        <text>城市漫步</text>
+        </navLabel>
+        <content src="Text/part0343.xhtml"/>
+        </navPoint>
+        <navPoint id="np_277" playOrder="277">
+        <navLabel>
+        <text>牛津街浪潮</text>
+        </navLabel>
+        <content src="Text/part0344.xhtml"/>
+        </navPoint>
+        <navPoint id="np_278" playOrder="278">
+        <navLabel>
+        <text>工艺</text>
+        </navLabel>
+        <content src="Text/part0345.xhtml"/>
+        </navPoint>
+        <navPoint id="np_279" playOrder="279">
+        <navLabel>
+        <text>传记艺术</text>
+        </navLabel>
+        <content src="Text/part0346.xhtml"/>
+        </navPoint>
+        <navPoint id="np_280" playOrder="280">
+        <navLabel>
+        <text>对当代文学的印象</text>
+        </navLabel>
+        <content src="Text/part0347.xhtml"/>
+        </navPoint>
+        <navPoint id="np_281" playOrder="281">
+        <navLabel>
+        <text>为什么</text>
+        </navLabel>
+        <content src="Text/part0348.xhtml"/>
+        </navPoint>
+        <navPoint id="np_282" playOrder="282">
+        <navLabel>
+        <text>读者和报春花</text>
+        </navLabel>
+        <content src="Text/part0349.xhtml"/>
+        </navPoint>
+        <navPoint id="np_283" playOrder="283">
+        <navLabel>
+        <text>现代小说</text>
+        </navLabel>
+        <content src="Text/part0350.xhtml"/>
+        </navPoint>
+        <navPoint id="np_284" playOrder="284">
+        <navLabel>
+        <text>应该如何阅读</text>
+        </navLabel>
+        <content src="Text/part0351.xhtml"/>
+        </navPoint>
+        <navPoint id="np_285" playOrder="285">
+        <navLabel>
+        <text>Thoughts on Peace in an Air Raid</text>
+        </navLabel>
+        <content src="Text/part0353.xhtml"/>
+          <navPoint id="np_286" playOrder="286">
+          <navLabel>
+          <text>Thoughts on Peace in an Air Raid</text>
+          </navLabel>
+          <content src="Text/part0355.xhtml"/>
+          </navPoint>
+          <navPoint id="np_287" playOrder="287">
+          <navLabel>
+          <text>Street Haunting</text>
+          </navLabel>
+          <content src="Text/part0356.xhtml"/>
+          </navPoint>
+          <navPoint id="np_288" playOrder="288">
+          <navLabel>
+          <text>Oxford Street Tide</text>
+          </navLabel>
+          <content src="Text/part0357.xhtml"/>
+          </navPoint>
+          <navPoint id="np_289" playOrder="289">
+          <navLabel>
+          <text>Craftsmanship</text>
+          </navLabel>
+          <content src="Text/part0358.xhtml"/>
+          </navPoint>
+          <navPoint id="np_290" playOrder="290">
+          <navLabel>
+          <text>The Art of Biography</text>
+          </navLabel>
+          <content src="Text/part0359.xhtml"/>
+          </navPoint>
+          <navPoint id="np_291" playOrder="291">
+          <navLabel>
+          <text>How It Strikes a Contemporary</text>
+          </navLabel>
+          <content src="Text/part0360.xhtml"/>
+          </navPoint>
+          <navPoint id="np_292" playOrder="292">
+          <navLabel>
+          <text>Why?</text>
+          </navLabel>
+          <content src="Text/part0361.xhtml"/>
+          </navPoint>
+          <navPoint id="np_293" playOrder="293">
+          <navLabel>
+          <text>The Patron and the Crocus</text>
+          </navLabel>
+          <content src="Text/part0362.xhtml"/>
+          </navPoint>
+          <navPoint id="np_294" playOrder="294">
+          <navLabel>
+          <text>Modern Fiction</text>
+          </navLabel>
+          <content src="Text/part0363.xhtml"/>
+          </navPoint>
+          <navPoint id="np_295" playOrder="295">
+          <navLabel>
+          <text>How Should One Read a Book?</text>
+          </navLabel>
+          <content src="Text/part0364.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_296" playOrder="296">
+      <navLabel>
+      <text>时尚和死亡的对话</text>
+      </navLabel>
+      <content src="Text/part0365.xhtml"/>
+        <navPoint id="np_297" playOrder="297">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0370.xhtml"/>
+        </navPoint>
+        <navPoint id="np_298" playOrder="298">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0371.xhtml"/>
+        </navPoint>
+        <navPoint id="np_299" playOrder="299">
+        <navLabel>
+        <text>海格立斯和阿特拉斯的对话</text>
+        </navLabel>
+        <content src="Text/part0372.xhtml"/>
+        </navPoint>
+        <navPoint id="np_300" playOrder="300">
+        <navLabel>
+        <text>时尚和死亡的对话</text>
+        </navLabel>
+        <content src="Text/part0373.xhtml"/>
+        </navPoint>
+        <navPoint id="np_301" playOrder="301">
+        <navLabel>
+        <text>地球和月亮的对话</text>
+        </navLabel>
+        <content src="Text/part0374.xhtml"/>
+        </navPoint>
+        <navPoint id="np_302" playOrder="302">
+        <navLabel>
+        <text>普罗米修斯的赌注</text>
+        </navLabel>
+        <content src="Text/part0375.xhtml"/>
+        </navPoint>
+        <navPoint id="np_303" playOrder="303">
+        <navLabel>
+        <text>自然和冰岛人的对话</text>
+        </navLabel>
+        <content src="Text/part0376.xhtml"/>
+        </navPoint>
+        <navPoint id="np_304" playOrder="304">
+        <navLabel>
+        <text>弗瑞德里克·鲁谢和木乃伊们的对话</text>
+        </navLabel>
+        <content src="Text/part0377.xhtml"/>
+        </navPoint>
+        <navPoint id="np_305" playOrder="305">
+        <navLabel>
+        <text>克里斯托弗·哥伦布和佩德罗·古铁雷斯的对话</text>
+        </navLabel>
+        <content src="Text/part0378.xhtml"/>
+        </navPoint>
+        <navPoint id="np_306" playOrder="306">
+        <navLabel>
+        <text>雀之礼赞</text>
+        </navLabel>
+        <content src="Text/part0379.xhtml"/>
+        </navPoint>
+        <navPoint id="np_307" playOrder="307">
+        <navLabel>
+        <text>伟大的野公鸡之歌</text>
+        </navLabel>
+        <content src="Text/part0380.xhtml"/>
+        </navPoint>
+        <navPoint id="np_308" playOrder="308">
+        <navLabel>
+        <text>哥白尼的任务</text>
+        </navLabel>
+        <content src="Text/part0381.xhtml"/>
+        </navPoint>
+        <navPoint id="np_309" playOrder="309">
+        <navLabel>
+        <text>年历小贩和一名路人的对话</text>
+        </navLabel>
+        <content src="Text/part0382.xhtml"/>
+        </navPoint>
+        <navPoint id="np_310" playOrder="310">
+        <navLabel>
+        <text>Dialogue Between Fashion and Death</text>
+        </navLabel>
+        <content src="Text/part0383.xhtml"/>
+          <navPoint id="np_311" playOrder="311">
+          <navLabel>
+          <text>Dialogue Between Hercules and Atlas</text>
+          </navLabel>
+          <content src="Text/part0385.xhtml"/>
+          </navPoint>
+          <navPoint id="np_312" playOrder="312">
+          <navLabel>
+          <text>Dialogue Between Fashion and Death</text>
+          </navLabel>
+          <content src="Text/part0386.xhtml"/>
+          </navPoint>
+          <navPoint id="np_313" playOrder="313">
+          <navLabel>
+          <text>Dialogue Between the Earth and the Moon</text>
+          </navLabel>
+          <content src="Text/part0387.xhtml"/>
+          </navPoint>
+          <navPoint id="np_314" playOrder="314">
+          <navLabel>
+          <text>The Wager of Prometheus</text>
+          </navLabel>
+          <content src="Text/part0388.xhtml"/>
+          </navPoint>
+          <navPoint id="np_315" playOrder="315">
+          <navLabel>
+          <text>Dialogue Between Nature and an Icelander</text>
+          </navLabel>
+          <content src="Text/part0389.xhtml"/>
+          </navPoint>
+          <navPoint id="np_316" playOrder="316">
+          <navLabel>
+          <text>Dialogue Between Frederick Ruysch and His Mummies</text>
+          </navLabel>
+          <content src="Text/part0390.xhtml"/>
+          </navPoint>
+          <navPoint id="np_317" playOrder="317">
+          <navLabel>
+          <text>Dialogue Between Christopher Columbus and Pedro Gutierrez</text>
+          </navLabel>
+          <content src="Text/part0391.xhtml"/>
+          </navPoint>
+          <navPoint id="np_318" playOrder="318">
+          <navLabel>
+          <text>In Praise of Birds</text>
+          </navLabel>
+          <content src="Text/part0392.xhtml"/>
+          </navPoint>
+          <navPoint id="np_319" playOrder="319">
+          <navLabel>
+          <text>Song of the Great Wild Rooster</text>
+          </navLabel>
+          <content src="Text/part0393.xhtml"/>
+          </navPoint>
+          <navPoint id="np_320" playOrder="320">
+          <navLabel>
+          <text>The Copernicus</text>
+          </navLabel>
+          <content src="Text/part0394.xhtml"/>
+          </navPoint>
+          <navPoint id="np_321" playOrder="321">
+          <navLabel>
+          <text>Dialogue Between an Almanac Peddler and a Passer-by</text>
+          </navLabel>
+          <content src="Text/part0395.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_322" playOrder="322">
+      <navLabel>
+      <text>泰戈尔：民族主义</text>
+      </navLabel>
+      <content src="Text/part0396.xhtml"/>
+        <navPoint id="np_323" playOrder="323">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0401.xhtml"/>
+        </navPoint>
+        <navPoint id="np_324" playOrder="324">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0402.xhtml"/>
+        </navPoint>
+        <navPoint id="np_325" playOrder="325">
+        <navLabel>
+        <text>日本的民族主义</text>
+        </navLabel>
+        <content src="Text/part0403.xhtml"/>
+        </navPoint>
+        <navPoint id="np_326" playOrder="326">
+        <navLabel>
+        <text>西方的民族主义</text>
+        </navLabel>
+        <content src="Text/part0404.xhtml"/>
+        </navPoint>
+        <navPoint id="np_327" playOrder="327">
+        <navLabel>
+        <text>印度的民族主义</text>
+        </navLabel>
+        <content src="Text/part0405.xhtml"/>
+        </navPoint>
+        <navPoint id="np_328" playOrder="328">
+        <navLabel>
+        <text>Nationalism</text>
+        </navLabel>
+        <content src="Text/part0407.xhtml"/>
+          <navPoint id="np_329" playOrder="329">
+          <navLabel>
+          <text>Nationalism in Japan</text>
+          </navLabel>
+          <content src="Text/part0409.xhtml"/>
+          </navPoint>
+          <navPoint id="np_330" playOrder="330">
+          <navLabel>
+          <text>Nationalism in the West</text>
+          </navLabel>
+          <content src="Text/part0410.xhtml"/>
+          </navPoint>
+          <navPoint id="np_331" playOrder="331">
+          <navLabel>
+          <text>Nationalism in India</text>
+          </navLabel>
+          <content src="Text/part0411.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_332" playOrder="332">
+    <navLabel>
+    <text>伟大的思想第3辑（套装共8册）</text>
+    </navLabel>
+    <content src="Text/part0413.xhtml"/>
+      <navPoint id="np_333" playOrder="333">
+      <navLabel>
+      <text>论世间苦难</text>
+      </navLabel>
+      <content src="Text/part0415.xhtml"/>
+        <navPoint id="np_334" playOrder="334">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0420.xhtml"/>
+        </navPoint>
+        <navPoint id="np_335" playOrder="335">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0421.xhtml"/>
+        </navPoint>
+        <navPoint id="np_336" playOrder="336">
+        <navLabel>
+        <text>随笔集</text>
+        </navLabel>
+        <content src="Text/part0422.xhtml"/>
+          <navPoint id="np_337" playOrder="337">
+          <navLabel>
+          <text>论世间苦难</text>
+          </navLabel>
+          <content src="Text/part0422.xhtml#sigil_toc_id_1"/>
+          </navPoint>
+          <navPoint id="np_338" playOrder="338">
+          <navLabel>
+          <text>论存在之虚无</text>
+          </navLabel>
+          <content src="Text/part0422.xhtml#sigil_toc_id_2"/>
+          </navPoint>
+          <navPoint id="np_339" playOrder="339">
+          <navLabel>
+          <text>论自在之物及其表象的对立</text>
+          </navLabel>
+          <content src="Text/part0422.xhtml#sigil_toc_id_3"/>
+          </navPoint>
+          <navPoint id="np_340" playOrder="340">
+          <navLabel>
+          <text>论对生存意志的肯定与否定</text>
+          </navLabel>
+          <content src="Text/part0422.xhtml#sigil_toc_id_4"/>
+          </navPoint>
+          <navPoint id="np_341" playOrder="341">
+          <navLabel>
+          <text>论我们的本质存在不能被死亡摧毁</text>
+          </navLabel>
+          <content src="Text/part0422.xhtml#sigil_toc_id_5"/>
+          </navPoint>
+          <navPoint id="np_342" playOrder="342">
+          <navLabel>
+          <text>论自杀</text>
+          </navLabel>
+          <content src="Text/part0422.xhtml#sigil_toc_id_6"/>
+          </navPoint>
+          <navPoint id="np_343" playOrder="343">
+          <navLabel>
+          <text>论女人</text>
+          </navLabel>
+          <content src="Text/part0422.xhtml#sigil_toc_id_7"/>
+          </navPoint>
+          <navPoint id="np_344" playOrder="344">
+          <navLabel>
+          <text>论独立思考</text>
+          </navLabel>
+          <content src="Text/part0422.xhtml#sigil_toc_id_8"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="np_345" playOrder="345">
+        <navLabel>
+        <text>箴言集</text>
+        </navLabel>
+        <content src="Text/part0423.xhtml"/>
+          <navPoint id="np_346" playOrder="346">
+          <navLabel>
+          <text>论哲学及智力</text>
+          </navLabel>
+          <content src="Text/part0423.xhtml#sigil_toc_id_9"/>
+          </navPoint>
+          <navPoint id="np_347" playOrder="347">
+          <navLabel>
+          <text>论美学</text>
+          </navLabel>
+          <content src="Text/part0423.xhtml#sigil_toc_id_10"/>
+          </navPoint>
+          <navPoint id="np_348" playOrder="348">
+          <navLabel>
+          <text>论书籍与写作</text>
+          </navLabel>
+          <content src="Text/part0423.xhtml#sigil_toc_id_11"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="np_349" playOrder="349">
+        <navLabel>
+        <text>On the Suffering of the World</text>
+        </navLabel>
+        <content src="Text/part0425.xhtml"/>
+          <navPoint id="np_350" playOrder="350">
+          <navLabel>
+          <text>ESSAYS</text>
+          </navLabel>
+          <content src="Text/part0427.xhtml"/>
+            <navPoint id="np_351" playOrder="351">
+            <navLabel>
+            <text>On the Suffering of the World</text>
+            </navLabel>
+            <content src="Text/part0427.xhtml#mllj1"/>
+            </navPoint>
+            <navPoint id="np_352" playOrder="352">
+            <navLabel>
+            <text>On the Vanity of Existence</text>
+            </navLabel>
+            <content src="Text/part0427.xhtml#mllj2"/>
+            </navPoint>
+            <navPoint id="np_353" playOrder="353">
+            <navLabel>
+            <text>On the Antithesis of Thing in Itself and Appearance</text>
+            </navLabel>
+            <content src="Text/part0427.xhtml#mllj3"/>
+            </navPoint>
+            <navPoint id="np_354" playOrder="354">
+            <navLabel>
+            <text>On Affirmation and Denial of the Will to Live</text>
+            </navLabel>
+            <content src="Text/part0427.xhtml#mllj4"/>
+            </navPoint>
+            <navPoint id="np_355" playOrder="355">
+            <navLabel>
+            <text>On the Indestructibility of Our Essential Being by Death</text>
+            </navLabel>
+            <content src="Text/part0427.xhtml#mllj5"/>
+            </navPoint>
+            <navPoint id="np_356" playOrder="356">
+            <navLabel>
+            <text>On Suicide</text>
+            </navLabel>
+            <content src="Text/part0427.xhtml#mllj6"/>
+            </navPoint>
+            <navPoint id="np_357" playOrder="357">
+            <navLabel>
+            <text>On Women</text>
+            </navLabel>
+            <content src="Text/part0427.xhtml#mllj7"/>
+            </navPoint>
+            <navPoint id="np_358" playOrder="358">
+            <navLabel>
+            <text>On Thinking for Yourself</text>
+            </navLabel>
+            <content src="Text/part0427.xhtml#mllj8"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="np_359" playOrder="359">
+          <navLabel>
+          <text>APHORISMS</text>
+          </navLabel>
+          <content src="Text/part0428.xhtml"/>
+            <navPoint id="np_360" playOrder="360">
+            <navLabel>
+            <text>On Philosophy and the Intellect</text>
+            </navLabel>
+            <content src="Text/part0428.xhtml#mllj1"/>
+            </navPoint>
+            <navPoint id="np_361" playOrder="361">
+            <navLabel>
+            <text>On Aesthetics</text>
+            </navLabel>
+            <content src="Text/part0428.xhtml#mllj2"/>
+            </navPoint>
+            <navPoint id="np_362" playOrder="362">
+            <navLabel>
+            <text>On Books and Writing</text>
+            </navLabel>
+            <content src="Text/part0428.xhtml#mllj3"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_363" playOrder="363">
+      <navLabel>
+      <text>天才，舍我其谁</text>
+      </navLabel>
+      <content src="Text/part0429.xhtml"/>
+        <navPoint id="np_364" playOrder="364">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0434.xhtml"/>
+        </navPoint>
+        <navPoint id="np_365" playOrder="365">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0435.xhtml"/>
+        </navPoint>
+        <navPoint id="np_366" playOrder="366">
+        <navLabel>
+        <text>瞧，这个人 ——人如何成其所是</text>
+        </navLabel>
+        <content src="Text/part0436.xhtml"/>
+          <navPoint id="np_367" playOrder="367">
+          <navLabel>
+          <text>序言</text>
+          </navLabel>
+          <content src="Text/part0436.xhtml#sigil_toc_id_1"/>
+          </navPoint>
+          <navPoint id="np_368" playOrder="368">
+          <navLabel>
+          <text>天才，舍我其谁</text>
+          </navLabel>
+          <content src="Text/part0436.xhtml#sigil_toc_id_2"/>
+          </navPoint>
+          <navPoint id="np_369" playOrder="369">
+          <navLabel>
+          <text>机灵，岂但如此</text>
+          </navLabel>
+          <content src="Text/part0436.xhtml#sigil_toc_id_3"/>
+          </navPoint>
+          <navPoint id="np_370" playOrder="370">
+          <navLabel>
+          <text>佳作，何以迭出</text>
+          </navLabel>
+          <content src="Text/part0436.xhtml#sigil_toc_id_4"/>
+          </navPoint>
+          <navPoint id="np_371" playOrder="371">
+          <navLabel>
+          <text>天运，我自晓得</text>
+          </navLabel>
+          <content src="Text/part0436.xhtml#sigil_toc_id_5"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="np_372" playOrder="372">
+        <navLabel>
+        <text>偶像的黄昏 ——怎样用锤子从事哲学</text>
+        </navLabel>
+        <content src="Text/part0437.xhtml"/>
+          <navPoint id="np_373" playOrder="373">
+          <navLabel>
+          <text>箴言，足以抒怀</text>
+          </navLabel>
+          <content src="Text/part0437.xhtml#sigil_toc_id_6"/>
+          </navPoint>
+          <navPoint id="np_374" playOrder="374">
+          <navLabel>
+          <text>贻误，独有四遭</text>
+          </navLabel>
+          <content src="Text/part0437.xhtml#sigil_toc_id_7"/>
+          </navPoint>
+          <navPoint id="np_375" playOrder="375">
+          <navLabel>
+          <text>铁锤，为我代言！</text>
+          </navLabel>
+          <content src="Text/part0437.xhtml#sigil_toc_id_8"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="np_376" playOrder="376">
+        <navLabel>
+        <text>Why I am so wise</text>
+        </navLabel>
+        <content src="Text/part0438.xhtml"/>
+          <navPoint id="np_377" playOrder="377">
+          <navLabel>
+          <text>Ecce Homo</text>
+          </navLabel>
+          <content src="Text/part0440.xhtml"/>
+            <navPoint id="np_378" playOrder="378">
+            <navLabel>
+            <text>How One Becomes What One Is</text>
+            </navLabel>
+            <content src="Text/part0440.xhtml#mllj1"/>
+              <navPoint id="np_379" playOrder="379">
+              <navLabel>
+              <text>Foreword</text>
+              </navLabel>
+              <content src="Text/part0440.xhtml#mllj2"/>
+              </navPoint>
+              <navPoint id="np_380" playOrder="380">
+              <navLabel>
+              <text>Why I am So Wise</text>
+              </navLabel>
+              <content src="Text/part0440.xhtml#mllj3"/>
+              </navPoint>
+              <navPoint id="np_381" playOrder="381">
+              <navLabel>
+              <text>Why I am So Clever</text>
+              </navLabel>
+              <content src="Text/part0440.xhtml#mllj4"/>
+              </navPoint>
+              <navPoint id="np_382" playOrder="382">
+              <navLabel>
+              <text>Why I Write Such Good Books</text>
+              </navLabel>
+              <content src="Text/part0440.xhtml#mllj5"/>
+              </navPoint>
+              <navPoint id="np_383" playOrder="383">
+              <navLabel>
+              <text>Why I am a Destiny</text>
+              </navLabel>
+              <content src="Text/part0440.xhtml#mllj6"/>
+              </navPoint>
+            </navPoint>
+          </navPoint>
+          <navPoint id="np_384" playOrder="384">
+          <navLabel>
+          <text>Twilight of the Idols</text>
+          </navLabel>
+          <content src="Text/part0441.xhtml"/>
+            <navPoint id="np_385" playOrder="385">
+            <navLabel>
+            <text>or How to Philosophize with a Hammer</text>
+            </navLabel>
+            <content src="Text/part0441.xhtml#mllj1"/>
+              <navPoint id="np_386" playOrder="386">
+              <navLabel>
+              <text>Maxims and Arrows</text>
+              </navLabel>
+              <content src="Text/part0441.xhtml#mllj2"/>
+              </navPoint>
+              <navPoint id="np_387" playOrder="387">
+              <navLabel>
+              <text>The Four Great Errors</text>
+              </navLabel>
+              <content src="Text/part0441.xhtml#mllj3"/>
+              </navPoint>
+              <navPoint id="np_388" playOrder="388">
+              <navLabel>
+              <text>The Hammer Speaks</text>
+              </navLabel>
+              <content src="Text/part0441.xhtml#mllj4"/>
+              </navPoint>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_389" playOrder="389">
+      <navLabel>
+      <text>会饮篇</text>
+      </navLabel>
+      <content src="Text/part0442.xhtml"/>
+        <navPoint id="np_390" playOrder="390">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0447.xhtml"/>
+        </navPoint>
+        <navPoint id="np_391" playOrder="391">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0448.xhtml"/>
+        </navPoint>
+        <navPoint id="np_392" playOrder="392">
+        <navLabel>
+        <text>会饮篇</text>
+        </navLabel>
+        <content src="Text/part0449.xhtml"/>
+        </navPoint>
+        <navPoint id="np_393" playOrder="393">
+        <navLabel>
+        <text>洞穴寓言（选自《理想国》）</text>
+        </navLabel>
+        <content src="Text/part0450.xhtml"/>
+        </navPoint>
+        <navPoint id="np_394" playOrder="394">
+        <navLabel>
+        <text>The Symposium</text>
+        </navLabel>
+        <content src="Text/part0451.xhtml"/>
+          <navPoint id="np_395" playOrder="395">
+          <navLabel>
+          <text>The Symposium</text>
+          </navLabel>
+          <content src="Text/part0453.xhtml"/>
+          </navPoint>
+          <navPoint id="np_396" playOrder="396">
+          <navLabel>
+          <text>The Allegory of the Cave</text>
+          </navLabel>
+          <content src="Text/part0454.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_397" playOrder="397">
+      <navLabel>
+      <text>西西弗斯神话</text>
+      </navLabel>
+      <content src="Text/part0455.xhtml"/>
+        <navPoint id="np_398" playOrder="398">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0460.xhtml"/>
+        </navPoint>
+        <navPoint id="np_399" playOrder="399">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0461.xhtml"/>
+        </navPoint>
+        <navPoint id="np_400" playOrder="400">
+        <navLabel>
+        <text>一种荒谬的推理</text>
+        </navLabel>
+        <content src="Text/part0462.xhtml"/>
+        </navPoint>
+        <navPoint id="np_401" playOrder="401">
+        <navLabel>
+        <text>荒谬的人</text>
+        </navLabel>
+        <content src="Text/part0463.xhtml"/>
+        </navPoint>
+        <navPoint id="np_402" playOrder="402">
+        <navLabel>
+        <text>荒谬的创造</text>
+        </navLabel>
+        <content src="Text/part0464.xhtml"/>
+        </navPoint>
+        <navPoint id="np_403" playOrder="403">
+        <navLabel>
+        <text>西西弗斯神话</text>
+        </navLabel>
+        <content src="Text/part0465.xhtml"/>
+        </navPoint>
+        <navPoint id="np_404" playOrder="404">
+        <navLabel>
+        <text>附录 卡夫卡作品中的希望与荒谬</text>
+        </navLabel>
+        <content src="Text/part0466.xhtml"/>
+        </navPoint>
+        <navPoint id="np_405" playOrder="405">
+        <navLabel>
+        <text>The Myth of Sisyphus</text>
+        </navLabel>
+        <content src="Text/part0468.xhtml"/>
+          <navPoint id="np_406" playOrder="406">
+          <navLabel>
+          <text>An Absurd Reasoning</text>
+          </navLabel>
+          <content src="Text/part0470.xhtml"/>
+          </navPoint>
+          <navPoint id="np_407" playOrder="407">
+          <navLabel>
+          <text>Absurdity and Suicide</text>
+          </navLabel>
+          <content src="Text/part0470.xhtml#sigil_toc_id_1"/>
+          </navPoint>
+          <navPoint id="np_408" playOrder="408">
+          <navLabel>
+          <text>The Absurd Man</text>
+          </navLabel>
+          <content src="Text/part0471.xhtml"/>
+          </navPoint>
+          <navPoint id="np_409" playOrder="409">
+          <navLabel>
+          <text>Absurd Creation</text>
+          </navLabel>
+          <content src="Text/part0472.xhtml"/>
+          </navPoint>
+          <navPoint id="np_410" playOrder="410">
+          <navLabel>
+          <text>The Myth Of Sisyphus</text>
+          </navLabel>
+          <content src="Text/part0473.xhtml"/>
+          </navPoint>
+          <navPoint id="np_411" playOrder="411">
+          <navLabel>
+          <text>Appendix</text>
+          </navLabel>
+          <content src="Text/part0474.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_412" playOrder="412">
+      <navLabel>
+      <text>实现卓越</text>
+      </navLabel>
+      <content src="Text/part0475.xhtml"/>
+        <navPoint id="np_413" playOrder="413">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0480.xhtml"/>
+        </navPoint>
+        <navPoint id="np_414" playOrder="414">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0481.xhtml"/>
+        </navPoint>
+        <navPoint id="np_415" playOrder="415">
+        <navLabel>
+        <text>宫廷侍臣的故事（一）</text>
+        </navLabel>
+        <content src="Text/part0482.xhtml"/>
+        </navPoint>
+        <navPoint id="np_416" playOrder="416">
+        <navLabel>
+        <text>宫廷侍臣的故事（二）</text>
+        </navLabel>
+        <content src="Text/part0483.xhtml"/>
+        </navPoint>
+        <navPoint id="np_417" playOrder="417">
+        <navLabel>
+        <text>How to Achieve True Greatness</text>
+        </navLabel>
+        <content src="Text/part0485.xhtml"/>
+          <navPoint id="np_418" playOrder="418">
+          <navLabel>
+          <text>The First Book of the Courtier</text>
+          </navLabel>
+          <content src="Text/part0487.xhtml"/>
+          </navPoint>
+          <navPoint id="np_419" playOrder="419">
+          <navLabel>
+          <text>The Second Book of the Courtier</text>
+          </navLabel>
+          <content src="Text/part0488.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_420" playOrder="420">
+      <navLabel>
+      <text>道法自然</text>
+      </navLabel>
+      <content src="Text/part0489.xhtml"/>
+        <navPoint id="np_421" playOrder="421">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0494.xhtml"/>
+        </navPoint>
+        <navPoint id="np_422" playOrder="422">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0495.xhtml"/>
+        </navPoint>
+        <navPoint id="np_423" playOrder="423">
+        <navLabel>
+        <text>第一部分 齐物论</text>
+        </navLabel>
+        <content src="Text/part0496.xhtml"/>
+        </navPoint>
+        <navPoint id="np_424" playOrder="424">
+        <navLabel>
+        <text>第二部分 完美契合</text>
+        </navLabel>
+        <content src="Text/part0497.xhtml"/>
+        </navPoint>
+        <navPoint id="np_425" playOrder="425">
+        <navLabel>
+        <text>第三部分 何谓真人？</text>
+        </navLabel>
+        <content src="Text/part0498.xhtml"/>
+        </navPoint>
+        <navPoint id="np_426" playOrder="426">
+        <navLabel>
+        <text>第四部分 命而已！</text>
+        </navLabel>
+        <content src="Text/part0499.xhtml"/>
+        </navPoint>
+        <navPoint id="np_427" playOrder="427">
+        <navLabel>
+        <text>第五部分 惠子</text>
+        </navLabel>
+        <content src="Text/part0500.xhtml"/>
+        </navPoint>
+        <navPoint id="np_428" playOrder="428">
+        <navLabel>
+        <text>第六部分 马蹄</text>
+        </navLabel>
+        <content src="Text/part0501.xhtml"/>
+        </navPoint>
+        <navPoint id="np_429" playOrder="429">
+        <navLabel>
+        <text>第七部分 博学何用？</text>
+        </navLabel>
+        <content src="Text/part0502.xhtml"/>
+        </navPoint>
+        <navPoint id="np_430" playOrder="430">
+        <navLabel>
+        <text>第八部分 无为之为是谓天</text>
+        </navLabel>
+        <content src="Text/part0503.xhtml"/>
+        </navPoint>
+        <navPoint id="np_431" playOrder="431">
+        <navLabel>
+        <text>第九部分 天在动吗？</text>
+        </navLabel>
+        <content src="Text/part0504.xhtml"/>
+        </navPoint>
+        <navPoint id="np_432" playOrder="432">
+        <navLabel>
+        <text>第十部分 真实与幸福</text>
+        </navLabel>
+        <content src="Text/part0505.xhtml"/>
+        </navPoint>
+        <navPoint id="np_433" playOrder="433">
+        <navLabel>
+        <text>第十一部分 把握生命的目的</text>
+        </navLabel>
+        <content src="Text/part0506.xhtml"/>
+        </navPoint>
+        <navPoint id="np_434" playOrder="434">
+        <navLabel>
+        <text>第十二部分 勿要问道</text>
+        </navLabel>
+        <content src="Text/part0507.xhtml"/>
+        </navPoint>
+        <navPoint id="np_435" playOrder="435">
+        <navLabel>
+        <text>第十三部分 何为本真？</text>
+        </navLabel>
+        <content src="Text/part0508.xhtml"/>
+        </navPoint>
+        <navPoint id="np_436" playOrder="436">
+        <navLabel>
+        <text>第十四部分 后记</text>
+        </navLabel>
+        <content src="Text/part0509.xhtml"/>
+        </navPoint>
+        <navPoint id="np_437" playOrder="437">
+        <navLabel>
+        <text>参考资料</text>
+        </navLabel>
+        <content src="Text/part0510.xhtml"/>
+        </navPoint>
+        <navPoint id="np_438" playOrder="438">
+        <navLabel>
+        <text>The Tao of Nature</text>
+        </navLabel>
+        <content src="Text/part0511.xhtml"/>
+          <navPoint id="np_439" playOrder="439">
+          <navLabel>
+          <text>PART 1 Working Everything Out Evenly</text>
+          </navLabel>
+          <content src="Text/part0513.xhtml"/>
+          </navPoint>
+          <navPoint id="np_440" playOrder="440">
+          <navLabel>
+          <text>PART 2 Perfect Accord</text>
+          </navLabel>
+          <content src="Text/part0514.xhtml"/>
+          </navPoint>
+          <navPoint id="np_441" playOrder="441">
+          <navLabel>
+          <text>PART 3 So What is a True Man?</text>
+          </navLabel>
+          <content src="Text/part0515.xhtml"/>
+          </navPoint>
+          <navPoint id="np_442" playOrder="442">
+          <navLabel>
+          <text>PART 4 Simply Fate!</text>
+          </navLabel>
+          <content src="Text/part0516.xhtml"/>
+          </navPoint>
+          <navPoint id="np_443" playOrder="443">
+          <navLabel>
+          <text>PART 5 Hui Tzu</text>
+          </navLabel>
+          <content src="Text/part0517.xhtml"/>
+          </navPoint>
+          <navPoint id="np_444" playOrder="444">
+          <navLabel>
+          <text>PART 6 Horses' Hooves</text>
+          </navLabel>
+          <content src="Text/part0518.xhtml"/>
+          </navPoint>
+          <navPoint id="np_445" playOrder="445">
+          <navLabel>
+          <text>PART 7 What's the Point of a Great Deal of Knowledge?</text>
+          </navLabel>
+          <content src="Text/part0519.xhtml"/>
+          </navPoint>
+          <navPoint id="np_446" playOrder="446">
+          <navLabel>
+          <text>PART 8 The Action of Non-action is Called Heaven</text>
+          </navLabel>
+          <content src="Text/part0520.xhtml"/>
+          </navPoint>
+          <navPoint id="np_447" playOrder="447">
+          <navLabel>
+          <text>PART 9 Does Heaven Move?</text>
+          </navLabel>
+          <content src="Text/part0521.xhtml"/>
+          </navPoint>
+          <navPoint id="np_448" playOrder="448">
+          <navLabel>
+          <text>PART 10 Reality and Happiness</text>
+          </navLabel>
+          <content src="Text/part0522.xhtml"/>
+          </navPoint>
+          <navPoint id="np_449" playOrder="449">
+          <navLabel>
+          <text>PART 11 Grasping the Purpose of Life</text>
+          </navLabel>
+          <content src="Text/part0523.xhtml"/>
+          </navPoint>
+          <navPoint id="np_450" playOrder="450">
+          <navLabel>
+          <text>PART 12 Do Not Ask about the Tao</text>
+          </navLabel>
+          <content src="Text/part0524.xhtml"/>
+          </navPoint>
+          <navPoint id="np_451" playOrder="451">
+          <navLabel>
+          <text>PART 13 Can I Ask You about Truth?</text>
+          </navLabel>
+          <content src="Text/part0525.xhtml"/>
+          </navPoint>
+          <navPoint id="np_452" playOrder="452">
+          <navLabel>
+          <text>PART 14 Epilogue</text>
+          </navLabel>
+          <content src="Text/part0526.xhtml"/>
+          </navPoint>
+          <navPoint id="np_453" playOrder="453">
+          <navLabel>
+          <text>References</text>
+          </navLabel>
+          <content src="Text/part0527.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_454" playOrder="454">
+      <navLabel>
+      <text>人类理解论</text>
+      </navLabel>
+      <content src="Text/part0528.xhtml"/>
+        <navPoint id="np_455" playOrder="455">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0533.xhtml"/>
+        </navPoint>
+        <navPoint id="np_456" playOrder="456">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0534.xhtml"/>
+        </navPoint>
+        <navPoint id="np_457" playOrder="457">
+        <navLabel>
+        <text>论观念</text>
+        </navLabel>
+        <content src="Text/part0535.xhtml"/>
+        </navPoint>
+        <navPoint id="np_458" playOrder="458">
+        <navLabel>
+        <text>论文字</text>
+        </navLabel>
+        <content src="Text/part0536.xhtml"/>
+        </navPoint>
+        <navPoint id="np_459" playOrder="459">
+        <navLabel>
+        <text>Of the Abuse of Words</text>
+        </navLabel>
+        <content src="Text/part0538.xhtml"/>
+          <navPoint id="np_460" playOrder="460">
+          <navLabel>
+          <text>Of Ideas</text>
+          </navLabel>
+          <content src="Text/part0540.xhtml"/>
+            <navPoint id="np_461" playOrder="461">
+            <navLabel>
+            <text>Of Ideas in General, and their Original</text>
+            </navLabel>
+            <content src="Text/part0540.xhtml#mllj1"/>
+            </navPoint>
+            <navPoint id="np_462" playOrder="462">
+            <navLabel>
+            <text>Of Simple Ideas</text>
+            </navLabel>
+            <content src="Text/part0540.xhtml#mllj2"/>
+            </navPoint>
+            <navPoint id="np_463" playOrder="463">
+            <navLabel>
+            <text>Of Complex Ideas</text>
+            </navLabel>
+            <content src="Text/part0540.xhtml#mllj3"/>
+            </navPoint>
+            <navPoint id="np_464" playOrder="464">
+            <navLabel>
+            <text>Of Modes of Pleasure and Pain</text>
+            </navLabel>
+            <content src="Text/part0540.xhtml#mllj4"/>
+            </navPoint>
+            <navPoint id="np_465" playOrder="465">
+            <navLabel>
+            <text>Of Adequate and Inadequate Ideas</text>
+            </navLabel>
+            <content src="Text/part0540.xhtml#mllj5"/>
+            </navPoint>
+            <navPoint id="np_466" playOrder="466">
+            <navLabel>
+            <text>Of True and False Ideas</text>
+            </navLabel>
+            <content src="Text/part0540.xhtml#mllj6"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="np_467" playOrder="467">
+          <navLabel>
+          <text>Of Words</text>
+          </navLabel>
+          <content src="Text/part0541.xhtml"/>
+            <navPoint id="np_468" playOrder="468">
+            <navLabel>
+            <text>Of Words or Language in General</text>
+            </navLabel>
+            <content src="Text/part0541.xhtml#mllj1"/>
+            </navPoint>
+            <navPoint id="np_469" playOrder="469">
+            <navLabel>
+            <text>Of the Imperfection of Words</text>
+            </navLabel>
+            <content src="Text/part0541.xhtml#mllj2"/>
+            </navPoint>
+            <navPoint id="np_470" playOrder="470">
+            <navLabel>
+            <text>Of the Abuse of Words</text>
+            </navLabel>
+            <content src="Text/part0541.xhtml#mllj3"/>
+            </navPoint>
+            <navPoint id="np_471" playOrder="471">
+            <navLabel>
+            <text>Of the Remedies of the foregoing Imperfections and Abuses</text>
+            </navLabel>
+            <content src="Text/part0541.xhtml#mllj4"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_472" playOrder="472">
+      <navLabel>
+      <text>淑女之城</text>
+      </navLabel>
+      <content src="Text/part0542.xhtml"/>
+        <navPoint id="np_473" playOrder="473">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0547.xhtml"/>
+        </navPoint>
+        <navPoint id="np_474" playOrder="474">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0548.xhtml"/>
+        </navPoint>
+        <navPoint id="np_475" playOrder="475">
+        <navLabel>
+        <text>第一部分</text>
+        </navLabel>
+        <content src="Text/part0549.xhtml"/>
+        </navPoint>
+        <navPoint id="np_476" playOrder="476">
+        <navLabel>
+        <text>第二部分</text>
+        </navLabel>
+        <content src="Text/part0550.xhtml"/>
+        </navPoint>
+        <navPoint id="np_477" playOrder="477">
+        <navLabel>
+        <text>第三部分</text>
+        </navLabel>
+        <content src="Text/part0551.xhtml"/>
+        </navPoint>
+        <navPoint id="np_478" playOrder="478">
+        <navLabel>
+        <text>The City of Ladies</text>
+        </navLabel>
+        <content src="Text/part0553.xhtml"/>
+          <navPoint id="np_479" playOrder="479">
+          <navLabel>
+          <text>Part Ⅰ</text>
+          </navLabel>
+          <content src="Text/part0555.xhtml"/>
+          </navPoint>
+          <navPoint id="np_480" playOrder="480">
+          <navLabel>
+          <text>Part Ⅱ</text>
+          </navLabel>
+          <content src="Text/part0556.xhtml"/>
+          </navPoint>
+          <navPoint id="np_481" playOrder="481">
+          <navLabel>
+          <text>Part Ⅲ</text>
+          </navLabel>
+          <content src="Text/part0557.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_482" playOrder="482">
+    <navLabel>
+    <text>伟大的思想第4辑（套装共8册）</text>
+    </navLabel>
+    <content src="Text/part0559.xhtml"/>
+      <navPoint id="np_483" playOrder="483">
+      <navLabel>
+      <text>论生命之短暂</text>
+      </navLabel>
+      <content src="Text/part0561.xhtml"/>
+        <navPoint id="np_484" playOrder="484">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0566.xhtml"/>
+        </navPoint>
+        <navPoint id="np_485" playOrder="485">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0567.xhtml"/>
+        </navPoint>
+        <navPoint id="np_486" playOrder="486">
+        <navLabel>
+        <text>论生命之短暂</text>
+        </navLabel>
+        <content src="Text/part0568.xhtml"/>
+        </navPoint>
+        <navPoint id="np_487" playOrder="487">
+        <navLabel>
+        <text>致赫尔维亚的告慰书</text>
+        </navLabel>
+        <content src="Text/part0569.xhtml"/>
+        </navPoint>
+        <navPoint id="np_488" playOrder="488">
+        <navLabel>
+        <text>论心灵之安宁</text>
+        </navLabel>
+        <content src="Text/part0570.xhtml"/>
+        </navPoint>
+        <navPoint id="np_489" playOrder="489">
+        <navLabel>
+        <text>On the Shortness of Life</text>
+        </navLabel>
+        <content src="Text/part0572.xhtml"/>
+          <navPoint id="np_490" playOrder="490">
+          <navLabel>
+          <text>On the Shortness of Life</text>
+          </navLabel>
+          <content src="Text/part0574.xhtml"/>
+          </navPoint>
+          <navPoint id="np_491" playOrder="491">
+          <navLabel>
+          <text>Consolation to Helvia</text>
+          </navLabel>
+          <content src="Text/part0575.xhtml"/>
+          </navPoint>
+          <navPoint id="np_492" playOrder="492">
+          <navLabel>
+          <text>On Tranquillity of Mind</text>
+          </navLabel>
+          <content src="Text/part0576.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_493" playOrder="493">
+      <navLabel>
+      <text>看不见的手</text>
+      </navLabel>
+      <content src="Text/part0577.xhtml"/>
+        <navPoint id="np_494" playOrder="494">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0582.xhtml"/>
+        </navPoint>
+        <navPoint id="np_495" playOrder="495">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0583.xhtml"/>
+        </navPoint>
+        <navPoint id="np_496" playOrder="496">
+        <navLabel>
+        <text>论劳动分工</text>
+        </navLabel>
+        <content src="Text/part0584.xhtml"/>
+        </navPoint>
+        <navPoint id="np_497" playOrder="497">
+        <navLabel>
+        <text>劳动分工的原理</text>
+        </navLabel>
+        <content src="Text/part0585.xhtml"/>
+        </navPoint>
+        <navPoint id="np_498" playOrder="498">
+        <navLabel>
+        <text>商业体系的原理</text>
+        </navLabel>
+        <content src="Text/part0586.xhtml"/>
+        </navPoint>
+        <navPoint id="np_499" playOrder="499">
+        <navLabel>
+        <text>对于商品进口实施的限制</text>
+        </navLabel>
+        <content src="Text/part0587.xhtml"/>
+        </navPoint>
+        <navPoint id="np_500" playOrder="500">
+        <navLabel>
+        <text>限制的不合理性</text>
+        </navLabel>
+        <content src="Text/part0588.xhtml"/>
+        </navPoint>
+        <navPoint id="np_501" playOrder="501">
+        <navLabel>
+        <text>农业体系</text>
+        </navLabel>
+        <content src="Text/part0589.xhtml"/>
+        </navPoint>
+        <navPoint id="np_502" playOrder="502">
+        <navLabel>
+        <text>The Invisible Hand</text>
+        </navLabel>
+        <content src="Text/part0591.xhtml"/>
+          <navPoint id="np_503" playOrder="503">
+          <navLabel>
+          <text>1 The Division of Labour</text>
+          </navLabel>
+          <content src="Text/part0593.xhtml"/>
+          </navPoint>
+          <navPoint id="np_504" playOrder="504">
+          <navLabel>
+          <text>2 The Principle of the Division of Labour</text>
+          </navLabel>
+          <content src="Text/part0594.xhtml"/>
+          </navPoint>
+          <navPoint id="np_505" playOrder="505">
+          <navLabel>
+          <text>3 The Principle of the Commercial System</text>
+          </navLabel>
+          <content src="Text/part0595.xhtml"/>
+          </navPoint>
+          <navPoint id="np_506" playOrder="506">
+          <navLabel>
+          <text>4 Restraints on the Importation of Goods</text>
+          </navLabel>
+          <content src="Text/part0596.xhtml"/>
+          </navPoint>
+          <navPoint id="np_507" playOrder="507">
+          <navLabel>
+          <text>5 The Unreasonableness of Restraints</text>
+          </navLabel>
+          <content src="Text/part0597.xhtml"/>
+          </navPoint>
+          <navPoint id="np_508" playOrder="508">
+          <navLabel>
+          <text>6 The Agricultural Systems</text>
+          </navLabel>
+          <content src="Text/part0598.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_509" playOrder="509">
+      <navLabel>
+      <text>论自然选择</text>
+      </navLabel>
+      <content src="Text/part0599.xhtml"/>
+        <navPoint id="np_510" playOrder="510">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0604.xhtml"/>
+        </navPoint>
+        <navPoint id="np_511" playOrder="511">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0605.xhtml"/>
+        </navPoint>
+        <navPoint id="np_512" playOrder="512">
+        <navLabel>
+        <text>生存竞争</text>
+        </navLabel>
+        <content src="Text/part0606.xhtml"/>
+        </navPoint>
+        <navPoint id="np_513" playOrder="513">
+        <navLabel>
+        <text>自然选择</text>
+        </navLabel>
+        <content src="Text/part0607.xhtml"/>
+        </navPoint>
+        <navPoint id="np_514" playOrder="514">
+        <navLabel>
+        <text>理论上的难点</text>
+        </navLabel>
+        <content src="Text/part0608.xhtml"/>
+        </navPoint>
+        <navPoint id="np_515" playOrder="515">
+        <navLabel>
+        <text>结论</text>
+        </navLabel>
+        <content src="Text/part0609.xhtml"/>
+        </navPoint>
+        <navPoint id="np_516" playOrder="516">
+        <navLabel>
+        <text>On Natural Selection</text>
+        </navLabel>
+        <content src="Text/part0611.xhtml"/>
+          <navPoint id="np_517" playOrder="517">
+          <navLabel>
+          <text>Struggle for Existence</text>
+          </navLabel>
+          <content src="Text/part0613.xhtml"/>
+          </navPoint>
+          <navPoint id="np_518" playOrder="518">
+          <navLabel>
+          <text>Natural Selection</text>
+          </navLabel>
+          <content src="Text/part0614.xhtml"/>
+          </navPoint>
+          <navPoint id="np_519" playOrder="519">
+          <navLabel>
+          <text>Difficulties on Theory</text>
+          </navLabel>
+          <content src="Text/part0615.xhtml"/>
+          </navPoint>
+          <navPoint id="np_520" playOrder="520">
+          <navLabel>
+          <text>Conclusion</text>
+          </navLabel>
+          <content src="Text/part0616.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_521" playOrder="521">
+      <navLabel>
+      <text>论自由</text>
+      </navLabel>
+      <content src="Text/part0617.xhtml"/>
+        <navPoint id="np_522" playOrder="522">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0622.xhtml"/>
+        </navPoint>
+        <navPoint id="np_523" playOrder="523">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0623.xhtml"/>
+        </navPoint>
+        <navPoint id="np_524" playOrder="524">
+        <navLabel>
+        <text>一 序言</text>
+        </navLabel>
+        <content src="Text/part0624.xhtml"/>
+        </navPoint>
+        <navPoint id="np_525" playOrder="525">
+        <navLabel>
+        <text>二 论思想与讨论自由</text>
+        </navLabel>
+        <content src="Text/part0625.xhtml"/>
+        </navPoint>
+        <navPoint id="np_526" playOrder="526">
+        <navLabel>
+        <text>三 论个性作为幸福的因素之一</text>
+        </navLabel>
+        <content src="Text/part0626.xhtml"/>
+        </navPoint>
+        <navPoint id="np_527" playOrder="527">
+        <navLabel>
+        <text>四 论社会对个人的权威之限度</text>
+        </navLabel>
+        <content src="Text/part0627.xhtml"/>
+        </navPoint>
+        <navPoint id="np_528" playOrder="528">
+        <navLabel>
+        <text>五 论自由原则之应用</text>
+        </navLabel>
+        <content src="Text/part0628.xhtml"/>
+        </navPoint>
+        <navPoint id="np_529" playOrder="529">
+        <navLabel>
+        <text>On Liberty</text>
+        </navLabel>
+        <content src="Text/part0630.xhtml"/>
+          <navPoint id="np_530" playOrder="530">
+          <navLabel>
+          <text>I Introductory</text>
+          </navLabel>
+          <content src="Text/part0634.xhtml"/>
+          </navPoint>
+          <navPoint id="np_531" playOrder="531">
+          <navLabel>
+          <text>II Of the Liberty of Thought and Discussion</text>
+          </navLabel>
+          <content src="Text/part0635.xhtml"/>
+          </navPoint>
+          <navPoint id="np_532" playOrder="532">
+          <navLabel>
+          <text>III Of Individuality, as One of the Elements of Well-being</text>
+          </navLabel>
+          <content src="Text/part0636.xhtml"/>
+          </navPoint>
+          <navPoint id="np_533" playOrder="533">
+          <navLabel>
+          <text>IV Of the Limits to the Authority of Society Over the Individual</text>
+          </navLabel>
+          <content src="Text/part0637.xhtml"/>
+          </navPoint>
+          <navPoint id="np_534" playOrder="534">
+          <navLabel>
+          <text>V Applications</text>
+          </navLabel>
+          <content src="Text/part0638.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_535" playOrder="535">
+      <navLabel>
+      <text>论语</text>
+      </navLabel>
+      <content src="Text/part0639.xhtml"/>
+        <navPoint id="np_536" playOrder="536">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0644.xhtml"/>
+        </navPoint>
+        <navPoint id="np_537" playOrder="537">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0645.xhtml"/>
+        </navPoint>
+        <navPoint id="np_538" playOrder="538">
+        <navLabel>
+        <text>卷一</text>
+        </navLabel>
+        <content src="Text/part0646.xhtml"/>
+        </navPoint>
+        <navPoint id="np_539" playOrder="539">
+        <navLabel>
+        <text>卷二</text>
+        </navLabel>
+        <content src="Text/part0647.xhtml"/>
+        </navPoint>
+        <navPoint id="np_540" playOrder="540">
+        <navLabel>
+        <text>卷三</text>
+        </navLabel>
+        <content src="Text/part0648.xhtml"/>
+        </navPoint>
+        <navPoint id="np_541" playOrder="541">
+        <navLabel>
+        <text>卷四</text>
+        </navLabel>
+        <content src="Text/part0649.xhtml"/>
+        </navPoint>
+        <navPoint id="np_542" playOrder="542">
+        <navLabel>
+        <text>卷五</text>
+        </navLabel>
+        <content src="Text/part0650.xhtml"/>
+        </navPoint>
+        <navPoint id="np_543" playOrder="543">
+        <navLabel>
+        <text>卷六</text>
+        </navLabel>
+        <content src="Text/part0651.xhtml"/>
+        </navPoint>
+        <navPoint id="np_544" playOrder="544">
+        <navLabel>
+        <text>卷七</text>
+        </navLabel>
+        <content src="Text/part0652.xhtml"/>
+        </navPoint>
+        <navPoint id="np_545" playOrder="545">
+        <navLabel>
+        <text>卷八</text>
+        </navLabel>
+        <content src="Text/part0653.xhtml"/>
+        </navPoint>
+        <navPoint id="np_546" playOrder="546">
+        <navLabel>
+        <text>卷九</text>
+        </navLabel>
+        <content src="Text/part0654.xhtml"/>
+        </navPoint>
+        <navPoint id="np_547" playOrder="547">
+        <navLabel>
+        <text>卷十</text>
+        </navLabel>
+        <content src="Text/part0655.xhtml"/>
+        </navPoint>
+        <navPoint id="np_548" playOrder="548">
+        <navLabel>
+        <text>The First Ten Books</text>
+        </navLabel>
+        <content src="Text/part0657.xhtml"/>
+          <navPoint id="np_549" playOrder="549">
+          <navLabel>
+          <text>Book Ⅰ</text>
+          </navLabel>
+          <content src="Text/part0659.xhtml"/>
+          </navPoint>
+          <navPoint id="np_550" playOrder="550">
+          <navLabel>
+          <text>Book Ⅱ</text>
+          </navLabel>
+          <content src="Text/part0660.xhtml"/>
+          </navPoint>
+          <navPoint id="np_551" playOrder="551">
+          <navLabel>
+          <text>Book Ⅲ</text>
+          </navLabel>
+          <content src="Text/part0661.xhtml"/>
+          </navPoint>
+          <navPoint id="np_552" playOrder="552">
+          <navLabel>
+          <text>Book Ⅳ</text>
+          </navLabel>
+          <content src="Text/part0662.xhtml"/>
+          </navPoint>
+          <navPoint id="np_553" playOrder="553">
+          <navLabel>
+          <text>Book Ⅴ</text>
+          </navLabel>
+          <content src="Text/part0663.xhtml"/>
+          </navPoint>
+          <navPoint id="np_554" playOrder="554">
+          <navLabel>
+          <text>Book Ⅵ</text>
+          </navLabel>
+          <content src="Text/part0664.xhtml"/>
+          </navPoint>
+          <navPoint id="np_555" playOrder="555">
+          <navLabel>
+          <text>Book Ⅶ</text>
+          </navLabel>
+          <content src="Text/part0665.xhtml"/>
+          </navPoint>
+          <navPoint id="np_556" playOrder="556">
+          <navLabel>
+          <text>Book Ⅷ</text>
+          </navLabel>
+          <content src="Text/part0666.xhtml"/>
+          </navPoint>
+          <navPoint id="np_557" playOrder="557">
+          <navLabel>
+          <text>Book Ⅸ</text>
+          </navLabel>
+          <content src="Text/part0667.xhtml"/>
+          </navPoint>
+          <navPoint id="np_558" playOrder="558">
+          <navLabel>
+          <text>Book Ⅹ</text>
+          </navLabel>
+          <content src="Text/part0668.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_559" playOrder="559">
+      <navLabel>
+      <text>阅读的时光</text>
+      </navLabel>
+      <content src="Text/part0669.xhtml"/>
+        <navPoint id="np_560" playOrder="560">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0674.xhtml"/>
+        </navPoint>
+        <navPoint id="np_561" playOrder="561">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0675.xhtml"/>
+        </navPoint>
+        <navPoint id="np_562" playOrder="562">
+        <navLabel>
+        <text>约翰·罗斯金</text>
+        </navLabel>
+        <content src="Text/part0676.xhtml"/>
+        </navPoint>
+        <navPoint id="np_563" playOrder="563">
+        <navLabel>
+        <text>阅读的日子（一）</text>
+        </navLabel>
+        <content src="Text/part0677.xhtml"/>
+        </navPoint>
+        <navPoint id="np_564" playOrder="564">
+        <navLabel>
+        <text>阅读的日子（二）</text>
+        </navLabel>
+        <content src="Text/part0678.xhtml"/>
+        </navPoint>
+        <navPoint id="np_565" playOrder="565">
+        <navLabel>
+        <text>圣伯夫之道</text>
+        </navLabel>
+        <content src="Text/part0679.xhtml"/>
+        </navPoint>
+        <navPoint id="np_566" playOrder="566">
+        <navLabel>
+        <text>普鲁斯特解释《在斯万家那边》</text>
+        </navLabel>
+        <content src="Text/part0680.xhtml"/>
+        </navPoint>
+        <navPoint id="np_567" playOrder="567">
+        <navLabel>
+        <text>Days of Reading</text>
+        </navLabel>
+        <content src="Text/part0682.xhtml"/>
+          <navPoint id="np_568" playOrder="568">
+          <navLabel>
+          <text>John Ruskin</text>
+          </navLabel>
+          <content src="Text/part0684.xhtml"/>
+          </navPoint>
+          <navPoint id="np_569" playOrder="569">
+          <navLabel>
+          <text>Days of Reading (Ⅰ)</text>
+          </navLabel>
+          <content src="Text/part0685.xhtml"/>
+          </navPoint>
+          <navPoint id="np_570" playOrder="570">
+          <navLabel>
+          <text>Days of Reading (Ⅱ)</text>
+          </navLabel>
+          <content src="Text/part0686.xhtml"/>
+          </navPoint>
+          <navPoint id="np_571" playOrder="571">
+          <navLabel>
+          <text>From The Method of Sainte-Beuve (extracts)</text>
+          </navLabel>
+          <content src="Text/part0687.xhtml"/>
+          </navPoint>
+          <navPoint id="np_572" playOrder="572">
+          <navLabel>
+          <text>Swann Explained by Proust</text>
+          </navLabel>
+          <content src="Text/part0688.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_573" playOrder="573">
+      <navLabel>
+      <text>女作家写的蠢故事</text>
+      </navLabel>
+      <content src="Text/part0689.xhtml"/>
+        <navPoint id="np_574" playOrder="574">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0694.xhtml"/>
+        </navPoint>
+        <navPoint id="np_575" playOrder="575">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0695.xhtml"/>
+        </navPoint>
+        <navPoint id="np_576" playOrder="576">
+        <navLabel>
+        <text>女作家写的蠢故事</text>
+        </navLabel>
+        <content src="Text/part0696.xhtml"/>
+        </navPoint>
+        <navPoint id="np_577" playOrder="577">
+        <navLabel>
+        <text>法国女作家：萨布莱夫人</text>
+        </navLabel>
+        <content src="Text/part0697.xhtml"/>
+        </navPoint>
+        <navPoint id="np_578" playOrder="578">
+        <navLabel>
+        <text>评杰拉尔丁·朱伊斯伯里的《康斯坦斯·赫伯特》</text>
+        </navLabel>
+        <content src="Text/part0698.xhtml"/>
+        </navPoint>
+        <navPoint id="np_579" playOrder="579">
+        <navLabel>
+        <text>玛格丽特·富勒和玛丽·沃斯通克拉夫特</text>
+        </navLabel>
+        <content src="Text/part0699.xhtml"/>
+        </navPoint>
+        <navPoint id="np_580" playOrder="580">
+        <navLabel>
+        <text>哈丽雅特·比彻·斯托的《德雷德》、查尔斯·里德的《改过不嫌晚》，以及弗雷德里卡·布雷默的《赫莎》</text>
+        </navLabel>
+        <content src="Text/part0700.xhtml"/>
+        </navPoint>
+        <navPoint id="np_581" playOrder="581">
+        <navLabel>
+        <text>翻译和译者</text>
+        </navLabel>
+        <content src="Text/part0701.xhtml"/>
+        </navPoint>
+        <navPoint id="np_582" playOrder="582">
+        <navLabel>
+        <text>Silly Novels by Lady Novelists</text>
+        </navLabel>
+        <content src="Text/part0703.xhtml"/>
+          <navPoint id="np_583" playOrder="583">
+          <navLabel>
+          <text>Silly Novels by Lady Novelists</text>
+          </navLabel>
+          <content src="Text/part0705.xhtml"/>
+          </navPoint>
+          <navPoint id="np_584" playOrder="584">
+          <navLabel>
+          <text>Woman in France：Madame de Sablé</text>
+          </navLabel>
+          <content src="Text/part0706.xhtml"/>
+          </navPoint>
+          <navPoint id="np_585" playOrder="585">
+          <navLabel>
+          <text>Geraldine Jewsbury's Constance Herbert</text>
+          </navLabel>
+          <content src="Text/part0707.xhtml"/>
+          </navPoint>
+          <navPoint id="np_586" playOrder="586">
+          <navLabel>
+          <text>Margaret Fuller and Mary Wollstonecraft</text>
+          </navLabel>
+          <content src="Text/part0708.xhtml"/>
+          </navPoint>
+          <navPoint id="np_587" playOrder="587">
+          <navLabel>
+          <text>Harriet Beecher Stowe's Dred，Charles Reade's It is Never Too Late to Mend and Frederika Bremer's Hertha</text>
+          </navLabel>
+          <content src="Text/part0709.xhtml"/>
+          </navPoint>
+          <navPoint id="np_588" playOrder="588">
+          <navLabel>
+          <text>Translations and Translators</text>
+          </navLabel>
+          <content src="Text/part0710.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_589" playOrder="589">
+      <navLabel>
+      <text>意大利文艺复兴时期的文化</text>
+      </navLabel>
+      <content src="Text/part0711.xhtml"/>
+        <navPoint id="np_590" playOrder="590">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0716.xhtml"/>
+        </navPoint>
+        <navPoint id="np_591" playOrder="591">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0717.xhtml"/>
+        </navPoint>
+        <navPoint id="np_592" playOrder="592">
+        <navLabel>
+        <text>引言</text>
+        </navLabel>
+        <content src="Text/part0718.xhtml"/>
+        </navPoint>
+        <navPoint id="np_593" playOrder="593">
+        <navLabel>
+        <text>第一章 十四世纪的暴君</text>
+        </navLabel>
+        <content src="Text/part0719.xhtml"/>
+        </navPoint>
+        <navPoint id="np_594" playOrder="594">
+        <navLabel>
+        <text>第二章 十五世纪的暴君专制</text>
+        </navLabel>
+        <content src="Text/part0720.xhtml"/>
+        </navPoint>
+        <navPoint id="np_595" playOrder="595">
+        <navLabel>
+        <text>第三章 小专制国家</text>
+        </navLabel>
+        <content src="Text/part0721.xhtml"/>
+        </navPoint>
+        <navPoint id="np_596" playOrder="596">
+        <navLabel>
+        <text>第四章 大王朝</text>
+        </navLabel>
+        <content src="Text/part0722.xhtml"/>
+        </navPoint>
+        <navPoint id="np_597" playOrder="597">
+        <navLabel>
+        <text>第五章 暴君的反对者</text>
+        </navLabel>
+        <content src="Text/part0723.xhtml"/>
+        </navPoint>
+        <navPoint id="np_598" playOrder="598">
+        <navLabel>
+        <text>第六章 共和国：威尼斯和佛罗伦萨</text>
+        </navLabel>
+        <content src="Text/part0724.xhtml"/>
+        </navPoint>
+        <navPoint id="np_599" playOrder="599">
+        <navLabel>
+        <text>第七章 外交政策</text>
+        </navLabel>
+        <content src="Text/part0725.xhtml"/>
+        </navPoint>
+        <navPoint id="np_600" playOrder="600">
+        <navLabel>
+        <text>第八章 战争艺术</text>
+        </navLabel>
+        <content src="Text/part0726.xhtml"/>
+        </navPoint>
+        <navPoint id="np_601" playOrder="601">
+        <navLabel>
+        <text>第九章 罗马教皇政府</text>
+        </navLabel>
+        <content src="Text/part0727.xhtml"/>
+        </navPoint>
+        <navPoint id="np_602" playOrder="602">
+        <navLabel>
+        <text>第十章 爱国主义精神</text>
+        </navLabel>
+        <content src="Text/part0728.xhtml"/>
+        </navPoint>
+        <navPoint id="np_603" playOrder="603">
+        <navLabel>
+        <text>The State as a Work of Art</text>
+        </navLabel>
+        <content src="Text/part0730.xhtml"/>
+          <navPoint id="np_604" playOrder="604">
+          <navLabel>
+          <text>Introduction</text>
+          </navLabel>
+          <content src="Text/part0732.xhtml"/>
+          </navPoint>
+          <navPoint id="np_605" playOrder="605">
+          <navLabel>
+          <text>Despots of the Fourteenth Century</text>
+          </navLabel>
+          <content src="Text/part0733.xhtml"/>
+          </navPoint>
+          <navPoint id="np_606" playOrder="606">
+          <navLabel>
+          <text>Despots of the Fifteenth Century</text>
+          </navLabel>
+          <content src="Text/part0734.xhtml"/>
+          </navPoint>
+          <navPoint id="np_607" playOrder="607">
+          <navLabel>
+          <text>The Smaller Despotisms</text>
+          </navLabel>
+          <content src="Text/part0735.xhtml"/>
+          </navPoint>
+          <navPoint id="np_608" playOrder="608">
+          <navLabel>
+          <text>The Greater Dynasties</text>
+          </navLabel>
+          <content src="Text/part0736.xhtml"/>
+          </navPoint>
+          <navPoint id="np_609" playOrder="609">
+          <navLabel>
+          <text>The Opponents of the Despots</text>
+          </navLabel>
+          <content src="Text/part0737.xhtml"/>
+          </navPoint>
+          <navPoint id="np_610" playOrder="610">
+          <navLabel>
+          <text>The Republics: Venice and Florence</text>
+          </navLabel>
+          <content src="Text/part0738.xhtml"/>
+          </navPoint>
+          <navPoint id="np_611" playOrder="611">
+          <navLabel>
+          <text>Foreign Policy</text>
+          </navLabel>
+          <content src="Text/part0739.xhtml"/>
+          </navPoint>
+          <navPoint id="np_612" playOrder="612">
+          <navLabel>
+          <text>War as a Work of Art</text>
+          </navLabel>
+          <content src="Text/part0740.xhtml"/>
+          </navPoint>
+          <navPoint id="np_613" playOrder="613">
+          <navLabel>
+          <text>The Papacy</text>
+          </navLabel>
+          <content src="Text/part0741.xhtml"/>
+          </navPoint>
+          <navPoint id="np_614" playOrder="614">
+          <navLabel>
+          <text>Patriotism</text>
+          </navLabel>
+          <content src="Text/part0742.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_615" playOrder="615">
+    <navLabel>
+    <text>伟大的思想第5辑（套装共8册）</text>
+    </navLabel>
+    <content src="Text/part0744.xhtml"/>
+      <navPoint id="np_616" playOrder="616">
+      <navLabel>
+      <text>乌托邦</text>
+      </navLabel>
+      <content src="Text/part0746.xhtml"/>
+        <navPoint id="np_617" playOrder="617">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0751.xhtml"/>
+        </navPoint>
+        <navPoint id="np_618" playOrder="618">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0752.xhtml"/>
+        </navPoint>
+        <navPoint id="np_619" playOrder="619">
+        <navLabel>
+        <text>莫尔致彼得·贾尔斯的信</text>
+        </navLabel>
+        <content src="Text/part0753.xhtml"/>
+        </navPoint>
+        <navPoint id="np_620" playOrder="620">
+        <navLabel>
+        <text>贾尔斯致巴斯雷德的信</text>
+        </navLabel>
+        <content src="Text/part0754.xhtml"/>
+        </navPoint>
+        <navPoint id="np_621" playOrder="621">
+        <navLabel>
+        <text>第一部</text>
+        </navLabel>
+        <content src="Text/part0755.xhtml"/>
+        </navPoint>
+        <navPoint id="np_622" playOrder="622">
+        <navLabel>
+        <text>第二部</text>
+        </navLabel>
+        <content src="Text/part0756.xhtml"/>
+        </navPoint>
+        <navPoint id="np_623" playOrder="623">
+        <navLabel>
+        <text>Utopia</text>
+        </navLabel>
+        <content src="Text/part0757.xhtml"/>
+          <navPoint id="np_624" playOrder="624">
+          <navLabel>
+          <text>More's Letter to Peter Gilles</text>
+          </navLabel>
+          <content src="Text/part0759.xhtml"/>
+          </navPoint>
+          <navPoint id="np_625" playOrder="625">
+          <navLabel>
+          <text>Gilles's Letter to Busleiden</text>
+          </navLabel>
+          <content src="Text/part0760.xhtml"/>
+          </navPoint>
+          <navPoint id="np_626" playOrder="626">
+          <navLabel>
+          <text>Book One</text>
+          </navLabel>
+          <content src="Text/part0761.xhtml"/>
+          </navPoint>
+          <navPoint id="np_627" playOrder="627">
+          <navLabel>
+          <text>Book Two</text>
+          </navLabel>
+          <content src="Text/part0762.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_628" playOrder="628">
+      <navLabel>
+      <text>社会契约论</text>
+      </navLabel>
+      <content src="Text/part0763.xhtml"/>
+        <navPoint id="np_629" playOrder="629">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0768.xhtml"/>
+        </navPoint>
+        <navPoint id="np_630" playOrder="630">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0769.xhtml"/>
+        </navPoint>
+        <navPoint id="np_631" playOrder="631">
+        <navLabel>
+        <text>第一卷</text>
+        </navLabel>
+        <content src="Text/part0770.xhtml"/>
+        </navPoint>
+        <navPoint id="np_632" playOrder="632">
+        <navLabel>
+        <text>第二卷</text>
+        </navLabel>
+        <content src="Text/part0771.xhtml"/>
+        </navPoint>
+        <navPoint id="np_633" playOrder="633">
+        <navLabel>
+        <text>第三卷</text>
+        </navLabel>
+        <content src="Text/part0772.xhtml"/>
+        </navPoint>
+        <navPoint id="np_634" playOrder="634">
+        <navLabel>
+        <text>第四卷</text>
+        </navLabel>
+        <content src="Text/part0773.xhtml"/>
+        </navPoint>
+        <navPoint id="np_635" playOrder="635">
+        <navLabel>
+        <text>The Social Contract</text>
+        </navLabel>
+        <content src="Text/part0775.xhtml"/>
+          <navPoint id="np_636" playOrder="636">
+          <navLabel>
+          <text>Book Ⅰ</text>
+          </navLabel>
+          <content src="Text/part0777.xhtml"/>
+          </navPoint>
+          <navPoint id="np_637" playOrder="637">
+          <navLabel>
+          <text>Book Ⅱ</text>
+          </navLabel>
+          <content src="Text/part0778.xhtml"/>
+          </navPoint>
+          <navPoint id="np_638" playOrder="638">
+          <navLabel>
+          <text>Book Ⅲ</text>
+          </navLabel>
+          <content src="Text/part0779.xhtml"/>
+          </navPoint>
+          <navPoint id="np_639" playOrder="639">
+          <navLabel>
+          <text>Book Ⅳ</text>
+          </navLabel>
+          <content src="Text/part0780.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_640" playOrder="640">
+      <navLabel>
+      <text>人类幸福</text>
+      </navLabel>
+      <content src="Text/part0781.xhtml"/>
+        <navPoint id="np_641" playOrder="641">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0786.xhtml"/>
+        </navPoint>
+        <navPoint id="np_642" playOrder="642">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0787.xhtml"/>
+        </navPoint>
+        <navPoint id="np_643" playOrder="643">
+        <navLabel>
+        <text>人类幸福</text>
+        </navLabel>
+        <content src="Text/part0788.xhtml"/>
+        </navPoint>
+        <navPoint id="np_644" playOrder="644">
+        <navLabel>
+        <text>Human Happiness</text>
+        </navLabel>
+        <content src="Text/part0790.xhtml"/>
+          <navPoint id="np_645" playOrder="645">
+          <navLabel>
+          <text>Human Happiness</text>
+          </navLabel>
+          <content src="Text/part0791.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_646" playOrder="646">
+      <navLabel>
+      <text>列夫·托尔斯泰：忏悔录</text>
+      </navLabel>
+      <content src="Text/part0792.xhtml"/>
+        <navPoint id="np_647" playOrder="647">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0797.xhtml"/>
+        </navPoint>
+        <navPoint id="np_648" playOrder="648">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0798.xhtml"/>
+        </navPoint>
+        <navPoint id="np_649" playOrder="649">
+        <navLabel>
+        <text>第一章</text>
+        </navLabel>
+        <content src="Text/part0799.xhtml"/>
+        </navPoint>
+        <navPoint id="np_650" playOrder="650">
+        <navLabel>
+        <text>第二章</text>
+        </navLabel>
+        <content src="Text/part0800.xhtml"/>
+        </navPoint>
+        <navPoint id="np_651" playOrder="651">
+        <navLabel>
+        <text>第三章</text>
+        </navLabel>
+        <content src="Text/part0801.xhtml"/>
+        </navPoint>
+        <navPoint id="np_652" playOrder="652">
+        <navLabel>
+        <text>第四章</text>
+        </navLabel>
+        <content src="Text/part0802.xhtml"/>
+        </navPoint>
+        <navPoint id="np_653" playOrder="653">
+        <navLabel>
+        <text>第五章</text>
+        </navLabel>
+        <content src="Text/part0803.xhtml"/>
+        </navPoint>
+        <navPoint id="np_654" playOrder="654">
+        <navLabel>
+        <text>第六章</text>
+        </navLabel>
+        <content src="Text/part0804.xhtml"/>
+        </navPoint>
+        <navPoint id="np_655" playOrder="655">
+        <navLabel>
+        <text>第七章</text>
+        </navLabel>
+        <content src="Text/part0805.xhtml"/>
+        </navPoint>
+        <navPoint id="np_656" playOrder="656">
+        <navLabel>
+        <text>第八章</text>
+        </navLabel>
+        <content src="Text/part0806.xhtml"/>
+        </navPoint>
+        <navPoint id="np_657" playOrder="657">
+        <navLabel>
+        <text>第九章</text>
+        </navLabel>
+        <content src="Text/part0807.xhtml"/>
+        </navPoint>
+        <navPoint id="np_658" playOrder="658">
+        <navLabel>
+        <text>第十章</text>
+        </navLabel>
+        <content src="Text/part0808.xhtml"/>
+        </navPoint>
+        <navPoint id="np_659" playOrder="659">
+        <navLabel>
+        <text>第十一章</text>
+        </navLabel>
+        <content src="Text/part0809.xhtml"/>
+        </navPoint>
+        <navPoint id="np_660" playOrder="660">
+        <navLabel>
+        <text>第十二章</text>
+        </navLabel>
+        <content src="Text/part0810.xhtml"/>
+        </navPoint>
+        <navPoint id="np_661" playOrder="661">
+        <navLabel>
+        <text>第十三章</text>
+        </navLabel>
+        <content src="Text/part0811.xhtml"/>
+        </navPoint>
+        <navPoint id="np_662" playOrder="662">
+        <navLabel>
+        <text>第十四章</text>
+        </navLabel>
+        <content src="Text/part0812.xhtml"/>
+        </navPoint>
+        <navPoint id="np_663" playOrder="663">
+        <navLabel>
+        <text>第十五章</text>
+        </navLabel>
+        <content src="Text/part0813.xhtml"/>
+        </navPoint>
+        <navPoint id="np_664" playOrder="664">
+        <navLabel>
+        <text>第十六章</text>
+        </navLabel>
+        <content src="Text/part0814.xhtml"/>
+        </navPoint>
+        <navPoint id="np_665" playOrder="665">
+        <navLabel>
+        <text>A Confession</text>
+        </navLabel>
+        <content src="Text/part0816.xhtml"/>
+          <navPoint id="np_666" playOrder="666">
+          <navLabel>
+          <text>Chapter 1</text>
+          </navLabel>
+          <content src="Text/part0818.xhtml"/>
+          </navPoint>
+          <navPoint id="np_667" playOrder="667">
+          <navLabel>
+          <text>Chapter 2</text>
+          </navLabel>
+          <content src="Text/part0819.xhtml"/>
+          </navPoint>
+          <navPoint id="np_668" playOrder="668">
+          <navLabel>
+          <text>Chapter 3</text>
+          </navLabel>
+          <content src="Text/part0820.xhtml"/>
+          </navPoint>
+          <navPoint id="np_669" playOrder="669">
+          <navLabel>
+          <text>Chapter 4</text>
+          </navLabel>
+          <content src="Text/part0821.xhtml"/>
+          </navPoint>
+          <navPoint id="np_670" playOrder="670">
+          <navLabel>
+          <text>Chapter 5</text>
+          </navLabel>
+          <content src="Text/part0822.xhtml"/>
+          </navPoint>
+          <navPoint id="np_671" playOrder="671">
+          <navLabel>
+          <text>Chapter 6</text>
+          </navLabel>
+          <content src="Text/part0823.xhtml"/>
+          </navPoint>
+          <navPoint id="np_672" playOrder="672">
+          <navLabel>
+          <text>Chapter 7</text>
+          </navLabel>
+          <content src="Text/part0824.xhtml"/>
+          </navPoint>
+          <navPoint id="np_673" playOrder="673">
+          <navLabel>
+          <text>Chapter 8</text>
+          </navLabel>
+          <content src="Text/part0825.xhtml"/>
+          </navPoint>
+          <navPoint id="np_674" playOrder="674">
+          <navLabel>
+          <text>Chapter 9</text>
+          </navLabel>
+          <content src="Text/part0826.xhtml"/>
+          </navPoint>
+          <navPoint id="np_675" playOrder="675">
+          <navLabel>
+          <text>Chapter 10</text>
+          </navLabel>
+          <content src="Text/part0827.xhtml"/>
+          </navPoint>
+          <navPoint id="np_676" playOrder="676">
+          <navLabel>
+          <text>Chapter 11</text>
+          </navLabel>
+          <content src="Text/part0828.xhtml"/>
+          </navPoint>
+          <navPoint id="np_677" playOrder="677">
+          <navLabel>
+          <text>Chapter 12</text>
+          </navLabel>
+          <content src="Text/part0829.xhtml"/>
+          </navPoint>
+          <navPoint id="np_678" playOrder="678">
+          <navLabel>
+          <text>Chapter 13</text>
+          </navLabel>
+          <content src="Text/part0830.xhtml"/>
+          </navPoint>
+          <navPoint id="np_679" playOrder="679">
+          <navLabel>
+          <text>Chapter 14</text>
+          </navLabel>
+          <content src="Text/part0831.xhtml"/>
+          </navPoint>
+          <navPoint id="np_680" playOrder="680">
+          <navLabel>
+          <text>Chapter 15</text>
+          </navLabel>
+          <content src="Text/part0832.xhtml"/>
+          </navPoint>
+          <navPoint id="np_681" playOrder="681">
+          <navLabel>
+          <text>Chapter 16</text>
+          </navLabel>
+          <content src="Text/part0833.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_682" playOrder="682">
+      <navLabel>
+      <text>阴谋论</text>
+      </navLabel>
+      <content src="Text/part0834.xhtml"/>
+        <navPoint id="np_683" playOrder="683">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0839.xhtml"/>
+        </navPoint>
+        <navPoint id="np_684" playOrder="684">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0840.xhtml"/>
+        </navPoint>
+        <navPoint id="np_685" playOrder="685">
+        <navLabel>
+        <text>阴谋论</text>
+        </navLabel>
+        <content src="Text/part0841.xhtml"/>
+        </navPoint>
+        <navPoint id="np_686" playOrder="686">
+        <navLabel>
+        <text>军队、军纪和兵种</text>
+        </navLabel>
+        <content src="Text/part0842.xhtml"/>
+        </navPoint>
+        <navPoint id="np_687" playOrder="687">
+        <navLabel>
+        <text>与战争相关的错误</text>
+        </navLabel>
+        <content src="Text/part0843.xhtml"/>
+        </navPoint>
+        <navPoint id="np_688" playOrder="688">
+        <navLabel>
+        <text>罗马在和平时与战时同相邻国家和城市的关系</text>
+        </navLabel>
+        <content src="Text/part0844.xhtml"/>
+        </navPoint>
+        <navPoint id="np_689" playOrder="689">
+        <navLabel>
+        <text>对战略、策略、新装备和纪律的各种评论</text>
+        </navLabel>
+        <content src="Text/part0845.xhtml"/>
+        </navPoint>
+        <navPoint id="np_690" playOrder="690">
+        <navLabel>
+        <text>给征战中统帅们的建议</text>
+        </navLabel>
+        <content src="Text/part0846.xhtml"/>
+        </navPoint>
+        <navPoint id="np_691" playOrder="691">
+        <navLabel>
+        <text>人民的利益是至高无上的法律</text>
+        </navLabel>
+        <content src="Text/part0847.xhtml"/>
+        </navPoint>
+        <navPoint id="np_692" playOrder="692">
+        <navLabel>
+        <text>On Conspiracies</text>
+        </navLabel>
+        <content src="Text/part0848.xhtml"/>
+          <navPoint id="np_693" playOrder="693">
+          <navLabel>
+          <text>On conspiracies</text>
+          </navLabel>
+          <content src="Text/part0850.xhtml"/>
+          </navPoint>
+          <navPoint id="np_694" playOrder="694">
+          <navLabel>
+          <text>Introductory</text>
+          </navLabel>
+          <content src="Text/part0850.xhtml#sigil_toc_id_1"/>
+          </navPoint>
+          <navPoint id="np_695" playOrder="695">
+          <navLabel>
+          <text>The army，its discipline and component parts</text>
+          </navLabel>
+          <content src="Text/part0851.xhtml"/>
+          </navPoint>
+          <navPoint id="np_696" playOrder="696">
+          <navLabel>
+          <text>Mistakes often made in connection with war</text>
+          </navLabel>
+          <content src="Text/part0852.xhtml"/>
+          </navPoint>
+          <navPoint id="np_697" playOrder="697">
+          <navLabel>
+          <text>Rome's dealings with neighbouring states and cities in peace and war</text>
+          </navLabel>
+          <content src="Text/part0853.xhtml"/>
+          </navPoint>
+          <navPoint id="np_698" playOrder="698">
+          <navLabel>
+          <text>Sundry remarks on strategy，tactics，new devices and discipline</text>
+          </navLabel>
+          <content src="Text/part0854.xhtml"/>
+          </navPoint>
+          <navPoint id="np_699" playOrder="699">
+          <navLabel>
+          <text>Advice to generals in the field</text>
+          </navLabel>
+          <content src="Text/part0855.xhtml"/>
+          </navPoint>
+          <navPoint id="np_700" playOrder="700">
+          <navLabel>
+          <text>Salus populi，suprema lex</text>
+          </navLabel>
+          <content src="Text/part0856.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_701" playOrder="701">
+      <navLabel>
+      <text>论权力</text>
+      </navLabel>
+      <content src="Text/part0857.xhtml"/>
+        <navPoint id="np_702" playOrder="702">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0862.xhtml"/>
+        </navPoint>
+        <navPoint id="np_703" playOrder="703">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0863.xhtml"/>
+        </navPoint>
+        <navPoint id="np_704" playOrder="704">
+        <navLabel>
+        <text>政府权力</text>
+        </navLabel>
+        <content src="Text/part0864.xhtml"/>
+        </navPoint>
+        <navPoint id="np_705" playOrder="705">
+        <navLabel>
+        <text>家族权力</text>
+        </navLabel>
+        <content src="Text/part0865.xhtml"/>
+        </navPoint>
+        <navPoint id="np_706" playOrder="706">
+        <navLabel>
+        <text>战争和暴力中的权力</text>
+        </navLabel>
+        <content src="Text/part0866.xhtml"/>
+        </navPoint>
+        <navPoint id="np_707" playOrder="707">
+        <navLabel>
+        <text>恋人间的权力</text>
+        </navLabel>
+        <content src="Text/part0867.xhtml"/>
+        </navPoint>
+        <navPoint id="np_708" playOrder="708">
+        <navLabel>
+        <text>On Power</text>
+        </navLabel>
+        <content src="Text/part0868.xhtml"/>
+          <navPoint id="np_709" playOrder="709">
+          <navLabel>
+          <text>Power in government</text>
+          </navLabel>
+          <content src="Text/part0870.xhtml"/>
+          </navPoint>
+          <navPoint id="np_710" playOrder="710">
+          <navLabel>
+          <text>Power in the family</text>
+          </navLabel>
+          <content src="Text/part0871.xhtml"/>
+          </navPoint>
+          <navPoint id="np_711" playOrder="711">
+          <navLabel>
+          <text>Power in war and violence</text>
+          </navLabel>
+          <content src="Text/part0872.xhtml"/>
+          </navPoint>
+          <navPoint id="np_712" playOrder="712">
+          <navLabel>
+          <text>Power of love, between men and women</text>
+          </navLabel>
+          <content src="Text/part0873.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_713" playOrder="713">
+      <navLabel>
+      <text>康德：对“什么是启蒙”的回答</text>
+      </navLabel>
+      <content src="Text/part0874.xhtml"/>
+        <navPoint id="np_714" playOrder="714">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0879.xhtml"/>
+        </navPoint>
+        <navPoint id="np_715" playOrder="715">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part0880.xhtml"/>
+        </navPoint>
+        <navPoint id="np_716" playOrder="716">
+        <navLabel>
+        <text>对“什么是启蒙”的回答</text>
+        </navLabel>
+        <content src="Text/part0881.xhtml"/>
+        </navPoint>
+        <navPoint id="np_717" playOrder="717">
+        <navLabel>
+        <text>永久和平：一个哲学素描</text>
+        </navLabel>
+        <content src="Text/part0882.xhtml"/>
+        </navPoint>
+        <navPoint id="np_718" playOrder="718">
+        <navLabel>
+        <text>附录</text>
+        </navLabel>
+        <content src="Text/part0883.xhtml"/>
+        </navPoint>
+        <navPoint id="np_719" playOrder="719">
+        <navLabel>
+        <text>回答“人类是否在持续地改进”问题的新尝试</text>
+        </navLabel>
+        <content src="Text/part0884.xhtml"/>
+        </navPoint>
+        <navPoint id="np_720" playOrder="720">
+        <navLabel>
+        <text>关于人类历史开端的猜想</text>
+        </navLabel>
+        <content src="Text/part0885.xhtml"/>
+        </navPoint>
+        <navPoint id="np_721" playOrder="721">
+        <navLabel>
+        <text>An Answer to the Question:‘What is Enlightenment?’</text>
+        </navLabel>
+        <content src="Text/part0887.xhtml"/>
+          <navPoint id="np_722" playOrder="722">
+          <navLabel>
+          <text>An Answer to the Question:‘What is Enlightenment?’</text>
+          </navLabel>
+          <content src="Text/part0889.xhtml"/>
+          </navPoint>
+          <navPoint id="np_723" playOrder="723">
+          <navLabel>
+          <text>Perpetual Peace: A Philosophical Sketch</text>
+          </navLabel>
+          <content src="Text/part0890.xhtml"/>
+          </navPoint>
+          <navPoint id="np_724" playOrder="724">
+          <navLabel>
+          <text>Appendix</text>
+          </navLabel>
+          <content src="Text/part0891.xhtml"/>
+          </navPoint>
+          <navPoint id="np_725" playOrder="725">
+          <navLabel>
+          <text>A Renewed Attempt to Answer the Question:‘Is the Human Race Continually Improving?’</text>
+          </navLabel>
+          <content src="Text/part0892.xhtml"/>
+          </navPoint>
+          <navPoint id="np_726" playOrder="726">
+          <navLabel>
+          <text>Conjectures on the Beginning of Human History</text>
+          </navLabel>
+          <content src="Text/part0893.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_727" playOrder="727">
+      <navLabel>
+      <text>道德经</text>
+      </navLabel>
+      <content src="Text/part0894.xhtml"/>
+        <navPoint id="np_728" playOrder="728">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0899.xhtml"/>
+        </navPoint>
+        <navPoint id="np_729" playOrder="729">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0900.xhtml"/>
+        </navPoint>
+        <navPoint id="np_730" playOrder="730">
+        <navLabel>
+        <text>卷一</text>
+        </navLabel>
+        <content src="Text/part0901.xhtml"/>
+        </navPoint>
+        <navPoint id="np_731" playOrder="731">
+        <navLabel>
+        <text>卷二</text>
+        </navLabel>
+        <content src="Text/part0902.xhtml"/>
+        </navPoint>
+        <navPoint id="np_732" playOrder="732">
+        <navLabel>
+        <text>Tao Te Ching</text>
+        </navLabel>
+        <content src="Text/part0904.xhtml"/>
+          <navPoint id="np_733" playOrder="733">
+          <navLabel>
+          <text>Book One</text>
+          </navLabel>
+          <content src="Text/part0906.xhtml"/>
+          </navPoint>
+          <navPoint id="np_734" playOrder="734">
+          <navLabel>
+          <text>Book Two</text>
+          </navLabel>
+          <content src="Text/part0944.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_735" playOrder="735">
+    <navLabel>
+    <text>伟大的思想第6辑（套装共8册）</text>
+    </navLabel>
+    <content src="Text/part0990.xhtml"/>
+      <navPoint id="np_736" playOrder="736">
+      <navLabel>
+      <text>与孤独为伍</text>
+      </navLabel>
+      <content src="Text/part0992.xhtml"/>
+        <navPoint id="np_737" playOrder="737">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part0997.xhtml"/>
+        </navPoint>
+        <navPoint id="np_738" playOrder="738">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part0998.xhtml"/>
+        </navPoint>
+        <navPoint id="np_739" playOrder="739">
+        <navLabel>
+        <text>一、与孤独为伍</text>
+        </navLabel>
+        <content src="Text/part0999.xhtml"/>
+        </navPoint>
+        <navPoint id="np_740" playOrder="740">
+        <navLabel>
+        <text>二、在朋友们中间：结语</text>
+        </navLabel>
+        <content src="Text/part1000.xhtml"/>
+        </navPoint>
+        <navPoint id="np_741" playOrder="741">
+        <navLabel>
+        <text>三、自由精神</text>
+        </navLabel>
+        <content src="Text/part1001.xhtml"/>
+        </navPoint>
+        <navPoint id="np_742" playOrder="742">
+        <navLabel>
+        <text>四、来自高山：古抒情诗</text>
+        </navLabel>
+        <content src="Text/part1002.xhtml"/>
+        </navPoint>
+        <navPoint id="np_743" playOrder="743">
+        <navLabel>
+        <text>Man Alone with Himself</text>
+        </navLabel>
+        <content src="Text/part1004.xhtml"/>
+          <navPoint id="np_744" playOrder="744">
+          <navLabel>
+          <text>1 Man Alone with Himself</text>
+          </navLabel>
+          <content src="Text/part1006.xhtml"/>
+          </navPoint>
+          <navPoint id="np_745" playOrder="745">
+          <navLabel>
+          <text>2 Among Friends: An Epilogue</text>
+          </navLabel>
+          <content src="Text/part1007.xhtml"/>
+          </navPoint>
+          <navPoint id="np_746" playOrder="746">
+          <navLabel>
+          <text>3 The Free Spirit</text>
+          </navLabel>
+          <content src="Text/part1008.xhtml"/>
+          </navPoint>
+          <navPoint id="np_747" playOrder="747">
+          <navLabel>
+          <text>4 From High Mountains: Epode</text>
+          </navLabel>
+          <content src="Text/part1009.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_748" playOrder="748">
+      <navLabel>
+      <text>非同寻常的大众幻想</text>
+      </navLabel>
+      <content src="Text/part1010.xhtml"/>
+        <navPoint id="np_749" playOrder="749">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part1015.xhtml"/>
+        </navPoint>
+        <navPoint id="np_750" playOrder="750">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part1016.xhtml"/>
+        </navPoint>
+        <navPoint id="np_751" playOrder="751">
+        <navLabel>
+        <text>流行在大都市里的荒唐语</text>
+        </navLabel>
+        <content src="Text/part1017.xhtml"/>
+        </navPoint>
+        <navPoint id="np_752" playOrder="752">
+        <navLabel>
+        <text>南海泡沫危机</text>
+        </navLabel>
+        <content src="Text/part1018.xhtml"/>
+        </navPoint>
+        <navPoint id="np_753" playOrder="753">
+        <navLabel>
+        <text>郁金香狂热</text>
+        </navLabel>
+        <content src="Text/part1019.xhtml"/>
+        </navPoint>
+        <navPoint id="np_754" playOrder="754">
+        <navLabel>
+        <text>疯狂的慢性投毒犯</text>
+        </navLabel>
+        <content src="Text/part1020.xhtml"/>
+        </navPoint>
+        <navPoint id="np_755" playOrder="755">
+        <navLabel>
+        <text>Some Extraordinary Popular Delusions</text>
+        </navLabel>
+        <content src="Text/part1022.xhtml"/>
+          <navPoint id="np_756" playOrder="756">
+          <navLabel>
+          <text>1 Popular Follies of Great Cities</text>
+          </navLabel>
+          <content src="Text/part1024.xhtml"/>
+          </navPoint>
+          <navPoint id="np_757" playOrder="757">
+          <navLabel>
+          <text>2 The South-Sea Bubble</text>
+          </navLabel>
+          <content src="Text/part1025.xhtml"/>
+          </navPoint>
+          <navPoint id="np_758" playOrder="758">
+          <navLabel>
+          <text>3 The Tulipomania</text>
+          </navLabel>
+          <content src="Text/part1026.xhtml"/>
+          </navPoint>
+          <navPoint id="np_759" playOrder="759">
+          <navLabel>
+          <text>4 The Slow Poisoners</text>
+          </navLabel>
+          <content src="Text/part1027.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_760" playOrder="760">
+      <navLabel>
+      <text>艺术与人生</text>
+      </navLabel>
+      <content src="Text/part1028.xhtml"/>
+        <navPoint id="np_761" playOrder="761">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part1033.xhtml"/>
+        </navPoint>
+        <navPoint id="np_762" playOrder="762">
+        <navLabel>
+        <text>导读</text>
+        </navLabel>
+        <content src="Text/part1034.xhtml"/>
+        </navPoint>
+        <navPoint id="np_763" playOrder="763">
+        <navLabel>
+        <text>哥特式的性质</text>
+        </navLabel>
+        <content src="Text/part1035.xhtml"/>
+        </navPoint>
+        <navPoint id="np_764" playOrder="764">
+        <navLabel>
+        <text>铁在自然、艺术和政治中的功用</text>
+        </navLabel>
+        <content src="Text/part1036.xhtml"/>
+        </navPoint>
+        <navPoint id="np_765" playOrder="765">
+        <navLabel>
+        <text>On Art and Life</text>
+        </navLabel>
+        <content src="Text/part1038.xhtml"/>
+          <navPoint id="np_766" playOrder="766">
+          <navLabel>
+          <text>The Nature of Gothic</text>
+          </navLabel>
+          <content src="Text/part1040.xhtml"/>
+          </navPoint>
+          <navPoint id="np_767" playOrder="767">
+          <navLabel>
+          <text>The Work of Iron, in Nature, Art, and Policy</text>
+          </navLabel>
+          <content src="Text/part1041.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_768" playOrder="768">
+      <navLabel>
+      <text>论内心生活</text>
+      </navLabel>
+      <content src="Text/part1042.xhtml"/>
+        <navPoint id="np_769" playOrder="769">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part1047.xhtml"/>
+        </navPoint>
+        <navPoint id="np_770" playOrder="770">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part1048.xhtml"/>
+        </navPoint>
+        <navPoint id="np_771" playOrder="771">
+        <navLabel>
+        <text>第一卷 精神生活的劝言</text>
+        </navLabel>
+        <content src="Text/part1049.xhtml"/>
+        </navPoint>
+        <navPoint id="np_772" playOrder="772">
+        <navLabel>
+        <text>第二卷 内心生活的劝言</text>
+        </navLabel>
+        <content src="Text/part1050.xhtml"/>
+        </navPoint>
+        <navPoint id="np_773" playOrder="773">
+        <navLabel>
+        <text>第三卷 论内心安慰</text>
+        </navLabel>
+        <content src="Text/part1051.xhtml"/>
+        </navPoint>
+        <navPoint id="np_774" playOrder="774">
+        <navLabel>
+        <text>The Inner Life</text>
+        </navLabel>
+        <content src="Text/part1053.xhtml"/>
+          <navPoint id="np_775" playOrder="775">
+          <navLabel>
+          <text>BOOK ONE Counsels on the Spiritual Life</text>
+          </navLabel>
+          <content src="Text/part1055.xhtml"/>
+          </navPoint>
+          <navPoint id="np_776" playOrder="776">
+          <navLabel>
+          <text>BOOK TWO Counsels on the Inner Life</text>
+          </navLabel>
+          <content src="Text/part1056.xhtml"/>
+          </navPoint>
+          <navPoint id="np_777" playOrder="777">
+          <navLabel>
+          <text>BOOK THREE On Inward Consolation</text>
+          </navLabel>
+          <content src="Text/part1057.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_778" playOrder="778">
+      <navLabel>
+      <text>奇迹和偶像崇拜</text>
+      </navLabel>
+      <content src="Text/part1058.xhtml"/>
+        <navPoint id="np_779" playOrder="779">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part1063.xhtml"/>
+        </navPoint>
+        <navPoint id="np_780" playOrder="780">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part1064.xhtml"/>
+        </navPoint>
+        <navPoint id="np_781" playOrder="781">
+        <navLabel>
+        <text>天使</text>
+        </navLabel>
+        <content src="Text/part1065.xhtml"/>
+        </navPoint>
+        <navPoint id="np_782" playOrder="782">
+        <navLabel>
+        <text>动物</text>
+        </navLabel>
+        <content src="Text/part1066.xhtml"/>
+        </navPoint>
+        <navPoint id="np_783" playOrder="783">
+        <navLabel>
+        <text>反三位一体论者</text>
+        </navLabel>
+        <content src="Text/part1067.xhtml"/>
+        </navPoint>
+        <navPoint id="np_784" playOrder="784">
+        <navLabel>
+        <text>启示录</text>
+        </navLabel>
+        <content src="Text/part1068.xhtml"/>
+        </navPoint>
+        <navPoint id="np_785" playOrder="785">
+        <navLabel>
+        <text>无神论者和无神论</text>
+        </navLabel>
+        <content src="Text/part1069.xhtml"/>
+        </navPoint>
+        <navPoint id="np_786" playOrder="786">
+        <navLabel>
+        <text>洗礼</text>
+        </navLabel>
+        <content src="Text/part1070.xhtml"/>
+        </navPoint>
+        <navPoint id="np_787" playOrder="787">
+        <navLabel>
+        <text>食人族</text>
+        </navLabel>
+        <content src="Text/part1071.xhtml"/>
+        </navPoint>
+        <navPoint id="np_788" playOrder="788">
+        <navLabel>
+        <text>确信与确信度</text>
+        </navLabel>
+        <content src="Text/part1072.xhtml"/>
+        </navPoint>
+        <navPoint id="np_789" playOrder="789">
+        <navLabel>
+        <text>性格</text>
+        </navLabel>
+        <content src="Text/part1073.xhtml"/>
+        </navPoint>
+        <navPoint id="np_790" playOrder="790">
+        <navLabel>
+        <text>宗教会议</text>
+        </navLabel>
+        <content src="Text/part1074.xhtml"/>
+        </navPoint>
+        <navPoint id="np_791" playOrder="791">
+        <navLabel>
+        <text>狂热</text>
+        </navLabel>
+        <content src="Text/part1075.xhtml"/>
+        </navPoint>
+        <navPoint id="np_792" playOrder="792">
+        <navLabel>
+        <text>平等</text>
+        </navLabel>
+        <content src="Text/part1076.xhtml"/>
+        </navPoint>
+        <navPoint id="np_793" playOrder="793">
+        <navLabel>
+        <text>祖国</text>
+        </navLabel>
+        <content src="Text/part1077.xhtml"/>
+        </navPoint>
+        <navPoint id="np_794" playOrder="794">
+        <navLabel>
+        <text>洪水</text>
+        </navLabel>
+        <content src="Text/part1078.xhtml"/>
+        </navPoint>
+        <navPoint id="np_795" playOrder="795">
+        <navLabel>
+        <text>伟大的存在之链</text>
+        </navLabel>
+        <content src="Text/part1079.xhtml"/>
+        </navPoint>
+        <navPoint id="np_796" playOrder="796">
+        <navLabel>
+        <text>地狱</text>
+        </navLabel>
+        <content src="Text/part1080.xhtml"/>
+        </navPoint>
+        <navPoint id="np_797" playOrder="797">
+        <navLabel>
+        <text>偶像，偶像崇拜者，偶像崇拜</text>
+        </navLabel>
+        <content src="Text/part1081.xhtml"/>
+        </navPoint>
+        <navPoint id="np_798" playOrder="798">
+        <navLabel>
+        <text>约瑟夫</text>
+        </navLabel>
+        <content src="Text/part1082.xhtml"/>
+        </navPoint>
+        <navPoint id="np_799" playOrder="799">
+        <navLabel>
+        <text>朱迪亚</text>
+        </navLabel>
+        <content src="Text/part1083.xhtml"/>
+        </navPoint>
+        <navPoint id="np_800" playOrder="800">
+        <navLabel>
+        <text>享乐</text>
+        </navLabel>
+        <content src="Text/part1084.xhtml"/>
+        </navPoint>
+        <navPoint id="np_801" playOrder="801">
+        <navLabel>
+        <text>殉道</text>
+        </navLabel>
+        <content src="Text/part1085.xhtml"/>
+        </navPoint>
+        <navPoint id="np_802" playOrder="802">
+        <navLabel>
+        <text>奇迹</text>
+        </navLabel>
+        <content src="Text/part1086.xhtml"/>
+        </navPoint>
+        <navPoint id="np_803" playOrder="803">
+        <navLabel>
+        <text>彼得</text>
+        </navLabel>
+        <content src="Text/part1087.xhtml"/>
+        </navPoint>
+        <navPoint id="np_804" playOrder="804">
+        <navLabel>
+        <text>哲人朱利安——罗马君主</text>
+        </navLabel>
+        <content src="Text/part1088.xhtml"/>
+        </navPoint>
+        <navPoint id="np_805" playOrder="805">
+        <navLabel>
+        <text>偏见</text>
+        </navLabel>
+        <content src="Text/part1089.xhtml"/>
+        </navPoint>
+        <navPoint id="np_806" playOrder="806">
+        <navLabel>
+        <text>自豪</text>
+        </navLabel>
+        <content src="Text/part1090.xhtml"/>
+        </navPoint>
+        <navPoint id="np_807" playOrder="807">
+        <navLabel>
+        <text>自爱</text>
+        </navLabel>
+        <content src="Text/part1091.xhtml"/>
+        </navPoint>
+        <navPoint id="np_808" playOrder="808">
+        <navLabel>
+        <text>邪恶</text>
+        </navLabel>
+        <content src="Text/part1092.xhtml"/>
+        </navPoint>
+        <navPoint id="np_809" playOrder="809">
+        <navLabel>
+        <text>Miracles and Idolatry</text>
+        </navLabel>
+        <content src="Text/part1094.xhtml"/>
+          <navPoint id="np_810" playOrder="810">
+          <navLabel>
+          <text>Angel</text>
+          </navLabel>
+          <content src="Text/part1096.xhtml"/>
+          </navPoint>
+          <navPoint id="np_811" playOrder="811">
+          <navLabel>
+          <text>Animals</text>
+          </navLabel>
+          <content src="Text/part1097.xhtml"/>
+          </navPoint>
+          <navPoint id="np_812" playOrder="812">
+          <navLabel>
+          <text>Anti-trinitarians</text>
+          </navLabel>
+          <content src="Text/part1098.xhtml"/>
+          </navPoint>
+          <navPoint id="np_813" playOrder="813">
+          <navLabel>
+          <text>Apocalypse</text>
+          </navLabel>
+          <content src="Text/part1099.xhtml"/>
+          </navPoint>
+          <navPoint id="np_814" playOrder="814">
+          <navLabel>
+          <text>Atheist, atheism</text>
+          </navLabel>
+          <content src="Text/part1100.xhtml"/>
+          </navPoint>
+          <navPoint id="np_815" playOrder="815">
+          <navLabel>
+          <text>Baptism</text>
+          </navLabel>
+          <content src="Text/part1101.xhtml"/>
+          </navPoint>
+          <navPoint id="np_816" playOrder="816">
+          <navLabel>
+          <text>Cannibals</text>
+          </navLabel>
+          <content src="Text/part1102.xhtml"/>
+          </navPoint>
+          <navPoint id="np_817" playOrder="817">
+          <navLabel>
+          <text>Certain, certainty</text>
+          </navLabel>
+          <content src="Text/part1103.xhtml"/>
+          </navPoint>
+          <navPoint id="np_818" playOrder="818">
+          <navLabel>
+          <text>Character</text>
+          </navLabel>
+          <content src="Text/part1104.xhtml"/>
+          </navPoint>
+          <navPoint id="np_819" playOrder="819">
+          <navLabel>
+          <text>Councils</text>
+          </navLabel>
+          <content src="Text/part1105.xhtml"/>
+          </navPoint>
+          <navPoint id="np_820" playOrder="820">
+          <navLabel>
+          <text>Enthusiasm</text>
+          </navLabel>
+          <content src="Text/part1106.xhtml"/>
+          </navPoint>
+          <navPoint id="np_821" playOrder="821">
+          <navLabel>
+          <text>Equality</text>
+          </navLabel>
+          <content src="Text/part1107.xhtml"/>
+          </navPoint>
+          <navPoint id="np_822" playOrder="822">
+          <navLabel>
+          <text>Fatherland</text>
+          </navLabel>
+          <content src="Text/part1108.xhtml"/>
+          </navPoint>
+          <navPoint id="np_823" playOrder="823">
+          <navLabel>
+          <text>Flood</text>
+          </navLabel>
+          <content src="Text/part1109.xhtml"/>
+          </navPoint>
+          <navPoint id="np_824" playOrder="824">
+          <navLabel>
+          <text>Great chain of being</text>
+          </navLabel>
+          <content src="Text/part1110.xhtml"/>
+          </navPoint>
+          <navPoint id="np_825" playOrder="825">
+          <navLabel>
+          <text>Hell</text>
+          </navLabel>
+          <content src="Text/part1111.xhtml"/>
+          </navPoint>
+          <navPoint id="np_826" playOrder="826">
+          <navLabel>
+          <text>Idol, idolator, idolatry</text>
+          </navLabel>
+          <content src="Text/part1112.xhtml"/>
+          </navPoint>
+          <navPoint id="np_827" playOrder="827">
+          <navLabel>
+          <text>Joseph</text>
+          </navLabel>
+          <content src="Text/part1113.xhtml"/>
+          </navPoint>
+          <navPoint id="np_828" playOrder="828">
+          <navLabel>
+          <text>Judea</text>
+          </navLabel>
+          <content src="Text/part1114.xhtml"/>
+          </navPoint>
+          <navPoint id="np_829" playOrder="829">
+          <navLabel>
+          <text>Luxury</text>
+          </navLabel>
+          <content src="Text/part1115.xhtml"/>
+          </navPoint>
+          <navPoint id="np_830" playOrder="830">
+          <navLabel>
+          <text>Martyr</text>
+          </navLabel>
+          <content src="Text/part1116.xhtml"/>
+          </navPoint>
+          <navPoint id="np_831" playOrder="831">
+          <navLabel>
+          <text>Miracles</text>
+          </navLabel>
+          <content src="Text/part1117.xhtml"/>
+          </navPoint>
+          <navPoint id="np_832" playOrder="832">
+          <navLabel>
+          <text>Peter</text>
+          </navLabel>
+          <content src="Text/part1118.xhtml"/>
+          </navPoint>
+          <navPoint id="np_833" playOrder="833">
+          <navLabel>
+          <text>The philosopher Julian, Roman emperor</text>
+          </navLabel>
+          <content src="Text/part1119.xhtml"/>
+          </navPoint>
+          <navPoint id="np_834" playOrder="834">
+          <navLabel>
+          <text>Prejudices</text>
+          </navLabel>
+          <content src="Text/part1120.xhtml"/>
+          </navPoint>
+          <navPoint id="np_835" playOrder="835">
+          <navLabel>
+          <text>Pride</text>
+          </navLabel>
+          <content src="Text/part1121.xhtml"/>
+          </navPoint>
+          <navPoint id="np_836" playOrder="836">
+          <navLabel>
+          <text>Self-love</text>
+          </navLabel>
+          <content src="Text/part1122.xhtml"/>
+          </navPoint>
+          <navPoint id="np_837" playOrder="837">
+          <navLabel>
+          <text>Wicked</text>
+          </navLabel>
+          <content src="Text/part1123.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_838" playOrder="838">
+      <navLabel>
+      <text>澡盆故事</text>
+      </navLabel>
+      <content src="Text/part1124.xhtml"/>
+        <navPoint id="np_839" playOrder="839">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part1129.xhtml"/>
+        </navPoint>
+        <navPoint id="np_840" playOrder="840">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part1130.xhtml"/>
+        </navPoint>
+        <navPoint id="np_841" playOrder="841">
+        <navLabel>
+        <text>摘自前言</text>
+        </navLabel>
+        <content src="Text/part1131.xhtml"/>
+        </navPoint>
+        <navPoint id="np_842" playOrder="842">
+        <navLabel>
+        <text>“澡盆故事”</text>
+        </navLabel>
+        <content src="Text/part1132.xhtml"/>
+          <navPoint id="np_843" playOrder="843">
+          <navLabel>
+          <text>第一章 缘起</text>
+          </navLabel>
+          <content src="Text/part1132.xhtml#sigil_toc_id_1"/>
+          </navPoint>
+          <navPoint id="np_844" playOrder="844">
+          <navLabel>
+          <text>第二章</text>
+          </navLabel>
+          <content src="Text/part1132.xhtml#sigil_toc_id_2"/>
+          </navPoint>
+          <navPoint id="np_845" playOrder="845">
+          <navLabel>
+          <text>第三章 题外的话：关于批评家</text>
+          </navLabel>
+          <content src="Text/part1132.xhtml#sigil_toc_id_3"/>
+          </navPoint>
+          <navPoint id="np_846" playOrder="846">
+          <navLabel>
+          <text>第四章 “澡盆故事”</text>
+          </navLabel>
+          <content src="Text/part1132.xhtml#sigil_toc_id_4"/>
+          </navPoint>
+          <navPoint id="np_847" playOrder="847">
+          <navLabel>
+          <text>第五章 关于现代人的题外话</text>
+          </navLabel>
+          <content src="Text/part1132.xhtml#sigil_toc_id_5"/>
+          </navPoint>
+          <navPoint id="np_848" playOrder="848">
+          <navLabel>
+          <text>第六章 无稽之谈</text>
+          </navLabel>
+          <content src="Text/part1132.xhtml#sigil_toc_id_6"/>
+          </navPoint>
+          <navPoint id="np_849" playOrder="849">
+          <navLabel>
+          <text>第七章 关于题外话的题外话</text>
+          </navLabel>
+          <content src="Text/part1132.xhtml#sigil_toc_id_7"/>
+          </navPoint>
+          <navPoint id="np_850" playOrder="850">
+          <navLabel>
+          <text>第八章 无稽之谈</text>
+          </navLabel>
+          <content src="Text/part1132.xhtml#sigil_toc_id_8"/>
+          </navPoint>
+          <navPoint id="np_851" playOrder="851">
+          <navLabel>
+          <text>第九章 题外话：关于一个联合王国疯病的起源、利用和改进</text>
+          </navLabel>
+          <content src="Text/part1132.xhtml#sigil_toc_id_9"/>
+          </navPoint>
+          <navPoint id="np_852" playOrder="852">
+          <navLabel>
+          <text>第十章 “澡盆故事”</text>
+          </navLabel>
+          <content src="Text/part1132.xhtml#sigil_toc_id_10"/>
+          </navPoint>
+          <navPoint id="np_853" playOrder="853">
+          <navLabel>
+          <text>第十一章 “澡盆故事”</text>
+          </navLabel>
+          <content src="Text/part1132.xhtml#sigil_toc_id_11"/>
+          </navPoint>
+          <navPoint id="np_854" playOrder="854">
+          <navLabel>
+          <text>结语</text>
+          </navLabel>
+          <content src="Text/part1132.xhtml#sigil_toc_id_12"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="np_855" playOrder="855">
+        <navLabel>
+        <text>A Tale of a Tub</text>
+        </navLabel>
+        <content src="Text/part1134.xhtml"/>
+          <navPoint id="np_856" playOrder="856">
+          <navLabel>
+          <text>From The Preface</text>
+          </navLabel>
+          <content src="Text/part1136.xhtml"/>
+          </navPoint>
+          <navPoint id="np_857" playOrder="857">
+          <navLabel>
+          <text>A Tale of a Tub</text>
+          </navLabel>
+          <content src="Text/part1137.xhtml"/>
+            <navPoint id="np_858" playOrder="858">
+            <navLabel>
+            <text>Section I THE INTRODUCTION</text>
+            </navLabel>
+            <content src="Text/part1137.xhtml#sigil_toc_id_1"/>
+            </navPoint>
+            <navPoint id="np_859" playOrder="859">
+            <navLabel>
+            <text>Section II</text>
+            </navLabel>
+            <content src="Text/part1137.xhtml#sigil_toc_id_2"/>
+            </navPoint>
+            <navPoint id="np_860" playOrder="860">
+            <navLabel>
+            <text>Section III A DIGRESSION CONCERNING CRITICS</text>
+            </navLabel>
+            <content src="Text/part1137.xhtml#sigil_toc_id_3"/>
+            </navPoint>
+            <navPoint id="np_861" playOrder="861">
+            <navLabel>
+            <text>Section IV A TALE OF A TUB</text>
+            </navLabel>
+            <content src="Text/part1137.xhtml#sigil_toc_id_4"/>
+            </navPoint>
+            <navPoint id="np_862" playOrder="862">
+            <navLabel>
+            <text>Section V A DIGRESSION IN THE MODERN KIND</text>
+            </navLabel>
+            <content src="Text/part1137.xhtml#sigil_toc_id_5"/>
+            </navPoint>
+            <navPoint id="np_863" playOrder="863">
+            <navLabel>
+            <text>Section VI A TALE OF A TUB</text>
+            </navLabel>
+            <content src="Text/part1137.xhtml#sigil_toc_id_6"/>
+            </navPoint>
+            <navPoint id="np_864" playOrder="864">
+            <navLabel>
+            <text>Section VII A DIGRESSION IN PRAISE OF DIGRESSIONS</text>
+            </navLabel>
+            <content src="Text/part1137.xhtml#sigil_toc_id_7"/>
+            </navPoint>
+            <navPoint id="np_865" playOrder="865">
+            <navLabel>
+            <text>Section VIII A TALE OF A TUB</text>
+            </navLabel>
+            <content src="Text/part1137.xhtml#sigil_toc_id_8"/>
+            </navPoint>
+            <navPoint id="np_866" playOrder="866">
+            <navLabel>
+            <text>Section IX A DIGRESSION CONCERNING THE ORIGINAL, THE USE, AND IMPROVEMENT OF MADNESS IN A COMMONWEALTH</text>
+            </navLabel>
+            <content src="Text/part1137.xhtml#sigil_toc_id_9"/>
+            </navPoint>
+            <navPoint id="np_867" playOrder="867">
+            <navLabel>
+            <text>Section X A TALE OF A TUB</text>
+            </navLabel>
+            <content src="Text/part1137.xhtml#sigil_toc_id_10"/>
+            </navPoint>
+            <navPoint id="np_868" playOrder="868">
+            <navLabel>
+            <text>Section XI A TALE OF A TUB</text>
+            </navLabel>
+            <content src="Text/part1137.xhtml#sigil_toc_id_11"/>
+            </navPoint>
+            <navPoint id="np_869" playOrder="869">
+            <navLabel>
+            <text>The Conclusion</text>
+            </navLabel>
+            <content src="Text/part1137.xhtml#sigil_toc_id_12"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_870" playOrder="870">
+      <navLabel>
+      <text>论人类</text>
+      </navLabel>
+      <content src="Text/part1138.xhtml"/>
+        <navPoint id="np_871" playOrder="871">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part1143.xhtml"/>
+        </navPoint>
+        <navPoint id="np_872" playOrder="872">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part1144.xhtml"/>
+        </navPoint>
+        <navPoint id="np_873" playOrder="873">
+        <navLabel>
+        <text>导言</text>
+        </navLabel>
+        <content src="Text/part1145.xhtml"/>
+        </navPoint>
+        <navPoint id="np_874" playOrder="874">
+        <navLabel>
+        <text>论人类</text>
+        </navLabel>
+        <content src="Text/part1146.xhtml"/>
+        </navPoint>
+        <navPoint id="np_875" playOrder="875">
+        <navLabel>
+        <text>论国家</text>
+        </navLabel>
+        <content src="Text/part1147.xhtml"/>
+        </navPoint>
+        <navPoint id="np_876" playOrder="876">
+        <navLabel>
+        <text>论黑暗王国</text>
+        </navLabel>
+        <content src="Text/part1148.xhtml"/>
+        </navPoint>
+        <navPoint id="np_877" playOrder="877">
+        <navLabel>
+        <text>Of Man</text>
+        </navLabel>
+        <content src="Text/part1150.xhtml"/>
+          <navPoint id="np_878" playOrder="878">
+          <navLabel>
+          <text>The Introduction</text>
+          </navLabel>
+          <content src="Text/part1152.xhtml"/>
+          </navPoint>
+          <navPoint id="np_879" playOrder="879">
+          <navLabel>
+          <text>Of Man</text>
+          </navLabel>
+          <content src="Text/part1153.xhtml"/>
+          </navPoint>
+          <navPoint id="np_880" playOrder="880">
+          <navLabel>
+          <text>Of the Kingdome of Darknesse</text>
+          </navLabel>
+          <content src="Text/part1155.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_881" playOrder="881">
+      <navLabel>
+      <text>现代生活的画家</text>
+      </navLabel>
+      <content src="Text/part1156.xhtml"/>
+        <navPoint id="np_882" playOrder="882">
+        <navLabel>
+        <text>“伟大的思想”中文版序</text>
+        </navLabel>
+        <content src="Text/part1161.xhtml"/>
+        </navPoint>
+        <navPoint id="np_883" playOrder="883">
+        <navLabel>
+        <text>译者导读</text>
+        </navLabel>
+        <content src="Text/part1162.xhtml"/>
+        </navPoint>
+        <navPoint id="np_884" playOrder="884">
+        <navLabel>
+        <text>现代生活的画家</text>
+        </navLabel>
+        <content src="Text/part1163.xhtml"/>
+        </navPoint>
+        <navPoint id="np_885" playOrder="885">
+        <navLabel>
+        <text>欧仁·德拉克洛瓦的人生与作品——致《国民舆论》编辑的一封信</text>
+        </navLabel>
+        <content src="Text/part1164.xhtml"/>
+        </navPoint>
+        <navPoint id="np_886" playOrder="886">
+        <navLabel>
+        <text>论1859年的沙龙——致《法兰西评论》编辑的信</text>
+        </navLabel>
+        <content src="Text/part1165.xhtml"/>
+        </navPoint>
+        <navPoint id="np_887" playOrder="887">
+        <navLabel>
+        <text>The Painter of Modern Life</text>
+        </navLabel>
+        <content src="Text/part1167.xhtml"/>
+          <navPoint id="np_888" playOrder="888">
+          <navLabel>
+          <text>The Painter of Modern Life</text>
+          </navLabel>
+          <content src="Text/part1169.xhtml"/>
+          </navPoint>
+          <navPoint id="np_889" playOrder="889">
+          <navLabel>
+          <text>The Life and Work of Eugène Delacroix</text>
+          </navLabel>
+          <content src="Text/part1170.xhtml"/>
+          </navPoint>
+          <navPoint id="np_890" playOrder="890">
+          <navLabel>
+          <text>From The Salon of 1859</text>
+          </navLabel>
+          <content src="Text/part1171.xhtml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

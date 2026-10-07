@@ -1,0 +1,202 @@
+.bodycontent {
+    display: block;
+    font-family: "";
+    font-size: 0.83333em;
+    letter-spacing: auto;
+    line-height: 1.5em;
+    text-align: left;
+    text-indent: 2em;
+    margin: 0.6em 0
+    }
+.bold {
+    display: block;
+    font-weight: bold;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.boldf {
+    display: block;
+    font-size: 0.83333em;
+    font-weight: bold;
+    text-indent: 2.3em;
+    margin: 1em 0
+    }
+.boldt {
+    font-weight: bold;
+    padding: 0
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    height: auto;
+    width: auto
+    }
+.calibre2 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre3 {
+    display: block;
+    margin: 1em 0
+    }
+.center {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.centerbold {
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.copyright {
+    
+    display: block;
+    font-family: "";
+    font-size: 1.66667em;
+    font-weight: bold;
+    letter-spacing: auto;
+    line-height: 2em;
+    text-align: left;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.cover {
+    display: block;
+    height: 100%;
+    text-align: center;
+    margin: 1em 0;
+    border: currentColor none 0
+    }
+.dateauthor {
+    display: block;
+    font-family: "FZKTK--GBK1-0", "FZKT--GB1-4", "STKaiti-SC-Regular", "STKAITI" "楷体";
+    font-size: 1em;
+    letter-spacing: auto;
+    line-height: 1.5em;
+    text-align: right;
+    margin: 0.5em 0 1em
+    }
+.illustration {
+    display: block;
+    text-align: center;
+    margin: 1em 0
+    }
+.illustrationtitle {
+    
+    display: block;
+    font-family: "FZKTK--GBK1-0", "FZKT--GB1-4", "STKaiti-SC-Regular", "STKAITI" "楷体";
+    font-size: 0.83333em;
+    letter-spacing: auto;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.5em 0 0.8em
+    }
+.letteraddress {
+    display: block;
+    font-family: "FZKTK--GBK1-0", "FZKT--GB1-4", "STKaiti-SC-Regular", "STKAITI" "楷体";
+    font-size: 1em;
+    letter-spacing: auto;
+    line-height: 1.5em;
+    text-align: left;
+    text-indent: 0;
+    margin: 1em 0 0.5em
+    }
+.notecontent {
+    display: block;
+    font-family: "";
+    font-size: 0.83333em;
+    letter-spacing: auto;
+    line-height: 1.5em;
+    text-align: left;
+    text-indent: 2em;
+    margin: 0.5em 0
+    }
+.notetitle {
+    display: block;
+    font-family: "";
+    font-size: 1em;
+    font-weight: bold;
+    letter-spacing: auto;
+    line-height: 1.5em;
+    text-align: left;
+    text-indent: 0;
+    margin: 0.5em 0
+    }
+.onetitle {
+    
+    display: block;
+    font-family: "";
+    font-size: 1.66667em;
+    font-weight: bold;
+    letter-spacing: auto;
+    line-height: 1.5em;
+    text-align: left;
+    text-indent: 0;
+    margin: 0.8em 0 5em
+    }
+.quotation {
+    display: block;
+    font-family: "FZKTK--GBK1-0", "FZKT--GB1-4", "STKaiti-SC-Regular", "STKAITI" "楷体";
+    font-size: 0.83333em;
+    letter-spacing: auto;
+    line-height: 1.4em;
+    text-align: left;
+    text-indent: 2em;
+    margin: 0.5em 1em 0.1em
+    }
+.sgc-toc-level {
+    display: block;
+    margin-left: 0
+    }
+.sgc-toc-level1 {
+    display: block;
+    margin-left: 2em
+    }
+.sgc-toc-title {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    text-align: center
+    }
+.signimg {
+    display: block;
+    font-size: 2em;
+    line-height: 1.2;
+    text-align: right;
+    margin: 1em 0
+    }
+.text {
+    display: block;
+    font-family: "";
+    font-size: 1em;
+    letter-spacing: auto;
+    line-height: 1.5em;
+    text-align: left;
+    text-indent: 2em;
+    margin: 0.6em 0
+    }
+.twotitle {
+    
+    display: block;
+    font-family: "";
+    font-size: 1.29167em;
+    font-weight: bold;
+    letter-spacing: auto;
+    line-height: 1.5em;
+    text-align: left;
+    text-indent: 0;
+    margin: 1em 0 3em
+    }

@@ -1,0 +1,2868 @@
+ul, ol {
+	padding: 0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+a.footnote-anchor {
+		vertical-align: super;
+		font-size: 0.5rem;
+	}
+/**/
+a.footnote-link {
+		vertical-align: super;
+		font-size: 0.5rem;
+	}
+/**/
+div.footnotes {
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+}
+/**/
+p.x-98039-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+	line-height: 2em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: left;
+	margin: 0pt;
+}
+/**/
+p.x-324-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.83333333333333rem;
+	line-height: 2em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.98425196850394em;
+	text-align: justify;
+	
+	margin: 0pt;
+}
+p.x-324-0-override {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.83333333333333rem;
+	line-height: 2em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: justify;
+	text-align-last: left;
+	
+	margin: 0pt 0pt 2.83464566929134pt 0pt;
+}
+p.x-324-0-override-1 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.83333333333333rem;
+	line-height: 2em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: justify;
+	text-align-last: left;
+	
+	margin: 1.41732283464567pt 0pt 0pt 0pt;
+}
+p.x-324-0-override-2 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.83333333333333rem;
+
+	line-height: 2em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: justify;
+	text-align-last: left;
+	
+	margin: 0pt;
+}
+p.x-66-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1rem;
+
+	line-height: 1.2em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: justify;
+	text-align-last: left;
+	
+	margin: 0pt;
+}
+p.x-66-0-override {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1rem;
+
+	line-height: 1.2em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: right;
+	text-align-last: left;
+	
+	margin: 0pt;
+}
+p.x-66-0-override-1 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1rem;
+	line-height: 1.2em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.02474690663667em;
+	text-align: justify;
+	text-align-last: left;
+	
+	margin: 0pt;
+}
+p.x-94320-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.5rem;
+	line-height: 2.66666666666667em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: center;
+	margin: 0pt 0pt 39.6850393700787pt 0pt;
+}
+p.x-314-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.91666666666667rem;
+	line-height: 1.63636363636364em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: center;
+	margin: 0pt;
+}
+p.x1-313-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+	line-height: 0.96153846153846em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: center;
+	margin: 0pt;
+}
+p.x-312-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.33333333333333rem;
+	line-height: 0.78125em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: center;
+	margin: 0pt 0pt 28.3464566929134pt 0pt;
+}
+p.x-315-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.40328993529274em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.notes-318-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.7rem;
+
+	line-height: 1.20238095238095em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.68728908886389em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-321-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 1em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: left;
+	margin: 22.6771653543307pt 0pt 19.8425196850394pt 0pt;
+}
+p.x-322-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.72571428571429em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.15973003374578em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-310-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.65833333333333rem;
+
+	line-height: 1.26582278481013em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.40328993529274em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 22.6771653543307pt;
+}
+p.x-315-0-override-1 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.38559288999766em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 22.6771653543307pt;
+}
+p.x-309-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.33709701381667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-309-0-override {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.33709701381667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 22.6771653543307pt;
+}
+p.x-309-0-override-1 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.40677462487em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 22.6771653543307pt;
+}
+p.x-309-0-override-2 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.80790372901501em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 22.6771653543307pt;
+}
+p.x-317-0 {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 0.65833333333333rem;
+
+	line-height: 1.53417721518987em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.79407953752616em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-323-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.775rem;
+
+	line-height: 1.51612903225806em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.98120396240793em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-2 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.64855383176113em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-3 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.38559288999766em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-309-0-override-3 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.40677462487em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-4 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.40328993529274em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 14.1732283464567pt;
+}
+p.x-315-0-override-5 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.64855383176113em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 14.1732283464567pt;
+}
+p.x-315-0-override-6 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.24526389646839em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 14.1732283464567pt;
+}
+p.x-309-0-override-4 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.33709701381667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 14.1732283464567pt;
+}
+p.x-309-0-override-5 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.40677462487em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 14.1732283464567pt;
+}
+p.x-316-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.70833333333333rem;
+
+	line-height: 2em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.66743862899491em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 34.0157480314961pt;
+}
+p.x-316-0-override {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.70833333333333rem;
+
+	line-height: 2em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.66743862899491em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 22.6771653543307pt;
+}
+p.x-322-0-override {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.72571428571429em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.91451068616423em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-309-0-override-6 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.13935522210667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-7 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.38559288999766em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 14.1732283464567pt;
+}
+p.x-315-0-override-8 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.40328993529274em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 25.511811023622pt;
+}
+p.x-315-0-override-9 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.64855383176113em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 25.511811023622pt;
+}
+p.x-315-0-override-10 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.38559288999766em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 25.511811023622pt;
+}
+p.x-309-0-override-7 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.33709701381667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 25.511811023622pt;
+}
+p.x-309-0-override-8 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.40677462487em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 25.511811023622pt;
+}
+p.x-315-0-override-11 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.40328993529274em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 5.66929133858268pt;
+}
+p.x-315-0-override-12 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.64855383176113em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 5.66929133858268pt;
+}
+p.x-315-0-override-13 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.38559288999766em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 5.66929133858268pt;
+}
+p.x-309-0-override-9 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.33709701381667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 5.66929133858268pt;
+}
+p.x-309-0-override-10 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.40677462487em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 5.66929133858268pt;
+}
+p.x-315-0-override-14 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.40328993529274em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 17.007874015748pt;
+}
+p.x-315-0-override-15 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 5.05184376705387em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 17.007874015748pt;
+}
+p.x-315-0-override-16 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.64855383176113em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 17.007874015748pt;
+}
+p.x-315-0-override-17 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.38559288999766em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 17.007874015748pt;
+}
+p.x-309-0-override-11 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.33709701381667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 17.007874015748pt;
+}
+p.x-309-0-override-12 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.40677462487em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 17.007874015748pt;
+}
+p.x-311-0 {
+	font-style: italic;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.1950495049505em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.96460590940984em;
+	text-align: justify;
+	text-align-last: right;
+	margin: 0pt;
+}
+p.x-311-0-override {
+	font-style: italic;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.1950495049505em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.96460590940984em;
+	text-align: right;
+	text-align-last: right;
+	margin: 0pt;
+}
+p.x-309-0-override-13 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.33709701381667em;
+	text-align: right;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-18 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.40328993529274em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 28.3464566929134pt;
+}
+p.x-315-0-override-19 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.64855383176113em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 28.3464566929134pt;
+}
+p.x-315-0-override-20 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.38559288999766em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 28.3464566929134pt;
+}
+p.x-315-0-override-21 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 4.20986980587823em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 28.3464566929134pt;
+}
+p.x-315-0-override-22 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.80657987058548em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 28.3464566929134pt;
+}
+p.x-309-0-override-14 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.33709701381667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 28.3464566929134pt;
+}
+p.x-309-0-override-15 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.27306492348834em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 28.3464566929134pt;
+}
+p.x-309-0-override-16 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.80790372901501em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 28.3464566929134pt;
+}
+p.x-315-0-override-23 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 8.41973961175645em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 17.007874015748pt;
+}
+p.x-315-0-override-24 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 4.20986980587823em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 17.007874015748pt;
+}
+p.x-315-0-override-25 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.80657987058548em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 17.007874015748pt;
+}
+p.x-309-0-override-17 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.80790372901501em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 17.007874015748pt;
+}
+p.x-322-0-override-1 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.72571428571429em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.15973003374578em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 17.007874015748pt;
+}
+p.x-315-0-override-26 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.66743862899491em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-27 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.40328993529274em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 19.8425196850394pt;
+}
+p.x-315-0-override-28 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.64855383176113em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 19.8425196850394pt;
+}
+p.x-315-0-override-29 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.38559288999766em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 19.8425196850394pt;
+}
+p.x-315-0-override-30 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 4.20986980587823em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 19.8425196850394pt;
+}
+p.x-315-0-override-31 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.80657987058548em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 19.8425196850394pt;
+}
+p.x-309-0-override-18 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.33709701381667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 19.8425196850394pt;
+}
+p.x-309-0-override-19 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.28911008765414em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 19.8425196850394pt;
+}
+p.x-309-0-override-20 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.80790372901501em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 19.8425196850394pt;
+}
+p.x-315-0-override-32 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.64855383176113em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 22.6771653543307pt;
+}
+p.x-309-0-override-21 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.27306492348834em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 22.6771653543307pt;
+}
+p.x-309-0-override-22 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.13935522210667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 22.6771653543307pt;
+}
+p.x-316-0-override-1 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.70833333333333rem;
+
+	line-height: 2em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: justify;
+	text-align-last: center;
+	margin: 0pt;
+}
+p.x-309-0-override-23 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.20903283316001em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-309-0-override-24 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.27306492348834em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 14.1732283464567pt;
+}
+p.x-315-0-override-33 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 7.29710766352226em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 22.6771653543307pt;
+}
+p.x-315-0-override-34 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 4.20986980587823em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 25.511811023622pt;
+}
+p.x-315-0-override-35 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.80657987058548em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 25.511811023622pt;
+}
+p.x-309-0-override-25 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.27306492348834em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 25.511811023622pt;
+}
+p.x-309-0-override-26 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.80790372901501em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 25.511811023622pt;
+}
+p.x-311-0-override-1 {
+	font-style: italic;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.1950495049505em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.96460590940984em;
+	text-align: justify;
+	text-align-last: right;
+	margin: 0pt 0pt 0pt 42.5196850393701pt;
+}
+p.x-315-0-override-36 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.40328993529274em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 11.3385826771654pt;
+}
+p.x-315-0-override-37 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.64855383176113em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 11.3385826771654pt;
+}
+p.x-315-0-override-38 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.38559288999766em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 11.3385826771654pt;
+}
+p.x-315-0-override-39 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 4.20986980587823em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 11.3385826771654pt;
+}
+p.x-315-0-override-40 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.80657987058548em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 11.3385826771654pt;
+}
+p.x-309-0-override-27 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.33709701381667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 11.3385826771654pt;
+}
+p.x-309-0-override-28 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.27306492348834em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 11.3385826771654pt;
+}
+p.x-309-0-override-29 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.80790372901501em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 11.3385826771654pt;
+}
+p.x-309-0-override-30 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.94161343039667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-41 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 4.49052779293677em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 19.8425196850394pt;
+}
+p.x-315-0-override-42 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 6.73579168940516em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 19.8425196850394pt;
+}
+p.x-309-0-override-31 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.27306492348834em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 19.8425196850394pt;
+}
+p.x-315-0-override-43 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.33487725798981em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-44 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 4.20986980587823em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 22.6771653543307pt;
+}
+p.x-315-0-override-45 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.80657987058548em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 22.6771653543307pt;
+}
+p.x-309-0-override-32 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.94161343039667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 22.6771653543307pt;
+}
+p.x-315-0-override-46 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.40328993529274em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 8.50393700787402pt;
+}
+p.x-315-0-override-47 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.38559288999766em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 8.50393700787402pt;
+}
+p.x-309-0-override-33 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.33709701381667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 8.50393700787402pt;
+}
+p.x-309-0-override-34 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.27306492348834em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 8.50393700787402pt;
+}
+p.x-322-0-override-2 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.72571428571429em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.15973003374578em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 25.511811023622pt;
+}
+p.x-315-0-override-48 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: justify;
+	text-align-last: center;
+	margin: 0pt;
+}
+p.x-315-0-override-49 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 4.49052779293677em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 25.511811023622pt;
+}
+p.x-315-0-override-50 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 5.33250175411242em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 25.511811023622pt;
+}
+p.x-322-0-override-3 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.72571428571429em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.15973003374578em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 22.6771653543307pt;
+}
+p.x-309-0-override-35 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.33709701381667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 48.1889763779528pt;
+}
+p.x-309-0-override-36 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.27306492348834em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 48.1889763779528pt;
+}
+p.x-322-0-override-4 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.72571428571429em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: justify;
+	text-align-last: center;
+	margin: 0pt;
+}
+p.x-309-0-override-37 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.27306492348834em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 17.007874015748pt;
+}
+p.x-315-0-override-51 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 5.47283074764169em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-52 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.50822483823185em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-53 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.70468542917284em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-54 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.59242223434942em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-55 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 7.57776565058081em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-56 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 10.1036875341077em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-57 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 5.61315974117097em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-316-0-override-2 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.70833333333333rem;
+
+	line-height: 2em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.66743862899491em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 14.1732283464567pt;
+}
+p.x-315-0-override-58 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-59 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.40328993529274em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 42.5196850393701pt;
+}
+p.x-315-0-override-60 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.38559288999766em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 42.5196850393701pt;
+}
+p.x-309-0-override-38 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.33709701381667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 42.5196850393701pt;
+}
+p.x-309-0-override-39 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.27306492348834em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 42.5196850393701pt;
+}
+p.x-309-0-override-40 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.27306492348834em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-61 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.94690886411476em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 22.6771653543307pt;
+}
+p.x-322-0-override-5 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.72571428571429em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.10461192350956em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-62 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 4.77118577999532em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 14.1732283464567pt;
+}
+p.x-315-0-override-63 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.40328993529274em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 31.1811023622047pt;
+}
+p.x-315-0-override-64 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 3.64855383176113em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 31.1811023622047pt;
+}
+p.x-315-0-override-65 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.38559288999766em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 31.1811023622047pt;
+}
+p.x-309-0-override-41 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.33709701381667em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 31.1811023622047pt;
+}
+p.x-309-0-override-42 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.27306492348834em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt 0pt 0pt 31.1811023622047pt;
+}
+p.x-315-0-override-66 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 4.20986980587823em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-67 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.94690886411476em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-309-0-override-43 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 2.67419402763334em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-68 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.49191877331123em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-315-0-override-69 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 4.63085678646605em;
+	text-align: justify;
+	text-align-last: left;
+	margin: 0pt;
+}
+p.x-63-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1rem;
+
+	line-height: 1.2em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: justify;
+	text-align-last: left;
+	
+	margin: 0pt;
+}
+span.no-style-override {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.91666666666667rem;
+
+	line-height: 1.27272727272727em;
+	text-decoration: none;
+	font-variant: normal;
+	
+}
+span.no-style-override-1 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.74416666666667rem;
+
+	line-height: 1.56774916013438em;
+	text-decoration: none;
+	font-variant: normal;
+	
+}
+span.no-style-override-2 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.74416666666667rem;
+
+	line-height: 1.67973124300112em;
+	text-decoration: none;
+	font-variant: normal;
+	
+}
+span.no-style-override-3 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.16416666666667rem;
+
+	line-height: 1.43163922691482em;
+	text-decoration: none;
+	font-variant: normal;
+	
+}
+span.no-style-override-4 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.725rem;
+
+	line-height: 1.58620689655172em;
+	text-decoration: none;
+	font-variant: normal;
+	
+}
+span.no-style-override-5 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.74416666666667rem;
+
+	line-height: 1.54535274356103em;
+	text-decoration: none;
+	font-variant: normal;
+	
+}
+span.no-style-override-6 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.70833333333333rem;
+
+	line-height: 2.35294117647059em;
+	text-decoration: none;
+	font-variant: normal;
+	
+}
+span.no-style-override-7 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.20833333333333rem;
+
+	line-height: 1.2em;
+	text-decoration: none;
+	font-variant: normal;
+	
+}
+span.no-style-override-8 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.81666666666667rem;
+
+	line-height: 1.80612244897959em;
+	text-decoration: none;
+	font-variant: normal;
+	
+}
+span.no-style-override-9 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.42083333333333rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	vertical-align: super;
+}
+span.no-style-override-10 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.42083333333333rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	vertical-align: 3.36666666666667pt;
+}
+span.no-style-override-11 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.x-307-0 {
+	font-style: normal;
+	font-weight: normal;
+}
+span.no-style-override-12 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-13 {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 0.65833333333333rem;
+
+	line-height: 1.53417721518987em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-14 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.775rem;
+
+	line-height: 1.51612903225806em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-15 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.75238095238095em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-16 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.72571428571429em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-17 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.36792452830189em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-18 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.70833333333333rem;
+
+	line-height: 2em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.x-306-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.65833333333333rem;
+	line-height: 1.26582278481013em;
+}
+span.x-306-0-override {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.65833333333333rem;
+	line-height: 1.26582278481013em;
+
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-19 {
+	font-style: italic;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-20 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 1.11538461538462em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-21 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.65833333333333rem;
+
+	line-height: 1.26582278481013em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-22 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.375rem;
+
+	line-height: 1.32888888888889em;
+	text-decoration: none;
+	font-variant: normal;
+	vertical-align: super;
+}
+span.no-style-override-23 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 1.15384615384615em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-24 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 2.16981132075472em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-25 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.60377358490566em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.x-308-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.5rem;
+	vertical-align: 4pt;
+}
+span.no-style-override-26 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+	-webkit-transform:  scale(1,1.02);
+
+	line-height: 1.1950495049505em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-27 {
+	font-style: italic;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+	-webkit-transform:  scale(1,1.02);
+
+	line-height: 1.1950495049505em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-28 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 0.99009900990099em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-29 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 0.92307692307692em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-30 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.22641509433962em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-31 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.70833333333333rem;
+
+	line-height: 1.40705882352941em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.x-307-0-override {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.70943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-32 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 0.84615384615385em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-33 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 1.07692307692308em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.x-307-0-override-1 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.72571428571429em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-34 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.35416666666667rem;
+
+	line-height: 1.47058823529412em;
+	text-decoration: none;
+	font-variant: normal;
+	vertical-align: super;
+}
+span.no-style-override-35 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.61904761904762em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-36 {
+	font-style: italic;
+	font-weight: normal;
+	font-size: 0.70833333333333rem;
+
+	line-height: 1.40705882352941em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-37 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.68316831683168em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-38 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 2.0952380952381em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.x-307-0-override-2 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 2.0952380952381em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-39 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.98019801980198em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-40 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.08910891089109em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-41 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1rem;
+
+	line-height: 1.2em;
+	text-decoration: none;
+	font-variant: normal;
+	
+}
+span.no-style-override-42 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.32916666666667rem;
+
+	line-height: 1.51392405063291em;
+	text-decoration: none;
+	font-variant: normal;
+	vertical-align: super;
+}
+span.no-style-override-43 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.41509433962264em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-44 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.70833333333333rem;
+
+	line-height: 1.58823529411765em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-45 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.66666666666667rem;
+
+	line-height: 0.78125em;
+	text-decoration: none;
+	font-variant: normal;
+	vertical-align: 4.33333333333333pt;
+}
+span.x-308-0-override {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.66666666666667rem;
+	vertical-align: 4.33333333333333pt;
+
+	line-height: 0.78125em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-46 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.42083333333333rem;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+	vertical-align: 5.56666666666667pt;
+}
+span.no-style-override-47 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.65833333333333rem;
+
+	line-height: 1.53417721518987em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-48 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 1.26923076923077em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-49 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 1.17692307692308em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-50 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.52380952380952em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-51 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.69339622641509em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-52 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.42857142857143em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.x-305-0 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.91666666666667rem;
+}
+span.x-305-0-override {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.91666666666667rem;
+
+	line-height: 1.64727272727273em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-53 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 1.03846153846154em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-54 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.7rem;
+
+	line-height: 1.20238095238095em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-55 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 0.88461538461538em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-56 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 0.96153846153846em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-57 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.4622641509434em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.x-308-0-override-1 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.42083333333333rem;
+	vertical-align: 3.36666666666667pt;
+
+	line-height: 1.18415841584158em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-58 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 0.98461538461538em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-59 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.35416666666667rem;
+
+	line-height: 1.42em;
+	text-decoration: none;
+	font-variant: normal;
+	vertical-align: super;
+}
+span.no-style-override-60 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.83333333333333rem;
+
+	line-height: 1.25em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-61 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.1950495049505em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-62 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 1.1em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-63 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.70833333333333rem;
+
+	line-height: 1.76470588235294em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-64 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.63809523809524em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-65 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 1.23076923076923em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-66 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.33333333333333rem;
+
+	line-height: 0.78125em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-67 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 2.07547169811321em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-68 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.33333333333333em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-69 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 1.19230769230769em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-70 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.47619047619048em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-71 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.35416666666667rem;
+
+	line-height: 1.40705882352941em;
+	text-decoration: none;
+	font-variant: normal;
+	vertical-align: super;
+}
+span.no-style-override-72 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.69811320754717em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-73 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.68867924528302em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-74 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.32075471698113em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-75 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.76190476190476em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-76 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.88679245283019em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-77 {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 0.79166666666667rem;
+
+	line-height: 1.25894736842105em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-78 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.875rem;
+
+	line-height: 1.9047619047619em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-79 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.84166666666667rem;
+
+	line-height: 1.16831683168317em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-80 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.42083333333333rem;
+
+	line-height: 1.16831683168317em;
+	text-decoration: none;
+	font-variant: normal;
+	vertical-align: 3.36666666666667pt;
+}
+span.no-style-override-81 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.08333333333333rem;
+
+	line-height: 0.76923076923077em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-82 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.50943396226415em;
+	text-decoration: none;
+	font-variant: normal;
+}
+span.no-style-override-83 {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.88333333333333rem;
+
+	line-height: 1.9811320754717em;
+	text-decoration: none;
+	font-variant: normal;
+}
+/* TOC link color */
+/* 目录条目链接颜色 */
+a {
+	color: #0000CC;
+}
+
+/* TOC Title */
+/* 目录标题 */
+h1.kindle-cn-toc-title {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+	letter-spacing: 1em;
+    text-align: center;
+	border-bottom: 1.5px dotted #000000;
+}
+.kindle-en-toc-title {
+	text-align:center;
+	font-size: 2em;
+	font-weight: bold;
+}
+/* Level 1 TOC */
+/* 一级标题 */
+.kindle-cn-toc-level-1 {
+    margin-left: 0em;
+	text-indent: 0em;
+}
+
+/* Level 2 TOC */
+/* 二级标题 */
+.kindle-cn-toc-level-2 {
+    margin-left: 2em;
+	text-indent: 0em;
+}
+
+/* Level 3 TOC */
+/* 三级标题 */
+.kindle-cn-toc-level-3 {
+    margin-left: 4em;
+	text-indent: 0em;
+}
+
+/* Level 4 TOC */
+/* 四级标题 */
+.kindle-cn-toc-level-4 {
+    margin-left: 4em;
+	text-indent: 0em;
+}
+
+/* Level 5 TOC */
+/* 五级标题 */
+.kindle-cn-toc-level-5 {
+    margin-left: 4em;
+	text-indent: 0em;
+}
+
+/* Level 6 TOC */
+/* 六级标题 */
+.kindle-cn-toc-level-6 {
+    margin-left: 4em;
+	text-indent: 0em;
+}
+.empty{margin-bottom:2.2em;margin-top:2.2em;}
+/* Copyright page text */
+.kindle-cn-copyright-text {
+	line-height: 1em;
+	text-indent: 0em;
+}

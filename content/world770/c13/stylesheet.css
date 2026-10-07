@@ -1,0 +1,354 @@
+.alone {
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin: 0.1em 0
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.618em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    color: #00C
+    }
+.calibre2 {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre3 {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.calibre4 {
+    height: auto;
+    width: auto
+    }
+.calibre5 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.618em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre6 {
+    display: block
+    }
+.calibre7 {
+    display: block;
+    text-indent: 2em;
+    margin: 0.25em 0
+    }
+.calibre8 {
+    display: block
+    }
+.calibre9 {
+    font-size: 1em;
+    line-height: 1.618em
+    }
+.copyright-text {
+    display: block;
+    margin: 0
+    }
+.d {
+    font-size: 1.66667em;
+    line-height: 1.2;
+    vertical-align: baseline
+    }
+.d1 {
+    font-size: 1.29167em;
+    line-height: 1.2;
+    vertical-align: baseline
+    }
+.heading {
+    color: #FF004D;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.618em;
+    text-align: left;
+    margin: 2em 0 1em
+    }
+.heading1 {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.618em;
+    text-align: center;
+    margin: 4em 0 2em
+    }
+.heading2 {
+    color: #222574;
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.618em;
+    text-align: left;
+    margin: 2em 0 1em
+    }
+.heading3 {
+    color: #FF004D;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.618em;
+    text-align: left;
+    margin: 2em 0 1em
+    }
+.heading4 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.618em;
+    text-align: left;
+    margin: 2em 0 1em
+    }
+.heading5 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.618em;
+    text-align: left;
+    margin: 2em 0 0
+    }
+.hzht {
+    display: block;
+    line-height: 1.25em;
+    text-indent: 0;
+    margin: 0.25em 0
+    }
+.hzht1 {
+    display: block;
+    font-family: "hzht", "MYing Hei S", Hei;
+    line-height: 1.25em;
+    text-indent: 0;
+    margin: 0.25em 0
+    }
+.hzkt {
+    font-family: "hzkt", STKai, "MKai PRC", Kai
+    }
+.inline-image {
+    height: 10em;
+    margin-left: -0.1em;
+    margin-right: -0.1em;
+    vertical-align: middle;
+    width: auto
+    }
+.kindle-cn-toc-level {
+    display: block;
+    margin-left: 0
+    }
+.kindle-cn-toc-title {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: 1em;
+    line-height: 1.2;
+    text-align: center;
+    border-bottom: #000 dotted 1.5px;
+    margin: 0.67em 0 0.5em
+    }
+.n-sub {
+    font-size: 0.75em;
+    vertical-align: sub
+    }
+.p {
+    display: block;
+    text-indent: 0;
+    margin: 0.25em 0
+    }
+.p1 {
+    display: block;
+    text-indent: 4em;
+    margin: 0.25em 0
+    }
+.p2 {
+    display: block;
+    text-indent: 10em;
+    margin: 1em 0
+    }
+.p3 {
+    display: block;
+    text-indent: -1em;
+    margin: 0 0 0 1em
+    }
+.p4 {
+    display: block;
+    text-indent: -1.05em;
+    margin: 0 0 0 1.05em
+    }
+.p5 {
+    display: block;
+    text-indent: 0;
+    margin: 1em 2em
+    }
+.para-center {
+    display: block;
+    line-height: 1.25em;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.25em 0
+    }
+.para-center1 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.25em 0
+    }
+.para-center2 {
+    display: block;
+    line-height: 1.25em;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 4em
+    }
+.para-center3 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 4em
+    }
+.para-center4 {
+    display: block;
+    line-height: 1.25em;
+    text-indent: 0;
+    margin: 0 4em
+    }
+.para-center5 {
+    display: block;
+    text-indent: 8em;
+    margin: 0 4em
+    }
+.para-center6 {
+    display: block;
+    line-height: 1.25em;
+    text-indent: 0;
+    margin: 1em 4em
+    }
+.r {
+    display: block;
+    margin: 0 5em
+    }
+.sgc-toc-level {
+    display: block;
+    font-weight: bold;
+    margin: 1em 0 0
+    }
+.sgc-toc-title {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: 1em;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    text-align: center;
+    border-bottom: #000 dotted 1.5px
+    }
+.t {
+    display: block;
+    float: right;
+    font-size: 1em;
+    margin-left: 1em;
+    width: 30%
+    }
+.txt-b {
+    font-weight: bold
+    }
+.txt-c {
+    color: #FF004D
+    }
+.txt-i {
+    font-style: italic
+    }
+.w {
+    height: auto;
+    margin-bottom: 0;
+    width: 100%
+    }
+.w1 {
+    height: auto;
+    margin-bottom: 0;
+    width: 40%
+    }
+.w2 {
+    height: auto;
+    margin-bottom: 0;
+    width: 50%
+    }
+.w3 {
+    height: auto;
+    margin-bottom: 0;
+    width: 30%
+    }
+.w4 {
+    height: auto;
+    margin-bottom: 0;
+    width: 80%
+    }
+.w5 {
+    height: auto;
+    margin-bottom: 0;
+    width: 20%
+    }
+.w6 {
+    height: auto;
+    margin-bottom: 0;
+    width: 90%
+    }
+.w7 {
+    height: auto;
+    margin-bottom: 0;
+    width: 70%
+    }
+.w8 {
+    height: auto;
+    margin-bottom: 0;
+    width: 60%
+    }
+.w9 {
+    height: auto;
+    margin-bottom: 0;
+    width: 15%
+    }
+.w10 {
+    height: auto;
+    margin-bottom: 0;
+    width: 25%
+    }
+.w11 {
+    height: auto;
+    margin-bottom: 0;
+    width: 75%
+    }
+.w12 {
+    height: auto;
+    margin-bottom: 0;
+    width: 10%
+    }
+.w13 {
+    height: auto;
+    margin-bottom: 0;
+    width: 95%
+    }
+.pcalibre1:visited {
+    text-decoration: none
+    }
+.pcalibre3:link {
+    text-decoration: none
+    }
+.pcalibre2:hover {
+    text-decoration: none
+    }
+.pcalibre:active {
+    text-decoration: none
+    }

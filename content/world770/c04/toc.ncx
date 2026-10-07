@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta content="e1e0aa44-9d4a-43af-91c9-1ce77e5f7901" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.33.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>神奇树屋·故事系列·基础版第1·2辑 1-8册（中英双语版）【企鹅兰登出品！享誉全球美国国宝级童书！全球畅销25年！被翻译成38种语言！累计销量突破1.34亿册！长居《纽约时报》少儿图书畅销榜前三！】</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>神奇树屋1.勇闯恐龙谷</text>
+      </navLabel>
+      <content src="index_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>神奇树屋2.古堡惊魂夜</text>
+      </navLabel>
+      <content src="index_split_072.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>神奇树屋3.木乃伊之谜</text>
+      </navLabel>
+      <content src="index_split_142.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>神奇树屋4.寻宝加勒比</text>
+      </navLabel>
+      <content src="index_split_211.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>神奇树屋5.忍者的秘密</text>
+      </navLabel>
+      <content src="index_split_281.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>神奇树屋6.亚马孙探险</text>
+      </navLabel>
+      <content src="index_split_351.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>神奇树屋7.勇斗剑齿虎</text>
+      </navLabel>
+      <content src="index_split_424.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>神奇树屋8.月球漫游记</text>
+      </navLabel>
+      <content src="index_split_496.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,4929 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="d9f72c8e-6397-49a3-955a-edd0600259fd" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (2.79.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>迪士尼经典故事乐园：大电影双语阅读(超值套装共18册）（疯狂动物城 冰雪奇缘 超能陆战队 海底总动员1 海底总动员2 爱丽丝梦游仙境1 爱丽丝梦游仙境2 灰姑娘 头脑特工队 玩具总动员 飞屋环游记 赛车总动员 恐龙当家 机器人总动员 怪兽大学 魔发奇缘 沉睡魔咒 海洋奇缘)</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="0">
+      <navLabel>
+        <text>总目录</text>
+      </navLabel>
+      <content src="text/part0000.html#0-1d4963aa9e31410eb21117213e0b5fd2"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="1">
+      <navLabel>
+        <text>疯狂动物城</text>
+      </navLabel>
+      <content src="text/part0001.html#UGI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_3" playOrder="2">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0011.html#AFM60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_4" playOrder="3">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part0012.html#BE6O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_5" playOrder="4">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0013.html#CCNA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_6" playOrder="5">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part0014.html#DB7S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_7" playOrder="6">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0015.html#E9OE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_8" playOrder="7">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part0016.html#F8900-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_9" playOrder="8">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0018.html#H5A40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_10" playOrder="9">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part0019.html#I3QM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_11" playOrder="10">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0020.html#J2B80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_12" playOrder="11">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part0021.html#K0RQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_13" playOrder="12">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0023.html#LTSU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_14" playOrder="13">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part0024.html#MSDG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_15" playOrder="14">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0025.html#NQU20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_16" playOrder="15">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part0026.html#OPEK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_17" playOrder="16">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0028.html#QMFO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_18" playOrder="17">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part0029.html#RL0A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_19" playOrder="18">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0030.html#SJGS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_20" playOrder="19">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part0031.html#TI1E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_21" playOrder="20">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0033.html#VF2I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_22" playOrder="21">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part0034.html#10DJ40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_23" playOrder="22">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0035.html#11C3M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_24" playOrder="23">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part0036.html#12AK80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_25" playOrder="24">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0037.html#1394Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_26" playOrder="25">
+        <navLabel>
+          <text>第 12 章</text>
+        </navLabel>
+        <content src="text/part0038.html#147LC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_27" playOrder="26">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0040.html#164MG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_28" playOrder="27">
+        <navLabel>
+          <text>第 13 章</text>
+        </navLabel>
+        <content src="text/part0041.html#173720-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_29" playOrder="28">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0042.html#181NK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_30" playOrder="29">
+        <navLabel>
+          <text>第 14 章</text>
+        </navLabel>
+        <content src="text/part0043.html#190860-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_31" playOrder="30">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0045.html#1AT9A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_32" playOrder="31">
+        <navLabel>
+          <text>第 15 章</text>
+        </navLabel>
+        <content src="text/part0046.html#1BRPS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_33" playOrder="32">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0047.html#1CQAE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_34" playOrder="33">
+        <navLabel>
+          <text>第 16 章</text>
+        </navLabel>
+        <content src="text/part0048.html#1DOR00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_35" playOrder="34">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part0050.html#1FLS40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_36" playOrder="35">
+        <navLabel>
+          <text>第 17 章</text>
+        </navLabel>
+        <content src="text/part0051.html#1GKCM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_37" playOrder="36">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part0052.html#1HIT80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_38" playOrder="37">
+        <navLabel>
+          <text>第 18 章</text>
+        </navLabel>
+        <content src="text/part0053.html#1IHDQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_39" playOrder="38">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part0055.html#1KEEU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_40" playOrder="39">
+        <navLabel>
+          <text>第 19 章</text>
+        </navLabel>
+        <content src="text/part0056.html#1LCVG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_41" playOrder="40">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part0058.html#1NA0K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_42" playOrder="41">
+        <navLabel>
+          <text>第 20 章</text>
+        </navLabel>
+        <content src="text/part0059.html#1O8H60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_43" playOrder="42">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part0060.html#1P71O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_44" playOrder="43">
+        <navLabel>
+          <text>第 21 章</text>
+        </navLabel>
+        <content src="text/part0061.html#1Q5IA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_45" playOrder="44">
+        <navLabel>
+          <text>Chapter 22</text>
+        </navLabel>
+        <content src="text/part0063.html#1S2JE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_46" playOrder="45">
+        <navLabel>
+          <text>第 22 章</text>
+        </navLabel>
+        <content src="text/part0064.html#1T1400-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_47" playOrder="46">
+        <navLabel>
+          <text>Chapter 23</text>
+        </navLabel>
+        <content src="text/part0065.html#1TVKI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_48" playOrder="47">
+        <navLabel>
+          <text>第 23 章</text>
+        </navLabel>
+        <content src="text/part0066.html#1UU540-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_49" playOrder="48">
+        <navLabel>
+          <text>Chapter 24</text>
+        </navLabel>
+        <content src="text/part0067.html#1VSLM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_50" playOrder="49">
+        <navLabel>
+          <text>第 24 章</text>
+        </navLabel>
+        <content src="text/part0068.html#20R680-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_51" playOrder="50">
+        <navLabel>
+          <text>Chapter 25</text>
+        </navLabel>
+        <content src="text/part0069.html#21PMQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_52" playOrder="51">
+        <navLabel>
+          <text>第 25 章</text>
+        </navLabel>
+        <content src="text/part0070.html#22O7C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_53" playOrder="52">
+        <navLabel>
+          <text>Chapter 26</text>
+        </navLabel>
+        <content src="text/part0072.html#24L8G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_54" playOrder="53">
+        <navLabel>
+          <text>第 26 章</text>
+        </navLabel>
+        <content src="text/part0073.html#25JP20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_55" playOrder="54">
+        <navLabel>
+          <text>Chapter 27</text>
+        </navLabel>
+        <content src="text/part0075.html#27GQ60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_56" playOrder="55">
+        <navLabel>
+          <text>第 27 章</text>
+        </navLabel>
+        <content src="text/part0076.html#28FAO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_57" playOrder="56">
+        <navLabel>
+          <text>Chapter 28</text>
+        </navLabel>
+        <content src="text/part0077.html#29DRA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_58" playOrder="57">
+        <navLabel>
+          <text>第 28 章</text>
+        </navLabel>
+        <content src="text/part0078.html#2ACBS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_59" playOrder="58">
+      <navLabel>
+        <text>冰雪奇缘</text>
+      </navLabel>
+      <content src="text/part0079.html#2BASE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_60" playOrder="59">
+        <navLabel>
+          <text>PROLOGUE</text>
+        </navLabel>
+        <content src="text/part0090.html#2LQIK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_61" playOrder="60">
+        <navLabel>
+          <text>序 幕</text>
+        </navLabel>
+        <content src="text/part0091.html#2MP360-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_62" playOrder="61">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0092.html#2NNJO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_63" playOrder="62">
+        <navLabel>
+          <text>第1章</text>
+        </navLabel>
+        <content src="text/part0093.html#2OM4A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_64" playOrder="63">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0094.html#2PKKS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_65" playOrder="64">
+        <navLabel>
+          <text>第2章</text>
+        </navLabel>
+        <content src="text/part0095.html#2QJ5E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_66" playOrder="65">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0097.html#2SG6I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_67" playOrder="66">
+        <navLabel>
+          <text>第3章</text>
+        </navLabel>
+        <content src="text/part0098.html#2TEN40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_68" playOrder="67">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0099.html#2UD7M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_69" playOrder="68">
+        <navLabel>
+          <text>第4章</text>
+        </navLabel>
+        <content src="text/part0100.html#2VBO80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_70" playOrder="69">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0101.html#30A8Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_71" playOrder="70">
+        <navLabel>
+          <text>第5章</text>
+        </navLabel>
+        <content src="text/part0102.html#318PC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_72" playOrder="71">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0104.html#335QG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_73" playOrder="72">
+        <navLabel>
+          <text>第6章</text>
+        </navLabel>
+        <content src="text/part0105.html#344B20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_74" playOrder="73">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0106.html#352RK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_75" playOrder="74">
+        <navLabel>
+          <text>第7章</text>
+        </navLabel>
+        <content src="text/part0107.html#361C60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_76" playOrder="75">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0109.html#37UDA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_77" playOrder="76">
+        <navLabel>
+          <text>第8章</text>
+        </navLabel>
+        <content src="text/part0110.html#38STS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_78" playOrder="77">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0112.html#3APV00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_79" playOrder="78">
+        <navLabel>
+          <text>第9章</text>
+        </navLabel>
+        <content src="text/part0113.html#3BOFI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_80" playOrder="79">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0114.html#3CN040-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_81" playOrder="80">
+        <navLabel>
+          <text>第10章</text>
+        </navLabel>
+        <content src="text/part0115.html#3DLGM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_82" playOrder="81">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0117.html#3FIHQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_83" playOrder="82">
+        <navLabel>
+          <text>第11章</text>
+        </navLabel>
+        <content src="text/part0118.html#3GH2C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_84" playOrder="83">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0119.html#3HFIU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_85" playOrder="84">
+        <navLabel>
+          <text>第12章</text>
+        </navLabel>
+        <content src="text/part0120.html#3IE3G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_86" playOrder="85">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0122.html#3KB4K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_87" playOrder="86">
+        <navLabel>
+          <text>第13章</text>
+        </navLabel>
+        <content src="text/part0123.html#3L9L60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_88" playOrder="87">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0125.html#3N6MA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_89" playOrder="88">
+        <navLabel>
+          <text>第14章</text>
+        </navLabel>
+        <content src="text/part0126.html#3O56S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_90" playOrder="89">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0127.html#3P3NE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_91" playOrder="90">
+        <navLabel>
+          <text>第15章</text>
+        </navLabel>
+        <content src="text/part0128.html#3Q2800-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_92" playOrder="91">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0130.html#3RV940-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_93" playOrder="92">
+        <navLabel>
+          <text>第16章</text>
+        </navLabel>
+        <content src="text/part0131.html#3STPM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_94" playOrder="93">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part0133.html#3UQQQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_95" playOrder="94">
+        <navLabel>
+          <text>第17章</text>
+        </navLabel>
+        <content src="text/part0134.html#3VPBC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_96" playOrder="95">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part0135.html#40NRU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_97" playOrder="96">
+        <navLabel>
+          <text>第18章</text>
+        </navLabel>
+        <content src="text/part0136.html#41MCG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_98" playOrder="97">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part0138.html#43JDK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_99" playOrder="98">
+        <navLabel>
+          <text>第19章</text>
+        </navLabel>
+        <content src="text/part0139.html#44HU60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_100" playOrder="99">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part0140.html#45GEO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_101" playOrder="100">
+        <navLabel>
+          <text>第20章</text>
+        </navLabel>
+        <content src="text/part0141.html#46EVA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_102" playOrder="101">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part0143.html#48C0E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_103" playOrder="102">
+        <navLabel>
+          <text>第21章</text>
+        </navLabel>
+        <content src="text/part0144.html#49AH00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_104" playOrder="103">
+        <navLabel>
+          <text>Chapter 22</text>
+        </navLabel>
+        <content src="text/part0145.html#4A91I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_105" playOrder="104">
+        <navLabel>
+          <text>第22章</text>
+        </navLabel>
+        <content src="text/part0146.html#4B7I40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_106" playOrder="105">
+        <navLabel>
+          <text>Chapter 23</text>
+        </navLabel>
+        <content src="text/part0148.html#4D4J80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_107" playOrder="106">
+        <navLabel>
+          <text>第23章</text>
+        </navLabel>
+        <content src="text/part0149.html#4E33Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_108" playOrder="107">
+      <navLabel>
+        <text>超能陆战队</text>
+      </navLabel>
+      <content src="text/part0151.html#4G04U0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_109" playOrder="108">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0161.html#4PHAI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_110" playOrder="109">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part0162.html#4QFR40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_111" playOrder="110">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0163.html#4REBM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_112" playOrder="111">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part0164.html#4SCS80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_113" playOrder="112">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0165.html#4TBCQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_114" playOrder="113">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part0166.html#4U9TC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_115" playOrder="114">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0167.html#4V8DU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_116" playOrder="115">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part0168.html#506UG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_117" playOrder="116">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0169.html#515F20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_118" playOrder="117">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part0170.html#523VK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_119" playOrder="118">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0171.html#532G60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_120" playOrder="119">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part0172.html#5410O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_121" playOrder="120">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0173.html#54VHA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_122" playOrder="121">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part0174.html#55U1S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_123" playOrder="122">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0175.html#56SIE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_124" playOrder="123">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part0176.html#57R300-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_125" playOrder="124">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0177.html#58PJI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_126" playOrder="125">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part0178.html#59O440-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_127" playOrder="126">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0179.html#5AMKM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_128" playOrder="127">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part0180.html#5BL580-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_129" playOrder="128">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0181.html#5CJLQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_130" playOrder="129">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part0182.html#5DI6C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_131" playOrder="130">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0183.html#5EGMU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_132" playOrder="131">
+        <navLabel>
+          <text>第 12 章</text>
+        </navLabel>
+        <content src="text/part0184.html#5FF7G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_133" playOrder="132">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0185.html#5GDO20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_134" playOrder="133">
+        <navLabel>
+          <text>第 13 章</text>
+        </navLabel>
+        <content src="text/part0186.html#5HC8K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_135" playOrder="134">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0187.html#5IAP60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_136" playOrder="135">
+        <navLabel>
+          <text>第 14 章</text>
+        </navLabel>
+        <content src="text/part0188.html#5J99O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_137" playOrder="136">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0189.html#5K7QA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_138" playOrder="137">
+        <navLabel>
+          <text>第 15 章</text>
+        </navLabel>
+        <content src="text/part0190.html#5L6AS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_139" playOrder="138">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0191.html#5M4RE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_140" playOrder="139">
+        <navLabel>
+          <text>第 16 章</text>
+        </navLabel>
+        <content src="text/part0192.html#5N3C00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_141" playOrder="140">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part0193.html#5O1SI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_142" playOrder="141">
+        <navLabel>
+          <text>第 17 章</text>
+        </navLabel>
+        <content src="text/part0194.html#5P0D40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_143" playOrder="142">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part0195.html#5PUTM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_144" playOrder="143">
+        <navLabel>
+          <text>第 18 章</text>
+        </navLabel>
+        <content src="text/part0196.html#5QTE80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_145" playOrder="144">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part0197.html#5RRUQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_146" playOrder="145">
+        <navLabel>
+          <text>第 19 章</text>
+        </navLabel>
+        <content src="text/part0198.html#5SQFC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_147" playOrder="146">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part0199.html#5TOVU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_148" playOrder="147">
+        <navLabel>
+          <text>第 20 章</text>
+        </navLabel>
+        <content src="text/part0200.html#5UNGG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_149" playOrder="148">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part0201.html#5VM120-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_150" playOrder="149">
+        <navLabel>
+          <text>第 21 章</text>
+        </navLabel>
+        <content src="text/part0202.html#60KHK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_151" playOrder="150">
+        <navLabel>
+          <text>Chapter 22</text>
+        </navLabel>
+        <content src="text/part0203.html#61J260-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_152" playOrder="151">
+        <navLabel>
+          <text>第 22 章</text>
+        </navLabel>
+        <content src="text/part0204.html#62HIO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_153" playOrder="152">
+        <navLabel>
+          <text>Chapter 23</text>
+        </navLabel>
+        <content src="text/part0205.html#63G3A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_154" playOrder="153">
+        <navLabel>
+          <text>第 23 章</text>
+        </navLabel>
+        <content src="text/part0206.html#64EJS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_155" playOrder="154">
+        <navLabel>
+          <text>Chapter 24</text>
+        </navLabel>
+        <content src="text/part0207.html#65D4E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_156" playOrder="155">
+        <navLabel>
+          <text>第 24 章</text>
+        </navLabel>
+        <content src="text/part0208.html#66BL00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_157" playOrder="156">
+        <navLabel>
+          <text>Chapter 25</text>
+        </navLabel>
+        <content src="text/part0209.html#67A5I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_158" playOrder="157">
+        <navLabel>
+          <text>第 25 章</text>
+        </navLabel>
+        <content src="text/part0210.html#688M40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_159" playOrder="158">
+        <navLabel>
+          <text>Chapter 26</text>
+        </navLabel>
+        <content src="text/part0211.html#6976M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_160" playOrder="159">
+        <navLabel>
+          <text>第 26 章</text>
+        </navLabel>
+        <content src="text/part0212.html#6A5N80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_161" playOrder="160">
+        <navLabel>
+          <text>Chapter 27</text>
+        </navLabel>
+        <content src="text/part0213.html#6B47Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_162" playOrder="161">
+        <navLabel>
+          <text>第 27 章</text>
+        </navLabel>
+        <content src="text/part0214.html#6C2OC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_163" playOrder="162">
+        <navLabel>
+          <text>Chapter 28</text>
+        </navLabel>
+        <content src="text/part0215.html#6D18U0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_164" playOrder="163">
+        <navLabel>
+          <text>第 28 章</text>
+        </navLabel>
+        <content src="text/part0216.html#6DVPG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_165" playOrder="164">
+      <navLabel>
+        <text>海底总动员1</text>
+      </navLabel>
+      <content src="text/part0218.html#6FSQK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_166" playOrder="165">
+        <navLabel>
+          <text>PROLOGUE</text>
+        </navLabel>
+        <content src="text/part0228.html#6PE080-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_167" playOrder="166">
+        <navLabel>
+          <text>序 幕</text>
+        </navLabel>
+        <content src="text/part0229.html#6QCGQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_168" playOrder="167">
+        <navLabel>
+          <text>CHAPTER 1</text>
+        </navLabel>
+        <content src="text/part0230.html#6RB1C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_169" playOrder="168">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part0231.html#6S9HU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_170" playOrder="169">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0233.html#6U6J20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_171" playOrder="170">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part0234.html#6V53K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_172" playOrder="171">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0235.html#703K60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_173" playOrder="172">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part0236.html#7124O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_174" playOrder="173">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0238.html#72V5S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_175" playOrder="174">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part0239.html#73TME0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_176" playOrder="175">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0240.html#74S700-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_177" playOrder="176">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part0241.html#75QNI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_178" playOrder="177">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0243.html#77NOM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_179" playOrder="178">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part0244.html#78M980-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_180" playOrder="179">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0246.html#7AJAC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_181" playOrder="180">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part0247.html#7BHQU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_182" playOrder="181">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0248.html#7CGBG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_183" playOrder="182">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part0249.html#7DES20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_184" playOrder="183">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0251.html#7FBT60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_185" playOrder="184">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part0252.html#7GADO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_186" playOrder="185">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0253.html#7H8UA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_187" playOrder="186">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part0254.html#7I7ES0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_188" playOrder="187">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0256.html#7K4G00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_189" playOrder="188">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part0257.html#7L30I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_190" playOrder="189">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0258.html#7M1H40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_191" playOrder="190">
+        <navLabel>
+          <text>第 12 章</text>
+        </navLabel>
+        <content src="text/part0259.html#7N01M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_192" playOrder="191">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0261.html#7OT2Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_193" playOrder="192">
+        <navLabel>
+          <text>第 13 章</text>
+        </navLabel>
+        <content src="text/part0262.html#7PRJC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_194" playOrder="193">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0263.html#7QQ3U0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_195" playOrder="194">
+        <navLabel>
+          <text>第 14 章</text>
+        </navLabel>
+        <content src="text/part0264.html#7ROKG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_196" playOrder="195">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0265.html#7SN520-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_197" playOrder="196">
+        <navLabel>
+          <text>第 15 章</text>
+        </navLabel>
+        <content src="text/part0266.html#7TLLK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_198" playOrder="197">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0268.html#7VIMO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_199" playOrder="198">
+        <navLabel>
+          <text>第 16 章</text>
+        </navLabel>
+        <content src="text/part0269.html#80H7A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_200" playOrder="199">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part0270.html#81FNS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_201" playOrder="200">
+        <navLabel>
+          <text>第 17 章</text>
+        </navLabel>
+        <content src="text/part0271.html#82E8E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_202" playOrder="201">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part0272.html#83CP00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_203" playOrder="202">
+        <navLabel>
+          <text>第 18 章</text>
+        </navLabel>
+        <content src="text/part0273.html#84B9I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_204" playOrder="203">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part0275.html#868AM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_205" playOrder="204">
+        <navLabel>
+          <text>第 19 章</text>
+        </navLabel>
+        <content src="text/part0276.html#876R80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_206" playOrder="205">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part0277.html#885BQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_207" playOrder="206">
+        <navLabel>
+          <text>第 20 章</text>
+        </navLabel>
+        <content src="text/part0278.html#893SC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_208" playOrder="207">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part0280.html#8B0TG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_209" playOrder="208">
+        <navLabel>
+          <text>第 21 章</text>
+        </navLabel>
+        <content src="text/part0281.html#8BVE20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_210" playOrder="209">
+      <navLabel>
+        <text>海底总动员2</text>
+      </navLabel>
+      <content src="text/part0283.html#8DSF60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_211" playOrder="210">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0294.html#8OC5C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_212" playOrder="211">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part0295.html#8PALU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_213" playOrder="212">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0296.html#8Q96G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_214" playOrder="213">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part0297.html#8R7N20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_215" playOrder="214">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0298.html#8S67K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_216" playOrder="215">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part0299.html#8T4O60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_217" playOrder="216">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0301.html#8V1PA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_218" playOrder="217">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part0302.html#9009S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_219" playOrder="218">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0303.html#90UQE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_220" playOrder="219">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part0304.html#91TB00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_221" playOrder="220">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0306.html#93QC40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_222" playOrder="221">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part0307.html#94OSM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_223" playOrder="222">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0309.html#96LTQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_224" playOrder="223">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part0310.html#97KEC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_225" playOrder="224">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0311.html#98IUU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_226" playOrder="225">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part0312.html#99HFG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_227" playOrder="226">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0314.html#9BEGK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_228" playOrder="227">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part0315.html#9CD160-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_229" playOrder="228">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0317.html#9EA2A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_230" playOrder="229">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part0318.html#9F8IS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_231" playOrder="230">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0320.html#9H5K00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_232" playOrder="231">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part0321.html#9I44I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_233" playOrder="232">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0323.html#9K15M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_234" playOrder="233">
+        <navLabel>
+          <text>第 12 章</text>
+        </navLabel>
+        <content src="text/part0324.html#9KVM80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_235" playOrder="234">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0325.html#9LU6Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_236" playOrder="235">
+        <navLabel>
+          <text>第 13 章</text>
+        </navLabel>
+        <content src="text/part0326.html#9MSNC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_237" playOrder="236">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0328.html#9OPOG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_238" playOrder="237">
+        <navLabel>
+          <text>第 14 章</text>
+        </navLabel>
+        <content src="text/part0329.html#9PO920-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_239" playOrder="238">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0330.html#9QMPK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_240" playOrder="239">
+        <navLabel>
+          <text>第 15 章</text>
+        </navLabel>
+        <content src="text/part0331.html#9RLA60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_241" playOrder="240">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0333.html#9TIBA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_242" playOrder="241">
+        <navLabel>
+          <text>第 16 章</text>
+        </navLabel>
+        <content src="text/part0334.html#9UGRS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_243" playOrder="242">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part0336.html#A0DT00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_244" playOrder="243">
+        <navLabel>
+          <text>第 17 章</text>
+        </navLabel>
+        <content src="text/part0337.html#A1CDI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_245" playOrder="244">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part0339.html#A39EM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_246" playOrder="245">
+        <navLabel>
+          <text>第 18 章</text>
+        </navLabel>
+        <content src="text/part0340.html#A47V80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_247" playOrder="246">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part0341.html#A56FQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_248" playOrder="247">
+        <navLabel>
+          <text>第 19 章</text>
+        </navLabel>
+        <content src="text/part0342.html#A650C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_249" playOrder="248">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part0344.html#A821G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_250" playOrder="249">
+        <navLabel>
+          <text>第 20 章</text>
+        </navLabel>
+        <content src="text/part0345.html#A90I20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_251" playOrder="250">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part0346.html#A9V2K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_252" playOrder="251">
+        <navLabel>
+          <text>第 21 章</text>
+        </navLabel>
+        <content src="text/part0347.html#AATJ60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_253" playOrder="252">
+        <navLabel>
+          <text>Chapter 22</text>
+        </navLabel>
+        <content src="text/part0349.html#ACQKA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_254" playOrder="253">
+        <navLabel>
+          <text>第 22 章</text>
+        </navLabel>
+        <content src="text/part0350.html#ADP4S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_255" playOrder="254">
+        <navLabel>
+          <text>Chapter 23</text>
+        </navLabel>
+        <content src="text/part0351.html#AENLE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_256" playOrder="255">
+        <navLabel>
+          <text>第 23 章</text>
+        </navLabel>
+        <content src="text/part0352.html#AFM600-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_257" playOrder="256">
+      <navLabel>
+        <text>爱丽丝梦游仙境1</text>
+      </navLabel>
+      <content src="text/part0354.html#AHJ740-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_258" playOrder="257">
+        <navLabel>
+          <text>Prologue</text>
+        </navLabel>
+        <content src="text/part0364.html#AR4CO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_259" playOrder="258">
+        <navLabel>
+          <text>序</text>
+        </navLabel>
+        <content src="text/part0365.html#AS2TA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_260" playOrder="259">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0366.html#AT1DS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_261" playOrder="260">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part0367.html#ATVUE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_262" playOrder="261">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0369.html#AVSVI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_263" playOrder="262">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part0370.html#B0RG40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_264" playOrder="263">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0371.html#B1Q0M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_265" playOrder="264">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part0372.html#B2OH80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_266" playOrder="265">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0373.html#B3N1Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_267" playOrder="266">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part0374.html#B4LIC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_268" playOrder="267">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0376.html#B6IJG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_269" playOrder="268">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part0377.html#B7H420-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_270" playOrder="269">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0378.html#B8FKK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_271" playOrder="270">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part0379.html#B9E560-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_272" playOrder="271">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0381.html#BBB6A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_273" playOrder="272">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part0382.html#BC9MS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_274" playOrder="273">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0384.html#BE6O00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_275" playOrder="274">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part0385.html#BF58I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_276" playOrder="275">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0386.html#BG3P40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_277" playOrder="276">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part0387.html#BH29M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_278" playOrder="277">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0389.html#BIVAQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_279" playOrder="278">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part0390.html#BJTRC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_280" playOrder="279">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0391.html#BKSBU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_281" playOrder="280">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part0392.html#BLQSG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_282" playOrder="281">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0394.html#BNNTK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_283" playOrder="282">
+        <navLabel>
+          <text>第 12 章</text>
+        </navLabel>
+        <content src="text/part0395.html#BOME60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_284" playOrder="283">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0396.html#BPKUO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_285" playOrder="284">
+        <navLabel>
+          <text>第 13 章</text>
+        </navLabel>
+        <content src="text/part0397.html#BQJFA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_286" playOrder="285">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0398.html#BRHVS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_287" playOrder="286">
+        <navLabel>
+          <text>第 14 章</text>
+        </navLabel>
+        <content src="text/part0399.html#BSGGE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_288" playOrder="287">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0401.html#BUDHI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_289" playOrder="288">
+        <navLabel>
+          <text>第 15 章</text>
+        </navLabel>
+        <content src="text/part0402.html#BVC240-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_290" playOrder="289">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0403.html#C0AIM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_291" playOrder="290">
+        <navLabel>
+          <text>第 16 章</text>
+        </navLabel>
+        <content src="text/part0404.html#C19380-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_292" playOrder="291">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part0405.html#C27JQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_293" playOrder="292">
+        <navLabel>
+          <text>第 17 章</text>
+        </navLabel>
+        <content src="text/part0406.html#C364C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_294" playOrder="293">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part0408.html#C535G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_295" playOrder="294">
+        <navLabel>
+          <text>第 18 章</text>
+        </navLabel>
+        <content src="text/part0409.html#C61M20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_296" playOrder="295">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part0410.html#C706K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_297" playOrder="296">
+        <navLabel>
+          <text>第 19 章</text>
+        </navLabel>
+        <content src="text/part0411.html#C7UN60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_298" playOrder="297">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part0412.html#C8T7O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_299" playOrder="298">
+        <navLabel>
+          <text>第 20 章</text>
+        </navLabel>
+        <content src="text/part0413.html#C9ROA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_300" playOrder="299">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part0415.html#CBOPE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_301" playOrder="300">
+        <navLabel>
+          <text>第 21 章</text>
+        </navLabel>
+        <content src="text/part0416.html#CCNA00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_302" playOrder="301">
+      <navLabel>
+        <text>爱丽丝梦游仙境2</text>
+      </navLabel>
+      <content src="text/part0418.html#CEKB40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_303" playOrder="302">
+        <navLabel>
+          <text>PROLOGUE</text>
+        </navLabel>
+        <content src="text/part0428.html#CO5GO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_304" playOrder="303">
+        <navLabel>
+          <text>序</text>
+        </navLabel>
+        <content src="text/part0429.html#CP41A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_305" playOrder="304">
+        <navLabel>
+          <text>Chapter One</text>
+        </navLabel>
+        <content src="text/part0430.html#CQ2HS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_306" playOrder="305">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part0431.html#CR12E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_307" playOrder="306">
+        <navLabel>
+          <text>Chapter Two</text>
+        </navLabel>
+        <content src="text/part0432.html#CRVJ00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_308" playOrder="307">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part0433.html#CSU3I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_309" playOrder="308">
+        <navLabel>
+          <text>Chapter Three</text>
+        </navLabel>
+        <content src="text/part0435.html#CUR4M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_310" playOrder="309">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part0436.html#CVPL80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_311" playOrder="310">
+        <navLabel>
+          <text>Chapter Four</text>
+        </navLabel>
+        <content src="text/part0437.html#D0O5Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_312" playOrder="311">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part0438.html#D1MMC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_313" playOrder="312">
+        <navLabel>
+          <text>Chapter F ive</text>
+        </navLabel>
+        <content src="text/part0440.html#D3JNG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_314" playOrder="313">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part0441.html#D4I820-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_315" playOrder="314">
+        <navLabel>
+          <text>Chapter Six</text>
+        </navLabel>
+        <content src="text/part0442.html#D5GOK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_316" playOrder="315">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part0443.html#D6F960-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_317" playOrder="316">
+        <navLabel>
+          <text>Chapter Seven</text>
+        </navLabel>
+        <content src="text/part0445.html#D8CAA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_318" playOrder="317">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part0446.html#D9AQS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_319" playOrder="318">
+        <navLabel>
+          <text>Chapter Eight</text>
+        </navLabel>
+        <content src="text/part0447.html#DA9BE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_320" playOrder="319">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part0448.html#DB7S00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_321" playOrder="320">
+        <navLabel>
+          <text>Chapter Nine</text>
+        </navLabel>
+        <content src="text/part0450.html#DD4T40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_322" playOrder="321">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part0451.html#DE3DM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_323" playOrder="322">
+        <navLabel>
+          <text>Chapter Ten</text>
+        </navLabel>
+        <content src="text/part0452.html#DF1U80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_324" playOrder="323">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part0453.html#DG0EQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_325" playOrder="324">
+        <navLabel>
+          <text>Chapter Eleven</text>
+        </navLabel>
+        <content src="text/part0454.html#DGUVC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_326" playOrder="325">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part0455.html#DHTFU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_327" playOrder="326">
+        <navLabel>
+          <text>Chapter Twelve</text>
+        </navLabel>
+        <content src="text/part0457.html#DJQH20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_328" playOrder="327">
+        <navLabel>
+          <text>第 12 章</text>
+        </navLabel>
+        <content src="text/part0458.html#DKP1K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_329" playOrder="328">
+        <navLabel>
+          <text>Chapter Thirteen</text>
+        </navLabel>
+        <content src="text/part0459.html#DLNI60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_330" playOrder="329">
+        <navLabel>
+          <text>第 13 章</text>
+        </navLabel>
+        <content src="text/part0460.html#DMM2O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_331" playOrder="330">
+        <navLabel>
+          <text>Chapter Fourteen</text>
+        </navLabel>
+        <content src="text/part0462.html#DOJ3S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_332" playOrder="331">
+        <navLabel>
+          <text>第 14 章</text>
+        </navLabel>
+        <content src="text/part0463.html#DPHKE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_333" playOrder="332">
+        <navLabel>
+          <text>Chapter F ifteen</text>
+        </navLabel>
+        <content src="text/part0464.html#DQG500-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_334" playOrder="333">
+        <navLabel>
+          <text>第 15 章</text>
+        </navLabel>
+        <content src="text/part0465.html#DRELI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_335" playOrder="334">
+        <navLabel>
+          <text>Chapter Sixteen</text>
+        </navLabel>
+        <content src="text/part0467.html#DTBMM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_336" playOrder="335">
+        <navLabel>
+          <text>第 16 章</text>
+        </navLabel>
+        <content src="text/part0468.html#DUA780-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_337" playOrder="336">
+        <navLabel>
+          <text>Chapter Seventeen</text>
+        </navLabel>
+        <content src="text/part0469.html#DV8NQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_338" playOrder="337">
+        <navLabel>
+          <text>第 17 章</text>
+        </navLabel>
+        <content src="text/part0470.html#E078C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_339" playOrder="338">
+        <navLabel>
+          <text>Chapter Eighteen</text>
+        </navLabel>
+        <content src="text/part0471.html#E15OU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_340" playOrder="339">
+        <navLabel>
+          <text>第 18 章</text>
+        </navLabel>
+        <content src="text/part0472.html#E249G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_341" playOrder="340">
+        <navLabel>
+          <text>Chapter Ninteen</text>
+        </navLabel>
+        <content src="text/part0473.html#E32Q20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_342" playOrder="341">
+        <navLabel>
+          <text>第 19 章</text>
+        </navLabel>
+        <content src="text/part0474.html#E41AK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_343" playOrder="342">
+        <navLabel>
+          <text>Chapter Twenty</text>
+        </navLabel>
+        <content src="text/part0476.html#E5UBO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_344" playOrder="343">
+        <navLabel>
+          <text>第 20 章</text>
+        </navLabel>
+        <content src="text/part0477.html#E6SSA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_345" playOrder="344">
+        <navLabel>
+          <text>Chapter Twenty-one</text>
+        </navLabel>
+        <content src="text/part0478.html#E7RCS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_346" playOrder="345">
+        <navLabel>
+          <text>第 21 章</text>
+        </navLabel>
+        <content src="text/part0479.html#E8PTE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_347" playOrder="346">
+      <navLabel>
+        <text>灰姑娘</text>
+      </navLabel>
+      <content src="text/part0481.html#EAMUI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_348" playOrder="347">
+        <navLabel>
+          <text>Prologue</text>
+        </navLabel>
+        <content src="text/part0493.html#EM55A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_349" playOrder="348">
+        <navLabel>
+          <text>序 幕</text>
+        </navLabel>
+        <content src="text/part0494.html#EN3LS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_350" playOrder="349">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0495.html#EO26E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_351" playOrder="350">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part0496.html#EP0N00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_352" playOrder="351">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0498.html#EQTO40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_353" playOrder="352">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part0499.html#ERS8M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_354" playOrder="353">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0500.html#ESQP80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_355" playOrder="354">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part0501.html#ETP9Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_356" playOrder="355">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0503.html#EVMAU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_357" playOrder="356">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part0504.html#F0KRG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_358" playOrder="357">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0505.html#F1JC20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_359" playOrder="358">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part0506.html#F2HSK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_360" playOrder="359">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0508.html#F4ETO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_361" playOrder="360">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part0509.html#F5DEA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_362" playOrder="361">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0511.html#F7AFE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_363" playOrder="362">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part0512.html#F89000-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_364" playOrder="363">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0514.html#FA6140-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_365" playOrder="364">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part0515.html#FB4HM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_366" playOrder="365">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0517.html#FD1IQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_367" playOrder="366">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part0518.html#FE03C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_368" playOrder="367">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0520.html#FFT4G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_369" playOrder="368">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part0521.html#FGRL20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_370" playOrder="369">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0523.html#FIOM60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_371" playOrder="370">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part0524.html#FJN6O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_372" playOrder="371">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0526.html#FLK7S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_373" playOrder="372">
+        <navLabel>
+          <text>第 12 章</text>
+        </navLabel>
+        <content src="text/part0527.html#FMIOE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_374" playOrder="373">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0528.html#FNH900-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_375" playOrder="374">
+        <navLabel>
+          <text>第 13 章</text>
+        </navLabel>
+        <content src="text/part0529.html#FOFPI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_376" playOrder="375">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0531.html#FQCQM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_377" playOrder="376">
+        <navLabel>
+          <text>第 14 章</text>
+        </navLabel>
+        <content src="text/part0532.html#FRBB80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_378" playOrder="377">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0533.html#FS9RQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_379" playOrder="378">
+        <navLabel>
+          <text>第 15 章</text>
+        </navLabel>
+        <content src="text/part0534.html#FT8CC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_380" playOrder="379">
+        <navLabel>
+          <text>Epilogue</text>
+        </navLabel>
+        <content src="text/part0535.html#FU6SU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_381" playOrder="380">
+        <navLabel>
+          <text>尾 声</text>
+        </navLabel>
+        <content src="text/part0536.html#FV5DG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_382" playOrder="381">
+      <navLabel>
+        <text>头脑特工队</text>
+      </navLabel>
+      <content src="text/part0540.html#G2VFO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_383" playOrder="382">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0550.html#GCGLC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_384" playOrder="383">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part0551.html#GDF5U0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_385" playOrder="384">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0552.html#GEDMG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_386" playOrder="385">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part0553.html#GFC720-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_387" playOrder="386">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0555.html#GH9860-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_388" playOrder="387">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part0556.html#GI7OO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_389" playOrder="388">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0557.html#GJ69A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_390" playOrder="389">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part0558.html#GK4PS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_391" playOrder="390">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0560.html#GM1R00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_392" playOrder="391">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part0561.html#GN0BI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_393" playOrder="392">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0562.html#GNUS40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_394" playOrder="393">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part0563.html#GOTCM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_395" playOrder="394">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0565.html#GQQDQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_396" playOrder="395">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part0566.html#GROUC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_397" playOrder="396">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0567.html#GSNEU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_398" playOrder="397">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part0568.html#GTLVG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_399" playOrder="398">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0570.html#GVJ0K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_400" playOrder="399">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part0571.html#H0HH60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_401" playOrder="400">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0572.html#H1G1O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_402" playOrder="401">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part0573.html#H2EIA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_403" playOrder="402">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0575.html#H4BJE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_404" playOrder="403">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part0576.html#H5A400-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_405" playOrder="404">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0577.html#H68KI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_406" playOrder="405">
+        <navLabel>
+          <text>第 12 章</text>
+        </navLabel>
+        <content src="text/part0578.html#H77540-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_407" playOrder="406">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0580.html#H94680-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_408" playOrder="407">
+        <navLabel>
+          <text>第 13 章</text>
+        </navLabel>
+        <content src="text/part0581.html#HA2MQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_409" playOrder="408">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0583.html#HBVNU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_410" playOrder="409">
+        <navLabel>
+          <text>第 14 章</text>
+        </navLabel>
+        <content src="text/part0584.html#HCU8G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_411" playOrder="410">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0585.html#HDSP20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_412" playOrder="411">
+        <navLabel>
+          <text>第 15 章</text>
+        </navLabel>
+        <content src="text/part0586.html#HER9K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_413" playOrder="412">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0588.html#HGOAO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_414" playOrder="413">
+        <navLabel>
+          <text>第 16 章</text>
+        </navLabel>
+        <content src="text/part0589.html#HHMRA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_415" playOrder="414">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part0591.html#HJJSE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_416" playOrder="415">
+        <navLabel>
+          <text>第 17 章</text>
+        </navLabel>
+        <content src="text/part0592.html#HKID00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_417" playOrder="416">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part0593.html#HLGTI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_418" playOrder="417">
+        <navLabel>
+          <text>第 18 章</text>
+        </navLabel>
+        <content src="text/part0594.html#HMFE40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_419" playOrder="418">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part0596.html#HOCF80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_420" playOrder="419">
+        <navLabel>
+          <text>第 19 章</text>
+        </navLabel>
+        <content src="text/part0597.html#HPAVQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_421" playOrder="420">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part0598.html#HQ9GC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_422" playOrder="421">
+        <navLabel>
+          <text>第 20 章</text>
+        </navLabel>
+        <content src="text/part0599.html#HR80U0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_423" playOrder="422">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part0601.html#HT5220-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_424" playOrder="423">
+        <navLabel>
+          <text>第 21 章</text>
+        </navLabel>
+        <content src="text/part0602.html#HU3IK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_425" playOrder="424">
+        <navLabel>
+          <text>Chapter 22</text>
+        </navLabel>
+        <content src="text/part0603.html#HV2360-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_426" playOrder="425">
+        <navLabel>
+          <text>第 22 章</text>
+        </navLabel>
+        <content src="text/part0604.html#I00JO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_427" playOrder="426">
+        <navLabel>
+          <text>Chapter 23</text>
+        </navLabel>
+        <content src="text/part0606.html#I1TKS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_428" playOrder="427">
+        <navLabel>
+          <text>第 23 章</text>
+        </navLabel>
+        <content src="text/part0607.html#I2S5E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_429" playOrder="428">
+      <navLabel>
+        <text>玩具总动员</text>
+      </navLabel>
+      <content src="text/part0609.html#I4P6I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_430" playOrder="429">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0619.html#IEAC60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_431" playOrder="430">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part0620.html#IF8SO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_432" playOrder="431">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0622.html#IH5TS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_433" playOrder="432">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part0623.html#II4EE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_434" playOrder="433">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0625.html#IK1FI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_435" playOrder="434">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part0626.html#IL0040-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_436" playOrder="435">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0628.html#IMT180-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_437" playOrder="436">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part0629.html#INRHQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_438" playOrder="437">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0631.html#IPOIU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_439" playOrder="438">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part0632.html#IQN3G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_440" playOrder="439">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0634.html#ISK4K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_441" playOrder="440">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part0635.html#ITIL60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_442" playOrder="441">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0637.html#IVFMA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_443" playOrder="442">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part0638.html#J0E6S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_444" playOrder="443">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0640.html#J2B800-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_445" playOrder="444">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part0641.html#J39OI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_446" playOrder="445">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0643.html#J56PM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_447" playOrder="446">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part0644.html#J65A80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_448" playOrder="447">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0646.html#J82BC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_449" playOrder="448">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part0647.html#J90RU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_450" playOrder="449">
+        <navLabel>
+          <text>Epilogue</text>
+        </navLabel>
+        <content src="text/part0649.html#JATT20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_451" playOrder="450">
+        <navLabel>
+          <text>尾 声</text>
+        </navLabel>
+        <content src="text/part0650.html#JBSDK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_452" playOrder="451">
+      <navLabel>
+        <text>飞屋环游记</text>
+      </navLabel>
+      <content src="text/part0651.html#JCQU60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_453" playOrder="452">
+        <navLabel>
+          <text>CHAPTER 1</text>
+        </navLabel>
+        <content src="text/part0661.html#JMC3Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_454" playOrder="453">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part0662.html#JNAKC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_455" playOrder="454">
+        <navLabel>
+          <text>CHAPTER 2</text>
+        </navLabel>
+        <content src="text/part0664.html#JP7LG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_456" playOrder="455">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part0665.html#JQ6620-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_457" playOrder="456">
+        <navLabel>
+          <text>CHAPTER 3</text>
+        </navLabel>
+        <content src="text/part0667.html#JS3760-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_458" playOrder="457">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part0668.html#JT1NO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_459" playOrder="458">
+        <navLabel>
+          <text>CHAPTER 4</text>
+        </navLabel>
+        <content src="text/part0670.html#JUUOS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_460" playOrder="459">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part0671.html#JVT9E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_461" playOrder="460">
+        <navLabel>
+          <text>CHAPTER 5</text>
+        </navLabel>
+        <content src="text/part0673.html#K1QAI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_462" playOrder="461">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part0674.html#K2OR40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_463" playOrder="462">
+        <navLabel>
+          <text>CHAPTER 6</text>
+        </navLabel>
+        <content src="text/part0676.html#K4LS80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_464" playOrder="463">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part0677.html#K5KCQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_465" playOrder="464">
+        <navLabel>
+          <text>CHAPTER 7</text>
+        </navLabel>
+        <content src="text/part0679.html#K7HDU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_466" playOrder="465">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part0680.html#K8FUG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_467" playOrder="466">
+        <navLabel>
+          <text>CHAPTER 8</text>
+        </navLabel>
+        <content src="text/part0682.html#KACVK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_468" playOrder="467">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part0683.html#KBBG60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_469" playOrder="468">
+        <navLabel>
+          <text>CHAPTER 9</text>
+        </navLabel>
+        <content src="text/part0685.html#KD8HA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_470" playOrder="469">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part0686.html#KE71S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_471" playOrder="470">
+        <navLabel>
+          <text>CHAPTER 10</text>
+        </navLabel>
+        <content src="text/part0688.html#KG4300-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_472" playOrder="471">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part0689.html#KH2JI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_473" playOrder="472">
+        <navLabel>
+          <text>CHAPTER 11</text>
+        </navLabel>
+        <content src="text/part0691.html#KIVKM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_474" playOrder="473">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part0692.html#KJU580-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_475" playOrder="474">
+      <navLabel>
+        <text>赛车总动员</text>
+      </navLabel>
+      <content src="text/part0694.html#KLR6C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_476" playOrder="475">
+        <navLabel>
+          <text>CHAPTER 1</text>
+        </navLabel>
+        <content src="text/part0704.html#KVCC00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_477" playOrder="476">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part0705.html#L0ASI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_478" playOrder="477">
+        <navLabel>
+          <text>CHAPTER 2</text>
+        </navLabel>
+        <content src="text/part0706.html#L19D40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_479" playOrder="478">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part0707.html#L27TM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_480" playOrder="479">
+        <navLabel>
+          <text>CHAPTER 3</text>
+        </navLabel>
+        <content src="text/part0709.html#L44UQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_481" playOrder="480">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part0710.html#L53FC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_482" playOrder="481">
+        <navLabel>
+          <text>CHAPTER 4</text>
+        </navLabel>
+        <content src="text/part0711.html#L61VU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_483" playOrder="482">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part0712.html#L70GG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_484" playOrder="483">
+        <navLabel>
+          <text>CHAPTER 5</text>
+        </navLabel>
+        <content src="text/part0713.html#L7V120-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_485" playOrder="484">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part0714.html#L8THK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_486" playOrder="485">
+        <navLabel>
+          <text>CHAPTER 6</text>
+        </navLabel>
+        <content src="text/part0716.html#LAQIO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_487" playOrder="486">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part0717.html#LBP3A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_488" playOrder="487">
+        <navLabel>
+          <text>CHAPTER 7</text>
+        </navLabel>
+        <content src="text/part0718.html#LCNJS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_489" playOrder="488">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part0719.html#LDM4E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_490" playOrder="489">
+        <navLabel>
+          <text>CHAPTER 8</text>
+        </navLabel>
+        <content src="text/part0721.html#LFJ5I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_491" playOrder="490">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part0722.html#LGHM40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_492" playOrder="491">
+        <navLabel>
+          <text>CHAPTER 9</text>
+        </navLabel>
+        <content src="text/part0724.html#LIEN80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_493" playOrder="492">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part0725.html#LJD7Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_494" playOrder="493">
+        <navLabel>
+          <text>CHAPTER 10</text>
+        </navLabel>
+        <content src="text/part0726.html#LKBOC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_495" playOrder="494">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part0727.html#LLA8U0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_496" playOrder="495">
+        <navLabel>
+          <text>CHAPTER 11</text>
+        </navLabel>
+        <content src="text/part0729.html#LN7A20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_497" playOrder="496">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part0730.html#LO5QK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_498" playOrder="497">
+        <navLabel>
+          <text>CHAPTER 12</text>
+        </navLabel>
+        <content src="text/part0731.html#LP4B60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_499" playOrder="498">
+        <navLabel>
+          <text>第 12 章</text>
+        </navLabel>
+        <content src="text/part0732.html#LQ2RO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_500" playOrder="499">
+        <navLabel>
+          <text>CHAPTER 13</text>
+        </navLabel>
+        <content src="text/part0734.html#LRVSS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_501" playOrder="500">
+        <navLabel>
+          <text>第 13 章</text>
+        </navLabel>
+        <content src="text/part0735.html#LSUDE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_502" playOrder="501">
+        <navLabel>
+          <text>CHAPTER 14</text>
+        </navLabel>
+        <content src="text/part0737.html#LUREI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_503" playOrder="502">
+        <navLabel>
+          <text>第 14 章</text>
+        </navLabel>
+        <content src="text/part0738.html#LVPV40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_504" playOrder="503">
+        <navLabel>
+          <text>CHAPTER 15</text>
+        </navLabel>
+        <content src="text/part0739.html#M0OFM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_505" playOrder="504">
+        <navLabel>
+          <text>第 15 章</text>
+        </navLabel>
+        <content src="text/part0740.html#M1N080-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_506" playOrder="505">
+        <navLabel>
+          <text>CHAPTER 16</text>
+        </navLabel>
+        <content src="text/part0742.html#M3K1C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_507" playOrder="506">
+        <navLabel>
+          <text>第 16 章</text>
+        </navLabel>
+        <content src="text/part0743.html#M4IHU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_508" playOrder="507">
+        <navLabel>
+          <text>CHAPTER 17</text>
+        </navLabel>
+        <content src="text/part0744.html#M5H2G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_509" playOrder="508">
+        <navLabel>
+          <text>第 17 章</text>
+        </navLabel>
+        <content src="text/part0745.html#M6FJ20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_510" playOrder="509">
+        <navLabel>
+          <text>CHAPTER 18</text>
+        </navLabel>
+        <content src="text/part0747.html#M8CK60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_511" playOrder="510">
+        <navLabel>
+          <text>第 18 章</text>
+        </navLabel>
+        <content src="text/part0748.html#M9B4O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_512" playOrder="511">
+        <navLabel>
+          <text>CHAPTER 19</text>
+        </navLabel>
+        <content src="text/part0750.html#MB85S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_513" playOrder="512">
+        <navLabel>
+          <text>第 19 章</text>
+        </navLabel>
+        <content src="text/part0751.html#MC6ME0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_514" playOrder="513">
+        <navLabel>
+          <text>CHAPTER 20</text>
+        </navLabel>
+        <content src="text/part0752.html#MD5700-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_515" playOrder="514">
+        <navLabel>
+          <text>第 20 章</text>
+        </navLabel>
+        <content src="text/part0753.html#ME3NI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_516" playOrder="515">
+        <navLabel>
+          <text>CHAPTER 21</text>
+        </navLabel>
+        <content src="text/part0755.html#MG0OM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_517" playOrder="516">
+        <navLabel>
+          <text>第 21 章</text>
+        </navLabel>
+        <content src="text/part0756.html#MGV980-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_518" playOrder="517">
+        <navLabel>
+          <text>CHAPTER 22</text>
+        </navLabel>
+        <content src="text/part0758.html#MISAC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_519" playOrder="518">
+        <navLabel>
+          <text>第 22 章</text>
+        </navLabel>
+        <content src="text/part0759.html#MJQQU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_520" playOrder="519">
+      <navLabel>
+        <text>恐龙当家</text>
+      </navLabel>
+      <content src="text/part0761.html#MLNS20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_521" playOrder="520">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0771.html#MV91M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_522" playOrder="521">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part0772.html#N07I80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_523" playOrder="522">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0773.html#N162Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_524" playOrder="523">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part0774.html#N24JC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_525" playOrder="524">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0776.html#N41KG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_526" playOrder="525">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part0777.html#N50520-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_527" playOrder="526">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0778.html#N5ULK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_528" playOrder="527">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part0779.html#N6T660-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_529" playOrder="528">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0781.html#N8Q7A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_530" playOrder="529">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part0782.html#N9ONS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_531" playOrder="530">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0783.html#NAN8E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_532" playOrder="531">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part0784.html#NBLP00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_533" playOrder="532">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0785.html#NCK9I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_534" playOrder="533">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part0786.html#NDIQ40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_535" playOrder="534">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0788.html#NFFR80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_536" playOrder="535">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part0789.html#NGEBQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_537" playOrder="536">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0790.html#NHCSC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_538" playOrder="537">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part0791.html#NIBCU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_539" playOrder="538">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0793.html#NK8E20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_540" playOrder="539">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part0794.html#NL6UK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_541" playOrder="540">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0795.html#NM5F60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_542" playOrder="541">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part0796.html#NN3VO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_543" playOrder="542">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0798.html#NP10S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_544" playOrder="543">
+        <navLabel>
+          <text>第 12 章</text>
+        </navLabel>
+        <content src="text/part0799.html#NPVHE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_545" playOrder="544">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0801.html#NRSII0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_546" playOrder="545">
+        <navLabel>
+          <text>第 13 章</text>
+        </navLabel>
+        <content src="text/part0802.html#NSR340-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_547" playOrder="546">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0803.html#NTPJM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_548" playOrder="547">
+        <navLabel>
+          <text>第 14 章</text>
+        </navLabel>
+        <content src="text/part0804.html#NUO480-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_549" playOrder="548">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0806.html#O0L5C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_550" playOrder="549">
+        <navLabel>
+          <text>第 15 章</text>
+        </navLabel>
+        <content src="text/part0807.html#O1JLU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_551" playOrder="550">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0809.html#O3GN20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_552" playOrder="551">
+        <navLabel>
+          <text>第 16 章</text>
+        </navLabel>
+        <content src="text/part0810.html#O4F7K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_553" playOrder="552">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part0811.html#O5DO60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_554" playOrder="553">
+        <navLabel>
+          <text>第 17 章</text>
+        </navLabel>
+        <content src="text/part0812.html#O6C8O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_555" playOrder="554">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part0813.html#O7APA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_556" playOrder="555">
+        <navLabel>
+          <text>第 18 章</text>
+        </navLabel>
+        <content src="text/part0814.html#O899S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_557" playOrder="556">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part0816.html#OA6B00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_558" playOrder="557">
+        <navLabel>
+          <text>第 19 章</text>
+        </navLabel>
+        <content src="text/part0817.html#OB4RI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_559" playOrder="558">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part0818.html#OC3C40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_560" playOrder="559">
+        <navLabel>
+          <text>第20章</text>
+        </navLabel>
+        <content src="text/part0819.html#OD1SM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_561" playOrder="560">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part0820.html#OE0D80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_562" playOrder="561">
+        <navLabel>
+          <text>第 21 章</text>
+        </navLabel>
+        <content src="text/part0821.html#OEUTQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_563" playOrder="562">
+        <navLabel>
+          <text>Chapter 22</text>
+        </navLabel>
+        <content src="text/part0823.html#OGRUU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_564" playOrder="563">
+        <navLabel>
+          <text>第 22 章</text>
+        </navLabel>
+        <content src="text/part0824.html#OHQFG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_565" playOrder="564">
+      <navLabel>
+        <text>机器人总动员</text>
+      </navLabel>
+      <content src="text/part0826.html#OJNGK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_566" playOrder="565">
+        <navLabel>
+          <text>Prologue</text>
+        </navLabel>
+        <content src="text/part0839.html#P047U0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_567" playOrder="566">
+        <navLabel>
+          <text>序言</text>
+        </navLabel>
+        <content src="text/part0840.html#P12OG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_568" playOrder="567">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0841.html#P21920-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_569" playOrder="568">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part0842.html#P2VPK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_570" playOrder="569">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0843.html#P3UA60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_571" playOrder="570">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part0844.html#P4SQO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_572" playOrder="571">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0845.html#P5RBA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_573" playOrder="572">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part0846.html#P6PRS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_574" playOrder="573">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0848.html#P8MT00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_575" playOrder="574">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part0849.html#P9LDI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_576" playOrder="575">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0850.html#PAJU40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_577" playOrder="576">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part0851.html#PBIEM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_578" playOrder="577">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0852.html#PCGV80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_579" playOrder="578">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part0853.html#PDFFQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_580" playOrder="579">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0855.html#PFCGU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_581" playOrder="580">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part0856.html#PGB1G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_582" playOrder="581">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0857.html#PH9I20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_583" playOrder="582">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part0858.html#PI82K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_584" playOrder="583">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0860.html#PK53O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_585" playOrder="584">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part0861.html#PL3KA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_586" playOrder="585">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0862.html#PM24S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_587" playOrder="586">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part0863.html#PN0LE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_588" playOrder="587">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0865.html#POTMI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_589" playOrder="588">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part0866.html#PPS740-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_590" playOrder="589">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0867.html#PQQNM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_591" playOrder="590">
+        <navLabel>
+          <text>第 12 章</text>
+        </navLabel>
+        <content src="text/part0868.html#PRP880-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_592" playOrder="591">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0869.html#PSNOQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_593" playOrder="592">
+        <navLabel>
+          <text>第 13 章</text>
+        </navLabel>
+        <content src="text/part0870.html#PTM9C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_594" playOrder="593">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0872.html#PVJAG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_595" playOrder="594">
+        <navLabel>
+          <text>第 14 章</text>
+        </navLabel>
+        <content src="text/part0873.html#Q0HR20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_596" playOrder="595">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0874.html#Q1GBK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_597" playOrder="596">
+        <navLabel>
+          <text>第 15 章</text>
+        </navLabel>
+        <content src="text/part0875.html#Q2ES60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_598" playOrder="597">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0877.html#Q4BTA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_599" playOrder="598">
+        <navLabel>
+          <text>第 16 章</text>
+        </navLabel>
+        <content src="text/part0878.html#Q5ADS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_600" playOrder="599">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part0879.html#Q68UE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_601" playOrder="600">
+        <navLabel>
+          <text>第 17 章</text>
+        </navLabel>
+        <content src="text/part0880.html#Q77F00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_602" playOrder="601">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part0882.html#Q94G40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_603" playOrder="602">
+        <navLabel>
+          <text>第 18 章</text>
+        </navLabel>
+        <content src="text/part0883.html#QA30M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_604" playOrder="603">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part0884.html#QB1H80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_605" playOrder="604">
+        <navLabel>
+          <text>第 19 章</text>
+        </navLabel>
+        <content src="text/part0885.html#QC01Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_606" playOrder="605">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part0886.html#QCUIC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_607" playOrder="606">
+        <navLabel>
+          <text>第 20 章</text>
+        </navLabel>
+        <content src="text/part0887.html#QDT2U0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_608" playOrder="607">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part0889.html#QFQ420-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_609" playOrder="608">
+        <navLabel>
+          <text>第 21 章</text>
+        </navLabel>
+        <content src="text/part0890.html#QGOKK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_610" playOrder="609">
+        <navLabel>
+          <text>Chapter 22</text>
+        </navLabel>
+        <content src="text/part0891.html#QHN560-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_611" playOrder="610">
+        <navLabel>
+          <text>第 22 章</text>
+        </navLabel>
+        <content src="text/part0892.html#QILLO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_612" playOrder="611">
+        <navLabel>
+          <text>Chapter 23</text>
+        </navLabel>
+        <content src="text/part0893.html#QJK6A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_613" playOrder="612">
+        <navLabel>
+          <text>第 23 章</text>
+        </navLabel>
+        <content src="text/part0894.html#QKIMS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_614" playOrder="613">
+        <navLabel>
+          <text>Chapter 24</text>
+        </navLabel>
+        <content src="text/part0896.html#QMFO00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_615" playOrder="614">
+        <navLabel>
+          <text>第 24 章</text>
+        </navLabel>
+        <content src="text/part0897.html#QNE8I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_616" playOrder="615">
+        <navLabel>
+          <text>Chapter 25</text>
+        </navLabel>
+        <content src="text/part0898.html#QOCP40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_617" playOrder="616">
+        <navLabel>
+          <text>第 25 章</text>
+        </navLabel>
+        <content src="text/part0899.html#QPB9M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_618" playOrder="617">
+        <navLabel>
+          <text>Chapter 26</text>
+        </navLabel>
+        <content src="text/part0901.html#QR8AQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_619" playOrder="618">
+        <navLabel>
+          <text>第 26 章</text>
+        </navLabel>
+        <content src="text/part0902.html#QS6RC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_620" playOrder="619">
+        <navLabel>
+          <text>Chapter 27</text>
+        </navLabel>
+        <content src="text/part0903.html#QT5BU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_621" playOrder="620">
+        <navLabel>
+          <text>第 27 章</text>
+        </navLabel>
+        <content src="text/part0904.html#QU3SG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_622" playOrder="621">
+        <navLabel>
+          <text>Chapter 28</text>
+        </navLabel>
+        <content src="text/part0905.html#QV2D20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_623" playOrder="622">
+        <navLabel>
+          <text>第 28 章</text>
+        </navLabel>
+        <content src="text/part0906.html#R00TK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_624" playOrder="623">
+        <navLabel>
+          <text>Chapter 29</text>
+        </navLabel>
+        <content src="text/part0908.html#R1TUO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_625" playOrder="624">
+        <navLabel>
+          <text>第 29 章</text>
+        </navLabel>
+        <content src="text/part0909.html#R2SFA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_626" playOrder="625">
+      <navLabel>
+        <text>怪兽大学</text>
+      </navLabel>
+      <content src="text/part0910.html#R3QVS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_627" playOrder="626">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0920.html#RDC5G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_628" playOrder="627">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part0921.html#REAM20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_629" playOrder="628">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0922.html#RF96K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_630" playOrder="629">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part0923.html#RG7N60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_631" playOrder="630">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0924.html#RH67O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_632" playOrder="631">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part0925.html#RI4OA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_633" playOrder="632">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0927.html#RK1PE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_634" playOrder="633">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part0928.html#RL0A00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_635" playOrder="634">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0929.html#RLUQI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_636" playOrder="635">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part0930.html#RMTB40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_637" playOrder="636">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0932.html#ROQC80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_638" playOrder="637">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part0933.html#RPOSQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_639" playOrder="638">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0934.html#RQNDC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_640" playOrder="639">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part0935.html#RRLTU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_641" playOrder="640">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0937.html#RTIV20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_642" playOrder="641">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part0938.html#RUHFK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_643" playOrder="642">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0939.html#RVG060-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_644" playOrder="643">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part0940.html#S0EGO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_645" playOrder="644">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0942.html#S2BHS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_646" playOrder="645">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part0943.html#S3A2E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_647" playOrder="646">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0944.html#S48J00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_648" playOrder="647">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part0945.html#S573I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_649" playOrder="648">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0947.html#S744M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_650" playOrder="649">
+        <navLabel>
+          <text>第 12 章</text>
+        </navLabel>
+        <content src="text/part0948.html#S82L80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_651" playOrder="650">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0949.html#S915Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_652" playOrder="651">
+        <navLabel>
+          <text>第 13 章</text>
+        </navLabel>
+        <content src="text/part0950.html#S9VMC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_653" playOrder="652">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0952.html#SBSNG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_654" playOrder="653">
+        <navLabel>
+          <text>第 14 章</text>
+        </navLabel>
+        <content src="text/part0953.html#SCR820-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_655" playOrder="654">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0954.html#SDPOK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_656" playOrder="655">
+        <navLabel>
+          <text>第 15 章</text>
+        </navLabel>
+        <content src="text/part0955.html#SEO960-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_657" playOrder="656">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0957.html#SGLAA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_658" playOrder="657">
+        <navLabel>
+          <text>第 16 章</text>
+        </navLabel>
+        <content src="text/part0958.html#SHJQS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_659" playOrder="658">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part0959.html#SIIBE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_660" playOrder="659">
+        <navLabel>
+          <text>第 17 章</text>
+        </navLabel>
+        <content src="text/part0960.html#SJGS00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_661" playOrder="660">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part0962.html#SLDT40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_662" playOrder="661">
+        <navLabel>
+          <text>第 18 章</text>
+        </navLabel>
+        <content src="text/part0963.html#SMCDM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_663" playOrder="662">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part0964.html#SNAU80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_664" playOrder="663">
+        <navLabel>
+          <text>第 19 章</text>
+        </navLabel>
+        <content src="text/part0965.html#SO9EQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_665" playOrder="664">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part0967.html#SQ6FU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_666" playOrder="665">
+        <navLabel>
+          <text>第 20 章</text>
+        </navLabel>
+        <content src="text/part0968.html#SR50G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_667" playOrder="666">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part0969.html#SS3H20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_668" playOrder="667">
+        <navLabel>
+          <text>第 21 章</text>
+        </navLabel>
+        <content src="text/part0970.html#ST21K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_669" playOrder="668">
+        <navLabel>
+          <text>Chapter 22</text>
+        </navLabel>
+        <content src="text/part0972.html#SUV2O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_670" playOrder="669">
+        <navLabel>
+          <text>第 22 章</text>
+        </navLabel>
+        <content src="text/part0973.html#SVTJA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_671" playOrder="670">
+        <navLabel>
+          <text>Chapter 23</text>
+        </navLabel>
+        <content src="text/part0974.html#T0S3S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_672" playOrder="671">
+        <navLabel>
+          <text>第 23 章</text>
+        </navLabel>
+        <content src="text/part0975.html#T1QKE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_673" playOrder="672">
+        <navLabel>
+          <text>Chapter 24</text>
+        </navLabel>
+        <content src="text/part0977.html#T3NLI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_674" playOrder="673">
+        <navLabel>
+          <text>第 24 章</text>
+        </navLabel>
+        <content src="text/part0978.html#T4M640-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_675" playOrder="674">
+        <navLabel>
+          <text>Chapter 25</text>
+        </navLabel>
+        <content src="text/part0980.html#T6J780-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_676" playOrder="675">
+        <navLabel>
+          <text>第 25 章</text>
+        </navLabel>
+        <content src="text/part0981.html#T7HNQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_677" playOrder="676">
+        <navLabel>
+          <text>Chapter 26</text>
+        </navLabel>
+        <content src="text/part0982.html#T8G8C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_678" playOrder="677">
+        <navLabel>
+          <text>第 26 章</text>
+        </navLabel>
+        <content src="text/part0983.html#T9EOU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_679" playOrder="678">
+        <navLabel>
+          <text>Chapter 27</text>
+        </navLabel>
+        <content src="text/part0984.html#TAD9G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_680" playOrder="679">
+        <navLabel>
+          <text>第 27 章</text>
+        </navLabel>
+        <content src="text/part0985.html#TBBQ20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_681" playOrder="680">
+        <navLabel>
+          <text>Epilogue</text>
+        </navLabel>
+        <content src="text/part0987.html#TD8R60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_682" playOrder="681">
+        <navLabel>
+          <text>后 记</text>
+        </navLabel>
+        <content src="text/part0988.html#TE7BO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_683" playOrder="682">
+      <navLabel>
+        <text>魔发奇缘</text>
+      </navLabel>
+      <content src="text/part0989.html#TF5SA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_684" playOrder="683">
+        <navLabel>
+          <text>PROLOGUE</text>
+        </navLabel>
+        <content src="text/part0999.html#TON1U0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_685" playOrder="684">
+        <navLabel>
+          <text>前 言</text>
+        </navLabel>
+        <content src="text/part1000.html#TPLIG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_686" playOrder="685">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part1001.html#TQK320-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_687" playOrder="686">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part1002.html#TRIJK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_688" playOrder="687">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part1004.html#TTFKO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_689" playOrder="688">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part1005.html#TUE5A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_690" playOrder="689">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part1006.html#TVCLS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_691" playOrder="690">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part1007.html#U0B6E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_692" playOrder="691">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part1008.html#U19N00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_693" playOrder="692">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part1009.html#U287I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_694" playOrder="693">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part1011.html#U458M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_695" playOrder="694">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part1012.html#U53P80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_696" playOrder="695">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part1013.html#U629Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_697" playOrder="696">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part1014.html#U70QC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_698" playOrder="697">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part1016.html#U8TRG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_699" playOrder="698">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part1017.html#U9SC20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_700" playOrder="699">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part1018.html#UAQSK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_701" playOrder="700">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part1019.html#UBPD60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_702" playOrder="701">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part1020.html#UCNTO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_703" playOrder="702">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part1021.html#UDMEA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_704" playOrder="703">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part1023.html#UFJFE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_705" playOrder="704">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part1024.html#UGI000-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_706" playOrder="705">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part1025.html#UHGGI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_707" playOrder="706">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part1026.html#UIF140-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_708" playOrder="707">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part1028.html#UKC280-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_709" playOrder="708">
+        <navLabel>
+          <text>第 12 章</text>
+        </navLabel>
+        <content src="text/part1029.html#ULAIQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_710" playOrder="709">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part1030.html#UM93C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_711" playOrder="710">
+        <navLabel>
+          <text>第 13 章</text>
+        </navLabel>
+        <content src="text/part1031.html#UN7JU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_712" playOrder="711">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part1032.html#UO64G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_713" playOrder="712">
+        <navLabel>
+          <text>第 14 章</text>
+        </navLabel>
+        <content src="text/part1033.html#UP4L20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_714" playOrder="713">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part1035.html#UR1M60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_715" playOrder="714">
+        <navLabel>
+          <text>第 15 章</text>
+        </navLabel>
+        <content src="text/part1036.html#US06O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_716" playOrder="715">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part1037.html#USUNA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_717" playOrder="716">
+        <navLabel>
+          <text>第 16 章</text>
+        </navLabel>
+        <content src="text/part1038.html#UTT7S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_718" playOrder="717">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part1040.html#UVQ900-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_719" playOrder="718">
+        <navLabel>
+          <text>第 17 章</text>
+        </navLabel>
+        <content src="text/part1041.html#V0OPI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_720" playOrder="719">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part1042.html#V1NA40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_721" playOrder="720">
+        <navLabel>
+          <text>第 18 章</text>
+        </navLabel>
+        <content src="text/part1043.html#V2LQM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_722" playOrder="721">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part1045.html#V4IRQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_723" playOrder="722">
+        <navLabel>
+          <text>第 19 章</text>
+        </navLabel>
+        <content src="text/part1046.html#V5HCC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_724" playOrder="723">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part1047.html#V6FSU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_725" playOrder="724">
+        <navLabel>
+          <text>第 20 章</text>
+        </navLabel>
+        <content src="text/part1048.html#V7EDG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_726" playOrder="725">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part1050.html#V9BEK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_727" playOrder="726">
+        <navLabel>
+          <text>第 21 章</text>
+        </navLabel>
+        <content src="text/part1051.html#VA9V60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_728" playOrder="727">
+        <navLabel>
+          <text>Chapter 22</text>
+        </navLabel>
+        <content src="text/part1052.html#VB8FO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_729" playOrder="728">
+        <navLabel>
+          <text>第 22 章</text>
+        </navLabel>
+        <content src="text/part1053.html#VC70A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_730" playOrder="729">
+        <navLabel>
+          <text>Chapter 23</text>
+        </navLabel>
+        <content src="text/part1055.html#VE41E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_731" playOrder="730">
+        <navLabel>
+          <text>第 23 章</text>
+        </navLabel>
+        <content src="text/part1056.html#VF2I00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_732" playOrder="731">
+        <navLabel>
+          <text>Chapter 24</text>
+        </navLabel>
+        <content src="text/part1057.html#VG12I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_733" playOrder="732">
+        <navLabel>
+          <text>第 24 章</text>
+        </navLabel>
+        <content src="text/part1058.html#VGVJ40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_734" playOrder="733">
+        <navLabel>
+          <text>Chapter 25</text>
+        </navLabel>
+        <content src="text/part1059.html#VHU3M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_735" playOrder="734">
+        <navLabel>
+          <text>第 25 章</text>
+        </navLabel>
+        <content src="text/part1060.html#VISK80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_736" playOrder="735">
+        <navLabel>
+          <text>Chapter 26</text>
+        </navLabel>
+        <content src="text/part1062.html#VKPLC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_737" playOrder="736">
+        <navLabel>
+          <text>第 26 章</text>
+        </navLabel>
+        <content src="text/part1063.html#VLO5U0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_738" playOrder="737">
+      <navLabel>
+        <text>沉睡魔咒</text>
+      </navLabel>
+      <content src="text/part1064.html#VMMMG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_739" playOrder="738">
+        <navLabel>
+          <text>CHAPTER 1</text>
+        </navLabel>
+        <content src="text/part1077.html#1033DQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_740" playOrder="739">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part1078.html#1041UC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_741" playOrder="740">
+        <navLabel>
+          <text>CHAPTER 2</text>
+        </navLabel>
+        <content src="text/part1079.html#1050EU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_742" playOrder="741">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part1080.html#105UVG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_743" playOrder="742">
+        <navLabel>
+          <text>CHAPTER 3</text>
+        </navLabel>
+        <content src="text/part1081.html#106TG20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_744" playOrder="743">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part1082.html#107S0K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_745" playOrder="744">
+        <navLabel>
+          <text>CHAPTER 4</text>
+        </navLabel>
+        <content src="text/part1084.html#109P1O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_746" playOrder="745">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part1085.html#10ANIA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_747" playOrder="746">
+        <navLabel>
+          <text>CHAPTER 5</text>
+        </navLabel>
+        <content src="text/part1086.html#10BM2S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_748" playOrder="747">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part1087.html#10CKJE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_749" playOrder="748">
+        <navLabel>
+          <text>CHAPTER 6</text>
+        </navLabel>
+        <content src="text/part1088.html#10DJ400-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_750" playOrder="749">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part1089.html#10EHKI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_751" playOrder="750">
+        <navLabel>
+          <text>CHAPTER 7</text>
+        </navLabel>
+        <content src="text/part1090.html#10FG540-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_752" playOrder="751">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part1091.html#10GELM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_753" playOrder="752">
+        <navLabel>
+          <text>CHAPTER 8</text>
+        </navLabel>
+        <content src="text/part1093.html#10IBMQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_754" playOrder="753">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part1094.html#10JA7C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_755" playOrder="754">
+        <navLabel>
+          <text>CHAPTER 9</text>
+        </navLabel>
+        <content src="text/part1095.html#10K8NU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_756" playOrder="755">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part1096.html#10L78G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_757" playOrder="756">
+        <navLabel>
+          <text>CHAPTER 10</text>
+        </navLabel>
+        <content src="text/part1097.html#10M5P20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_758" playOrder="757">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part1098.html#10N49K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_759" playOrder="758">
+        <navLabel>
+          <text>CHAPTER 11</text>
+        </navLabel>
+        <content src="text/part1100.html#10P1AO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_760" playOrder="759">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part1101.html#10PVRA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_761" playOrder="760">
+        <navLabel>
+          <text>CHAPTER 12</text>
+        </navLabel>
+        <content src="text/part1102.html#10QUBS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_762" playOrder="761">
+        <navLabel>
+          <text>第 12 章</text>
+        </navLabel>
+        <content src="text/part1103.html#10RSSE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_763" playOrder="762">
+        <navLabel>
+          <text>CHAPTER 13</text>
+        </navLabel>
+        <content src="text/part1105.html#10TPTI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_764" playOrder="763">
+        <navLabel>
+          <text>第 13 章</text>
+        </navLabel>
+        <content src="text/part1106.html#10UOE40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_765" playOrder="764">
+        <navLabel>
+          <text>CHAPTER 14</text>
+        </navLabel>
+        <content src="text/part1107.html#10VMUM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_766" playOrder="765">
+        <navLabel>
+          <text>第 14 章</text>
+        </navLabel>
+        <content src="text/part1108.html#110LF80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_767" playOrder="766">
+        <navLabel>
+          <text>CHAPTER 15</text>
+        </navLabel>
+        <content src="text/part1109.html#111JVQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_768" playOrder="767">
+        <navLabel>
+          <text>第 15 章</text>
+        </navLabel>
+        <content src="text/part1110.html#112IGC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_769" playOrder="768">
+        <navLabel>
+          <text>CHAPTER 16</text>
+        </navLabel>
+        <content src="text/part1112.html#114FHG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_770" playOrder="769">
+        <navLabel>
+          <text>第 16 章</text>
+        </navLabel>
+        <content src="text/part1113.html#115E220-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_771" playOrder="770">
+        <navLabel>
+          <text>CHAPTER 17</text>
+        </navLabel>
+        <content src="text/part1114.html#116CIK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_772" playOrder="771">
+        <navLabel>
+          <text>第 17 章</text>
+        </navLabel>
+        <content src="text/part1115.html#117B360-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_773" playOrder="772">
+        <navLabel>
+          <text>CHAPTER 18</text>
+        </navLabel>
+        <content src="text/part1117.html#11984A0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_774" playOrder="773">
+        <navLabel>
+          <text>第 18 章</text>
+        </navLabel>
+        <content src="text/part1118.html#11A6KS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_775" playOrder="774">
+        <navLabel>
+          <text>CHAPTER 19</text>
+        </navLabel>
+        <content src="text/part1119.html#11B55E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_776" playOrder="775">
+        <navLabel>
+          <text>第 19 章</text>
+        </navLabel>
+        <content src="text/part1120.html#11C3M00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_777" playOrder="776">
+        <navLabel>
+          <text>CHAPTER 20</text>
+        </navLabel>
+        <content src="text/part1122.html#11E0N40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_778" playOrder="777">
+        <navLabel>
+          <text>第 20 章</text>
+        </navLabel>
+        <content src="text/part1123.html#11EV7M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_779" playOrder="778">
+        <navLabel>
+          <text>CHAPTER 21</text>
+        </navLabel>
+        <content src="text/part1124.html#11FTO80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_780" playOrder="779">
+        <navLabel>
+          <text>第 21 章</text>
+        </navLabel>
+        <content src="text/part1125.html#11GS8Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_781" playOrder="780">
+        <navLabel>
+          <text>CHAPTER 22</text>
+        </navLabel>
+        <content src="text/part1127.html#11IP9U0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_782" playOrder="781">
+        <navLabel>
+          <text>第 22 章</text>
+        </navLabel>
+        <content src="text/part1128.html#11JNQG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_783" playOrder="782">
+      <navLabel>
+        <text>海洋奇缘</text>
+      </navLabel>
+      <content src="text/part1130.html#11LKRK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      <navPoint class="chapter" id="num_784" playOrder="783">
+        <navLabel>
+          <text>Chapter One</text>
+        </navLabel>
+        <content src="text/part1140.html#11V6180-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_785" playOrder="784">
+        <navLabel>
+          <text>第 1 章</text>
+        </navLabel>
+        <content src="text/part1141.html#1204HQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_786" playOrder="785">
+        <navLabel>
+          <text>Chapter Two</text>
+        </navLabel>
+        <content src="text/part1142.html#12132C0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_787" playOrder="786">
+        <navLabel>
+          <text>第 2 章</text>
+        </navLabel>
+        <content src="text/part1143.html#1221IU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_788" playOrder="787">
+        <navLabel>
+          <text>Chapter Three</text>
+        </navLabel>
+        <content src="text/part1144.html#12303G0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_789" playOrder="788">
+        <navLabel>
+          <text>第 3 章</text>
+        </navLabel>
+        <content src="text/part1145.html#123UK20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_790" playOrder="789">
+        <navLabel>
+          <text>Chapter Four</text>
+        </navLabel>
+        <content src="text/part1146.html#124T4K0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_791" playOrder="790">
+        <navLabel>
+          <text>第 4 章</text>
+        </navLabel>
+        <content src="text/part1147.html#125RL60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_792" playOrder="791">
+        <navLabel>
+          <text>Chapter Five</text>
+        </navLabel>
+        <content src="text/part1148.html#126Q5O0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_793" playOrder="792">
+        <navLabel>
+          <text>第 5 章</text>
+        </navLabel>
+        <content src="text/part1149.html#127OMA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_794" playOrder="793">
+        <navLabel>
+          <text>Chapter Six</text>
+        </navLabel>
+        <content src="text/part1150.html#128N6S0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_795" playOrder="794">
+        <navLabel>
+          <text>第 6 章</text>
+        </navLabel>
+        <content src="text/part1151.html#129LNE0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_796" playOrder="795">
+        <navLabel>
+          <text>Chapter Seven</text>
+        </navLabel>
+        <content src="text/part1152.html#12AK800-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_797" playOrder="796">
+        <navLabel>
+          <text>第 7 章</text>
+        </navLabel>
+        <content src="text/part1153.html#12BIOI0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_798" playOrder="797">
+        <navLabel>
+          <text>Chapter Eight</text>
+        </navLabel>
+        <content src="text/part1154.html#12CH940-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_799" playOrder="798">
+        <navLabel>
+          <text>第 8 章</text>
+        </navLabel>
+        <content src="text/part1155.html#12DFPM0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_800" playOrder="799">
+        <navLabel>
+          <text>Chapter Nine</text>
+        </navLabel>
+        <content src="text/part1156.html#12EEA80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_801" playOrder="800">
+        <navLabel>
+          <text>第 9 章</text>
+        </navLabel>
+        <content src="text/part1157.html#12FCQQ0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_802" playOrder="801">
+        <navLabel>
+          <text>Chapter Ten</text>
+        </navLabel>
+        <content src="text/part1158.html#12GBBC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_803" playOrder="802">
+        <navLabel>
+          <text>第 10 章</text>
+        </navLabel>
+        <content src="text/part1159.html#12H9RU0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_804" playOrder="803">
+        <navLabel>
+          <text>Chapter Eleven</text>
+        </navLabel>
+        <content src="text/part1160.html#12I8CG0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_805" playOrder="804">
+        <navLabel>
+          <text>第 11 章</text>
+        </navLabel>
+        <content src="text/part1161.html#12J6T20-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_806" playOrder="805">
+        <navLabel>
+          <text>Chapter Twelve</text>
+        </navLabel>
+        <content src="text/part1162.html#12K5DK0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_807" playOrder="806">
+        <navLabel>
+          <text>第 12 章</text>
+        </navLabel>
+        <content src="text/part1163.html#12L3U60-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_808" playOrder="807">
+        <navLabel>
+          <text>Chapter Thirteen</text>
+        </navLabel>
+        <content src="text/part1164.html#12M2EO0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_809" playOrder="808">
+        <navLabel>
+          <text>第 13 章</text>
+        </navLabel>
+        <content src="text/part1165.html#12N0VA0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_810" playOrder="809">
+        <navLabel>
+          <text>Chapter Fourteen</text>
+        </navLabel>
+        <content src="text/part1166.html#12NVFS0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_811" playOrder="810">
+        <navLabel>
+          <text>第 14 章</text>
+        </navLabel>
+        <content src="text/part1167.html#12OU0E0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_812" playOrder="811">
+        <navLabel>
+          <text>Chapter Fifteen</text>
+        </navLabel>
+        <content src="text/part1168.html#12PSH00-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_813" playOrder="812">
+        <navLabel>
+          <text>第 15 章</text>
+        </navLabel>
+        <content src="text/part1169.html#12QR1I0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_814" playOrder="813">
+        <navLabel>
+          <text>Chapter Sixteen</text>
+        </navLabel>
+        <content src="text/part1170.html#12RPI40-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_815" playOrder="814">
+        <navLabel>
+          <text>第 16 章</text>
+        </navLabel>
+        <content src="text/part1171.html#12SO2M0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_816" playOrder="815">
+        <navLabel>
+          <text>Chapter Seventeen</text>
+        </navLabel>
+        <content src="text/part1172.html#12TMJ80-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_817" playOrder="816">
+        <navLabel>
+          <text>第 17 章</text>
+        </navLabel>
+        <content src="text/part1173.html#12UL3Q0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_818" playOrder="817">
+        <navLabel>
+          <text>Chapter Eighteen</text>
+        </navLabel>
+        <content src="text/part1174.html#12VJKC0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_819" playOrder="818">
+        <navLabel>
+          <text>第 18 章</text>
+        </navLabel>
+        <content src="text/part1175.html#130I4U0-1d4963aa9e31410eb21117213e0b5fd2"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

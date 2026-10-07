@@ -22,8 +22,16 @@ jobs:
       - name: Stage site
         run: |
           mkdir _site
-          cp index.html style.css app.js catalog.json classics.json _site/
+          cp index.html style.css app.js catalog.json classics.json world770.json _site/
           cp -r content vendor _site/
+          python - <<'PYTHON'
+          from pathlib import Path
+          files=[p for p in Path('_site').rglob('*') if p.is_file()]
+          size=sum(p.stat().st_size for p in files)
+          print(f'Published files: {len(files)}; bytes: {size}')
+          assert size < 1_000_000_000, 'GitHub Pages site exceeds 1 GB'
+          assert all(p.stat().st_size < 100_000_000 for p in files), 'Oversized file'
+          PYTHON
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

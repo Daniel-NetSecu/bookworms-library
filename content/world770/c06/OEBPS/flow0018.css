@@ -1,0 +1,364 @@
+body {
+	text-align: justify;
+	line-height: 1.618em;
+	word-wrap: break-word;
+}
+p {
+	text-indent: 0em;
+	margin-top: 1em;
+}
+h1.title1 {
+	font-size: 1.6em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+h2.title2 {
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-indent: 0em;
+}
+h3.title3 {
+	font-size: 1.3em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+h4.title4 {
+	font-size: 1.3em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-indent: 0em;
+}
+h5.title5 {
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+h6.title6 {
+	font-size: 0.85em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+.subtitle{
+	font-size: 0.9em;
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+	text-indent: 0em;
+}
+.subtitle0{
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+	text-indent: 0em;
+    text-align: center;
+}
+.subtitle1{
+	font-size:1.1em;
+	font-weight: bold;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	text-indent: 2em;
+}
+.subtitle2{
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+	text-indent: 2em;
+}
+.subtitle3{
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-indent: -1.5em;
+	margin-left: 1.5em;
+}
+.subtitle4{
+	font-size:1.1em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	text-indent: 0em;
+}
+.subtitle5{
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 2pt;
+	text-indent: 2em;
+}
+.normaltext {
+	text-indent: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+.lk {
+	font-size: 0.85em;
+    text-align: right;
+   	margin-right: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.lk1 {
+	font-size: 0.85em;
+    text-align: right;
+   	margin-right: 0em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.picture {
+	text-indent: 0em;
+    text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.table {
+	text-indent: 0em;
+    width:100%;
+	margin-bottom: 1em;
+    text-align: center;
+}
+.table1 {
+    width:100%;
+	margin-bottom: 1em;
+	margin-left: 2em;
+}
+td{
+	vertical-align: text-top;
+}
+.tpzz{
+	vertical-align: text-top;
+}
+.tpzz1{
+	vertical-align: text-bottom;
+}
+.note {
+	font-size: 1.2em;
+	font-weight: bold;
+	text-indent: 0em;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+}
+.note1 {
+	font-size: 0.85em;
+	text-indent: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.bt{
+	text-align: center;
+	margin-top: 0.8em;
+	margin-bottom: 0px;
+	text-indent: 0em;
+}
+.bz{
+	font-size: 0.85em;
+	text-indent: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.tz{
+	font-size: 0.85em;
+	text-align: center;
+	margin-top: 0em;
+	margin-bottom: 1em;
+	text-indent: 0em;
+	font-weight: bold;
+}
+.tz1{
+	font-size: 0.85em;
+	text-indent: 2em;
+	margin-top: 0em;
+	margin-bottom: 1em;
+}
+.underline{
+	text-decoration:underline;
+}
+.doubleline{
+	text-decoration:underline;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+}
+.fy{
+   page-break-before: always;
+}
+a {
+	color: #0000CC;
+}
+.contents-title {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    text-align: center;
+}
+.contents {
+    font-size: 1.7em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    text-align: center;
+}
+.contents1 {
+    margin-left: 0em;
+}
+.contents2 {
+    margin-left: 2em;
+}
+.contents3 {
+    margin-left: 4em;
+}
+
+.contents4 {
+    margin-left: 4em;
+}
+
+.contents5 {
+    margin-left: 4em;
+}
+
+.contents6 {
+    margin-left: 4em;
+}
+:lang(ja) {
+    font-family: TBGothic, TBMincho, TBGothic, HYGothic, TsukushiMincho;
+}
+.Kai{ 
+	font-family: STKai, "MKai PRC", Kai;
+}
+.dashed{
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+}
+.xt{
+	font-style:italic;
+}
+.fd{
+	color: #699DB2;
+}
+.jc{
+	font-weight: bold;
+}
+.ll{
+	font-size: 1.1em;
+}
+.suptext{
+	font-size: 0.5em;
+}
+.zx{
+	font-style:italic;
+}
+.normaltext0 {
+	text-indent: -2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	margin-left: 4em;
+}
+.normaltext1 {
+	font-size: 0.85em;
+	text-indent: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	margin-bottom: 0.5em;
+    text-align: right;
+}
+.normaltext1a {
+	text-indent: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	margin-bottom: 0.5em;
+    text-align: right;
+}
+.normaltext01 {
+	text-indent: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	margin-bottom: 0em;
+    text-align: right;
+}
+.normaltext001 {
+	font-size: 0.9em;
+	text-indent: 2em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	margin-bottom: 0.5em;
+    text-align: right;
+	font-weight: bold;
+}
+.normaltext2 {
+	font-size: 0.9em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	text-indent: 2em;
+}
+.normaltext02 {
+	font-size: 0.9em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	text-indent: 0em;
+}
+.normaltext002 {
+	font-size: 0.9em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	text-indent: 0em;
+	margin-left: 1em;
+}
+.normaltext3 {
+	font-size: 0.85em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	text-indent: 0em;
+	margin-left: 4em;
+}
+.normaltext4 {
+	font-size: 0.85em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	text-indent: 0em;
+	margin-left: 7.5em;
+}
+.normaltext5 {
+	text-indent: 0em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+.normaltext05 {
+	text-indent: 0em;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+.normaltext6 {
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	text-indent: 0em;
+	margin-left: 4em;
+}
+.normaltext06 {
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	text-indent: 0em;
+	margin-left: 6em;
+}
+.normaltext7{
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	text-indent: 0em;
+}
+.normaltext8 {
+	margin-top: 0pt;
+	margin-bottom: 0.5em;
+	text-indent: 0em;
+	margin-left: 1em;
+}
+.normaltext9 {
+	font-weight: bold;
+	font-size: 0.85em;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	margin-bottom: 0.5em;
+    text-align: right;
+}

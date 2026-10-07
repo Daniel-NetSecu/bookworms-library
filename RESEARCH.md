@@ -18,3 +18,13 @@
 
 - 《罪与罚》本地 PDF 截断损坏，网站替换为 Project Gutenberg #2554 的 Constance Garnett 英译版（https://www.gutenberg.org/ebooks/2554），保留来源和授权文本，原压缩包未改动。
 - 新增固定翻屏按钮、键盘翻屏、触屏横向滑动和专注模式；HTML/EPUB 保存滚动位置，PDF 保存页码。
+
+## 世界双语合集的容量与去重
+- 核查 GitHub 官方 [Pages limits](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)：发布站点不得超过 1 GB。原发布文件约 308 MiB，不能直接发布 3.7 GB 原始 ZIP。
+- 继续使用现有按章 XHTML 阅读器和 PDF.js，不引入收费存储。采用成熟的 Python `zipfile`/`lxml` 解析容器、spine、NCX，Pillow 优化图片；不以纯 OCR 替代原文字。
+- 去重依据是按 spine 次序组合的正文指纹，忽略空白和“返回总目录”导航字样，而非只比较书名。原书虫已重新分页，另外比对其现有正文；5 册只有极少导航/排版差异，保留原站版本。译林、外研社等不同译本独立保留。
+- 悬疑冒险套装把一份《双重人格》误标为《马丁·伊登》；正文比对后只保留正确的《双重人格》，外研社真正的《马丁·伊登》从 194 册总合集补入。
+- 原 NCX 未列出的 spine 续页补入章节目录，避免目录过粗造成漏读；原版权页、译者信息和插图保留。书目级目录、全部正文链接与代表性浏览器交互分别验证。
+
+- 全量检查发现原 EPUB 中 361 处非正文失效引用（缺失 XPGT/CSS 模板、装饰背景和出版社 XXXXXX 占位链接）；清理引用，不删除正文或插图。
+- 在响应式图片优化后采用 Pillow WebP 初始 quality=68，并从本地 JPEG/PNG 备份以 quality=58 作容量细化，仅在结果更小时替换，并保持该图片像素尺寸不变；原压缩包保持完整。

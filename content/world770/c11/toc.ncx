@@ -1,0 +1,2745 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta content="8b10c621-2bf5-40d5-a355-1e8e68d10f13" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="calibre (4.23.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>《自然》百年物理经典(英汉对照版)(全两册)(国内第一套英汉双语对照版的《自然》论文精选集，汇集了《自然》杂志自1869年创刊以来近150年间物理学领域的重大发现和发明) (《自然》学科经典系列)</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="0">
+      <navLabel>
+        <text>总目录</text>
+      </navLabel>
+      <content src="text/part0000.html#0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="1">
+      <navLabel>
+        <text>《自然》百年物理经典I</text>
+      </navLabel>
+      <content src="text/part0001.html#UGI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+      <navPoint class="chapter" id="num_3" playOrder="2">
+        <navLabel>
+          <text>扉页</text>
+        </navLabel>
+        <content src="text/part0002.html#1T140-bdf2732bfcdd4301a4e39d86c4356a49"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_4" playOrder="3">
+        <navLabel>
+          <text>版权页</text>
+        </navLabel>
+        <content src="text/part0003.html#2RHM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_5" playOrder="4">
+        <navLabel>
+          <text>目录</text>
+        </navLabel>
+        <content src="text/part0004.html#3Q280-bdf2732bfcdd4301a4e39d86c4356a49"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_6" playOrder="5">
+        <navLabel>
+          <text>Foreword by Tsung Dao Lee</text>
+        </navLabel>
+        <content src="text/part0007.html#6LJU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_7" playOrder="6">
+        <navLabel>
+          <text>李政道序</text>
+        </navLabel>
+        <content src="text/part0008.html#7K4G0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_8" playOrder="7">
+        <navLabel>
+          <text>Foreword by Lu Yongxiang</text>
+        </navLabel>
+        <content src="text/part0009.html#8IL20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_9" playOrder="8">
+        <navLabel>
+          <text>路甬祥序</text>
+        </navLabel>
+        <content src="text/part0010.html#9H5K0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_10" playOrder="9">
+        <navLabel>
+          <text>Foreword by Philip Ball</text>
+        </navLabel>
+        <content src="text/part0011.html#AFM60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_11" playOrder="10">
+        <navLabel>
+          <text>菲利普·鲍尔序</text>
+        </navLabel>
+        <content src="text/part0012.html#BE6O0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_12" playOrder="11">
+        <navLabel>
+          <text>1869</text>
+        </navLabel>
+        <content src="text/part0014.html#DB7S0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_13" playOrder="12">
+          <navLabel>
+            <text>The Atomic Controversy</text>
+          </navLabel>
+          <content src="text/part0014.html#DB7S0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_14" playOrder="13">
+          <navLabel>
+            <text>原子论战</text>
+          </navLabel>
+          <content src="text/part0015.html#E9OE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_15" playOrder="14">
+        <navLabel>
+          <text>1870</text>
+        </navLabel>
+        <content src="text/part0016.html#F8900-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_16" playOrder="15">
+          <navLabel>
+            <text>Mathematical and Physical Science</text>
+          </navLabel>
+          <content src="text/part0016.html#F8900-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_17" playOrder="16">
+          <navLabel>
+            <text>数学和物理科学</text>
+          </navLabel>
+          <content src="text/part0017.html#G6PI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_18" playOrder="17">
+        <navLabel>
+          <text>1871</text>
+        </navLabel>
+        <content src="text/part0018.html#H5A40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_19" playOrder="18">
+          <navLabel>
+            <text>On Colour Vision</text>
+          </navLabel>
+          <content src="text/part0018.html#H5A40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_20" playOrder="19">
+          <navLabel>
+            <text>论色觉</text>
+          </navLabel>
+          <content src="text/part0019.html#I3QM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_21" playOrder="20">
+          <navLabel>
+            <text>The Copley Medalist of 1870</text>
+          </navLabel>
+          <content src="text/part0020.html#J2B80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_22" playOrder="21">
+          <navLabel>
+            <text>1870年的科普利奖章获得者</text>
+          </navLabel>
+          <content src="text/part0021.html#K0RQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_23" playOrder="22">
+        <navLabel>
+          <text>1873</text>
+        </navLabel>
+        <content src="text/part0022.html#KVCC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_24" playOrder="23">
+          <navLabel>
+            <text>Clerk Maxwell’s Kinetic Theory of Gases</text>
+          </navLabel>
+          <content src="text/part0022.html#KVCC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_25" playOrder="24">
+          <navLabel>
+            <text>克拉克·麦克斯韦的气体动力学理论</text>
+          </navLabel>
+          <content src="text/part0023.html#LTSU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_26" playOrder="25">
+          <navLabel>
+            <text>Molecules</text>
+          </navLabel>
+          <content src="text/part0024.html#MSDG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_27" playOrder="26">
+          <navLabel>
+            <text>分子</text>
+          </navLabel>
+          <content src="text/part0025.html#NQU20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_28" playOrder="27">
+        <navLabel>
+          <text>1875</text>
+        </navLabel>
+        <content src="text/part0026.html#OPEK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_29" playOrder="28">
+          <navLabel>
+            <text>On the Dynamical Evidence of the Molecular Constitution of Bodies</text>
+          </navLabel>
+          <content src="text/part0026.html#OPEK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_30" playOrder="29">
+          <navLabel>
+            <text>关于物体分子构成的动力学证据</text>
+          </navLabel>
+          <content src="text/part0027.html#PNV60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_31" playOrder="30">
+        <navLabel>
+          <text>1880</text>
+        </navLabel>
+        <content src="text/part0028.html#QMFO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_32" playOrder="31">
+          <navLabel>
+            <text>Maxwell’s Plan for Measuring the Ether</text>
+          </navLabel>
+          <content src="text/part0028.html#QMFO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_33" playOrder="32">
+          <navLabel>
+            <text>麦克斯韦测量以太的计划</text>
+          </navLabel>
+          <content src="text/part0029.html#RL0A0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_34" playOrder="33">
+          <navLabel>
+            <text>Clerk Maxwell’s Scientific Work</text>
+          </navLabel>
+          <content src="text/part0030.html#SJGS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_35" playOrder="34">
+          <navLabel>
+            <text>克拉克·麦克斯韦的科学工作</text>
+          </navLabel>
+          <content src="text/part0031.html#TI1E0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_36" playOrder="35">
+        <navLabel>
+          <text>1896</text>
+        </navLabel>
+        <content src="text/part0032.html#UGI00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_37" playOrder="36">
+          <navLabel>
+            <text>On a New Kind of Rays</text>
+          </navLabel>
+          <content src="text/part0032.html#UGI00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_38" playOrder="37">
+          <navLabel>
+            <text>论一种新型的射线</text>
+          </navLabel>
+          <content src="text/part0033.html#VF2I0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_39" playOrder="38">
+          <navLabel>
+            <text>Professor Röntgen’s Discovery</text>
+          </navLabel>
+          <content src="text/part0034.html#10DJ40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_40" playOrder="39">
+          <navLabel>
+            <text>伦琴教授的发现</text>
+          </navLabel>
+          <content src="text/part0035.html#11C3M0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_41" playOrder="40">
+          <navLabel>
+            <text>New Experiments on the Kathode Rays</text>
+          </navLabel>
+          <content src="text/part0036.html#12AK80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_42" playOrder="41">
+          <navLabel>
+            <text>关于阴极射线的新实验</text>
+          </navLabel>
+          <content src="text/part0037.html#1394Q0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_43" playOrder="42">
+        <navLabel>
+          <text>1897</text>
+        </navLabel>
+        <content src="text/part0038.html#147LC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_44" playOrder="43">
+          <navLabel>
+            <text>The Effect of Magnetisation on the Nature of Light Emitted by a Substance</text>
+          </navLabel>
+          <content src="text/part0038.html#147LC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_45" playOrder="44">
+          <navLabel>
+            <text>磁化对物质发射的光的性质的影响</text>
+          </navLabel>
+          <content src="text/part0039.html#1565U0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_46" playOrder="45">
+        <navLabel>
+          <text>1913</text>
+        </navLabel>
+        <content src="text/part0040.html#164MG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_47" playOrder="46">
+          <navLabel>
+            <text>Intra-atomic Charge</text>
+          </navLabel>
+          <content src="text/part0040.html#164MG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_48" playOrder="47">
+          <navLabel>
+            <text>原子内的电荷</text>
+          </navLabel>
+          <content src="text/part0041.html#173720-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_49" playOrder="48">
+          <navLabel>
+            <text>The Structure of the Atom</text>
+          </navLabel>
+          <content src="text/part0042.html#181NK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_50" playOrder="49">
+          <navLabel>
+            <text>原子结构</text>
+          </navLabel>
+          <content src="text/part0043.html#190860-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_51" playOrder="50">
+          <navLabel>
+            <text>The Reflection of X-rays</text>
+          </navLabel>
+          <content src="text/part0044.html#19UOO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_52" playOrder="51">
+          <navLabel>
+            <text>X射线的反射</text>
+          </navLabel>
+          <content src="text/part0045.html#1AT9A0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_53" playOrder="52">
+        <navLabel>
+          <text>1919</text>
+        </navLabel>
+        <content src="text/part0046.html#1BRPS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_54" playOrder="53">
+          <navLabel>
+            <text>Einstein’s Relativity Theory of Gravitation</text>
+          </navLabel>
+          <content src="text/part0046.html#1BRPS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_55" playOrder="54">
+          <navLabel>
+            <text>爱因斯坦关于万有引力的相对论</text>
+          </navLabel>
+          <content src="text/part0047.html#1CQAE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_56" playOrder="55">
+        <navLabel>
+          <text>1921</text>
+        </navLabel>
+        <content src="text/part0048.html#1DOR00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_57" playOrder="56">
+          <navLabel>
+            <text>A Brief Outline of the Development of the Theory of Relativity</text>
+          </navLabel>
+          <content src="text/part0048.html#1DOR00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_58" playOrder="57">
+          <navLabel>
+            <text>相对论发展概述</text>
+          </navLabel>
+          <content src="text/part0049.html#1ENBI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_59" playOrder="58">
+          <navLabel>
+            <text>Atomic Structure</text>
+          </navLabel>
+          <content src="text/part0050.html#1FLS40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_60" playOrder="59">
+          <navLabel>
+            <text>原子结构</text>
+          </navLabel>
+          <content src="text/part0051.html#1GKCM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_61" playOrder="60">
+          <navLabel>
+            <text>The Dimensions of Atoms and Molecules</text>
+          </navLabel>
+          <content src="text/part0052.html#1HIT80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_62" playOrder="61">
+          <navLabel>
+            <text>原子和分子的尺度</text>
+          </navLabel>
+          <content src="text/part0053.html#1IHDQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_63" playOrder="62">
+        <navLabel>
+          <text>1923</text>
+        </navLabel>
+        <content src="text/part0054.html#1JFUC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_64" playOrder="63">
+          <navLabel>
+            <text>Waves and Quanta</text>
+          </navLabel>
+          <content src="text/part0054.html#1JFUC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_65" playOrder="64">
+          <navLabel>
+            <text>波与量子</text>
+          </navLabel>
+          <content src="text/part0055.html#1KEEU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_66" playOrder="65">
+        <navLabel>
+          <text>1927</text>
+        </navLabel>
+        <content src="text/part0056.html#1LCVG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_67" playOrder="66">
+          <navLabel>
+            <text>Thermal Agitation of Electricity in Conductors</text>
+          </navLabel>
+          <content src="text/part0056.html#1LCVG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_68" playOrder="67">
+          <navLabel>
+            <text>导体中电的热扰动</text>
+          </navLabel>
+          <content src="text/part0057.html#1MBG20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_69" playOrder="68">
+          <navLabel>
+            <text>The Scattering of Electrons by a Single Crystal of Nickel</text>
+          </navLabel>
+          <content src="text/part0058.html#1NA0K0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_70" playOrder="69">
+          <navLabel>
+            <text>镍单晶对电子的散射</text>
+          </navLabel>
+          <content src="text/part0059.html#1O8H60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_71" playOrder="70">
+          <navLabel>
+            <text>The Continuous Spectrum of β-rays</text>
+          </navLabel>
+          <content src="text/part0060.html#1P71O0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_72" playOrder="71">
+          <navLabel>
+            <text>β射线的连续谱</text>
+          </navLabel>
+          <content src="text/part0061.html#1Q5IA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_73" playOrder="72">
+        <navLabel>
+          <text>1928</text>
+        </navLabel>
+        <content src="text/part0062.html#1R42S0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_74" playOrder="73">
+          <navLabel>
+            <text>A New Type of Secondary Radiation</text>
+          </navLabel>
+          <content src="text/part0062.html#1R42S0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_75" playOrder="74">
+          <navLabel>
+            <text>一种新型的二次辐射</text>
+          </navLabel>
+          <content src="text/part0063.html#1S2JE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_76" playOrder="75">
+          <navLabel>
+            <text>Wave Mechanics and Radioactive Disintegration</text>
+          </navLabel>
+          <content src="text/part0064.html#1T1400-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_77" playOrder="76">
+          <navLabel>
+            <text>波动力学和放射性衰变</text>
+          </navLabel>
+          <content src="text/part0065.html#1TVKI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_78" playOrder="77">
+        <navLabel>
+          <text>1930</text>
+        </navLabel>
+        <content src="text/part0066.html#1UU540-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_79" playOrder="78">
+          <navLabel>
+            <text>The “Wave Band” Theory of Wireless Transmission</text>
+          </navLabel>
+          <content src="text/part0066.html#1UU540-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_80" playOrder="79">
+          <navLabel>
+            <text>无线传输的“波带”理论</text>
+          </navLabel>
+          <content src="text/part0067.html#1VSLM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_81" playOrder="80">
+          <navLabel>
+            <text>Electrons and Protons</text>
+          </navLabel>
+          <content src="text/part0068.html#20R680-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_82" playOrder="81">
+          <navLabel>
+            <text>电子和质子</text>
+          </navLabel>
+          <content src="text/part0069.html#21PMQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_83" playOrder="82">
+          <navLabel>
+            <text>Artificial Disintegration by α-particles</text>
+          </navLabel>
+          <content src="text/part0070.html#22O7C0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_84" playOrder="83">
+          <navLabel>
+            <text>α粒子引发的人工衰变</text>
+          </navLabel>
+          <content src="text/part0071.html#23MNU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_85" playOrder="84">
+          <navLabel>
+            <text>Fine Structure of α-rays</text>
+          </navLabel>
+          <content src="text/part0072.html#24L8G0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_86" playOrder="85">
+          <navLabel>
+            <text>α射线的精细结构</text>
+          </navLabel>
+          <content src="text/part0073.html#25JP20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_87" playOrder="86">
+          <navLabel>
+            <text>The Proton</text>
+          </navLabel>
+          <content src="text/part0074.html#26I9K0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_88" playOrder="87">
+          <navLabel>
+            <text>质子</text>
+          </navLabel>
+          <content src="text/part0075.html#27GQ60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_89" playOrder="88">
+          <navLabel>
+            <text>The Ether and Relativity</text>
+          </navLabel>
+          <content src="text/part0076.html#28FAO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_90" playOrder="89">
+          <navLabel>
+            <text>以太与相对论</text>
+          </navLabel>
+          <content src="text/part0077.html#29DRA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_91" playOrder="90">
+          <navLabel>
+            <text>Unit of Atomic Weight</text>
+          </navLabel>
+          <content src="text/part0078.html#2ACBS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_92" playOrder="91">
+          <navLabel>
+            <text>原子量的单位</text>
+          </navLabel>
+          <content src="text/part0079.html#2BASE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_93" playOrder="92">
+        <navLabel>
+          <text>1931</text>
+        </navLabel>
+        <content src="text/part0080.html#2C9D00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_94" playOrder="93">
+          <navLabel>
+            <text>Evidence for a Stellar Origin of the Cosmic Ultra-penetrating Radiation</text>
+          </navLabel>
+          <content src="text/part0080.html#2C9D00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_95" playOrder="94">
+          <navLabel>
+            <text>宇宙超穿透性辐射起源于恒星的证据</text>
+          </navLabel>
+          <content src="text/part0081.html#2D7TI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_96" playOrder="95">
+          <navLabel>
+            <text>Present Status of Theory and Experiment as to Atomic Disintegration and Atomic Synthesis</text>
+          </navLabel>
+          <content src="text/part0082.html#2E6E40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_97" playOrder="96">
+          <navLabel>
+            <text>原子衰变与原子合成的理论和实验现状</text>
+          </navLabel>
+          <content src="text/part0083.html#2F4UM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_98" playOrder="97">
+          <navLabel>
+            <text>New Aspects of Radioactivity</text>
+          </navLabel>
+          <content src="text/part0084.html#2G3F80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_99" playOrder="98">
+          <navLabel>
+            <text>放射性研究的新面貌</text>
+          </navLabel>
+          <content src="text/part0085.html#2H1VQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_100" playOrder="99">
+          <navLabel>
+            <text>The End of the World: from the Standpoint of Mathematical Physics</text>
+          </navLabel>
+          <content src="text/part0086.html#2I0GC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_101" playOrder="100">
+          <navLabel>
+            <text>以数学物理的视角看宇宙的终点</text>
+          </navLabel>
+          <content src="text/part0087.html#2IV0U0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_102" playOrder="101">
+          <navLabel>
+            <text>Obituary</text>
+          </navLabel>
+          <content src="text/part0088.html#2JTHG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_103" playOrder="102">
+          <navLabel>
+            <text>讣告</text>
+          </navLabel>
+          <content src="text/part0089.html#2KS220-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_104" playOrder="103">
+          <navLabel>
+            <text>The Annihilation of Matter</text>
+          </navLabel>
+          <content src="text/part0090.html#2LQIK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_105" playOrder="104">
+          <navLabel>
+            <text>物质的湮灭</text>
+          </navLabel>
+          <content src="text/part0091.html#2MP360-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_106" playOrder="105">
+          <navLabel>
+            <text>Quantum-mechanical Models of a Nucleus</text>
+          </navLabel>
+          <content src="text/part0092.html#2NNJO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_107" playOrder="106">
+          <navLabel>
+            <text>原子核的量子力学模型</text>
+          </navLabel>
+          <content src="text/part0093.html#2OM4A0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_108" playOrder="107">
+          <navLabel>
+            <text>The Angular Momentum of Light</text>
+          </navLabel>
+          <content src="text/part0094.html#2PKKS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_109" playOrder="108">
+          <navLabel>
+            <text>光的角动量</text>
+          </navLabel>
+          <content src="text/part0095.html#2QJ5E0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_110" playOrder="109">
+          <navLabel>
+            <text>Isolated Quantised Magnetic Poles</text>
+          </navLabel>
+          <content src="text/part0096.html#2RHM00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_111" playOrder="110">
+          <navLabel>
+            <text>孤立的量子化磁极</text>
+          </navLabel>
+          <content src="text/part0097.html#2SG6I0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_112" playOrder="111">
+          <navLabel>
+            <text>Maxwell and Modern Theoretical Physics</text>
+          </navLabel>
+          <content src="text/part0098.html#2TEN40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_113" playOrder="112">
+          <navLabel>
+            <text>麦克斯韦与现代理论物理</text>
+          </navLabel>
+          <content src="text/part0099.html#2UD7M0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_114" playOrder="113">
+        <navLabel>
+          <text>1932</text>
+        </navLabel>
+        <content src="text/part0100.html#2VBO80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_115" playOrder="114">
+          <navLabel>
+            <text>Experimental Proof of the Spin of the Photon</text>
+          </navLabel>
+          <content src="text/part0100.html#2VBO80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_116" playOrder="115">
+          <navLabel>
+            <text>光子自旋的实验证据</text>
+          </navLabel>
+          <content src="text/part0101.html#30A8Q0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_117" playOrder="116">
+          <navLabel>
+            <text>The Decline of Determinism</text>
+          </navLabel>
+          <content src="text/part0102.html#318PC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_118" playOrder="117">
+          <navLabel>
+            <text>决定论的衰落</text>
+          </navLabel>
+          <content src="text/part0103.html#3279U0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_119" playOrder="118">
+          <navLabel>
+            <text>News and Views</text>
+          </navLabel>
+          <content src="text/part0104.html#335QG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_120" playOrder="119">
+          <navLabel>
+            <text>新闻与观点</text>
+          </navLabel>
+          <content src="text/part0105.html#344B20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_121" playOrder="120">
+          <navLabel>
+            <text>Artificial Production of Fast Protons</text>
+          </navLabel>
+          <content src="text/part0106.html#352RK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_122" playOrder="121">
+          <navLabel>
+            <text>快质子的人工产生</text>
+          </navLabel>
+          <content src="text/part0107.html#361C60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_123" playOrder="122">
+          <navLabel>
+            <text>Possible Existence of a Neutron</text>
+          </navLabel>
+          <content src="text/part0108.html#36VSO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_124" playOrder="123">
+          <navLabel>
+            <text>可能存在中子</text>
+          </navLabel>
+          <content src="text/part0109.html#37UDA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_125" playOrder="124">
+          <navLabel>
+            <text>Determinism</text>
+          </navLabel>
+          <content src="text/part0110.html#38STS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_126" playOrder="125">
+          <navLabel>
+            <text>决定论</text>
+          </navLabel>
+          <content src="text/part0111.html#39REE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_127" playOrder="126">
+          <navLabel>
+            <text>Determinism</text>
+          </navLabel>
+          <content src="text/part0112.html#3APV00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_128" playOrder="127">
+          <navLabel>
+            <text>决定论</text>
+          </navLabel>
+          <content src="text/part0113.html#3BOFI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_129" playOrder="128">
+          <navLabel>
+            <text>Disintegration of Lithium by Swift Protons</text>
+          </navLabel>
+          <content src="text/part0114.html#3CN040-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_130" playOrder="129">
+          <navLabel>
+            <text>由快质子引起的锂衰变</text>
+          </navLabel>
+          <content src="text/part0115.html#3DLGM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_131" playOrder="130">
+          <navLabel>
+            <text>The Cry of Tin</text>
+          </navLabel>
+          <content src="text/part0116.html#3EK180-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_132" playOrder="131">
+          <navLabel>
+            <text>锡叫</text>
+          </navLabel>
+          <content src="text/part0117.html#3FIHQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_133" playOrder="132">
+          <navLabel>
+            <text>The Neutron Hypothesis</text>
+          </navLabel>
+          <content src="text/part0118.html#3GH2C0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_134" playOrder="133">
+          <navLabel>
+            <text>中子假说</text>
+          </navLabel>
+          <content src="text/part0119.html#3HFIU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_135" playOrder="134">
+          <navLabel>
+            <text>New Evidence for the Neutron</text>
+          </navLabel>
+          <content src="text/part0120.html#3IE3G0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_136" playOrder="135">
+          <navLabel>
+            <text>关于中子的新证据</text>
+          </navLabel>
+          <content src="text/part0121.html#3JCK20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_137" playOrder="136">
+          <navLabel>
+            <text>Mechanism of Superconductivity</text>
+          </navLabel>
+          <content src="text/part0122.html#3KB4K0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_138" playOrder="137">
+          <navLabel>
+            <text>超导电性机理</text>
+          </navLabel>
+          <content src="text/part0123.html#3L9L60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_139" playOrder="138">
+        <navLabel>
+          <text>1933</text>
+        </navLabel>
+        <content src="text/part0124.html#3M85O0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_140" playOrder="139">
+          <navLabel>
+            <text>Disintegration of Light Elements by Fast Protons</text>
+          </navLabel>
+          <content src="text/part0124.html#3M85O0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_141" playOrder="140">
+          <navLabel>
+            <text>快质子引起的轻元素衰变</text>
+          </navLabel>
+          <content src="text/part0125.html#3N6MA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_142" playOrder="141">
+          <navLabel>
+            <text>Energy of Cosmic Rays</text>
+          </navLabel>
+          <content src="text/part0126.html#3O56S0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_143" playOrder="142">
+          <navLabel>
+            <text>宇宙射线的能量</text>
+          </navLabel>
+          <content src="text/part0127.html#3P3NE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_144" playOrder="143">
+          <navLabel>
+            <text>Helium Liquefaction Plant at the Clarendon Laboratory, Oxford</text>
+          </navLabel>
+          <content src="text/part0128.html#3Q2800-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_145" playOrder="144">
+          <navLabel>
+            <text>牛津大学克拉伦登实验室的氦液化车间</text>
+          </navLabel>
+          <content src="text/part0129.html#3R0OI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_146" playOrder="145">
+          <navLabel>
+            <text>Recent Researches on the Transmutation of the Elements</text>
+          </navLabel>
+          <content src="text/part0130.html#3RV940-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_147" playOrder="146">
+          <navLabel>
+            <text>关于元素嬗变的最新研究</text>
+          </navLabel>
+          <content src="text/part0131.html#3STPM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_148" playOrder="147">
+          <navLabel>
+            <text>Light and Life</text>
+          </navLabel>
+          <content src="text/part0132.html#3TSA80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_149" playOrder="148">
+          <navLabel>
+            <text>光与生命</text>
+          </navLabel>
+          <content src="text/part0133.html#3UQQQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_150" playOrder="149">
+          <navLabel>
+            <text>Nuclear Energy Levels</text>
+          </navLabel>
+          <content src="text/part0134.html#3VPBC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_151" playOrder="150">
+          <navLabel>
+            <text>核能级</text>
+          </navLabel>
+          <content src="text/part0135.html#40NRU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_152" playOrder="151">
+          <navLabel>
+            <text>New Evidence for the Positive Electron</text>
+          </navLabel>
+          <content src="text/part0136.html#41MCG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_153" playOrder="152">
+          <navLabel>
+            <text>有关正电子的新证据</text>
+          </navLabel>
+          <content src="text/part0137.html#42KT20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_154" playOrder="153">
+          <navLabel>
+            <text>Nature of Cosmic Rays</text>
+          </navLabel>
+          <content src="text/part0138.html#43JDK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_155" playOrder="154">
+          <navLabel>
+            <text>宇宙射线的性质</text>
+          </navLabel>
+          <content src="text/part0139.html#44HU60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_156" playOrder="155">
+          <navLabel>
+            <text>A Possible Property of the Positive Electron</text>
+          </navLabel>
+          <content src="text/part0140.html#45GEO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_157" playOrder="156">
+          <navLabel>
+            <text>正电子可能具有的性质</text>
+          </navLabel>
+          <content src="text/part0141.html#46EVA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_158" playOrder="157">
+          <navLabel>
+            <text>Positrons and Atomic Nuclei</text>
+          </navLabel>
+          <content src="text/part0142.html#47DFS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_159" playOrder="158">
+          <navLabel>
+            <text>正电子和原子核</text>
+          </navLabel>
+          <content src="text/part0143.html#48C0E0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_160" playOrder="159">
+          <navLabel>
+            <text>Magnetic Moment of the Proton</text>
+          </navLabel>
+          <content src="text/part0144.html#49AH00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_161" playOrder="160">
+          <navLabel>
+            <text>质子的磁矩</text>
+          </navLabel>
+          <content src="text/part0145.html#4A91I0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_162" playOrder="161">
+          <navLabel>
+            <text>Interaction between Cosmic Rays and Matter</text>
+          </navLabel>
+          <content src="text/part0146.html#4B7I40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_163" playOrder="162">
+          <navLabel>
+            <text>宇宙射线与物质之间的相互作用</text>
+          </navLabel>
+          <content src="text/part0147.html#4C62M0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_164" playOrder="163">
+          <navLabel>
+            <text>Disintegration of Light Atomic Nuclei by the Capture of Fast Neutrons</text>
+          </navLabel>
+          <content src="text/part0148.html#4D4J80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_165" playOrder="164">
+          <navLabel>
+            <text>轻核俘获快中子产生的核衰变</text>
+          </navLabel>
+          <content src="text/part0149.html#4E33Q0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_166" playOrder="165">
+          <navLabel>
+            <text>Extremely Low Temperatures</text>
+          </navLabel>
+          <content src="text/part0150.html#4F1KC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_167" playOrder="166">
+          <navLabel>
+            <text>极低温</text>
+          </navLabel>
+          <content src="text/part0151.html#4G04U0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_168" playOrder="167">
+          <navLabel>
+            <text>Recent Developments in Television</text>
+          </navLabel>
+          <content src="text/part0152.html#4GULG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_169" playOrder="168">
+          <navLabel>
+            <text>电视技术的最新进展</text>
+          </navLabel>
+          <content src="text/part0153.html#4HT620-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_170" playOrder="169">
+          <navLabel>
+            <text>Production of High Magnetic Fields at Low Temperatures</text>
+          </navLabel>
+          <content src="text/part0154.html#4IRMK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_171" playOrder="170">
+          <navLabel>
+            <text>低温下强磁场的产生</text>
+          </navLabel>
+          <content src="text/part0155.html#4JQ760-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_172" playOrder="171">
+          <navLabel>
+            <text>New Results in Cosmic Ray Measurements</text>
+          </navLabel>
+          <content src="text/part0156.html#4KONO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_173" playOrder="172">
+          <navLabel>
+            <text>宇宙射线测量中的新结果</text>
+          </navLabel>
+          <content src="text/part0157.html#4LN8A0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_174" playOrder="173">
+          <navLabel>
+            <text>Interaction of Hard γ-rays with Atomic Nuclei</text>
+          </navLabel>
+          <content src="text/part0158.html#4MLOS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_175" playOrder="174">
+          <navLabel>
+            <text>硬γ射线和原子核的反应</text>
+          </navLabel>
+          <content src="text/part0159.html#4NK9E0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_176" playOrder="175">
+          <navLabel>
+            <text>A Suggested Explanation of β-ray Activity</text>
+          </navLabel>
+          <content src="text/part0160.html#4OIQ00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_177" playOrder="176">
+          <navLabel>
+            <text>β射线放射性的一种可能的解释</text>
+          </navLabel>
+          <content src="text/part0161.html#4PHAI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_178" playOrder="177">
+          <navLabel>
+            <text>Latitude Effect of Cosmic Radiation</text>
+          </navLabel>
+          <content src="text/part0162.html#4QFR40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_179" playOrder="178">
+          <navLabel>
+            <text>宇宙射线的纬度效应</text>
+          </navLabel>
+          <content src="text/part0163.html#4REBM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_180" playOrder="179">
+          <navLabel>
+            <text>The Positive Electron</text>
+          </navLabel>
+          <content src="text/part0164.html#4SCS80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_181" playOrder="180">
+          <navLabel>
+            <text>正电子</text>
+          </navLabel>
+          <content src="text/part0165.html#4TBCQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_182" playOrder="181">
+        <navLabel>
+          <text>1934</text>
+        </navLabel>
+        <content src="text/part0166.html#4U9TC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_183" playOrder="182">
+          <navLabel>
+            <text>The Ether-drift Experiment and the Determination of the Absolute Motion of the Earth</text>
+          </navLabel>
+          <content src="text/part0166.html#4U9TC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_184" playOrder="183">
+          <navLabel>
+            <text>以太漂移实验和地球绝对运动的确定</text>
+          </navLabel>
+          <content src="text/part0167.html#4V8DU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_185" playOrder="184">
+          <navLabel>
+            <text>Artificial Production of a New Kind of Radio-element</text>
+          </navLabel>
+          <content src="text/part0168.html#506UG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_186" playOrder="185">
+          <navLabel>
+            <text>一种新放射性元素的人工制造</text>
+          </navLabel>
+          <content src="text/part0169.html#515F20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_187" playOrder="186">
+          <navLabel>
+            <text>A Velocity-modulation Television System</text>
+          </navLabel>
+          <content src="text/part0170.html#523VK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_188" playOrder="187">
+          <navLabel>
+            <text>一个基于速度调制的电视系统</text>
+          </navLabel>
+          <content src="text/part0171.html#532G60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_189" playOrder="188">
+          <navLabel>
+            <text>The Positron</text>
+          </navLabel>
+          <content src="text/part0172.html#5410O0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_190" playOrder="189">
+          <navLabel>
+            <text>正电子</text>
+          </navLabel>
+          <content src="text/part0173.html#54VHA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_191" playOrder="190">
+          <navLabel>
+            <text>Production of Induced Radioactivity by High Velocity Protons</text>
+          </navLabel>
+          <content src="text/part0174.html#55U1S0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_192" playOrder="191">
+          <navLabel>
+            <text>由高速质子产生的感生放射性</text>
+          </navLabel>
+          <content src="text/part0175.html#56SIE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_193" playOrder="192">
+          <navLabel>
+            <text>Designation of the Positive Electron</text>
+          </navLabel>
+          <content src="text/part0176.html#57R300-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_194" playOrder="193">
+          <navLabel>
+            <text>正电子的命名</text>
+          </navLabel>
+          <content src="text/part0177.html#58PJI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_195" playOrder="194">
+          <navLabel>
+            <text>Transmutation Effects Observed with Heavy Hydrogen</text>
+          </navLabel>
+          <content src="text/part0178.html#59O440-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_196" playOrder="195">
+          <navLabel>
+            <text>通过重氢观察到的嬗变效应</text>
+          </navLabel>
+          <content src="text/part0179.html#5AMKM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_197" playOrder="196">
+          <navLabel>
+            <text>Supraconductivity of Films of Tin</text>
+          </navLabel>
+          <content src="text/part0180.html#5BL580-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_198" playOrder="197">
+          <navLabel>
+            <text>锡膜的超导电性</text>
+          </navLabel>
+          <content src="text/part0181.html#5CJLQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_199" playOrder="198">
+          <navLabel>
+            <text>Persistent Currents in Supraconductors</text>
+          </navLabel>
+          <content src="text/part0182.html#5DI6C0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_200" playOrder="199">
+          <navLabel>
+            <text>超导体中的持续电流</text>
+          </navLabel>
+          <content src="text/part0183.html#5EGMU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_201" playOrder="200">
+          <navLabel>
+            <text>The Velocity of Light</text>
+          </navLabel>
+          <content src="text/part0184.html#5FF7G0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_202" playOrder="201">
+          <navLabel>
+            <text>光的速度</text>
+          </navLabel>
+          <content src="text/part0185.html#5GDO20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_203" playOrder="202">
+          <navLabel>
+            <text>Attempt to Detect a Neutral Particle of Small Mass</text>
+          </navLabel>
+          <content src="text/part0186.html#5HC8K0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_204" playOrder="203">
+          <navLabel>
+            <text>探测小质量中性粒子的尝试</text>
+          </navLabel>
+          <content src="text/part0187.html#5IAP60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_205" playOrder="204">
+          <navLabel>
+            <text>Developments of Television</text>
+          </navLabel>
+          <content src="text/part0188.html#5J99O0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_206" playOrder="205">
+          <navLabel>
+            <text>电视的发展</text>
+          </navLabel>
+          <content src="text/part0189.html#5K7QA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_207" playOrder="206">
+          <navLabel>
+            <text>The “Neutrino”</text>
+          </navLabel>
+          <content src="text/part0190.html#5L6AS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_208" playOrder="207">
+          <navLabel>
+            <text>“中微子”</text>
+          </navLabel>
+          <content src="text/part0191.html#5M4RE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_209" playOrder="208">
+          <navLabel>
+            <text>Disintegration of the Diplon</text>
+          </navLabel>
+          <content src="text/part0192.html#5N3C00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_210" playOrder="209">
+          <navLabel>
+            <text>氘核的蜕变</text>
+          </navLabel>
+          <content src="text/part0193.html#5O1SI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_211" playOrder="210">
+          <navLabel>
+            <text>Commercial Production of Heavy Water</text>
+          </navLabel>
+          <content src="text/part0194.html#5P0D40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_212" playOrder="211">
+          <navLabel>
+            <text>重水的商业化生产</text>
+          </navLabel>
+          <content src="text/part0195.html#5PUTM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_213" playOrder="212">
+          <navLabel>
+            <text>The Neutrino</text>
+          </navLabel>
+          <content src="text/part0196.html#5QTE80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_214" playOrder="213">
+          <navLabel>
+            <text>中微子</text>
+          </navLabel>
+          <content src="text/part0197.html#5RRUQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_215" playOrder="214">
+          <navLabel>
+            <text>Liquefaction of Helium by an Adiabatic Method without Pre-cooling with Liquid Hydrogen</text>
+          </navLabel>
+          <content src="text/part0198.html#5SQFC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_216" playOrder="215">
+          <navLabel>
+            <text>无液氢预冷的绝热法氦液化</text>
+          </navLabel>
+          <content src="text/part0199.html#5TOVU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_217" playOrder="216">
+          <navLabel>
+            <text>Mass of the Neutron</text>
+          </navLabel>
+          <content src="text/part0200.html#5UNGG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_218" playOrder="217">
+          <navLabel>
+            <text>中子的质量</text>
+          </navLabel>
+          <content src="text/part0201.html#5VM120-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_219" playOrder="218">
+          <navLabel>
+            <text>The Explanation of Supraconductivity</text>
+          </navLabel>
+          <content src="text/part0202.html#60KHK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_220" playOrder="219">
+          <navLabel>
+            <text>超导电性的解释</text>
+          </navLabel>
+          <content src="text/part0203.html#61J260-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_221" playOrder="220">
+          <navLabel>
+            <text>Modern Ideas on Nuclear Constitution</text>
+          </navLabel>
+          <content src="text/part0204.html#62HIO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_222" playOrder="221">
+          <navLabel>
+            <text>核组成的现代思想</text>
+          </navLabel>
+          <content src="text/part0205.html#63G3A0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_223" playOrder="222">
+          <navLabel>
+            <text>Radioactivity Induced by Neutron Bombardment</text>
+          </navLabel>
+          <content src="text/part0206.html#64EJS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_224" playOrder="223">
+          <navLabel>
+            <text>由中子轰击引发的放射性</text>
+          </navLabel>
+          <content src="text/part0207.html#65D4E0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_225" playOrder="224">
+          <navLabel>
+            <text>Production of Large Quantities of Heavy Water</text>
+          </navLabel>
+          <content src="text/part0208.html#66BL00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_226" playOrder="225">
+          <navLabel>
+            <text>重水的大量生产</text>
+          </navLabel>
+          <content src="text/part0209.html#67A5I0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_227" playOrder="226">
+          <navLabel>
+            <text>Possible Production of Elements of Atomic Number Higher than 92</text>
+          </navLabel>
+          <content src="text/part0210.html#688M40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_228" playOrder="227">
+          <navLabel>
+            <text>原子序数大于92的元素的可能生成</text>
+          </navLabel>
+          <content src="text/part0211.html#6976M0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_229" playOrder="228">
+          <navLabel>
+            <text>The Factor 137/136 in Quantum Theory</text>
+          </navLabel>
+          <content src="text/part0212.html#6A5N80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_230" playOrder="229">
+          <navLabel>
+            <text>量子理论中的137/136因子</text>
+          </navLabel>
+          <content src="text/part0213.html#6B47Q0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_231" playOrder="230">
+          <navLabel>
+            <text>Exchange Forces between Neutrons and Protons, and Fermi’s Theory</text>
+          </navLabel>
+          <content src="text/part0214.html#6C2OC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_232" playOrder="231">
+          <navLabel>
+            <text>质子中子之间的交换力与费米理论</text>
+          </navLabel>
+          <content src="text/part0215.html#6D18U0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_233" playOrder="232">
+          <navLabel>
+            <text>Interaction of Neutrons and Protons</text>
+          </navLabel>
+          <content src="text/part0216.html#6DVPG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_234" playOrder="233">
+          <navLabel>
+            <text>中子和质子的相互作用</text>
+          </navLabel>
+          <content src="text/part0217.html#6EUA20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_235" playOrder="234">
+          <navLabel>
+            <text>A “Nuclear Photo-effect”: Disintegration of the Diplon by γ-rays</text>
+          </navLabel>
+          <content src="text/part0218.html#6FSQK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_236" playOrder="235">
+          <navLabel>
+            <text>一种“核的光效应”：γ射线引发的氘核蜕变</text>
+          </navLabel>
+          <content src="text/part0219.html#6GRB60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_237" playOrder="236">
+        <navLabel>
+          <text>1935</text>
+        </navLabel>
+        <content src="text/part0220.html#6HPRO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_238" playOrder="237">
+          <navLabel>
+            <text>Quantum Mechanics and Physical Reality</text>
+          </navLabel>
+          <content src="text/part0220.html#6HPRO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_239" playOrder="238">
+          <navLabel>
+            <text>量子力学和物理实在</text>
+          </navLabel>
+          <content src="text/part0221.html#6IOCA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_240" playOrder="239">
+          <navLabel>
+            <text>Isotopic Constitution of Uranium</text>
+          </navLabel>
+          <content src="text/part0222.html#6JMSS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_241" playOrder="240">
+          <navLabel>
+            <text>铀的同位素构成</text>
+          </navLabel>
+          <content src="text/part0223.html#6KLDE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_242" playOrder="241">
+          <navLabel>
+            <text>The Fundamental Paradox of the Quantum Theory</text>
+          </navLabel>
+          <content src="text/part0224.html#6LJU00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_243" playOrder="242">
+          <navLabel>
+            <text>量子理论的基本佯谬</text>
+          </navLabel>
+          <content src="text/part0225.html#6MIEI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_244" playOrder="243">
+          <navLabel>
+            <text>Uncertainty Principle and the Zero-point Energy of the Harmonic Oscillator</text>
+          </navLabel>
+          <content src="text/part0226.html#6NGV40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_245" playOrder="244">
+          <navLabel>
+            <text>测不准原理和谐振子的零点能</text>
+          </navLabel>
+          <content src="text/part0227.html#6OFFM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_246" playOrder="245">
+          <navLabel>
+            <text>The Slowing Down of Neutrons by Collisions with Protons</text>
+          </navLabel>
+          <content src="text/part0228.html#6PE080-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_247" playOrder="246">
+          <navLabel>
+            <text>与质子碰撞而导致的中子慢化</text>
+          </navLabel>
+          <content src="text/part0229.html#6QCGQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_248" playOrder="247">
+        <navLabel>
+          <text>1938</text>
+        </navLabel>
+        <content src="text/part0230.html#6RB1C0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_249" playOrder="248">
+          <navLabel>
+            <text>Viscosity of Liquid Helium below the λ-point</text>
+          </navLabel>
+          <content src="text/part0230.html#6RB1C0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_250" playOrder="249">
+          <navLabel>
+            <text>液态氦在λ点以下的黏度</text>
+          </navLabel>
+          <content src="text/part0231.html#6S9HU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_251" playOrder="250">
+          <navLabel>
+            <text>Flow of Liquid Helium II</text>
+          </navLabel>
+          <content src="text/part0232.html#6T82G0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_252" playOrder="251">
+          <navLabel>
+            <text>液氦II的流动</text>
+          </navLabel>
+          <content src="text/part0233.html#6U6J20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_253" playOrder="252">
+          <navLabel>
+            <text>The λ-phenomenon of Liquid Helium and the Bose–Einstein Degeneracy</text>
+          </navLabel>
+          <content src="text/part0234.html#6V53K0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_254" playOrder="253">
+          <navLabel>
+            <text>液氦的λ现象和玻色-爱因斯坦简并</text>
+          </navLabel>
+          <content src="text/part0235.html#703K60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_255" playOrder="254">
+          <navLabel>
+            <text>Mesotron (Intermediate Particle) as a Name for the New Particles of Intermediate Mass</text>
+          </navLabel>
+          <content src="text/part0236.html#7124O0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_256" playOrder="255">
+          <navLabel>
+            <text>将介子（中间粒子）定为一种中间质量新粒子的名字</text>
+          </navLabel>
+          <content src="text/part0237.html#720LA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_257" playOrder="256">
+        <navLabel>
+          <text>1939</text>
+        </navLabel>
+        <content src="text/part0238.html#72V5S0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_258" playOrder="257">
+          <navLabel>
+            <text>New Broadcasting System</text>
+          </navLabel>
+          <content src="text/part0238.html#72V5S0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_259" playOrder="258">
+          <navLabel>
+            <text>新的广播系统</text>
+          </navLabel>
+          <content src="text/part0239.html#73TME0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_260" playOrder="259">
+          <navLabel>
+            <text>Interpretation of Beta-disintegration Data</text>
+          </navLabel>
+          <content src="text/part0240.html#74S700-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_261" playOrder="260">
+          <navLabel>
+            <text>对β衰变数据的解释</text>
+          </navLabel>
+          <content src="text/part0241.html#75QNI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_262" playOrder="261">
+          <navLabel>
+            <text>Liquid Helium</text>
+          </navLabel>
+          <content src="text/part0242.html#76P840-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_263" playOrder="262">
+          <navLabel>
+            <text>液氦</text>
+          </navLabel>
+          <content src="text/part0243.html#77NOM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_264" playOrder="263">
+          <navLabel>
+            <text>Disintegration of Uranium by Neutrons: a New Type of Nuclear Reaction</text>
+          </navLabel>
+          <content src="text/part0244.html#78M980-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_265" playOrder="264">
+          <navLabel>
+            <text>由中子引起的铀衰变：一类新型核反应</text>
+          </navLabel>
+          <content src="text/part0245.html#79KPQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_266" playOrder="265">
+          <navLabel>
+            <text>Theory of Mesons and Nuclear Forces</text>
+          </navLabel>
+          <content src="text/part0246.html#7AJAC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_267" playOrder="266">
+          <navLabel>
+            <text>介子和核力理论</text>
+          </navLabel>
+          <content src="text/part0247.html#7BHQU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_268" playOrder="267">
+          <navLabel>
+            <text>Surface Transport in Liquid Helium II</text>
+          </navLabel>
+          <content src="text/part0248.html#7CGBG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_269" playOrder="268">
+          <navLabel>
+            <text>液氦II中的表面传输</text>
+          </navLabel>
+          <content src="text/part0249.html#7DES20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_270" playOrder="269">
+      <navLabel>
+        <text>《自然》百年物理经典II</text>
+      </navLabel>
+      <content src="text/part0250.html#7EDCK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+      <navPoint class="chapter" id="num_271" playOrder="270">
+        <navLabel>
+          <text>扉页</text>
+        </navLabel>
+        <content src="text/part0251.html#7FBT60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_272" playOrder="271">
+        <navLabel>
+          <text>版权页</text>
+        </navLabel>
+        <content src="text/part0252.html#7GADO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_273" playOrder="272">
+        <navLabel>
+          <text>目录</text>
+        </navLabel>
+        <content src="text/part0253.html#7H8UA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_274" playOrder="273">
+        <navLabel>
+          <text>1939</text>
+        </navLabel>
+        <content src="text/part0257.html#7L30I0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_275" playOrder="274">
+          <navLabel>
+            <text>Physical Evidence for the Division of Heavy Nuclei under Neutron Bombardment</text>
+          </navLabel>
+          <content src="text/part0257.html#7L30I0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_276" playOrder="275">
+          <navLabel>
+            <text>中子轰击导致重核分裂的物理证据</text>
+          </navLabel>
+          <content src="text/part0258.html#7M1H40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_277" playOrder="276">
+          <navLabel>
+            <text>The Fundamental Length Introduced by the Theory of the Mesotron (Meson)</text>
+          </navLabel>
+          <content src="text/part0259.html#7N01M0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_278" playOrder="277">
+          <navLabel>
+            <text>介子理论中的基本长度</text>
+          </navLabel>
+          <content src="text/part0260.html#7NUI80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_279" playOrder="278">
+          <navLabel>
+            <text>Energy Obtained by Transmutation</text>
+          </navLabel>
+          <content src="text/part0261.html#7OT2Q0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_280" playOrder="279">
+          <navLabel>
+            <text>嬗变产生的能量</text>
+          </navLabel>
+          <content src="text/part0262.html#7PRJC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_281" playOrder="280">
+          <navLabel>
+            <text>Cause, Purpose and Economy of Natural Laws: Minimum Principles in Physics</text>
+          </navLabel>
+          <content src="text/part0263.html#7QQ3U0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_282" playOrder="281">
+          <navLabel>
+            <text>自然规律的起源、宗旨和经济性：物理学的极小原理</text>
+          </navLabel>
+          <content src="text/part0264.html#7ROKG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_283" playOrder="282">
+          <navLabel>
+            <text>The “Failure” of Quantum Theory at Short Ranges and High Energies</text>
+          </navLabel>
+          <content src="text/part0265.html#7SN520-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_284" playOrder="283">
+          <navLabel>
+            <text>短程和高能中量子理论的“失败”</text>
+          </navLabel>
+          <content src="text/part0266.html#7TLLK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_285" playOrder="284">
+          <navLabel>
+            <text>Liberation of Neutrons in the Nuclear Explosion of Uranium</text>
+          </navLabel>
+          <content src="text/part0267.html#7UK660-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_286" playOrder="285">
+          <navLabel>
+            <text>铀核爆炸时中子的释放</text>
+          </navLabel>
+          <content src="text/part0268.html#7VIMO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_287" playOrder="286">
+          <navLabel>
+            <text>Products of the Fission of the Uranium Nucleus</text>
+          </navLabel>
+          <content src="text/part0269.html#80H7A0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_288" playOrder="287">
+          <navLabel>
+            <text>铀核的裂变产物</text>
+          </navLabel>
+          <content src="text/part0270.html#81FNS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_289" playOrder="288">
+          <navLabel>
+            <text>New Products of the Fission of the Thorium Nucleus</text>
+          </navLabel>
+          <content src="text/part0271.html#82E8E0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_290" playOrder="289">
+          <navLabel>
+            <text>钍核裂变的新产物</text>
+          </navLabel>
+          <content src="text/part0272.html#83CP00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_291" playOrder="290">
+          <navLabel>
+            <text>Number of Neutrons Liberated in the Nuclear Fission of Uranium</text>
+          </navLabel>
+          <content src="text/part0273.html#84B9I0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_292" playOrder="291">
+          <navLabel>
+            <text>铀核裂变时释放的中子数量</text>
+          </navLabel>
+          <content src="text/part0274.html#859Q40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_293" playOrder="292">
+          <navLabel>
+            <text>Control of the Chain Reaction Involved in Fission of the Uranium Nucleus</text>
+          </navLabel>
+          <content src="text/part0275.html#868AM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_294" playOrder="293">
+          <navLabel>
+            <text>铀核裂变中链式反应的控制</text>
+          </navLabel>
+          <content src="text/part0276.html#876R80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_295" playOrder="294">
+          <navLabel>
+            <text>Emission of Neutrons Accompanying the Fission of Uranium Nuclei</text>
+          </navLabel>
+          <content src="text/part0277.html#885BQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_296" playOrder="295">
+          <navLabel>
+            <text>伴随铀核裂变的中子发射</text>
+          </navLabel>
+          <content src="text/part0278.html#893SC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_297" playOrder="296">
+          <navLabel>
+            <text>Fission of Heavy Nuclei: a New Type of Nuclear Disintegration</text>
+          </navLabel>
+          <content src="text/part0279.html#8A2CU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_298" playOrder="297">
+          <navLabel>
+            <text>重核裂变：一种新型的核蜕变</text>
+          </navLabel>
+          <content src="text/part0280.html#8B0TG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_299" playOrder="298">
+          <navLabel>
+            <text>Energy of Neutrons Liberated in the Nuclear Fission of Uranium Induced by Thermal Neutrons</text>
+          </navLabel>
+          <content src="text/part0281.html#8BVE20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_300" playOrder="299">
+          <navLabel>
+            <text>在热中子诱发的铀核裂变中释放出的中子的能量</text>
+          </navLabel>
+          <content src="text/part0282.html#8CTUK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_301" playOrder="300">
+          <navLabel>
+            <text>Nuclear Reactions in the Continuous Energy Region</text>
+          </navLabel>
+          <content src="text/part0283.html#8DSF60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_302" playOrder="301">
+          <navLabel>
+            <text>连续能量区域的核反应</text>
+          </navLabel>
+          <content src="text/part0284.html#8EQVO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_303" playOrder="302">
+          <navLabel>
+            <text>The Scattering by Uranium Nuclei of Fast Neutrons and the Possible Neutron Emission Resulting from Fission</text>
+          </navLabel>
+          <content src="text/part0285.html#8FPGA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_304" playOrder="303">
+          <navLabel>
+            <text>铀核的快中子散射与可能源于裂变的中子发射</text>
+          </navLabel>
+          <content src="text/part0286.html#8GO0S0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_305" playOrder="304">
+          <navLabel>
+            <text>Recent Experimental Results in Nuclear Isomerism</text>
+          </navLabel>
+          <content src="text/part0287.html#8HMHE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_306" playOrder="305">
+          <navLabel>
+            <text>核同质异能性的最新实验结果</text>
+          </navLabel>
+          <content src="text/part0288.html#8IL200-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_307" playOrder="306">
+          <navLabel>
+            <text>Cosmic Ray Ionization Bursts</text>
+          </navLabel>
+          <content src="text/part0289.html#8JJII0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_308" playOrder="307">
+          <navLabel>
+            <text>宇宙射线的“电离暴”</text>
+          </navLabel>
+          <content src="text/part0290.html#8KI340-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_309" playOrder="308">
+          <navLabel>
+            <text>Measurements of the Velocity of Light</text>
+          </navLabel>
+          <content src="text/part0291.html#8LGJM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_310" playOrder="309">
+          <navLabel>
+            <text>光速的测定</text>
+          </navLabel>
+          <content src="text/part0292.html#8MF480-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_311" playOrder="310">
+          <navLabel>
+            <text>The Evolution of the Stars</text>
+          </navLabel>
+          <content src="text/part0293.html#8NDKQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_312" playOrder="311">
+          <navLabel>
+            <text>恒星的演化</text>
+          </navLabel>
+          <content src="text/part0294.html#8OC5C0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_313" playOrder="312">
+          <navLabel>
+            <text>Radioactive Gases Evolved in Uranium Fission</text>
+          </navLabel>
+          <content src="text/part0295.html#8PALU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_314" playOrder="313">
+          <navLabel>
+            <text>铀核裂变时放出的放射性气体</text>
+          </navLabel>
+          <content src="text/part0296.html#8Q96G0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_315" playOrder="314">
+        <navLabel>
+          <text>1940</text>
+        </navLabel>
+        <content src="text/part0297.html#8R7N20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_316" playOrder="315">
+          <navLabel>
+            <text>Scattering of Mesons and the Magnetic Moments of Proton and Neutron</text>
+          </navLabel>
+          <content src="text/part0297.html#8R7N20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_317" playOrder="316">
+          <navLabel>
+            <text>介子散射与质子和中子的磁矩</text>
+          </navLabel>
+          <content src="text/part0298.html#8S67K0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_318" playOrder="317">
+          <navLabel>
+            <text>Evidence for Transformation of Mesotrons into Electrons</text>
+          </navLabel>
+          <content src="text/part0299.html#8T4O60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_319" playOrder="318">
+          <navLabel>
+            <text>介子向电子转化的证明</text>
+          </navLabel>
+          <content src="text/part0300.html#8U38O0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_320" playOrder="319">
+          <navLabel>
+            <text>Capture Cross-sections for Thermal Neutrons in Thorium, Lead and Uranium 238</text>
+          </navLabel>
+          <content src="text/part0301.html#8V1PA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_321" playOrder="320">
+          <navLabel>
+            <text>钍、铅和铀-238中热中子的俘获截面</text>
+          </navLabel>
+          <content src="text/part0302.html#9009S0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_322" playOrder="321">
+          <navLabel>
+            <text>The Mass Centre in Relativity</text>
+          </navLabel>
+          <content src="text/part0303.html#90UQE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_323" playOrder="322">
+          <navLabel>
+            <text>相对论中的质心</text>
+          </navLabel>
+          <content src="text/part0304.html#91TB00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_324" playOrder="323">
+          <navLabel>
+            <text>The Theory of Nuclear Forces</text>
+          </navLabel>
+          <content src="text/part0305.html#92RRI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_325" playOrder="324">
+          <navLabel>
+            <text>核力的理论</text>
+          </navLabel>
+          <content src="text/part0306.html#93QC40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_326" playOrder="325">
+          <navLabel>
+            <text>Excited States of Stable Nuclei</text>
+          </navLabel>
+          <content src="text/part0307.html#94OSM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_327" playOrder="326">
+          <navLabel>
+            <text>稳定核的激发态</text>
+          </navLabel>
+          <content src="text/part0308.html#95ND80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_328" playOrder="327">
+          <navLabel>
+            <text>Considerations Concerning the Fundaments of Theoretical Physics</text>
+          </navLabel>
+          <content src="text/part0309.html#96LTQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_329" playOrder="328">
+          <navLabel>
+            <text>关于理论物理基础的思考</text>
+          </navLabel>
+          <content src="text/part0310.html#97KEC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_330" playOrder="329">
+        <navLabel>
+          <text>1945</text>
+        </navLabel>
+        <content src="text/part0311.html#98IUU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_331" playOrder="330">
+          <navLabel>
+            <text>Causality or Indeterminism?</text>
+          </navLabel>
+          <content src="text/part0311.html#98IUU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_332" playOrder="331">
+          <navLabel>
+            <text>因果律还是非决定论？</text>
+          </navLabel>
+          <content src="text/part0312.html#99HFG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_333" playOrder="332">
+        <navLabel>
+          <text>1947</text>
+        </navLabel>
+        <content src="text/part0313.html#9AG020-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_334" playOrder="333">
+          <navLabel>
+            <text>Processes Involving Charged Mesons</text>
+          </navLabel>
+          <content src="text/part0313.html#9AG020-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_335" playOrder="334">
+          <navLabel>
+            <text>涉及带电介子的过程</text>
+          </navLabel>
+          <content src="text/part0314.html#9BEGK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_336" playOrder="335">
+          <navLabel>
+            <text>A Floating Magnet</text>
+          </navLabel>
+          <content src="text/part0315.html#9CD160-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_337" playOrder="336">
+          <navLabel>
+            <text>悬浮的磁体</text>
+          </navLabel>
+          <content src="text/part0316.html#9DBHO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_338" playOrder="337">
+          <navLabel>
+            <text>Observations on the Tracks of Slow Mesons in Photographic Emulsions</text>
+          </navLabel>
+          <content src="text/part0317.html#9EA2A0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_339" playOrder="338">
+          <navLabel>
+            <text>感光乳胶中慢介子径迹的观测</text>
+          </navLabel>
+          <content src="text/part0318.html#9F8IS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_340" playOrder="339">
+          <navLabel>
+            <text>Evidence for the Existence of New Unstable Elementary Particles</text>
+          </navLabel>
+          <content src="text/part0319.html#9G73E0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_341" playOrder="340">
+          <navLabel>
+            <text>新的不稳定基本粒子存在的证据</text>
+          </navLabel>
+          <content src="text/part0320.html#9H5K00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_342" playOrder="341">
+        <navLabel>
+          <text>1948</text>
+        </navLabel>
+        <content src="text/part0321.html#9I44I0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_343" playOrder="342">
+          <navLabel>
+            <text>A New Microscopic Principle</text>
+          </navLabel>
+          <content src="text/part0321.html#9I44I0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_344" playOrder="343">
+          <navLabel>
+            <text>一种新的显微原理</text>
+          </navLabel>
+          <content src="text/part0322.html#9J2L40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_345" playOrder="344">
+        <navLabel>
+          <text>1949</text>
+        </navLabel>
+        <content src="text/part0323.html#9K15M0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_346" playOrder="345">
+          <navLabel>
+            <text>Observations with Electron-sensitive Plates Exposed to Cosmic Radiation</text>
+          </navLabel>
+          <content src="text/part0323.html#9K15M0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_347" playOrder="346">
+          <navLabel>
+            <text>在宇宙辐射下曝光的电子敏感底片的观测</text>
+          </navLabel>
+          <content src="text/part0324.html#9KVM80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_348" playOrder="347">
+        <navLabel>
+          <text>1956</text>
+        </navLabel>
+        <content src="text/part0325.html#9LU6Q0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_349" playOrder="348">
+          <navLabel>
+            <text>Correlation between Photons in Two Coherent Beams of Light</text>
+          </navLabel>
+          <content src="text/part0325.html#9LU6Q0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_350" playOrder="349">
+          <navLabel>
+            <text>两个相干光束中光子间的相关性</text>
+          </navLabel>
+          <content src="text/part0326.html#9MSNC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_351" playOrder="350">
+          <navLabel>
+            <text>The Neutrino</text>
+          </navLabel>
+          <content src="text/part0327.html#9NR7U0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_352" playOrder="351">
+          <navLabel>
+            <text>中微子</text>
+          </navLabel>
+          <content src="text/part0328.html#9OPOG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_353" playOrder="352">
+        <navLabel>
+          <text>1958</text>
+        </navLabel>
+        <content src="text/part0329.html#9PO920-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_354" playOrder="353">
+          <navLabel>
+            <text>Production of High Temperatures and Nuclear Reactions in a Gas Discharge</text>
+          </navLabel>
+          <content src="text/part0329.html#9PO920-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_355" playOrder="354">
+          <navLabel>
+            <text>气体放电中产生的高温和核反应</text>
+          </navLabel>
+          <content src="text/part0330.html#9QMPK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_356" playOrder="355">
+          <navLabel>
+            <text>Co-operative Phenomena in Hot Plasmas</text>
+          </navLabel>
+          <content src="text/part0331.html#9RLA60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_357" playOrder="356">
+          <navLabel>
+            <text>热等离子体中的协同现象</text>
+          </navLabel>
+          <content src="text/part0332.html#9SJQO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_358" playOrder="357">
+        <navLabel>
+          <text>1960</text>
+        </navLabel>
+        <content src="text/part0333.html#9TIBA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_359" playOrder="358">
+          <navLabel>
+            <text>Stimulated Optical Radiation in Ruby</text>
+          </navLabel>
+          <content src="text/part0333.html#9TIBA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_360" playOrder="359">
+          <navLabel>
+            <text>红宝石中的受激光辐射</text>
+          </navLabel>
+          <content src="text/part0334.html#9UGRS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_361" playOrder="360">
+        <navLabel>
+          <text>1965</text>
+        </navLabel>
+        <content src="text/part0335.html#9VFCE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_362" playOrder="361">
+          <navLabel>
+            <text>Time’s Arrow and Entropy</text>
+          </navLabel>
+          <content src="text/part0335.html#9VFCE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_363" playOrder="362">
+          <navLabel>
+            <text>时间之箭和熵</text>
+          </navLabel>
+          <content src="text/part0336.html#A0DT00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_364" playOrder="363">
+          <navLabel>
+            <text>Opening Electrical Contact: Boiling Metal or High-density Plasma?</text>
+          </navLabel>
+          <content src="text/part0337.html#A1CDI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_365" playOrder="364">
+          <navLabel>
+            <text>断电接触：沸腾的金属还是高密度等离子体？</text>
+          </navLabel>
+          <content src="text/part0338.html#A2AU40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_366" playOrder="365">
+          <navLabel>
+            <text>Structural Basis of Neutron and Proton Magic Numbers in Atomic Nuclei</text>
+          </navLabel>
+          <content src="text/part0339.html#A39EM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_367" playOrder="366">
+          <navLabel>
+            <text>中子和质子在原子核中的幻数的结构基础</text>
+          </navLabel>
+          <content src="text/part0340.html#A47V80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_368" playOrder="367">
+          <navLabel>
+            <text>Character Recognition by Holography</text>
+          </navLabel>
+          <content src="text/part0341.html#A56FQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_369" playOrder="368">
+          <navLabel>
+            <text>利用全息术的字符识别</text>
+          </navLabel>
+          <content src="text/part0342.html#A650C0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_370" playOrder="369">
+          <navLabel>
+            <text>A Dense Packing of Hard Spheres with Five-fold Symmetry</text>
+          </navLabel>
+          <content src="text/part0343.html#A73GU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_371" playOrder="370">
+          <navLabel>
+            <text>具有五重对称性的硬球的密堆积</text>
+          </navLabel>
+          <content src="text/part0344.html#A821G0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_372" playOrder="371">
+          <navLabel>
+            <text>Reconstruction of Phase Objects by Holography</text>
+          </navLabel>
+          <content src="text/part0345.html#A90I20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_373" playOrder="372">
+          <navLabel>
+            <text>用全息术实现的相位物体的重建</text>
+          </navLabel>
+          <content src="text/part0346.html#A9V2K0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_374" playOrder="373">
+        <navLabel>
+          <text>1971</text>
+        </navLabel>
+        <content src="text/part0347.html#AATJ60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_375" playOrder="374">
+          <navLabel>
+            <text>Ball Lightning as an Optical Illusion</text>
+          </navLabel>
+          <content src="text/part0347.html#AATJ60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_376" playOrder="375">
+          <navLabel>
+            <text>球状闪电是一种视错觉</text>
+          </navLabel>
+          <content src="text/part0348.html#ABS3O0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_377" playOrder="376">
+          <navLabel>
+            <text>Synchrotron Radiation as a Source for X-ray Diffraction</text>
+          </navLabel>
+          <content src="text/part0349.html#ACQKA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_378" playOrder="377">
+          <navLabel>
+            <text>作为X射线衍射光源的同步辐射</text>
+          </navLabel>
+          <content src="text/part0350.html#ADP4S0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_379" playOrder="378">
+          <navLabel>
+            <text>Estimation of Nuclear Explosion Energies from Microbarograph Records</text>
+          </navLabel>
+          <content src="text/part0351.html#AENLE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_380" playOrder="379">
+          <navLabel>
+            <text>根据微压计记录估计出的核爆炸能量</text>
+          </navLabel>
+          <content src="text/part0352.html#AFM600-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_381" playOrder="380">
+          <navLabel>
+            <text>Bomb 14C in the Human Population</text>
+          </navLabel>
+          <content src="text/part0353.html#AGKMI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_382" playOrder="381">
+          <navLabel>
+            <text>进入人体的核弹14C</text>
+          </navLabel>
+          <content src="text/part0354.html#AHJ740-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_383" playOrder="382">
+          <navLabel>
+            <text>Statistical Mechanics and Quantum Mechanics</text>
+          </navLabel>
+          <content src="text/part0355.html#AIHNM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_384" playOrder="383">
+          <navLabel>
+            <text>统计力学和量子力学</text>
+          </navLabel>
+          <content src="text/part0356.html#AJG880-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_385" playOrder="384">
+        <navLabel>
+          <text>1972</text>
+        </navLabel>
+        <content src="text/part0357.html#AKEOQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_386" playOrder="385">
+          <navLabel>
+            <text>The Macroscopic Level of Quantum Mechanics</text>
+          </navLabel>
+          <content src="text/part0357.html#AKEOQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_387" playOrder="386">
+          <navLabel>
+            <text>宏观层次的量子力学</text>
+          </navLabel>
+          <content src="text/part0358.html#ALD9C0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_388" playOrder="387">
+          <navLabel>
+            <text>Computer Analyses of Gravitational Radiation Detector Coincidences</text>
+          </navLabel>
+          <content src="text/part0359.html#AMBPU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_389" playOrder="388">
+          <navLabel>
+            <text>引力辐射探测器符合计数的计算机分析</text>
+          </navLabel>
+          <content src="text/part0360.html#ANAAG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_390" playOrder="389">
+        <navLabel>
+          <text>1973</text>
+        </navLabel>
+        <content src="text/part0361.html#AO8R20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_391" playOrder="390">
+          <navLabel>
+            <text>Image Formation by Induced Local Interactions: Examples Employing Nuclear Magnetic Resonance</text>
+          </navLabel>
+          <content src="text/part0361.html#AO8R20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_392" playOrder="391">
+          <navLabel>
+            <text>诱导局域相互作用成像：核磁共振应用实例</text>
+          </navLabel>
+          <content src="text/part0362.html#AP7BK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_393" playOrder="392">
+          <navLabel>
+            <text>Experiments on Polishing of Diamond</text>
+          </navLabel>
+          <content src="text/part0363.html#AQ5S60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_394" playOrder="393">
+          <navLabel>
+            <text>金刚石抛光实验</text>
+          </navLabel>
+          <content src="text/part0364.html#AR4CO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_395" playOrder="394">
+        <navLabel>
+          <text>1974</text>
+        </navLabel>
+        <content src="text/part0365.html#AS2TA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_396" playOrder="395">
+          <navLabel>
+            <text>Black Hole Explosions?</text>
+          </navLabel>
+          <content src="text/part0365.html#AS2TA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_397" playOrder="396">
+          <navLabel>
+            <text>黑洞爆炸？</text>
+          </navLabel>
+          <content src="text/part0366.html#AT1DS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_398" playOrder="397">
+        <navLabel>
+          <text>1989</text>
+        </navLabel>
+        <content src="text/part0367.html#ATVUE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_399" playOrder="398">
+          <navLabel>
+            <text>Observation of Cold Nuclear Fusion in Condensed Matter</text>
+          </navLabel>
+          <content src="text/part0367.html#ATVUE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_400" playOrder="399">
+          <navLabel>
+            <text>凝聚态物质中观察到的冷核聚变</text>
+          </navLabel>
+          <content src="text/part0368.html#AUUF00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_401" playOrder="400">
+          <navLabel>
+            <text>Problems with the γ-ray Spectrum in the Fleischmann et al. Experiments</text>
+          </navLabel>
+          <content src="text/part0369.html#AVSVI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_402" playOrder="401">
+          <navLabel>
+            <text>弗莱施曼等人实验中γ射线谱的问题</text>
+          </navLabel>
+          <content src="text/part0370.html#B0RG40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_403" playOrder="402">
+          <navLabel>
+            <text>Upper Bounds on “Cold Fusion” in Electrolytic Cells</text>
+          </navLabel>
+          <content src="text/part0371.html#B1Q0M0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_404" playOrder="403">
+          <navLabel>
+            <text>电解池中“冷核聚变”的上限</text>
+          </navLabel>
+          <content src="text/part0372.html#B2OH80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_405" playOrder="404">
+        <navLabel>
+          <text>1990</text>
+        </navLabel>
+        <content src="text/part0373.html#B3N1Q0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_406" playOrder="405">
+          <navLabel>
+            <text>Limits on the Emission of Neutrons, γ-rays, Electrons and Protons from Pons/Fleischmann Electrolytic Cells</text>
+          </navLabel>
+          <content src="text/part0373.html#B3N1Q0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_407" playOrder="406">
+          <navLabel>
+            <text>庞斯/弗莱施曼电解池的中子、γ射线、电子和质子发射的上限</text>
+          </navLabel>
+          <content src="text/part0374.html#B4LIC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_408" playOrder="407">
+          <navLabel>
+            <text>Positioning Single Atoms with a Scanning Tunnelling Microscope</text>
+          </navLabel>
+          <content src="text/part0375.html#B5K2U0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_409" playOrder="408">
+          <navLabel>
+            <text>用扫描隧道显微镜定位单个原子</text>
+          </navLabel>
+          <content src="text/part0376.html#B6IJG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_410" playOrder="409">
+          <navLabel>
+            <text>Light-emitting Diodes Based on Conjugated Polymers</text>
+          </navLabel>
+          <content src="text/part0377.html#B7H420-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_411" playOrder="410">
+          <navLabel>
+            <text>基于共轭聚合物的发光二极管</text>
+          </navLabel>
+          <content src="text/part0378.html#B8FKK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_412" playOrder="411">
+        <navLabel>
+          <text>1991</text>
+        </navLabel>
+        <content src="text/part0379.html#B9E560-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_413" playOrder="412">
+          <navLabel>
+            <text>Superconductivity at 18 K in Potassium-doped C60</text>
+          </navLabel>
+          <content src="text/part0379.html#B9E560-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_414" playOrder="413">
+          <navLabel>
+            <text>掺钾的C60在18 K时的超导性</text>
+          </navLabel>
+          <content src="text/part0380.html#BACLO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_415" playOrder="414">
+        <navLabel>
+          <text>1992</text>
+        </navLabel>
+        <content src="text/part0381.html#BBB6A0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_416" playOrder="415">
+          <navLabel>
+            <text>Curling and Closure of Graphitic Networks under Electron-beam Irradiation</text>
+          </navLabel>
+          <content src="text/part0381.html#BBB6A0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_417" playOrder="416">
+          <navLabel>
+            <text>石墨网络在电子束照射下的卷曲与闭合</text>
+          </navLabel>
+          <content src="text/part0382.html#BC9MS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_418" playOrder="417">
+        <navLabel>
+          <text>1993</text>
+        </navLabel>
+        <content src="text/part0383.html#BD87E0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_419" playOrder="418">
+          <navLabel>
+            <text>Superconductivity above 130 K in the Hg-Ba-Ca-Cu-O System</text>
+          </navLabel>
+          <content src="text/part0383.html#BD87E0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_420" playOrder="419">
+          <navLabel>
+            <text>Hg-Ba-Ca-Cu-O体系在130 K以上时的超导性</text>
+          </navLabel>
+          <content src="text/part0384.html#BE6O00-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_421" playOrder="420">
+        <navLabel>
+          <text>1997</text>
+        </navLabel>
+        <content src="text/part0385.html#BF58I0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_422" playOrder="421">
+          <navLabel>
+            <text>Experimental Quantum Teleportation</text>
+          </navLabel>
+          <content src="text/part0385.html#BF58I0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_423" playOrder="422">
+          <navLabel>
+            <text>量子隐形传态实验</text>
+          </navLabel>
+          <content src="text/part0386.html#BG3P40-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_424" playOrder="423">
+          <navLabel>
+            <text>Localization of Light in a Disordered Medium</text>
+          </navLabel>
+          <content src="text/part0387.html#BH29M0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_425" playOrder="424">
+          <navLabel>
+            <text>无序介质中光的局域化</text>
+          </navLabel>
+          <content src="text/part0388.html#BI0Q80-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_426" playOrder="425">
+        <navLabel>
+          <text>1998</text>
+        </navLabel>
+        <content src="text/part0389.html#BIVAQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_427" playOrder="426">
+          <navLabel>
+            <text>Extraordinary Optical Transmission through Sub-wavelength Hole Arrays</text>
+          </navLabel>
+          <content src="text/part0389.html#BIVAQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_428" playOrder="427">
+          <navLabel>
+            <text>通过亚波长孔洞阵列的超常光透射现象</text>
+          </navLabel>
+          <content src="text/part0390.html#BJTRC0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_429" playOrder="428">
+          <navLabel>
+            <text>A Silicon-based Nuclear Spin Quantum Computer</text>
+          </navLabel>
+          <content src="text/part0391.html#BKSBU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_430" playOrder="429">
+          <navLabel>
+            <text>硅基核自旋量子计算机</text>
+          </navLabel>
+          <content src="text/part0392.html#BLQSG0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_431" playOrder="430">
+          <navLabel>
+            <text>Collective Dynamics of “Small-world” Networks</text>
+          </navLabel>
+          <content src="text/part0393.html#BMPD20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_432" playOrder="431">
+          <navLabel>
+            <text>“小世界”网络的集体动力学</text>
+          </navLabel>
+          <content src="text/part0394.html#BNNTK0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_433" playOrder="432">
+          <navLabel>
+            <text>An Electrophoretic Ink for All-printed Reflective Electronic Displays</text>
+          </navLabel>
+          <content src="text/part0395.html#BOME60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_434" playOrder="433">
+          <navLabel>
+            <text>一种可用于全印刷反射式电子显示器的电泳墨水</text>
+          </navLabel>
+          <content src="text/part0396.html#BPKUO0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_435" playOrder="434">
+        <navLabel>
+          <text>1999</text>
+        </navLabel>
+        <content src="text/part0397.html#BQJFA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_436" playOrder="435">
+          <navLabel>
+            <text>Light Speed Reduction to 17 Metres per Second in an Ultracold Atomic Gas</text>
+          </navLabel>
+          <content src="text/part0397.html#BQJFA0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_437" playOrder="436">
+          <navLabel>
+            <text>光速在超冷原子气中降低至17米每秒</text>
+          </navLabel>
+          <content src="text/part0398.html#BRHVS0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_438" playOrder="437">
+        <navLabel>
+          <text>2001</text>
+        </navLabel>
+        <content src="text/part0399.html#BSGGE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_439" playOrder="438">
+          <navLabel>
+            <text>Observation of Coherent Optical Information Storage in an Atomic Medium Using Halted Light Pulses</text>
+          </navLabel>
+          <content src="text/part0399.html#BSGGE0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_440" playOrder="439">
+          <navLabel>
+            <text>运用停止光脉冲来观测原子介质中的相干光学信息存储</text>
+          </navLabel>
+          <content src="text/part0400.html#BTF100-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_441" playOrder="440">
+          <navLabel>
+            <text>Experimental Violation of a Bell’s Inequality with Efficient Detection</text>
+          </navLabel>
+          <content src="text/part0401.html#BUDHI0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_442" playOrder="441">
+          <navLabel>
+            <text>利用高效检测来实验验证贝尔不等式的违背</text>
+          </navLabel>
+          <content src="text/part0402.html#BVC240-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_443" playOrder="442">
+          <navLabel>
+            <text>Superconductivity at 39 K in Magnesium Diboride</text>
+          </navLabel>
+          <content src="text/part0403.html#C0AIM0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_444" playOrder="443">
+          <navLabel>
+            <text>二硼化镁在39 K时的超导性</text>
+          </navLabel>
+          <content src="text/part0404.html#C19380-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_445" playOrder="444">
+          <navLabel>
+            <text>Observation of High-energy Neutrinos Using Čerenkov Detectors Embedded Deep in Antarctic Ice</text>
+          </navLabel>
+          <content src="text/part0405.html#C27JQ0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_446" playOrder="445">
+          <navLabel>
+            <text>借助南极冰下深处的切伦科夫探测器观测高能中微子</text>
+          </navLabel>
+          <content src="text/part0406.html#C364C0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_447" playOrder="446">
+        <navLabel>
+          <text>2003</text>
+        </navLabel>
+        <content src="text/part0407.html#C44KU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_448" playOrder="447">
+          <navLabel>
+            <text>Upper Limits to Submillimetre-range Forces from Extra Space-time Dimensions</text>
+          </navLabel>
+          <content src="text/part0407.html#C44KU0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_449" playOrder="448">
+          <navLabel>
+            <text>来自额外空间维度在亚毫米尺度上力程的上限</text>
+          </navLabel>
+          <content src="text/part0408.html#C535G0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_450" playOrder="449">
+        <navLabel>
+          <text>2004</text>
+        </navLabel>
+        <content src="text/part0409.html#C61M20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_451" playOrder="450">
+          <navLabel>
+            <text>A Precision Measurement of the Mass of the Top Quark</text>
+          </navLabel>
+          <content src="text/part0409.html#C61M20-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_452" playOrder="451">
+          <navLabel>
+            <text>顶夸克质量的精确测量</text>
+          </navLabel>
+          <content src="text/part0410.html#C706K0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_453" playOrder="452">
+        <navLabel>
+          <text>2005</text>
+        </navLabel>
+        <content src="text/part0411.html#C7UN60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        <navPoint class="chapter" id="num_454" playOrder="453">
+          <navLabel>
+            <text>Experimental Investigation of Geologically Produced Antineutrinos with KamLAND</text>
+          </navLabel>
+          <content src="text/part0411.html#C7UN60-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_455" playOrder="454">
+          <navLabel>
+            <text>KamLAND对地质来源的反中微子的实验研究</text>
+          </navLabel>
+          <content src="text/part0412.html#C8T7O0-bdf2732bfcdd4301a4e39d86c4356a49"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

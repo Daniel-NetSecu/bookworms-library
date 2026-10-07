@@ -1,0 +1,2281 @@
+/* 
+PRH North Asia CSS
+April 2019
+version 4.3.2.1
+
+**********************************************************************
+CHANGELOG
+
+v4.3.2.1
+- Copyright line-hight changed to 1.5em
+- LargeHead Margin-top 18% to 15%
+- Banner Margin-bottom 6% to 0
+- Added background
+
+v4.3.2
+- All text-indent:1em changed to 2em
+- p changed to justify
+- h2.EB09LargeHead added font-size
+- p.EB03BodyTextIndented added margin-top
+- Added two TCell styles,two styles,BorderlessTable,two inline_image,portrait_xsmall
+
+v4.3.1
+ - p.endnote restored
+ - Captions no longer italic
+ - KF8 media query adjusted to remove RH class calls
+ - Border radius removed from image classes
+
+v4.3
+- div.caption replaced with .caption, for usage instructions see Penguin Technical Specifications v4.3
+- Inline Image classes all updated with adjusted sizing and new CSS for captions
+- New footnote section added, see Technical Specifications for usage guide
+- Media Queries section updated with assorted changes, new devices, and all Kindle image classes removed (redundant)
+- Added 'noemoji' section for use in situations where a renderer replaces certain character entities with emojis
+- Core Document Style renamed 'Global'
+- Headings section renamed 'Headers'
+- Removed old images/maps section, use Images section instead
+- Removed heading 'RH Markup styles', now all integrated
+
+v4.2.1
+- Added Kindle versions of portrait_xsmall and landscape_xsmall
+- Line height 1.3em removed from a number of body text classes
+- Added 'Typesetter Custom Styles' heading. Please place all custom styles you need to create for a book in this area.
+
+*/
+/*
+	============================================================
+
+
+
+						 PRH NA Local
+
+
+
+	============================================================
+*/
+.xhx{text-decoration:underline;}
+.xz{font-size:.75em;}
+.bgc{
+  background-color: #4d4d4d;
+}
+
+
+div.block4 {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: 0.5em;
+	width:50%;
+}
+div.block5 {
+	margin-left:2em
+}
+td.TCell-60 {
+    -webkit-hyphens:none;
+    hyphens:none;
+    page-break-inside:avoid;
+    padding:5px !important;
+    text-align:center;
+	width:60%;
+}
+td.TCell-40 {
+    -webkit-hyphens:none;
+    hyphens:none;
+    page-break-inside:avoid;
+    padding:5px !important;
+    text-align:center;
+	width:40%;
+}
+p.left {
+	text-align: left;
+	text-indent: 0em;
+}
+p.center	{
+		text-align: center;
+		text-indent: 0em;
+}
+table.BorderlessTable{
+	border-collapse:collapse;
+	margin:1em auto !important;
+	page-break-inside:avoid;
+	width:80%;
+	text-align:center; 
+}
+.inline_image1 {
+	width: 60%; /* Variable, adjust as necessary */
+	vertical-align: middle; /* Top, middle, bottom as needed */
+}
+.inline_image2 {
+	width: 30%; /* Variable, adjust as necessary */
+	vertical-align: middle; /* Top, middle, bottom as needed */
+}
+.inline_image3 {
+	width: 50%; /* Variable, adjust as necessary */
+	vertical-align: middle; /* Top, middle, bottom as needed */
+}
+.portrait_xsmall0 {
+	text-align: center;
+	page-break-inside: avoid;
+	clear: both;
+	border-radius: 4px; /* Optional */
+	margin: 1.5em auto;
+	width: 30%;
+}
+.portrait_xsmall1 {
+	text-align: center;
+	page-break-inside: avoid;
+	clear: both;
+	border-radius: 4px; /* Optional */
+	margin: 1.5em auto;
+	width: 20%;
+
+}
+.portrait_xsmall0 img {
+	page-break-inside: avoid;
+	border-radius: 4px; /* Optional */
+	width: 100%;
+}
+.portrait_xsmall1 img {
+	page-break-inside: avoid;
+	border-radius: 4px; /* Optional */
+	width: 100%;
+}
+p.EB01BodyTextLineSpace-c {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-indent: 0;
+	text-align: center;
+    font-family:"puffinBeakyRegular";
+
+}
+h4.EB10SmallHead2 {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+	font-size: 0.9em;
+	font-weight:normal;
+}
+h4.sampleChapIntroHead {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: left;
+	margin: 2em 2em 2em 2em;
+	font-weight: bold;
+	font-size:0.9em;
+}
+p.EB15endmatterTextIndent {
+	line-height: 1.5em;
+	text-indent: 2em;
+	font-size: 0.85em;
+	margin: 2em;
+}
+.landscape_large1 {
+	text-align: center;
+	page-break-inside: avoid;
+	clear: both;
+	margin:20% auto;
+	width: 100%;
+	-moz-transform:    rotate(-90deg);
+    -o-transform:      rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    transform:         rotate(-90deg);
+}
+.landscape_large1 img {
+	page-break-inside: avoid;
+	width: 100%;
+}
+
+/*
+	============================================================
+
+
+
+							  GLOBAL
+
+
+
+	============================================================
+*/
+
+body {    
+    orphans: 2;
+    widows: 2
+}
+a {
+    text-decoration:none !important;
+}
+p {
+	text-align: justify;
+	text-indent: 2em;
+	margin-top: 0;
+	margin-bottom: 0;
+	orphans: 2;
+	widows: 2
+}
+.center {
+    text-indent: 0em;
+    text-align: center
+}
+.centerTopSpace {
+    text-indent: 0em;
+    text-align: center;
+    margin-top: 1em
+}
+.centerBottomSpace {
+    text-indent: 0em;
+    text-align: center;
+    margin-bottom: 1em
+}
+sup.EBsup {
+    vertical-align: super;
+    font-size: x-small;
+    line-height: 100% !important;
+}
+sub.EBsub {
+    vertical-align: sub;
+    font-size: x-small;
+    line-height: 100% !important;
+}
+
+span.underline {
+    text-decoration:underline;
+}
+span.strikethrough {
+    text-decoration:line-through;
+}
+span.overline {
+    text-decoration:overline;
+}
+
+.caption {
+	width: 100%;
+	margin: -1em auto 1.5em auto;
+	padding: 0px;
+	page-break-before: avoid;
+	text-align: center;
+	font-size: 0.8em;
+	line-height: 1.3em;
+}
+
+/*
+	============================================================
+
+
+
+							 HEADERS
+
+
+
+	============================================================
+*/
+
+h1, h2, h3, h4, h5 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+h2.EB04MainHead {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	margin-top: 14%;
+	margin-bottom: 2em;
+	font-weight: normal;
+}
+h2.EB04MainHeadClosedNum {
+	page-break-after: avoid;
+	text-align: center;
+	margin-top:14%;
+	margin-bottom:0.85em;
+	font-weight: normal;
+}
+h2.EB04MainHeadClosedTitle {
+	page-break-after: avoid;
+	line-height: 1em;
+	text-align: center;
+	margin-bottom: 3em;
+}
+h2.EB04MainHeadClosedTitle1 {
+	page-break-after: avoid;
+	line-height: 1em;
+	text-align: center;
+	margin-bottom: 1em;
+}
+h4.EB10SmallHead {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
+	font-weight: normal;
+}
+h5.EB07SmallCapsMediumHead {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	margin-top: 2em;
+	margin-bottom: 0.5em;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+h2.EB09SmallCapsLargeHead {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	font-weight: normal;
+	text-transform: uppercase;
+	margin-top: 15%;
+	margin-bottom: 0;
+}
+h2.EB09LargeHead {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	font-weight: normal;
+	font-size:1.7em;
+	margin-left:5%;
+	margin-right:5%;
+	margin-top: 15%;
+	margin-bottom: 0;
+	hyphens:none;
+	-webkit-hyphens: none;
+}
+h4.EB11SmallItalicHead {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	font-style: italic;
+	font-weight: normal;
+	margin-top: 0;
+	margin-bottom: 2em;
+	text-indent:0;
+}
+h4.EB11SmallItalicHeadSpaced {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	font-style: italic;
+	font-weight: normal;
+	margin-top: 1em;
+	margin-bottom: 2em;
+	text-indent:0;
+}
+h3.EB04MainHead2 {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	font-weight: normal;
+	margin-top: 1em;
+	margin-bottom: 0;
+}
+
+h3.EB04SmallCapsMainHead2 {
+	page-break-after: avoid;
+	line-height: 1em;
+	text-align: center;
+	font-weight: normal;
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+	font-size:1em;
+	text-transform:lowercase;
+	letter-spacing: 0.1em;
+    font-variant:small-caps;
+    hyphens:none;
+	-webkit-hyphens: none;
+}
+h2.EB06MainHead3 {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: normal;
+	margin-top: 14%;
+	margin-bottom: 0.5em;
+}
+h5.EB08ExtraFeatureHead {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: normal;
+	margin-top: 1em;
+	margin-bottom: 0;
+}
+
+h4.aboutAuthorHead {
+    margin-top:10px;
+	line-height: 1.3em;
+	text-indent: 0;
+	text-align: center;
+	font-size: 0.85em;
+	page-break-inside:avoid;
+	font-weight: normal
+}
+
+/*
+	============================================================
+
+
+
+							 PARAGRAPHS
+
+
+
+	============================================================
+*/
+
+p.EB01BodyTextLineSpace {
+	margin-top: 1em;
+	text-indent: 2em;
+	font-family: STKai, "MKai PRC", Kai, "楷体";
+}
+p.EB01BodyTextLineSpace-1 {
+	margin-top: 1em;
+	text-indent: 0em;
+	font-family: STKai, "MKai PRC", Kai, "楷体";
+}
+p.EB01BodyTextLineSpace-2 {
+	margin-top: 1em;
+	text-align:right;
+	font-family: STKai, "MKai PRC", Kai, "楷体";
+}
+p.EB02BodyTextFullOut {
+	text-indent: 0;
+}
+p.EB03BodyTextIndented {
+	margin-top: 0.5em;
+	text-indent: 2em;
+}
+p.EB03BodyTextIndented-1 {
+	margin-top: 0.5em;
+	text-indent: 2em;
+}
+p.EB03BodyTextIndented-2 {
+	margin-top: 0.5em;
+	text-align:right;
+    font-weight: bold;
+}
+p.EB03BodyTextIndented-3 {
+	margin-top: 0.5em;
+	text-align:right;
+    font-weight: bold;
+}
+p.EB03BodyTextIndented-4 {
+	margin-top: 0.5em;
+	text-align: center;
+    
+    font-family: STKai, "MKai PRC", Kai, "楷体";
+}
+p.EB03BodyTextIndented-5 {
+	margin-top: 0.5em;
+	text-indent: 0em;
+}
+p.EB03BodyTextIndented-6 {
+	margin-top: 0.5em;
+	text-indent: 2em;
+font-size:0.8em;
+}
+p.EB03BodyTextIndenteda {
+	margin-top: 0.5em;
+	text-indent: 2em;
+	color:#ffffff;
+}
+p.EB15ContentsText {
+	line-height: 1.3em;
+	text-indent: 0;
+	font-size: 0.85em;
+	margin-left: 2em;
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+p.EB15ContentsTextIndent {
+	line-height: 1.3em;
+	text-indent: 2em;
+	font-size: 0.85em;
+	margin-left: 2em;
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+p.EB12SmallItalic {
+	text-indent: 0;
+	text-align: center;
+	font-style: italic;
+}
+
+p.EB29BodyTextIndentLineSpace {
+    text-indent: 2em;
+    margin-top: 1em
+}
+
+/*
+	============================================================
+
+
+
+							 EPIGRAPH
+
+
+
+	============================================================
+*/
+
+p.EB17Epigraph { /*Standard epigraph*/
+	line-height: 1.3em;
+	text-indent: 0;
+	font-size: 0.85em;
+	font-style: italic;
+	margin-top: 2em;
+	margin-bottom: 0;
+}
+div.EB17PoemEpigraphStanzaWrap {
+    width:100%;
+    margin-top: 2em;
+}
+p.EB17PoemEpigraphLine {
+	line-height: 1.3em;
+	text-indent: 0;
+	font-size: 0.85em;
+	font-style: italic;
+	text-indent: -2em;
+    padding-left: 2em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+p.EB18EpigraphSource {
+	line-height: 1.3em;
+	text-indent: 0;
+	text-align: right;
+	font-size: 0.85em;
+	font-style: italic;
+	margin-top: 0;
+	margin-bottom: 2em;
+	margin-right: 1em;
+}
+
+/*
+	============================================================
+
+
+
+						 EXTRA FEATURE
+
+
+
+	============================================================
+*/
+
+blockquote {
+	margin-top:1em;
+	margin-bottom: 1em;
+	margin-left: 4em;
+	padding-left:1em;
+	margin-right: 2em;
+	border-left:0.2em solid #999999;
+
+}
+p.EB22ExtraFeatureFirst {
+	text-indent: 0;
+	font-size: 0.85em;
+	margin-top: 0.5em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+p.EB19ExtraFeatureFullOut {
+	text-indent: 0;
+	font-size: 0.85em;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+p.EB21ExtraFeatureIndented {
+	text-indent: 2em;
+	font-size: 0.85em;
+	margin-bottom: 0.5em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+p.EB20ExtraFeatureLast {
+	text-indent: 0;
+	font-size: 0.85em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+p.EB20ExtraFeatureLastBS {
+    text-indent: 0; 
+    font-size: 0.85em;         
+    margin-bottom: 0.5em;
+    margin-left: 1em;           
+    margin-right: 1em;
+} 
+p.EB21ExtraFeatureIndentedNBS {
+    text-indent: 2em;          
+    font-size: 0.85em;         
+    margin-left: 1em;           
+    margin-right: 1em;
+}
+p.EB20ExtraFeatureLastRight {
+    text-indent: 0; 
+    text-align: right;
+    font-size: 0.85em;         
+    margin-left: 1em;           
+    margin-right: 1em;
+}
+p.textMessageFirst {
+	line-height: 1.3em;
+	text-indent: 0;
+	margin-left: 3em;
+	margin-right: 3em;
+	margin-bottom:1em;
+	margin-top:1em;
+}
+p.textMessage {
+	line-height: 1.3em;
+	text-indent: 0;
+	margin-left: 3em;
+	margin-right: 3em;
+    margin-bottom:1em;
+}
+p.textMessageLast {
+	line-height: 1.3em;
+	text-indent: 0;
+	margin-left: 3em;
+	margin-right: 3em;
+}
+p.dramaFirst {
+    text-indent: -1em;
+    padding-left: 1em;
+    line-height:1.3em;
+    font-size:0.85em;
+    margin-top:1em;
+    margin-bottom:1em;
+}
+p.drama {
+    text-indent: -1em;
+    padding-left: 1em;
+    line-height:1.3em;
+    font-size:0.85em;
+    margin-bottom:1em;
+}
+span.dramaSmallCaps {
+    font-size:0.85em;
+    letter-spacing:2px;
+}
+p.diaryText {
+	line-height: 1.3em;
+	text-indent: 0;
+	font-size: 0.85em;
+	margin-bottom: 1em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+p.diaryDate {
+	line-height: 1.3em;
+    font-weight:bold;
+	text-indent: 0;
+	font-size: 0.85em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+p.diaryTextLast {
+	line-height: 1.3em;
+    text-indent: 0;
+	font-size: 0.85em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+blockquote p {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+/*
+	============================================================
+
+
+
+							 LISTS
+
+
+
+	============================================================
+*/
+li.EB23ListFirst {
+	text-align: left;
+	line-height: 1.3em;
+	margin-right: 1em;
+	margin-top: 1em;
+	margin-bottom: 0;
+}
+li.EB24List {
+	text-align: left;
+	line-height: 1.3em;
+	margin-right: 1em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+li.EB25ListLast {
+	text-align: left;
+	line-height: 1.3em;
+	margin-right: 1em;
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+li.EB26ListNested {
+	text-align: left;
+	line-height: 1.3em;
+	font-size: 1em;
+	margin-right: 1em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+li.kidsList {
+	text-align: left;
+	line-height: 1.3em;
+	font-size: 1em;
+	margin-right: 1em;
+	margin-top: 0;
+	margin-bottom: 0.25em;
+	margin-left:0.25em;
+}
+li.kidsListFirst {
+	text-align: left;
+	line-height: 1.3em;
+	font-size: 1em;
+	margin-right: 1em;
+	margin-top: 1em;
+	margin-bottom: 0.25em;
+	margin-left:0.25em;
+}
+li.kidsListLast {
+	text-align: left;
+	line-height: 1.3em;
+	font-size: 1em;
+	margin-right: 1em;
+	margin-top: 0;
+	margin-bottom: 1em;
+	margin-left:0.25em;
+}
+li.kidsListNested {
+	text-align: left;
+	line-height: 1.3em;
+	font-size: 1em;
+	margin-right: 1em;
+	margin-top: 0;
+	margin-bottom: 0.2em;
+}
+ol.kidsNestedWrap {
+    margin-top:0.25em;
+}
+ul.kidsNestedWrap {
+    margin-top:0.25em;
+}
+
+/*
+	============================================================
+
+
+
+						 HANGING INDENTS
+
+
+
+	============================================================
+*/
+p.EB26SmallTextHangingIndent {
+	font-size: 0.85em;
+	text-indent: -1em;
+	padding-left: 1em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+p.EB27SmallTextExtraIndent {
+	font-size: 0.85em;
+	text-indent: 0;
+	margin-left: 2em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+/*
+	============================================================
+
+
+
+							 COPYRIGHT
+
+
+
+	============================================================
+*/
+h5.EB13CopyrightHead {
+	line-height: 1.5em;
+	text-indent: 0;
+	font-size: 1em;
+	text-transform: uppercase;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-weight:normal;
+}
+p.EB14CopyrightText {
+	line-height: 1.5em;
+	text-indent: 0;
+	font-size: 0.85em;
+	margin-top: 0.5em;
+	margin-bottom: 0;
+}
+
+p.EB14CopyrightTextNoSpace {
+	line-height: 1.5em;
+	text-indent: 0;
+	font-size: 0.85em;
+	margin-top: 0em;
+	margin-bottom: 0;
+}
+
+/*
+	============================================================
+
+
+
+					FOOTNOTES AND ENDNOTES
+
+
+
+	============================================================
+*/
+h5.footnote_section_header {
+	width: 100%;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 75%;
+	color: #fff;
+	margin-top: 4em;
+	margin-bottom: 2em;
+}
+.footnote_section_header span {
+	background-color: #bebebe ;
+	padding: 2px 5px;
+	text-align: center;
+	border-radius: 10px;
+}
+aside.footnote_wrapper:first-of-type {
+	margin-top: 20%;
+}
+.footnote_section_header + .footnote_wrapper {
+	page-break-before: avoid;
+	margin-top: 0em !important;
+}
+.footnote_wrapper {
+	font-size: 75%;
+	font-style: normal;
+	text-align: justify;
+	margin: 0em 5% 1em 5%;
+	border-radius: 5px;
+	width: 90%;
+}
+.footnote_wrapper p {
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: auto;
+}
+a.footnote_return {
+	vertical-align: super;
+	padding: 0px 10px 0px 0px;
+	margin: 0px !important;
+	text-align: center;
+	line-height: 100%;
+	font-size: 8px;
+	font-weight: bold;
+	border-bottom: 0px;
+	border-radius: 3px;
+}
+a.footnote_link {
+	vertical-align: super;
+	padding: 1px 3px;
+	margin: 0px !important;
+	text-align: center;
+	line-height: 100%;
+	font-size: 8px;
+	font-weight: bold;
+	border-bottom: 0px;
+	border-radius: 3px;
+}
+
+p.endnote {
+    text-indent: -1em;
+	padding-left: 1em;
+}
+
+/*
+	============================================================
+
+
+
+					POETRY AND NUMBERED LINES
+
+
+
+	============================================================
+*/
+.poetry_stanza, .numbered_paragraphs {
+	margin: 1em 10% auto 0px;
+	width: 90%;
+	overflow: visible;
+	text-align: justify;
+}
+.poetry_line {
+	text-align: left;
+	margin-left: 0em;
+	text-indent: 0em;
+}
+.poetry_line_indented {
+	text-align: left;
+	margin-left: 1em;
+}
+.line_number {
+	text-indent: 0em;
+	text-align: right;
+	width: 7%;
+	margin: 0.4em -9% auto auto;
+	padding: 0em;
+	font-size: 65%;
+	display: inline-block;
+	float: right;
+}
+
+/* ___ Inline Tables ___ */
+
+table.SmallTable{
+     border-collapse:collapse;
+     margin:1em 0 1em !important;
+     page-break-inside:avoid;
+     width:100%;
+     border:1px solid #000000;
+     text-align:center;
+}
+th.HCell {
+    font-size:0.85em;
+    border:1px solid #000000;
+    -webkit-hyphens:none;
+    hyphens:none;
+    page-break-inside:avoid;
+    padding:5px !important;
+    text-indent:0;
+    text-align:center;
+}
+td.TCell {
+     font-size:0.85em;
+    border:1px solid #000000;
+    -webkit-hyphens:none;
+    hyphens:none;
+    page-break-inside:avoid;
+    padding:5px !important;
+    text-indent:0;
+    text-align:left;
+}
+div.Kindlecenter {
+    text-align:center;  /*Kindle eInk devices require the text within a table cell to be enclosed in a div to enable centre alignment*/
+}
+
+/*
+	============================================================
+
+
+
+						BRANDING STYLES
+
+
+
+	============================================================
+*/
+h2.endPageHead {
+    page-break-after: AVOID;
+	line-height: 1.3em;
+	text-align: center;
+	font-weight: normal;
+	text-transform: uppercase;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	font-size:200%;
+}
+
+div.endpage{
+    text-align: center;
+    margin-bottom: 1em
+}
+div.brandContainer {
+    margin-top:35%;
+    text-align:center;
+}
+div.logoContainer {
+    margin-top:15%;
+    text-align:center;
+}
+div.endpageLogoContainer{
+   	margin-top:35%;
+   	text-align:center;
+}
+h2.brandingHeadClosedNum {
+	page-break-after: avoid;
+	text-align: center;
+	margin-top:0.25em;
+	margin-bottom:0.55em;
+	margin-left:2%;
+	margin-right:2%;
+	font-weight: normal;
+	line-height:1.3em;
+	text-transform: lowercase;
+	letter-spacing: 0.1em;
+    font-variant:small-caps;
+    hyphens:none;
+	-webkit-hyphens: none;
+}
+h2.brandingHeadClosedNumOnly {
+	page-break-after: avoid;
+	text-align: center;
+	margin-top:0.25em;
+	margin-bottom:3em;
+	margin-left:2%;
+	margin-right:2%;
+	font-weight: normal;
+	text-transform: lowercase;
+	letter-spacing: 0.1em;
+    font-variant:small-caps;
+    hyphens:none;
+	-webkit-hyphens: none;
+}
+h2.brandingHead {
+	page-break-after: avoid;
+	text-align: center;
+	margin-top:0.5em;
+	margin-bottom:3em;
+	margin-left:2%;
+	margin-right:2%;
+	font-weight: normal;
+    hyphens:none;
+	-webkit-hyphens: none;
+}
+h2.brandingHeadClosedTitle {
+	page-break-after: avoid;
+	line-height: 1em;
+	text-align: center;
+	margin-top:0.5em;
+	margin-bottom: 3em;
+	font-weight: normal;
+	margin-left:2%;
+	margin-right:2%;
+}
+h2.brandingPartNum {
+    page-break-after: avoid;
+	text-align: center;
+	margin-top:0.85em;
+	margin-bottom:0.25em;
+	margin-left:2%;
+	margin-right:2%;
+	font-weight: normal;
+	line-height:1.3em;
+    hyphens:none;
+	-webkit-hyphens: none;
+}
+h2.brandingPartSingleTitle {
+    page-break-after: avoid;
+	text-align: center;
+	margin-top:0.85em;
+	margin-bottom:0.25em;
+	margin-left:2%;
+	margin-right:2%;
+	font-weight: normal;
+	line-height:1.3em;
+	text-transform: lowercase;
+	letter-spacing: 0.1em;
+    font-variant:small-caps;
+    hyphens:none;
+	-webkit-hyphens: none;
+}
+hr {
+    margin: 1em 10% 1em 10%
+}
+small {
+    font-size: 0.75em;
+    text-transform: uppercase
+}
+
+p.dedication {
+	line-height: 1.3em;
+	text-align: center;
+	text-indent: 0em;
+	margin-top: 5em;
+	margin-bottom: 0em;
+}
+span.strong {
+font-weight: bold;
+}
+span.right {
+	text-align: right;
+	text-indent: 0em;
+}
+p.right{
+    line-height: 1.3em;
+    text-align: right;
+    text-indent: 0em;
+    margin-left: 0em;
+    margin-right: 0em;
+    margin-bottom: 0em;
+}
+p.rightTopSpace{
+    line-height: 1.3em;
+    text-align: right;
+    text-indent: 0em;
+    margin-left: 0em;
+    margin-top: 0.5em;
+}
+p.rightBottomSpace{
+    line-height: 1.3em;
+    text-align: right;
+    text-indent: 0em;
+    margin-left: 0em;
+    margin-right: 0em;
+    margin-bottom: 1em;
+}
+span.center {
+	text-align: center;
+	text-indent: 0em;
+	display: block
+}
+p.center{
+    line-height: 1.3em;
+    text-align: center;
+    text-indent: 0em;
+    margin-top: 1em;
+    margin-bottom: 0em;
+}
+h2.EB04MainHead-1 {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	margin-top: 14%;
+	margin-bottom: 0em;
+	font-weight: normal;
+}
+p.EB10SmallHead1 {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: left;
+	margin-top: 0em;
+	margin-bottom: 1em;
+	font-weight: bold;
+	text-indent: 0em;
+}
+p.EB10SmallHead1NBS {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: left;
+	margin-top: 0em;
+	margin-bottom: 0em;
+	font-weight: bold;
+	text-indent: 0em;
+}
+p.EB11SmallItalicHead1 {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: left;
+	font-style: italic;
+	font-weight: normal;
+	margin-top: 0em;
+	margin-bottom: 1em;
+	text-indent:0em;
+}
+h5.EB07SmallCapsMediumHead1 {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: left;
+	margin-top: 2em;
+	margin-bottom: 0.5em;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+p.EB19ExtraFeatureFullOut1 {
+	line-height: 1.3em;
+	text-indent: 0;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+p.EB20ExtraFeatureLast1 {
+	line-height: 1.3em;
+	text-indent: 0em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+p.EB20ExtraFeatureLast2 {
+	line-height: 1.3em;
+	text-indent: 0em;
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-bottom: 0.5em;
+}
+p.EB21ExtraFeatureIndented1 {
+	line-height: 1.3em;
+	text-indent: 2em;
+	margin-bottom: 0.5em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+p.EB21ExtraFeatureIndented2 {
+	line-height: 1.3em;
+	text-indent: 2em;
+	margin-bottom: 0em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+p.EB02BodyTextFullOut1 {
+	text-indent: 0em;
+	page-break-after:always;
+}
+p.EB02BodyTextFullOutBottom {
+	text-indent: 0em;
+	margin-bottom: 0.5em;
+	}
+p.EB03BodyTextIndented1 {
+	text-indent: 2em;
+	page-break-after:always;
+}
+p.EB01BodyTextLineSpace1 {
+	margin-top: 1em;
+	text-indent: 0em;
+	page-break-after:always;
+}
+h4.SmallHead {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	margin-bottom: 0.5em;
+	font-weight: normal;
+}
+div.block {
+	margin-top: 5em;
+	margin-bottom: 0em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+p.EB20ExtraFeatureLast-2 {
+	line-height: 1.3em;
+	text-indent: 0em;
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-bottom: 2em;
+}
+p.EB20ExtraFeatureLast3 {
+	line-height: 1.3em;
+	text-indent: 0em;
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-bottom: 1em;
+}
+p.EB20ExtraFeatureLast4 {
+	line-height: 1.3em;
+	text-indent: 0em;
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 5em;
+}
+p.SmallTextHangingIndent {
+	line-height: 1.3em;
+	text-indent: -1em;
+	padding-left: 1em;
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+p.SmallTextHangingIndent1 {
+	line-height: 1.3em;
+	text-indent: -1em;
+	padding-left: 1em;
+	margin-top: 0em;
+	margin-bottom: 1em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+img.mid
+{
+	vertical-align: middle;
+}
+p.EB26SmallTextHangingIndent1 {
+	line-height: 1.3em;
+	text-indent: -1em;
+	padding-left: 1em;
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+p.HangingIndent1 {
+	line-height: 1.3em;
+	text-indent: -1.3em;
+	padding-left: 2em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+p.HangingIndent2 {
+	line-height: 1.3em;
+	text-indent: -1em;
+	padding-left: 2em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+p.EB03BodyTextIndented3 {
+	text-indent: 2em;
+	margin-bottom: 1em;
+}
+p.EB02BodyTextFullOut3 {
+	text-indent: 0em;
+	margin-bottom: 1em;
+}
+p.EB02BodyTextFullOut3PB {
+	text-indent: 0em;
+	margin-bottom: 0em;
+	page-break-after: always;
+}
+p.EB20ExtraFeatureLast5 {
+	line-height: 1.3em;
+	text-indent: 0em;
+	margin-left: 4.5em;
+	margin-right: 1em;
+}
+p.note {
+	line-height: 1.3em;
+	text-indent: 0em;
+	padding-left: 0em;
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+div.sidebar
+{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: 1em;
+}
+div.sidebar2
+{
+    margin-top: 0em;
+    margin-bottom: 1em;
+    padding: 1em;
+    border: 1px solid #000000;
+}
+h5.EB07SmallCapsMediumHead7 {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: left;
+	margin-top: 0em;
+	margin-bottom: 0.5em;
+	font-weight: normal;
+}
+p.EB20ExtraFeatureLast6 {
+	line-height: 1.3em;
+	text-indent: 0em;
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-bottom: 0.5em;
+	page-break-after:always;
+}
+h4.EB10SmallHead1 {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: left;
+	margin-top: 1.5em;
+	margin-bottom: 0em;
+	font-weight: normal;
+}
+h2.brandingHead2 {
+	page-break-after: avoid;
+	text-align: center;
+	margin-top:0.5em;
+	margin-bottom:0em;
+	margin-left:2%;
+	margin-right:2%;
+	font-weight: normal;
+    hyphens:none;
+    color: #EB5C24;
+	-webkit-hyphens: none;
+}
+span.orange {
+    color: #EB5C24;
+}
+p.EB04MainHead3 {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	margin-top: 14%;
+	font-size: large;
+	margin-bottom: 1em;
+	font-weight: normal;
+	color: #3399CC;
+	text-indent: 0em;
+}
+p.handwrittenimage {
+    line-height: 1.3em;
+    text-align: left;
+    text-indent: 0em;
+    margin-top: 0em;
+    margin-bottom: 1em;
+    font-weight: bold;
+}
+p.handW {
+    line-height: 1.3em;
+    text-align: left;
+    text-indent: 0em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+p.handwrittenimagetop {
+    line-height: 1.3em;
+    text-align: left;
+    text-indent: 0em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    font-weight: bold;
+}
+p.handwrittenimagebottom {
+    line-height: 1.3em;
+    text-align: center;
+    text-indent: 0em;
+    margin-top: 0em;
+    margin-bottom: 2em;
+}
+div.block1 {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+p.HangingIndent5 {
+	line-height: 1.3em;
+	text-indent: -3.5em;
+	padding-left: 0em;
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+div.block2 {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	padding-left: 2.8em;
+	margin-right: 1em;
+}
+span.line {
+    border-bottom:1px solid #000000;
+    text-decoration:underline;
+}
+span.center-x {
+	text-align: center;
+	text-indent: 0em;
+    color: #EB5C24;
+}
+p.EB10SmallHead2 {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: left;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	font-weight: bold;
+	text-indent: 0em;
+}
+div.block3 {
+	margin-top: 1em;
+	margin-bottom: 1em;
+    page-break-after: always;
+}
+
+img.banner
+{
+    width: 100%;
+    height: auto;
+    margin-bottom: 0%
+}
+body.endmatter
+{
+    margin: 0;
+    padding-top: 1em
+}
+h2.sampleChapIntroHead {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	margin-top: 25%;
+	margin-bottom: 1.2em;
+	font-weight: bold;
+}
+h2.sampleChapIntroFoot {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	margin: 1em 10% 0 10%;
+	font-weight: bold;
+}
+h4.sampleChapImageFoot {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	margin: 1.5em 20% 0;
+	font-weight: normal;
+}
+h2.authorName {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	margin: 0 0 0 0;
+	font-weight: bold;
+}
+h2.authorNameSpaceBelow {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	margin: 0 0 0.5em 0;
+	font-weight: bold;
+}
+h3.sampleTitle {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	font-weight: normal;
+	margin: 0.5em 0 0 0;
+	letter-spacing: 2px
+}
+
+h3.sampleTitleSpaceBelow {
+	page-break-after: avoid;
+	line-height: 1.3em;
+	text-align: center;
+	font-weight: normal;
+	margin: 0.5em 0 0.5em 0;
+	letter-spacing: 2px
+}
+p.sameAuthorList {
+    font-size: 85%;
+    line-height: 1.8em;
+    letter-spacing: 2px;
+    text-align: center;
+    font-weight: normal;
+    margin-top: 1em
+}
+h2.socialPageFoot{
+    line-height: 1.3em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    text-align: center
+}
+p.EB02BodyTextFullOutBottom_Pelican {
+	text-indent: 0em;
+	margin-bottom: 0.5em;
+	font-family: sans-serif
+
+	}
+
+/* ___ Kindle Ordered List Fix ___ */
+
+ol {
+    margin-left: 1em;    
+}
+
+
+
+/*
+	============================================================
+
+
+
+							  IMAGES
+
+
+
+	============================================================
+*/
+img {	/*-- iOS8 Image Fix --*/
+	display: inline;
+}
+/*
+	=========================================
+	Inline Images Example
+	(Apply to image, adjust values as needed)
+	=========================================
+*/
+.inline_image {
+	height: 4em; /* Variable, adjust as necessary */
+	vertical-align: middle; /* Top, middle, bottom as needed */
+}
+
+
+/*
+	==================
+	Extra Small Images
+	==================
+*/
+.portrait_xsmall {
+	text-align: center;
+	page-break-inside: avoid;
+	clear: both;
+	border-radius: 4px; /* Optional */
+	margin: 1.5em auto;
+	width: 28%;
+}
+.portrait_xsmall img {
+	page-break-inside: avoid;
+	border-radius: 4px; /* Optional */
+	width: 100%;
+}
+.portrait_xsmall + .caption {
+	width: 35%;
+	page-break-before: avoid;
+}
+.landscape_xsmall {
+	text-align: center;
+	page-break-inside: avoid;
+	clear: both;
+	border-radius: 4px; /* Optional */
+	margin: 1.5em auto;
+	width: 50%;
+}
+.landscape_xsmall img {
+	page-break-inside: avoid;
+	border-radius: 4px; /* Optional */
+	width: 100%;
+}
+.landscape_xsmall + .caption {
+	width: 60%;
+	page-break-before: avoid;
+}
+
+
+/*
+	============
+	Small Images
+	============
+*/
+.portrait_small {
+	text-align: center;
+	page-break-inside: avoid;
+	clear: both;
+	margin: 1.5em auto;
+	width: 35%;
+}
+.portrait_small img {
+	page-break-inside: avoid;
+	width: 100%;
+}
+.portrait_small + .caption {
+	width: 35%;
+	page-break-before: avoid;
+}
+.landscape_small {
+	text-align: center;
+	page-break-inside: avoid;
+	clear: both;
+	margin: 1.5em auto;
+	width: 60%;
+}
+.landscape_small img {
+	page-break-inside: avoid;
+	width: 100%;
+}
+.landscape_small + .caption {
+	width: 60%;
+	page-break-before: avoid;
+}
+/*
+	==============
+	Default Images
+	==============
+*/
+.portrait_default {
+	text-align: center;
+	page-break-inside: avoid;
+	clear: both;
+	margin: 1.5em auto;
+	width: 40%;
+}
+.portrait_default img {
+	page-break-inside: avoid;
+	width: 100%;
+}
+.portrait_default + .caption {
+	width: 40%;
+	page-break-before: avoid;
+}
+.landscape_default {
+	text-align: center;
+	page-break-inside: avoid;
+	clear: both;
+	margin: 1.5em auto;
+	width: 70%;
+}
+.landscape_default img {
+	page-break-inside: avoid;
+	width: 100%;
+}
+.landscape_default + .caption {
+	width: 70%;
+	page-break-before: avoid;
+}
+/*
+	=============
+	Medium Images
+	=============
+*/
+.portrait_medium {
+	text-align: center;
+	page-break-inside: avoid;
+	clear: both;
+	margin: 1.5em auto;
+	width: 50%;
+}
+.portrait_medium img {
+	page-break-inside: avoid;
+	width: 100%;
+}
+.portrait_medium + .caption {
+	width: 50%;
+	page-break-before: avoid;
+}
+.landscape_medium {
+	text-align: center;
+	page-break-inside: avoid;
+	clear: both;
+	margin: 1.5em auto;
+	width: 84%;
+}
+.landscape_medium img {
+	page-break-inside: avoid;
+	width: 100%;
+}
+.landscape_medium+ .caption {
+	width: 84%;
+	page-break-before: avoid;
+}
+/*
+	==============================================
+	Large Images + Double Page Spread (DPS) Images
+	==============================================
+*/
+.portrait_large {
+	text-align: center;
+	page-break-inside: avoid;
+	clear: both;
+	margin: 1.5em auto;
+	width: 65%;
+}
+.portrait_large img {
+	page-break-inside: avoid;
+	width: 100%;
+}
+.portrait_large + .caption {
+	width: 65%;
+	page-break-before: avoid;
+}
+.landscape_large {
+	text-align: center;
+	page-break-inside: avoid;
+	clear: both;
+	margin: 1.5em auto;
+	width: 100%;
+}
+.landscape_large img {
+	page-break-inside: avoid;
+	width: 100%;
+}
+.landscape_large + .caption {
+	width: 100%;
+	page-break-before: avoid;
+}
+/*
+	================
+	FULL PAGE IMAGES
+	================
+*/
+.image_full {
+	text-align: center;
+	page-break-before: always;
+	page-break-after: always;
+	page-break-inside: avoid;
+	clear: both;
+	padding: 0px;
+	margin: 0px auto;
+	height: 99%;
+	height: 99vh;
+	width: 100%;
+}
+.image_full img {
+	page-break-inside: avoid;
+	 
+	 
+}
+.image_full_caption {
+	text-align: center;
+	page-break-before: always;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	clear: both;
+	padding: 0px;
+	margin: 0px auto;
+	width: 100%;
+}
+.image_full_caption img {
+	page-break-inside: avoid;
+	width: 87%;
+}
+.image_full_caption + .caption {
+	width: 90%;
+	page-break-before: avoid;
+	page-break-after: always;
+	margin-top: 1em;
+}
+.cover_image {
+	text-align: center;
+	page-break-inside: avoid;
+	clear: both;
+	padding: 0px;
+	margin: 0em auto;
+	width: 100%;
+}
+.cover_image img {
+	page-break-inside: avoid;
+	width: 100%;
+}
+
+/*
+	============================================================
+
+
+
+				FLOATED IMAGES | FLOATED TEXT BOXES
+
+             NOTE: Do not use unless explicitly instructed
+
+
+
+	============================================================
+*/
+
+div.floatbox_left {
+	position: relative;
+	font-size: 80%;
+	font-style: italic;
+	text-align: left;
+	width: 25%;
+	margin: 0em 2em 2em 0em;
+	padding: 10px;
+	border: 1px solid #ccc;
+	box-shadow: 3px 3px 2px #ddd;
+	background-color: rgb(240,240,240);
+	float: left;
+}
+div.floatbox_right {
+	position: relative;
+	font-size: 80%;
+	font-style: italic;
+	text-align: left;
+	width: 25%;
+	margin: 0em 0em 2em 2em;
+	padding: 10px;
+	border: 1px solid #ccc;
+	box-shadow: 3px 3px 2px #ddd;
+	background-color: rgb(240,240,240);
+	float: right;
+}
+div.floatimage_right {
+	position: relative;
+	float: right;
+	margin: 1em 0em 2em 2em;
+	text-align: center;
+	width: 35%;
+	page-break-inside: avoid;
+}
+div.floatimage_right img {
+	page-break-inside: avoid;
+	width: 100%;
+}
+div.floatimage_left {
+	position: relative;
+	float: left;
+	margin: 1em 2em 2em 0em;
+	text-align: center;
+	width: 35%;
+	page-break-inside: avoid;
+}
+div.floatimage_left img {
+	page-break-inside: avoid;
+	width: 100%;
+}
+/*
+	============================================================
+
+
+
+					 PULLQUOTES AND TEXTBOXES
+
+
+
+	============================================================
+*/
+
+/*
+	=====
+	Box 5
+	=====
+*/
+.txt_box5 {
+	page-break-inside: avoid;
+	width: 80%;
+	margin: 1em 6.9%;
+	padding: 5px 10px 10px 10px;
+	background-color: #a13f3f;
+	border-left: 15px solid #5f0f0f;
+	border-right: 15px solid #5f0f0f;
+	font-size: 1.4em;
+	color: #f0dada;
+	border-radius: 2px 50px 2px 50px;
+	clear: both;
+}
+.txt_box5_header {
+	text-align: left;
+	margin: 0px auto 0.5em auto;
+	font-style: normal;
+	font-weight: bold;
+}
+.txt_box5_content {
+	margin: 0em;
+	font-style: normal;
+	font-weight: normal;
+	text-indent: 0em;
+	text-align: left;
+	padding-left: 10px;
+}
+/*
+	=====
+	Box 6
+	=====
+*/
+.txt_box6 {
+	page-break-inside: avoid;
+	width: 40%;
+	float: right;
+	margin: 0.25em auto 0.5em 0.5em;
+	font-style: italic;
+	padding: 0px 0px 0px 5px;
+	border-left: 15px solid #eee;
+	font-size: 1.5em;
+	clear: both;
+}
+.txt_box6_header {
+	text-align: left;
+	margin: 0px auto 0.5em auto;
+	font-style: normal;
+	font-weight: bold;
+}
+.txt_box6_content {
+	margin: 0em;
+	text-indent: 0em;
+	text-align: left;
+}
+/*
+	=====
+	Box 7
+	=====
+*/
+.txt_box7 {
+	page-break-inside: avoid;
+	font-size: 75%;
+	font-style: normal;
+	text-align: justify;
+	margin: 0em 5% 1em 5%;
+	border: 1px solid #6bad81;
+	border-radius: 5px;
+	width: 90%;
+	clear: both;
+}
+.txt_box7 p {
+	padding: 10px;
+}
+.txt_box7 p + p {
+	padding-top: 0px;
+	margin-top: -15px;
+}
+h5.txt_box7_header {
+	display: block;
+	background-color: #6bad81; /* Must match border color. */
+	color: #fff;
+	font-style: normal;
+	font-weight: bold;
+	margin-bottom: 0em;
+	padding: 4px 4px 4px 10px;
+	text-transform: capitalize;
+}
+.txt_box7_content {
+	text-indent: 0px;
+}
+
+/*
+	============================================================
+
+
+
+						 INGREDIENT LISTS
+
+
+
+	============================================================
+*/
+div.ingredient_wrapper {
+	width: 70%;
+	margin: 1.5em auto;
+	font-style: normal;
+	font-size: 90%;
+	text-align: left;
+}
+div.ingredient_wrapper_centered {
+	width: 70%;
+	margin: 1.5em auto;
+	font-style: normal;
+	font-size: 90%;
+	text-align: center;
+}
+h5.ingredient_header { /* Apply this class to the header for each ingredient block */
+	font-weight: bold;
+	font-style: normal;
+	line-height: 1.2em;
+	margin-bottom: 0.5em;
+	margin-top: 0em;
+	text-align: inherit;
+}
+ul.ingredient_items { /* Parent element for each ingredient block */
+	padding: 0px;
+	margin-top: 0px;
+	list-style-type: none;
+}
+.ingredient_wrapper ul.ingredient_items li {
+	margin-left: 0.5em;
+	text-indent: -0.5em;
+}
+.ingredient_wrapper_centered ul.ingredient_items li {
+	text-align: center;
+}
+
+/*
+	============================================================
+
+
+
+							 SIDEBARS
+
+
+
+	============================================================
+
+	The sidebar must use the <aside> tag as well as the epub type 'sidebar', ie: <aside class="sidebar_wrapper" epub:type="sidebar"></aside> */
+aside.sidebar_wrapper {
+	width: 25%;
+	float: left;
+	margin-right: 3%;
+	margin-top: 0.4em;
+	padding: 0px;
+	font-size: 0.72em;
+	font-weight: normal;
+	text-align: left; /* Or text-align:right */
+	line-height: 1.2em;
+	page-break-before: avoid;
+}
+/*	'div.maincontent_wrapper' *MUST ALWAYS* follow immediately after 'aside.sidebar_wrapper'. */
+div.maincontent_wrapper {
+	float: right;
+	width: 71%;
+	margin-top: 0em;
+	padding: 0px;
+}
+/*	'div.clear_float' *MUST ALWAYS* follow immediately after 'div.maincontent_wrapper'. The only content of this div must a single non-breaking space &#160; ie: <div class="clear_float">&#160</div>	*/
+div.clear_float {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+	height: 0px !important;
+}
+/*	All headers within '.sidebar_wrapper' must use the <h5> tag.	*/
+.sidebar_wrapper h5 {
+    font-family: "myFont";
+    font-weight: bold;
+	color: #ef6b00;
+	text-align: inherit;
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
+	line-height: 1.2em;
+}
+.sidebar_wrapper h5:first-child {
+	margin-top: 0em;
+}
+/*	Not only paragraphs, but also each child list item of '.sidebar_wrapper' must also use the <p> tag.	*/
+.sidebar_wrapper p {
+	text-align: inherit;
+	margin-bottom: 0.5em;
+	text-indent: 0px !important;
+}
+
+/*
+	============================================================
+
+
+
+							NOEMOJI FIX
+
+		Prevent webkit from converting HTML entities to emoji
+
+
+
+	============================================================
+*/
+.noemoji {
+	font-family: "noemoji";
+	font-size: inherit; /* variable */
+	font-weight: normal;
+}
+ 
+
+/*
+	============================================================
+
+
+
+					TYPESETTER CUSTOM STYLES
+
+	        Please place any styles you create below
+	           this comment, before MEDIA QUERIES.
+
+
+
+	============================================================
+*/
+
+
+/*
+	============================================================
+
+
+
+						  MEDIA QUERIES
+
+	[Must sit at the end of the very last referenced stylesheet]
+
+
+
+	============================================================
+
+
+	================================================
+	REMOVE DIFFERENT VERSIONS FROM THE DOCUMENT FLOW
+	================================================
+*/
+ 
+@media all{
+	.epub3_only {
+		display: none;
+	}
+}
+/*
+	=================================
+	KF8 NIGHT-MODE FIX FOR HYPERLINKS
+	=================================
+*/
+@media all{
+	a, a:visited {
+		color: #0066ff !important;
+		text-decoration: none;
+		border-bottom: 1px dotted;
+
+	}
+}
+/*
+	=================================
+	SIDEBAR LAYOUT FOR KINDLE IOS APP
+	=================================
+*/
+@media (device-height: 1024px) and (device-width: 768px),(device-height: 768px) and (device-width: 1024px) {
+	.sidebar_wrapper {
+		width: 100%;
+		text-align: center;
+		float: none;
+		font-size: 1em;
+	}
+	.maincontent_wrapper {
+		width: 100%;
+		float: none;
+	}
+	.sidebar_wrapper p {
+		text-align: center;
+		font-size: 0.9em;
+	}
+	.sidebar_wrapper h5 {
+		text-align: center;
+	}
+}
+
+/*
+	============================================================
+	              MEDIA QUERIES FOR E-INK DEVICES
+	[Must sit at the end of the very last referenced stylesheet]
+	============================================================
+
+
+		==
+		GENERIC
+		==
+	*/
+@media  screen and (device-height: 800px) and (device-width: 600px), screen and (device-height: 600px) and (device-width: 800px) {
+	body * {
+		color: #0c0a0b !important;
+	}	
+	a, a:visited {
+		color: #0066ff !important;
+		text-decoration: none;
+		border-bottom: 1px dotted;
+
+	}
+	h1, h2, h3, h4, h5, h6 {
+		font-weight: bold !important;
+	}
+}
+	/*
+		==
+		NOOK
+		==
+	*/
+@media  screen and (device-height: 1024px) and (device-width: 758px), screen and (device-height: 758px) and (device-width: 1024px) {
+	body * {
+		color: #0c0a0b !important;
+	}
+	a, a:visited {
+		color: #0066ff !important;
+		text-decoration: none;
+		border-bottom: 1px dotted;
+
+	}
+	h1, h2, h3, h4, h5, h6 {
+		font-weight: bold !important;
+	}
+}
+	/*
+		==
+		KINDLE VOYAGE
+		==
+	*/
+@media (device-height: 1448px) and (device-width: 1072px),(device-height: 1072px) and (device-width: 1448px) {
+	body * {
+		color: #0c0a0b !important;
+	}
+	a, a:visited {
+		color: #0066ff !important;
+		text-decoration: none;
+		border-bottom: 1px dotted;
+
+	}
+	h1, h2, h3, h4, h5, h6 {
+		font-weight: bold !important;
+	}
+}
+img.paralog {
+	height: 1.5em;
+	vertical-align: -0.3em;
+}

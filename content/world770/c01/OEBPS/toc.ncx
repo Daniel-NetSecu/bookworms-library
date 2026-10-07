@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+<head>
+<meta content="4273944292" name="dtb:uid"/>
+<meta content="1" name="dtb:depth"/>
+<meta content="mobiunpack.py" name="dtb:generator"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>塑造美国的88本书:美国语文读本套装(英汉双语图文版)</text>
+</docTitle>
+<navMap>
+    <navPoint id="np_1" playOrder="1">
+    <navLabel>
+    <text>总目录</text>
+    </navLabel>
+    <content src="Text/part0000.xhtml"/>
+    </navPoint>
+    <navPoint id="np_2" playOrder="2">
+    <navLabel>
+    <text>美国语文读本．1</text>
+    </navLabel>
+    <content src="Text/part0001.xhtml"/>
+    </navPoint>
+    <navPoint id="np_3" playOrder="3">
+    <navLabel>
+    <text>美国语文读本．2</text>
+    </navLabel>
+    <content src="Text/part0121.xhtml"/>
+    </navPoint>
+    <navPoint id="np_4" playOrder="4">
+    <navLabel>
+    <text>美国语文读本．3</text>
+    </navLabel>
+    <content src="Text/part0197.xhtml"/>
+    </navPoint>
+    <navPoint id="np_5" playOrder="5">
+    <navLabel>
+    <text>美国语文读本．4</text>
+    </navLabel>
+    <content src="Text/part0280.xhtml"/>
+    </navPoint>
+    <navPoint id="np_6" playOrder="6">
+    <navLabel>
+    <text>美国语文读本．5</text>
+    </navLabel>
+    <content src="Text/part0375.xhtml"/>
+    </navPoint>
+    <navPoint id="np_7" playOrder="7">
+    <navLabel>
+    <text>美国语文读本．6</text>
+    </navLabel>
+    <content src="Text/part0378.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

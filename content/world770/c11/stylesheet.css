@@ -1,0 +1,569 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.618em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    color: #00C
+    }
+.calibre2 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.618em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre3 {
+    display: block
+    }
+.calibre4 {
+    display: block
+    }
+.calibre5 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre6 {
+    display: block;
+    text-indent: 2em;
+    margin: 1em 0
+    }
+.calibre7 {
+    height: 0.1em;
+    width: auto
+    }
+.calibre8 {
+    line-height: 1.2
+    }
+.calibre9 {
+    color: gray;
+    display: block;
+    height: 2px;
+    margin: 0.5em auto;
+    border: currentColor inset 1px
+    }
+.calibre10 {
+    display: list-item
+    }
+.k {
+    display: block;
+    font-family: STKai, "MKai PRC", Kai, "楷体";
+    font-size: 0.75em;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.kindle-cn-bodycontent-div-alone {
+    display: block;
+    margin-top: 1em;
+    text-align: center;
+    width: 100%
+    }
+.kindle-cn-bodycontent-div-alone100-r {
+    display: block;
+    margin-top: 1em;
+    text-align: right;
+    width: 100%
+    }
+.kindle-cn-bodycontent-image-alone {
+    height: auto;
+    margin-bottom: -0.5em;
+    width: 100%
+    }
+.kindle-cn-bodycontent-image-alone1 {
+    height: auto;
+    margin-top: -0.3em;
+    width: 100%
+    }
+.kindle-cn-bodycontent-image-alone2 {
+    height: auto;
+    margin-bottom: -0.5em;
+    width: 40%
+    }
+.kindle-cn-bodycontent-image-alone3 {
+    height: auto;
+    margin-bottom: -0.5em;
+    width: 20%
+    }
+.kindle-cn-bodycontent-image-alone4 {
+    height: auto;
+    margin-bottom: -0.5em;
+    width: 30%
+    }
+.kindle-cn-bodycontent-image-alone5 {
+    height: auto;
+    margin-bottom: -0.5em;
+    width: 50%
+    }
+.kindle-cn-bodycontent-image-alone6 {
+    height: auto;
+    margin-bottom: -0.5em;
+    width: 70%
+    }
+.kindle-cn-bodycontent-image-alone7 {
+    height: auto;
+    margin-bottom: -0.5em;
+    width: 60%
+    }
+.kindle-cn-bodycontent-image-alone8 {
+    height: auto;
+    margin-bottom: -0.5em;
+    width: 80%
+    }
+.kindle-cn-bodycontent-image-alone9 {
+    height: auto;
+    margin-bottom: -0.5em;
+    width: 90%
+    }
+.kindle-cn-bodycontent-image-alone30-withnote {
+    height: auto;
+    margin-bottom: 0;
+    width: 30%
+    }
+.kindle-cn-bodycontent-image-alone40-withnote {
+    height: auto;
+    margin-bottom: 0;
+    width: 40%
+    }
+.kindle-cn-bodycontent-image-alone50-withnote {
+    height: auto;
+    margin-bottom: 0;
+    width: 50%
+    }
+.kindle-cn-bodycontent-image-alone60-withnote {
+    height: auto;
+    margin-bottom: 0;
+    width: 60%
+    }
+.kindle-cn-bodycontent-image-alone70-withnote {
+    height: auto;
+    margin-bottom: 0;
+    width: 70%
+    }
+.kindle-cn-bodycontent-image-alone80-withnote {
+    height: auto;
+    margin-bottom: 0;
+    width: 80%
+    }
+.kindle-cn-bold {
+    font-family: "MYing Hei S", Hei, "黑体";
+    font-weight: bold
+    }
+.kindle-cn-bold-italic {
+    font-style: italic;
+    font-weight: bold
+    }
+.kindle-cn-bold1 {
+    font-weight: bold
+    }
+.kindle-cn-copyright-text {
+    display: block;
+    line-height: 1.618em;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.kindle-cn-dropcap {
+    float: left;
+    font-size: 2em;
+    line-height: 1.1em;
+    text-indent: 0;
+    padding: 0
+    }
+.kindle-cn-dropcap1 {
+    float: left;
+    font-size: 2em;
+    line-height: 1.2;
+    text-indent: 0;
+    padding: 0
+    }
+.kindle-cn-exam-choice {
+    display: block;
+    font-size: 1em;
+    text-indent: 0;
+    margin: 1em 0 1em 2em
+    }
+.kindle-cn-frame-zhijiao {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-style: none;
+    border-left-width: 1px;
+    border-right-style: none;
+    border-right-width: 1px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: block;
+    font-size: 1em;
+    padding: 0.5em;
+    margin: 1.5em 0
+    }
+.kindle-cn-heading {
+    display: block;
+    font-family: "MYing Hei S", Hei, "黑体";
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    width: 100%;
+    margin: 0.67em 0 2em
+    }
+.kindle-cn-heading1 {
+    display: block;
+    font-family: "MYing Hei S", Hei, "黑体";
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    width: 100%;
+    padding: 0.75em 0;
+    margin: 0.67em 0;
+    border-top: #c7c7c7 dashed 2px;
+    border-bottom: #c7c7c7 dashed 2px
+    }
+.kindle-cn-inline-image {
+    height: 3em;
+    margin-left: -0.1em;
+    margin-right: -0.1em;
+    vertical-align: -0.1em;
+    width: auto
+    }
+.kindle-cn-inline-image1 {
+    height: 1.5em;
+    margin-left: -0.1em;
+    margin-right: -0.1em;
+    vertical-align: -0.4em;
+    width: auto
+    }
+.kindle-cn-inline-image2 {
+    height: 2.5em;
+    margin-left: -0.1em;
+    margin-right: -0.1em;
+    vertical-align: -0.1em;
+    width: auto
+    }
+.kindle-cn-inline-image3 {
+    height: 4em;
+    margin-left: -0.1em;
+    margin-right: -0.1em;
+    vertical-align: -0.1em;
+    width: auto
+    }
+.kindle-cn-inline-image4 {
+    height: 1.3em;
+    margin-left: -0.1em;
+    margin-right: -0.1em;
+    vertical-align: -0.4em;
+    width: auto
+    }
+.kindle-cn-inline-image5 {
+    height: 1em;
+    margin-left: -0.1em;
+    margin-right: -0.1em;
+    vertical-align: -0.1em;
+    width: auto
+    }
+.kindle-cn-inline-image6 {
+    height: 2em;
+    margin-left: -0.1em;
+    margin-right: -0.1em;
+    vertical-align: -0.3em;
+    width: auto
+    }
+.kindle-cn-inline-image7 {
+    height: 1.7em;
+    margin-left: -0.1em;
+    margin-right: -0.1em;
+    vertical-align: -0.1em;
+    width: auto
+    }
+.kindle-cn-inline-image8 {
+    height: 1.5em;
+    line-height: 1.2;
+    margin-left: -0.1em;
+    margin-right: -0.1em;
+    vertical-align: -0.4em;
+    width: auto
+    }
+.kindle-cn-inline-image9 {
+    height: 5em;
+    margin-left: -0.1em;
+    margin-right: -0.1em;
+    vertical-align: -0.1em;
+    width: auto
+    }
+.kindle-cn-italic {
+    font-style: italic
+    }
+.kindle-cn-italic1 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.kindle-cn-kai {
+    display: block;
+    font-size: 0.75em;
+    text-indent: 2em;
+    margin: 1em 0
+    }
+.kindle-cn-kai1 {
+    display: block;
+    font-family: STKai, "MKai PRC", Kai, "楷体";
+    text-indent: 2em;
+    margin: 1em 0
+    }
+.kindle-cn-ol-decimal {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.kindle-cn-para-align-center {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.kindle-cn-para-align-center1-y {
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.kindle-cn-para-center {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.kindle-cn-para-left {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    text-align: left;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.kindle-cn-para-no-indent {
+    display: block;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.kindle-cn-para-no-indent-k {
+    display: block;
+    font-family: STKai, "MKai PRC", Kai, "楷体";
+    text-indent: 0;
+    margin: 1em 0
+    }
+.kindle-cn-para-right {
+    display: block;
+    font-family: STKai, "MKai PRC", Kai, "楷体";
+    text-align: right;
+    text-indent: 2em;
+    margin: 1em 0
+    }
+.kindle-cn-picture-txt-withfewcharactors {
+    display: block;
+    font-family: STKai, "MKai PRC", Kai, "楷体";
+    font-size: 0.75em;
+    text-align: center;
+    text-indent: 0;
+    margin: -0.1em 0 1em
+    }
+.kindle-cn-picture-txt-withfewcharactors-y {
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    text-indent: 0;
+    margin: -0.1em 0 1em
+    }
+.kindle-cn-picture-txt-withmanycharactors {
+    display: block;
+    font-family: STKai, "MKai PRC", Kai, "楷体";
+    font-size: 0.75em;
+    text-align: left;
+    text-indent: 0;
+    margin: -0.1em 0 1em
+    }
+.kindle-cn-picture-txt-withmanycharactors-y {
+    display: block;
+    font-size: 0.75em;
+    text-align: justify;
+    text-indent: 0;
+    margin: -0.1em 0 1em
+    }
+.kindle-cn-poem-center {
+    display: block;
+    font-family: STKai, "MKai PRC", Kai, "楷体";
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.kindle-cn-poem-left {
+    display: block;
+    font-family: STKai, "MKai PRC", Kai, "楷体";
+    text-indent: 0;
+    margin: 1em 0 1em 6em
+    }
+.kindle-cn-poem-left-y {
+    display: block;
+    text-indent: 0;
+    margin: 1em 0 1em 6em
+    }
+.kindle-cn-ref {
+    display: block;
+    text-indent: 2em;
+    margin: 0 0 0 2em
+    }
+.kindle-cn-ref-b {
+    display: block;
+    font-weight: bold;
+    text-indent: 0;
+    margin: 0 0 0 2em
+    }
+.kindle-cn-ref-kt {
+    display: block;
+    font-family: STKai, "MKai PRC", Kai, "楷体";
+    text-indent: 0;
+    margin: 0 0 0 2em
+    }
+.kindle-cn-ref1 {
+    display: block;
+    text-indent: 0;
+    margin: 0 0 0 2em
+    }
+.kindle-cn-signature {
+    display: block;
+    text-align: right;
+    text-indent: 2em;
+    margin: 1em 0
+    }
+.kindle-cn-specialtext-bg {
+    background-color: #666;
+    color: white;
+    font-weight: bold;
+    padding: 0.2em
+    }
+.kindle-cn-specialtext-dash {
+    border-bottom-style: dashed;
+    border-bottom-width: 1px;
+    border-left-style: dashed;
+    border-left-width: 1px;
+    border-right-style: dashed;
+    border-right-width: 1px;
+    border-top-style: dashed;
+    border-top-width: 1px;
+    font-family: STKai, "MKai PRC", Kai, "楷体";
+    padding: 0.3em
+    }
+.kindle-cn-specialtext-kaiti {
+    font-family: STKai, "MKai PRC", Kai, "楷体"
+    }
+.kindle-cn-toc-level {
+    display: block;
+    margin-left: 0
+    }
+.kindle-cn-toc-level1 {
+    display: block;
+    margin-left: 2em
+    }
+.kindle-cn-toc-title {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: 1em;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    text-align: center;
+    border-bottom: #000 dotted 1.5px
+    }
+.math-sub {
+    font-size: 0.75em;
+    vertical-align: sub
+    }
+.math-sub-italic {
+    font-size: 0.75em;
+    font-style: italic;
+    vertical-align: sub
+    }
+.math-sub-italic1 {
+    font-size: 0.77778em;
+    font-style: italic;
+    vertical-align: sub
+    }
+.math-sub1 {
+    font-size: 0.77778em;
+    vertical-align: sub
+    }
+.math-sub2 {
+    font-size: 0.55556em;
+    vertical-align: sub
+    }
+.math-sub3 {
+    font-size: 0.70833em;
+    line-height: 1.2;
+    vertical-align: sub
+    }
+.math-super {
+    font-size: 0.75em;
+    vertical-align: super
+    }
+.math-super-italic {
+    font-size: 0.75em;
+    font-style: italic;
+    vertical-align: super
+    }
+.math-super-italic1 {
+    font-size: 0.77778em;
+    font-style: italic;
+    vertical-align: super
+    }
+.math-super1 {
+    font-size: 0.70833em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.math-super2 {
+    font-size: 0.77778em;
+    vertical-align: super
+    }
+.math-super3 {
+    font-size: 0.55556em;
+    vertical-align: super
+    }
+.math-super4 {
+    font-size: 0.66667em;
+    vertical-align: super
+    }
+.suojin {
+    display: block;
+    font-size: 0.75em;
+    text-indent: -1.5em;
+    margin: 0 0 0 2.5em
+    }
+.suojin1 {
+    display: block;
+    font-size: 0.75em;
+    text-indent: -2em;
+    margin: 0 0 0 2.5em
+    }
+.xz {
+    display: block;
+    font-size: 0.75em;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.xz1 {
+    display: block;
+    font-size: 0.75em;
+    text-align: right;
+    text-indent: 0;
+    margin: 1em 0
+    }

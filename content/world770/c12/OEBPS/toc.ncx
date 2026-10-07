@@ -1,0 +1,2661 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+<head>
+<meta content="3135751452" name="dtb:uid"/>
+<meta content="3" name="dtb:depth"/>
+<meta content="mobiunpack.py" name="dtb:generator"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Diary Of A Wimpy Kid小屁孩日记（双语对照版）（24册合集）【美国纽约时代周刊儿童系列套书畅销书排行榜排名第二！仅次于Harry Potter《哈利·波特》！全球狂销2亿册、被翻译成53种语言、在62个国家和地区出版的现象级畅销书！】</text>
+</docTitle>
+<navMap>
+    <navPoint id="np_1" playOrder="1">
+    <navLabel>
+    <text>总目录</text>
+    </navLabel>
+    <content src="Text/part0000.xhtml"/>
+    </navPoint>
+    <navPoint id="np_2" playOrder="2">
+    <navLabel>
+    <text>小屁孩日记：①.鬼屋创意</text>
+    </navLabel>
+    <content src="Text/part0001.xhtml"/>
+      <navPoint id="np_3" playOrder="3">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0002.xhtml"/>
+      </navPoint>
+      <navPoint id="np_4" playOrder="4">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0005.xhtml"/>
+      </navPoint>
+      <navPoint id="np_5" playOrder="5">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0006.xhtml"/>
+      </navPoint>
+      <navPoint id="np_6" playOrder="6">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0007.xhtml"/>
+      </navPoint>
+      <navPoint id="np_7" playOrder="7">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0008.xhtml"/>
+      </navPoint>
+      <navPoint id="np_8" playOrder="8">
+      <navLabel>
+      <text>小屁孩日记：①.鬼屋创意</text>
+      </navLabel>
+      <content src="Text/part0009.xhtml"/>
+        <navPoint id="np_9" playOrder="9">
+        <navLabel>
+        <text>九月</text>
+        </navLabel>
+        <content src="Text/part0009.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_10" playOrder="10">
+        <navLabel>
+        <text>十月</text>
+        </navLabel>
+        <content src="Text/part0009.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_11" playOrder="11">
+        <navLabel>
+        <text>十一月</text>
+        </navLabel>
+        <content src="Text/part0009.xhtml#CHP6-3"/>
+        </navPoint>
+        <navPoint id="np_12" playOrder="12">
+        <navLabel>
+        <text>十二月</text>
+        </navLabel>
+        <content src="Text/part0009.xhtml#CHP6-4"/>
+        </navPoint>
+        <navPoint id="np_13" playOrder="13">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0009.xhtml#CHP6-5"/>
+        </navPoint>
+        <navPoint id="np_14" playOrder="14">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0009.xhtml#CHP6-6"/>
+        </navPoint>
+        <navPoint id="np_15" playOrder="15">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0009.xhtml#CHP6-7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_16" playOrder="16">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ① by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0010.xhtml"/>
+        <navPoint id="np_17" playOrder="17">
+        <navLabel>
+        <text>SEPTEMBER</text>
+        </navLabel>
+        <content src="Text/part0010.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_18" playOrder="18">
+        <navLabel>
+        <text>OCTOBER</text>
+        </navLabel>
+        <content src="Text/part0010.xhtml#CHP7-2"/>
+        </navPoint>
+        <navPoint id="np_19" playOrder="19">
+        <navLabel>
+        <text>NOVEMBER</text>
+        </navLabel>
+        <content src="Text/part0010.xhtml#CHP7-3"/>
+        </navPoint>
+        <navPoint id="np_20" playOrder="20">
+        <navLabel>
+        <text>DECEMBER</text>
+        </navLabel>
+        <content src="Text/part0010.xhtml#CHP7-4"/>
+        </navPoint>
+        <navPoint id="np_21" playOrder="21">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0010.xhtml#CHP7-5"/>
+        </navPoint>
+        <navPoint id="np_22" playOrder="22">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0010.xhtml#CHP7-6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_23" playOrder="23">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0011.xhtml"/>
+      </navPoint>
+      <navPoint id="np_24" playOrder="24">
+      <navLabel>
+      <text>望子快乐</text>
+      </navLabel>
+      <content src="Text/part0012.xhtml"/>
+      </navPoint>
+      <navPoint id="np_25" playOrder="25">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0013.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_26" playOrder="26">
+    <navLabel>
+    <text>小屁孩日记：②.谁“动”了“千年奶酪”</text>
+    </navLabel>
+    <content src="Text/part0014.xhtml"/>
+      <navPoint id="np_27" playOrder="27">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0015.xhtml"/>
+      </navPoint>
+      <navPoint id="np_28" playOrder="28">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0018.xhtml"/>
+      </navPoint>
+      <navPoint id="np_29" playOrder="29">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0019.xhtml"/>
+      </navPoint>
+      <navPoint id="np_30" playOrder="30">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0020.xhtml"/>
+      </navPoint>
+      <navPoint id="np_31" playOrder="31">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0021.xhtml"/>
+      </navPoint>
+      <navPoint id="np_32" playOrder="32">
+      <navLabel>
+      <text>小屁孩日记：②.谁“动”了“千年奶酪”</text>
+      </navLabel>
+      <content src="Text/part0023.xhtml"/>
+        <navPoint id="np_33" playOrder="33">
+        <navLabel>
+        <text>十二月</text>
+        </navLabel>
+        <content src="Text/part0023.xhtml#CHP5-1"/>
+        </navPoint>
+        <navPoint id="np_34" playOrder="34">
+        <navLabel>
+        <text>一月</text>
+        </navLabel>
+        <content src="Text/part0023.xhtml#CHP5-2"/>
+        </navPoint>
+        <navPoint id="np_35" playOrder="35">
+        <navLabel>
+        <text>二月</text>
+        </navLabel>
+        <content src="Text/part0023.xhtml#CHP5-3"/>
+        </navPoint>
+        <navPoint id="np_36" playOrder="36">
+        <navLabel>
+        <text>三月</text>
+        </navLabel>
+        <content src="Text/part0023.xhtml#CHP5-4"/>
+        </navPoint>
+        <navPoint id="np_37" playOrder="37">
+        <navLabel>
+        <text>四月</text>
+        </navLabel>
+        <content src="Text/part0023.xhtml#CHP5-5"/>
+        </navPoint>
+        <navPoint id="np_38" playOrder="38">
+        <navLabel>
+        <text>五月</text>
+        </navLabel>
+        <content src="Text/part0023.xhtml#CHP5-6"/>
+        </navPoint>
+        <navPoint id="np_39" playOrder="39">
+        <navLabel>
+        <text>六月</text>
+        </navLabel>
+        <content src="Text/part0023.xhtml#CHP5-7"/>
+        </navPoint>
+        <navPoint id="np_40" playOrder="40">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0023.xhtml#CHP5-8"/>
+        </navPoint>
+        <navPoint id="np_41" playOrder="41">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0023.xhtml#CHP5-9"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_42" playOrder="42">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ② by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0024.xhtml"/>
+        <navPoint id="np_43" playOrder="43">
+        <navLabel>
+        <text>DECEMBER</text>
+        </navLabel>
+        <content src="Text/part0024.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_44" playOrder="44">
+        <navLabel>
+        <text>JANUARY</text>
+        </navLabel>
+        <content src="Text/part0024.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_45" playOrder="45">
+        <navLabel>
+        <text>FEBRUARY</text>
+        </navLabel>
+        <content src="Text/part0024.xhtml#CHP6-3"/>
+        </navPoint>
+        <navPoint id="np_46" playOrder="46">
+        <navLabel>
+        <text>MARCH</text>
+        </navLabel>
+        <content src="Text/part0024.xhtml#CHP6-4"/>
+        </navPoint>
+        <navPoint id="np_47" playOrder="47">
+        <navLabel>
+        <text>APRIL</text>
+        </navLabel>
+        <content src="Text/part0024.xhtml#CHP6-5"/>
+        </navPoint>
+        <navPoint id="np_48" playOrder="48">
+        <navLabel>
+        <text>MAY</text>
+        </navLabel>
+        <content src="Text/part0024.xhtml#CHP6-6"/>
+        </navPoint>
+        <navPoint id="np_49" playOrder="49">
+        <navLabel>
+        <text>JUNE</text>
+        </navLabel>
+        <content src="Text/part0024.xhtml#CHP6-7"/>
+        </navPoint>
+        <navPoint id="np_50" playOrder="50">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0024.xhtml#CHP6-8"/>
+        </navPoint>
+        <navPoint id="np_51" playOrder="51">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0024.xhtml#CHP6-9"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_52" playOrder="52">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0025.xhtml"/>
+      </navPoint>
+      <navPoint id="np_53" playOrder="53">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0026.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_54" playOrder="54">
+    <navLabel>
+    <text>小屁孩日记：③.好孩子不撒谎</text>
+    </navLabel>
+    <content src="Text/part0027.xhtml"/>
+      <navPoint id="np_55" playOrder="55">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0028.xhtml"/>
+      </navPoint>
+      <navPoint id="np_56" playOrder="56">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0031.xhtml"/>
+      </navPoint>
+      <navPoint id="np_57" playOrder="57">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0032.xhtml"/>
+      </navPoint>
+      <navPoint id="np_58" playOrder="58">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0033.xhtml"/>
+      </navPoint>
+      <navPoint id="np_59" playOrder="59">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0034.xhtml"/>
+      </navPoint>
+      <navPoint id="np_60" playOrder="60">
+      <navLabel>
+      <text>小屁孩日记：③.好孩子不撒谎</text>
+      </navLabel>
+      <content src="Text/part0035.xhtml"/>
+        <navPoint id="np_61" playOrder="61">
+        <navLabel>
+        <text>九月</text>
+        </navLabel>
+        <content src="Text/part0035.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_62" playOrder="62">
+        <navLabel>
+        <text>十月</text>
+        </navLabel>
+        <content src="Text/part0035.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_63" playOrder="63">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0035.xhtml#CHP6-3"/>
+        </navPoint>
+        <navPoint id="np_64" playOrder="64">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0035.xhtml#CHP6-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_65" playOrder="65">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ③ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0036.xhtml"/>
+        <navPoint id="np_66" playOrder="66">
+        <navLabel>
+        <text>SEPTEMBER</text>
+        </navLabel>
+        <content src="Text/part0036.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_67" playOrder="67">
+        <navLabel>
+        <text>OCTOBER</text>
+        </navLabel>
+        <content src="Text/part0036.xhtml#CHP7-2"/>
+        </navPoint>
+        <navPoint id="np_68" playOrder="68">
+        <navLabel>
+        <text>Rory Screws Up</text>
+        </navLabel>
+        <content src="Text/part0036.xhtml#CHP7-3"/>
+        </navPoint>
+        <navPoint id="np_69" playOrder="69">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0036.xhtml#CHP7-4"/>
+        </navPoint>
+        <navPoint id="np_70" playOrder="70">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0036.xhtml#CHP7-5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_71" playOrder="71">
+      <navLabel>
+      <text>杰夫·金尼2018中国行</text>
+      </navLabel>
+      <content src="Text/part0037.xhtml"/>
+      </navPoint>
+      <navPoint id="np_72" playOrder="72">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0038.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_73" playOrder="73">
+    <navLabel>
+    <text>小屁孩日记：④.偷鸡不成蚀把米</text>
+    </navLabel>
+    <content src="Text/part0039.xhtml"/>
+      <navPoint id="np_74" playOrder="74">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0040.xhtml"/>
+      </navPoint>
+      <navPoint id="np_75" playOrder="75">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0043.xhtml"/>
+      </navPoint>
+      <navPoint id="np_76" playOrder="76">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0044.xhtml"/>
+      </navPoint>
+      <navPoint id="np_77" playOrder="77">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0045.xhtml"/>
+      </navPoint>
+      <navPoint id="np_78" playOrder="78">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0046.xhtml"/>
+      </navPoint>
+      <navPoint id="np_79" playOrder="79">
+      <navLabel>
+      <text>小屁孩日记：④.偷鸡不成蚀把米</text>
+      </navLabel>
+      <content src="Text/part0047.xhtml"/>
+        <navPoint id="np_80" playOrder="80">
+        <navLabel>
+        <text>十一月</text>
+        </navLabel>
+        <content src="Text/part0047.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_81" playOrder="81">
+        <navLabel>
+        <text>十二月</text>
+        </navLabel>
+        <content src="Text/part0047.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_82" playOrder="82">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0047.xhtml#CHP6-3"/>
+        </navPoint>
+        <navPoint id="np_83" playOrder="83">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0047.xhtml#CHP6-4"/>
+        </navPoint>
+        <navPoint id="np_84" playOrder="84">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0047.xhtml#CHP6-5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_85" playOrder="85">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ④ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0048.xhtml"/>
+        <navPoint id="np_86" playOrder="86">
+        <navLabel>
+        <text>NOVEMBER</text>
+        </navLabel>
+        <content src="Text/part0048.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_87" playOrder="87">
+        <navLabel>
+        <text>DECEMBER</text>
+        </navLabel>
+        <content src="Text/part0048.xhtml#CHP7-2"/>
+        </navPoint>
+        <navPoint id="np_88" playOrder="88">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0048.xhtml#CHP7-3"/>
+        </navPoint>
+        <navPoint id="np_89" playOrder="89">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0048.xhtml#CHP7-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_90" playOrder="90">
+      <navLabel>
+      <text>杰夫·金尼2018中国行</text>
+      </navLabel>
+      <content src="Text/part0049.xhtml"/>
+      </navPoint>
+      <navPoint id="np_91" playOrder="91">
+      <navLabel>
+      <text>望子快乐</text>
+      </navLabel>
+      <content src="Text/part0050.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_92" playOrder="92">
+    <navLabel>
+    <text>小屁孩日记：⑤.午餐零食大盗</text>
+    </navLabel>
+    <content src="Text/part0051.xhtml"/>
+      <navPoint id="np_93" playOrder="93">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0052.xhtml"/>
+      </navPoint>
+      <navPoint id="np_94" playOrder="94">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0055.xhtml"/>
+      </navPoint>
+      <navPoint id="np_95" playOrder="95">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0056.xhtml"/>
+      </navPoint>
+      <navPoint id="np_96" playOrder="96">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0057.xhtml"/>
+      </navPoint>
+      <navPoint id="np_97" playOrder="97">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0058.xhtml"/>
+      </navPoint>
+      <navPoint id="np_98" playOrder="98">
+      <navLabel>
+      <text>小屁孩日记：⑤.午餐零食大盗</text>
+      </navLabel>
+      <content src="Text/part0059.xhtml"/>
+        <navPoint id="np_99" playOrder="99">
+        <navLabel>
+        <text>一月</text>
+        </navLabel>
+        <content src="Text/part0059.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_100" playOrder="100">
+        <navLabel>
+        <text>二月</text>
+        </navLabel>
+        <content src="Text/part0059.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_101" playOrder="101">
+        <navLabel>
+        <text>三月</text>
+        </navLabel>
+        <content src="Text/part0059.xhtml#CHP6-3"/>
+        </navPoint>
+        <navPoint id="np_102" playOrder="102">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0059.xhtml#CHP6-4"/>
+        </navPoint>
+        <navPoint id="np_103" playOrder="103">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0059.xhtml#CHP6-5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_104" playOrder="104">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑤ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0060.xhtml"/>
+        <navPoint id="np_105" playOrder="105">
+        <navLabel>
+        <text>JANUARY</text>
+        </navLabel>
+        <content src="Text/part0060.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_106" playOrder="106">
+        <navLabel>
+        <text>FEBRUARY</text>
+        </navLabel>
+        <content src="Text/part0060.xhtml#CHP7-2"/>
+        </navPoint>
+        <navPoint id="np_107" playOrder="107">
+        <navLabel>
+        <text>MARCH</text>
+        </navLabel>
+        <content src="Text/part0060.xhtml#CHP7-3"/>
+        </navPoint>
+        <navPoint id="np_108" playOrder="108">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0060.xhtml#CHP7-4"/>
+        </navPoint>
+        <navPoint id="np_109" playOrder="109">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0060.xhtml#CHP7-5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_110" playOrder="110">
+      <navLabel>
+      <text>杰夫·金尼2018中国行</text>
+      </navLabel>
+      <content src="Text/part0061.xhtml"/>
+      </navPoint>
+      <navPoint id="np_111" playOrder="111">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0062.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_112" playOrder="112">
+    <navLabel>
+    <text>小屁孩日记：⑥.可怕的炮兵学校</text>
+    </navLabel>
+    <content src="Text/part0063.xhtml"/>
+      <navPoint id="np_113" playOrder="113">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0064.xhtml"/>
+      </navPoint>
+      <navPoint id="np_114" playOrder="114">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0067.xhtml"/>
+      </navPoint>
+      <navPoint id="np_115" playOrder="115">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0068.xhtml"/>
+      </navPoint>
+      <navPoint id="np_116" playOrder="116">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0069.xhtml"/>
+      </navPoint>
+      <navPoint id="np_117" playOrder="117">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0070.xhtml"/>
+      </navPoint>
+      <navPoint id="np_118" playOrder="118">
+      <navLabel>
+      <text>小屁孩日记：⑥.可怕的炮兵学校</text>
+      </navLabel>
+      <content src="Text/part0071.xhtml"/>
+        <navPoint id="np_119" playOrder="119">
+        <navLabel>
+        <text>四月</text>
+        </navLabel>
+        <content src="Text/part0071.xhtml#CHP5-1"/>
+        </navPoint>
+        <navPoint id="np_120" playOrder="120">
+        <navLabel>
+        <text>五月</text>
+        </navLabel>
+        <content src="Text/part0071.xhtml#CHP5-2"/>
+        </navPoint>
+        <navPoint id="np_121" playOrder="121">
+        <navLabel>
+        <text>六月</text>
+        </navLabel>
+        <content src="Text/part0071.xhtml#CHP5-3"/>
+        </navPoint>
+        <navPoint id="np_122" playOrder="122">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0071.xhtml#CHP5-4"/>
+        </navPoint>
+        <navPoint id="np_123" playOrder="123">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0071.xhtml#CHP5-5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_124" playOrder="124">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑥ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0072.xhtml"/>
+        <navPoint id="np_125" playOrder="125">
+        <navLabel>
+        <text>APRIL</text>
+        </navLabel>
+        <content src="Text/part0072.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_126" playOrder="126">
+        <navLabel>
+        <text>MAY</text>
+        </navLabel>
+        <content src="Text/part0072.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_127" playOrder="127">
+        <navLabel>
+        <text>JUNE</text>
+        </navLabel>
+        <content src="Text/part0072.xhtml#CHP6-3"/>
+        </navPoint>
+        <navPoint id="np_128" playOrder="128">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0072.xhtml#CHP6-4"/>
+        </navPoint>
+        <navPoint id="np_129" playOrder="129">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0072.xhtml#CHP6-5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_130" playOrder="130">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0073.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_131" playOrder="131">
+    <navLabel>
+    <text>小屁孩日记：⑦.从天而降的巨债</text>
+    </navLabel>
+    <content src="Text/part0074.xhtml"/>
+      <navPoint id="np_132" playOrder="132">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0075.xhtml"/>
+      </navPoint>
+      <navPoint id="np_133" playOrder="133">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0078.xhtml"/>
+      </navPoint>
+      <navPoint id="np_134" playOrder="134">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0079.xhtml"/>
+      </navPoint>
+      <navPoint id="np_135" playOrder="135">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0080.xhtml"/>
+      </navPoint>
+      <navPoint id="np_136" playOrder="136">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0081.xhtml"/>
+      </navPoint>
+      <navPoint id="np_137" playOrder="137">
+      <navLabel>
+      <text>小屁孩日记：⑦.从天而降的巨债</text>
+      </navLabel>
+      <content src="Text/part0082.xhtml"/>
+        <navPoint id="np_138" playOrder="138">
+        <navLabel>
+        <text>六月</text>
+        </navLabel>
+        <content src="Text/part0082.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_139" playOrder="139">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0082.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_140" playOrder="140">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0082.xhtml#CHP6-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_141" playOrder="141">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑦ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0083.xhtml"/>
+        <navPoint id="np_142" playOrder="142">
+        <navLabel>
+        <text>JUNE</text>
+        </navLabel>
+        <content src="Text/part0083.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_143" playOrder="143">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0083.xhtml#CHP7-2"/>
+        </navPoint>
+        <navPoint id="np_144" playOrder="144">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0083.xhtml#CHP7-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_145" playOrder="145">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0084.xhtml"/>
+      </navPoint>
+      <navPoint id="np_146" playOrder="146">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0085.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_147" playOrder="147">
+    <navLabel>
+    <text>小屁孩日记：⑧.“头盖骨摇晃机”的幸存者</text>
+    </navLabel>
+    <content src="Text/part0086.xhtml"/>
+      <navPoint id="np_148" playOrder="148">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0087.xhtml"/>
+      </navPoint>
+      <navPoint id="np_149" playOrder="149">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0090.xhtml"/>
+      </navPoint>
+      <navPoint id="np_150" playOrder="150">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0091.xhtml"/>
+      </navPoint>
+      <navPoint id="np_151" playOrder="151">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0092.xhtml"/>
+      </navPoint>
+      <navPoint id="np_152" playOrder="152">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0093.xhtml"/>
+      </navPoint>
+      <navPoint id="np_153" playOrder="153">
+      <navLabel>
+      <text>小屁孩日记：⑧.“头盖骨摇晃机”的幸存者</text>
+      </navLabel>
+      <content src="Text/part0094.xhtml"/>
+        <navPoint id="np_154" playOrder="154">
+        <navLabel>
+        <text>六月</text>
+        </navLabel>
+        <content src="Text/part0094.xhtml#CHP5-1"/>
+        </navPoint>
+        <navPoint id="np_155" playOrder="155">
+        <navLabel>
+        <text>八月</text>
+        </navLabel>
+        <content src="Text/part0094.xhtml#CHP5-2"/>
+        </navPoint>
+        <navPoint id="np_156" playOrder="156">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0094.xhtml#CHP5-3"/>
+        </navPoint>
+        <navPoint id="np_157" playOrder="157">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0094.xhtml#CHP5-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_158" playOrder="158">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑧ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0095.xhtml"/>
+        <navPoint id="np_159" playOrder="159">
+        <navLabel>
+        <text>JULY</text>
+        </navLabel>
+        <content src="Text/part0095.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_160" playOrder="160">
+        <navLabel>
+        <text>AUGUST</text>
+        </navLabel>
+        <content src="Text/part0095.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_161" playOrder="161">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0095.xhtml#CHP6-3"/>
+        </navPoint>
+        <navPoint id="np_162" playOrder="162">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0095.xhtml#CHP6-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_163" playOrder="163">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0096.xhtml"/>
+      </navPoint>
+      <navPoint id="np_164" playOrder="164">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0097.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_165" playOrder="165">
+    <navLabel>
+    <text>小屁孩日记：⑨.老妈不在家</text>
+    </navLabel>
+    <content src="Text/part0098.xhtml"/>
+      <navPoint id="np_166" playOrder="166">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0099.xhtml"/>
+      </navPoint>
+      <navPoint id="np_167" playOrder="167">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0102.xhtml"/>
+      </navPoint>
+      <navPoint id="np_168" playOrder="168">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0103.xhtml"/>
+      </navPoint>
+      <navPoint id="np_169" playOrder="169">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0104.xhtml"/>
+      </navPoint>
+      <navPoint id="np_170" playOrder="170">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0105.xhtml"/>
+      </navPoint>
+      <navPoint id="np_171" playOrder="171">
+      <navLabel>
+      <text>小屁孩日记：⑨.老妈不在家</text>
+      </navLabel>
+      <content src="Text/part0106.xhtml"/>
+        <navPoint id="np_172" playOrder="172">
+        <navLabel>
+        <text>九月</text>
+        </navLabel>
+        <content src="Text/part0106.xhtml#CHP5-1"/>
+        </navPoint>
+        <navPoint id="np_173" playOrder="173">
+        <navLabel>
+        <text>十月</text>
+        </navLabel>
+        <content src="Text/part0106.xhtml#CHP5-2"/>
+        </navPoint>
+        <navPoint id="np_174" playOrder="174">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0106.xhtml#CHP5-3"/>
+        </navPoint>
+        <navPoint id="np_175" playOrder="175">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0106.xhtml#CHP5-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_176" playOrder="176">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑨ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0107.xhtml"/>
+        <navPoint id="np_177" playOrder="177">
+        <navLabel>
+        <text>SEPTEMBER</text>
+        </navLabel>
+        <content src="Text/part0107.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_178" playOrder="178">
+        <navLabel>
+        <text>OCTOBER</text>
+        </navLabel>
+        <content src="Text/part0107.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_179" playOrder="179">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0107.xhtml#sigil_toc_id_1"/>
+        </navPoint>
+        <navPoint id="np_180" playOrder="180">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0107.xhtml#CHP6-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_181" playOrder="181">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0108.xhtml"/>
+      </navPoint>
+      <navPoint id="np_182" playOrder="182">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0109.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_183" playOrder="183">
+    <navLabel>
+    <text>小屁孩日记：⑩.“屁股照片”风波</text>
+    </navLabel>
+    <content src="Text/part0110.xhtml"/>
+      <navPoint id="np_184" playOrder="184">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0111.xhtml"/>
+      </navPoint>
+      <navPoint id="np_185" playOrder="185">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0114.xhtml"/>
+      </navPoint>
+      <navPoint id="np_186" playOrder="186">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0115.xhtml"/>
+      </navPoint>
+      <navPoint id="np_187" playOrder="187">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0116.xhtml"/>
+      </navPoint>
+      <navPoint id="np_188" playOrder="188">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0117.xhtml"/>
+      </navPoint>
+      <navPoint id="np_189" playOrder="189">
+      <navLabel>
+      <text>小屁孩日记：⑩.“屁股照片”风波</text>
+      </navLabel>
+      <content src="Text/part0118.xhtml"/>
+        <navPoint id="np_190" playOrder="190">
+        <navLabel>
+        <text>十一月</text>
+        </navLabel>
+        <content src="Text/part0118.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_191" playOrder="191">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0118.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_192" playOrder="192">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0118.xhtml#CHP6-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_193" playOrder="193">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑩ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0119.xhtml"/>
+        <navPoint id="np_194" playOrder="194">
+        <navLabel>
+        <text>NOVEMBER</text>
+        </navLabel>
+        <content src="Text/part0119.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_195" playOrder="195">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0119.xhtml#CHP7-2"/>
+        </navPoint>
+        <navPoint id="np_196" playOrder="196">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0119.xhtml#CHP7-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_197" playOrder="197">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0120.xhtml"/>
+      </navPoint>
+      <navPoint id="np_198" playOrder="198">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0121.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_199" playOrder="199">
+    <navLabel>
+    <text>小屁孩日记：⑪.好孩子 坏孩子</text>
+    </navLabel>
+    <content src="Text/part0122.xhtml"/>
+      <navPoint id="np_200" playOrder="200">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0123.xhtml"/>
+      </navPoint>
+      <navPoint id="np_201" playOrder="201">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0126.xhtml"/>
+      </navPoint>
+      <navPoint id="np_202" playOrder="202">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0127.xhtml"/>
+      </navPoint>
+      <navPoint id="np_203" playOrder="203">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0128.xhtml"/>
+      </navPoint>
+      <navPoint id="np_204" playOrder="204">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0129.xhtml"/>
+      </navPoint>
+      <navPoint id="np_205" playOrder="205">
+      <navLabel>
+      <text>小屁孩日记：⑪.好孩子 坏孩子</text>
+      </navLabel>
+      <content src="Text/part0130.xhtml"/>
+        <navPoint id="np_206" playOrder="206">
+        <navLabel>
+        <text>十一月</text>
+        </navLabel>
+        <content src="Text/part0130.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_207" playOrder="207">
+        <navLabel>
+        <text>十二月</text>
+        </navLabel>
+        <content src="Text/part0130.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_208" playOrder="208">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0130.xhtml#CHP6-3"/>
+        </navPoint>
+        <navPoint id="np_209" playOrder="209">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0130.xhtml#CHP6-4"/>
+        </navPoint>
+        <navPoint id="np_210" playOrder="210">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0130.xhtml#CHP6-5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_211" playOrder="211">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑪ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0131.xhtml"/>
+        <navPoint id="np_212" playOrder="212">
+        <navLabel>
+        <text>NOVEMBER</text>
+        </navLabel>
+        <content src="Text/part0131.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_213" playOrder="213">
+        <navLabel>
+        <text>DECEMBER</text>
+        </navLabel>
+        <content src="Text/part0131.xhtml#CHP7-2"/>
+        </navPoint>
+        <navPoint id="np_214" playOrder="214">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0131.xhtml#CHP7-3"/>
+        </navPoint>
+        <navPoint id="np_215" playOrder="215">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0131.xhtml#CHP7-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_216" playOrder="216">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0132.xhtml"/>
+      </navPoint>
+      <navPoint id="np_217" playOrder="217">
+      <navLabel>
+      <text>望子快乐</text>
+      </navLabel>
+      <content src="Text/part0133.xhtml"/>
+      </navPoint>
+      <navPoint id="np_218" playOrder="218">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0134.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_219" playOrder="219">
+    <navLabel>
+    <text>小屁孩日记：⑫.雪上加霜</text>
+    </navLabel>
+    <content src="Text/part0135.xhtml"/>
+      <navPoint id="np_220" playOrder="220">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0136.xhtml"/>
+      </navPoint>
+      <navPoint id="np_221" playOrder="221">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0139.xhtml"/>
+      </navPoint>
+      <navPoint id="np_222" playOrder="222">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0140.xhtml"/>
+      </navPoint>
+      <navPoint id="np_223" playOrder="223">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0141.xhtml"/>
+      </navPoint>
+      <navPoint id="np_224" playOrder="224">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0142.xhtml"/>
+      </navPoint>
+      <navPoint id="np_225" playOrder="225">
+      <navLabel>
+      <text>小屁孩日记：12.雪上加霜</text>
+      </navLabel>
+      <content src="Text/part0143.xhtml"/>
+        <navPoint id="np_226" playOrder="226">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0143.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_227" playOrder="227">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0143.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_228" playOrder="228">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0143.xhtml#CHP6-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_229" playOrder="229">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑫ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0144.xhtml"/>
+        <navPoint id="np_230" playOrder="230">
+        <navLabel>
+        <text>Acknowledgments</text>
+        </navLabel>
+        <content src="Text/part0144.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_231" playOrder="231">
+        <navLabel>
+        <text>ABoUt tHe AUtHoR</text>
+        </navLabel>
+        <content src="Text/part0144.xhtml#CHP7-2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_232" playOrder="232">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0145.xhtml"/>
+      </navPoint>
+      <navPoint id="np_233" playOrder="233">
+      <navLabel>
+      <text>望子快乐</text>
+      </navLabel>
+      <content src="Text/part0146.xhtml"/>
+      </navPoint>
+      <navPoint id="np_234" playOrder="234">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0147.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_235" playOrder="235">
+    <navLabel>
+    <text>小屁孩日记：⑬.校园卷纸大战</text>
+    </navLabel>
+    <content src="Text/part0148.xhtml"/>
+      <navPoint id="np_236" playOrder="236">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0149.xhtml"/>
+      </navPoint>
+      <navPoint id="np_237" playOrder="237">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0152.xhtml"/>
+      </navPoint>
+      <navPoint id="np_238" playOrder="238">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0153.xhtml"/>
+      </navPoint>
+      <navPoint id="np_239" playOrder="239">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0154.xhtml"/>
+      </navPoint>
+      <navPoint id="np_240" playOrder="240">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0155.xhtml"/>
+      </navPoint>
+      <navPoint id="np_241" playOrder="241">
+      <navLabel>
+      <text>小屁孩日记：⑬.校园卷纸大战</text>
+      </navLabel>
+      <content src="Text/part0156.xhtml"/>
+        <navPoint id="np_242" playOrder="242">
+        <navLabel>
+        <text>一月</text>
+        </navLabel>
+        <content src="Text/part0156.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_243" playOrder="243">
+        <navLabel>
+        <text>二月</text>
+        </navLabel>
+        <content src="Text/part0156.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_244" playOrder="244">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0156.xhtml#CHP6-3"/>
+        </navPoint>
+        <navPoint id="np_245" playOrder="245">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0156.xhtml#CHP6-4"/>
+        </navPoint>
+        <navPoint id="np_246" playOrder="246">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0156.xhtml#CHP6-5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_247" playOrder="247">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑬ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0157.xhtml"/>
+        <navPoint id="np_248" playOrder="248">
+        <navLabel>
+        <text>JANUARY</text>
+        </navLabel>
+        <content src="Text/part0157.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_249" playOrder="249">
+        <navLabel>
+        <text>FEBRUARY</text>
+        </navLabel>
+        <content src="Text/part0157.xhtml#CHP7-2"/>
+        </navPoint>
+        <navPoint id="np_250" playOrder="250">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0157.xhtml#CHP7-3"/>
+        </navPoint>
+        <navPoint id="np_251" playOrder="251">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0157.xhtml#CHP7-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_252" playOrder="252">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0158.xhtml"/>
+      </navPoint>
+      <navPoint id="np_253" playOrder="253">
+      <navLabel>
+      <text>望子快乐</text>
+      </navLabel>
+      <content src="Text/part0159.xhtml"/>
+      </navPoint>
+      <navPoint id="np_254" playOrder="254">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0160.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_255" playOrder="255">
+    <navLabel>
+    <text>小屁孩日记：⑭.少年格雷的烦恼</text>
+    </navLabel>
+    <content src="Text/part0161.xhtml"/>
+      <navPoint id="np_256" playOrder="256">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0162.xhtml"/>
+      </navPoint>
+      <navPoint id="np_257" playOrder="257">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0165.xhtml"/>
+      </navPoint>
+      <navPoint id="np_258" playOrder="258">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0166.xhtml"/>
+      </navPoint>
+      <navPoint id="np_259" playOrder="259">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0167.xhtml"/>
+      </navPoint>
+      <navPoint id="np_260" playOrder="260">
+      <navLabel>
+      <text>小屁孩日记：⑭.少年格雷的烦恼</text>
+      </navLabel>
+      <content src="Text/part0168.xhtml"/>
+        <navPoint id="np_261" playOrder="261">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0168.xhtml#CHP5-1"/>
+        </navPoint>
+        <navPoint id="np_262" playOrder="262">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0168.xhtml#CHP5-2"/>
+        </navPoint>
+        <navPoint id="np_263" playOrder="263">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0168.xhtml#CHP5-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_264" playOrder="264">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑭ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0169.xhtml"/>
+        <navPoint id="np_265" playOrder="265">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0169.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_266" playOrder="266">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0169.xhtml#CHP6-2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_267" playOrder="267">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0170.xhtml"/>
+      </navPoint>
+      <navPoint id="np_268" playOrder="268">
+      <navLabel>
+      <text>望子快乐</text>
+      </navLabel>
+      <content src="Text/part0171.xhtml"/>
+      </navPoint>
+      <navPoint id="np_269" playOrder="269">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0172.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_270" playOrder="270">
+    <navLabel>
+    <text>小屁孩日记：⑮.我和我的小伙伴们</text>
+    </navLabel>
+    <content src="Text/part0173.xhtml"/>
+      <navPoint id="np_271" playOrder="271">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0174.xhtml"/>
+      </navPoint>
+      <navPoint id="np_272" playOrder="272">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0177.xhtml"/>
+      </navPoint>
+      <navPoint id="np_273" playOrder="273">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0178.xhtml"/>
+      </navPoint>
+      <navPoint id="np_274" playOrder="274">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0179.xhtml"/>
+      </navPoint>
+      <navPoint id="np_275" playOrder="275">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0180.xhtml"/>
+      </navPoint>
+      <navPoint id="np_276" playOrder="276">
+      <navLabel>
+      <text>小屁孩日记：⑮.我和我的小伙伴们</text>
+      </navLabel>
+      <content src="Text/part0181.xhtml"/>
+        <navPoint id="np_277" playOrder="277">
+        <navLabel>
+        <text>三月</text>
+        </navLabel>
+        <content src="Text/part0181.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_278" playOrder="278">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0181.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_279" playOrder="279">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0181.xhtml#CHP6-3"/>
+        </navPoint>
+        <navPoint id="np_280" playOrder="280">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0181.xhtml#CHP6-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_281" playOrder="281">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑮ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0182.xhtml"/>
+        <navPoint id="np_282" playOrder="282">
+        <navLabel>
+        <text>MARCH</text>
+        </navLabel>
+        <content src="Text/part0182.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_283" playOrder="283">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0182.xhtml#CHP7-2"/>
+        </navPoint>
+        <navPoint id="np_284" playOrder="284">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0182.xhtml#CHP7-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_285" playOrder="285">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0183.xhtml"/>
+      </navPoint>
+      <navPoint id="np_286" playOrder="286">
+      <navLabel>
+      <text>望子快乐</text>
+      </navLabel>
+      <content src="Text/part0184.xhtml"/>
+      </navPoint>
+      <navPoint id="np_287" playOrder="287">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0185.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_288" playOrder="288">
+    <navLabel>
+    <text>小屁孩日记：⑯.冤家宜解不宜结</text>
+    </navLabel>
+    <content src="Text/part0186.xhtml"/>
+      <navPoint id="np_289" playOrder="289">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0187.xhtml"/>
+      </navPoint>
+      <navPoint id="np_290" playOrder="290">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0190.xhtml"/>
+      </navPoint>
+      <navPoint id="np_291" playOrder="291">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0191.xhtml"/>
+      </navPoint>
+      <navPoint id="np_292" playOrder="292">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0192.xhtml"/>
+      </navPoint>
+      <navPoint id="np_293" playOrder="293">
+      <navLabel>
+      <text>小屁孩日记：.冤家宜解不宜结</text>
+      </navLabel>
+      <content src="Text/part0193.xhtml"/>
+        <navPoint id="np_294" playOrder="294">
+        <navLabel>
+        <text>四月</text>
+        </navLabel>
+        <content src="Text/part0193.xhtml#CHP5-1"/>
+        </navPoint>
+        <navPoint id="np_295" playOrder="295">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0193.xhtml#CHP5-2"/>
+        </navPoint>
+        <navPoint id="np_296" playOrder="296">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0193.xhtml#CHP5-3"/>
+        </navPoint>
+        <navPoint id="np_297" playOrder="297">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0193.xhtml#CHP5-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_298" playOrder="298">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑯ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0194.xhtml"/>
+        <navPoint id="np_299" playOrder="299">
+        <navLabel>
+        <text>APRIL</text>
+        </navLabel>
+        <content src="Text/part0194.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_300" playOrder="300">
+        <navLabel>
+        <text>Acknowledgments</text>
+        </navLabel>
+        <content src="Text/part0194.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_301" playOrder="301">
+        <navLabel>
+        <text>ABoUt tHe AUtHoR</text>
+        </navLabel>
+        <content src="Text/part0194.xhtml#CHP6-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_302" playOrder="302">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0195.xhtml"/>
+      </navPoint>
+      <navPoint id="np_303" playOrder="303">
+      <navLabel>
+      <text>望子快乐</text>
+      </navLabel>
+      <content src="Text/part0196.xhtml"/>
+      </navPoint>
+      <navPoint id="np_304" playOrder="304">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0197.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_305" playOrder="305">
+    <navLabel>
+    <text>小屁孩日记：⑰. 砰、砰、砰家庭旅行</text>
+    </navLabel>
+    <content src="Text/part0198.xhtml"/>
+      <navPoint id="np_306" playOrder="306">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0199.xhtml"/>
+      </navPoint>
+      <navPoint id="np_307" playOrder="307">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0202.xhtml"/>
+      </navPoint>
+      <navPoint id="np_308" playOrder="308">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0203.xhtml"/>
+      </navPoint>
+      <navPoint id="np_309" playOrder="309">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0204.xhtml"/>
+      </navPoint>
+      <navPoint id="np_310" playOrder="310">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0205.xhtml"/>
+      </navPoint>
+      <navPoint id="np_311" playOrder="311">
+      <navLabel>
+      <text>小屁孩日记：⑰.砰、砰、砰家庭旅行</text>
+      </navLabel>
+      <content src="Text/part0206.xhtml"/>
+        <navPoint id="np_312" playOrder="312">
+        <navLabel>
+        <text>六月</text>
+        </navLabel>
+        <content src="Text/part0206.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_313" playOrder="313">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0206.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_314" playOrder="314">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0206.xhtml#CHP6-3"/>
+        </navPoint>
+        <navPoint id="np_315" playOrder="315">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0206.xhtml#CHP6-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_316" playOrder="316">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑰ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0207.xhtml"/>
+        <navPoint id="np_317" playOrder="317">
+        <navLabel>
+        <text>JUNE</text>
+        </navLabel>
+        <content src="Text/part0207.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_318" playOrder="318">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0207.xhtml#CHP7-2"/>
+        </navPoint>
+        <navPoint id="np_319" playOrder="319">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0207.xhtml#CHP7-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_320" playOrder="320">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0208.xhtml"/>
+      </navPoint>
+      <navPoint id="np_321" playOrder="321">
+      <navLabel>
+      <text>望子快乐</text>
+      </navLabel>
+      <content src="Text/part0209.xhtml"/>
+      </navPoint>
+      <navPoint id="np_322" playOrder="322">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0210.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_323" playOrder="323">
+    <navLabel>
+    <text>小屁孩日记：⑱.惊险岔路口</text>
+    </navLabel>
+    <content src="Text/part0211.xhtml"/>
+      <navPoint id="np_324" playOrder="324">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0212.xhtml"/>
+      </navPoint>
+      <navPoint id="np_325" playOrder="325">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0215.xhtml"/>
+      </navPoint>
+      <navPoint id="np_326" playOrder="326">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0216.xhtml"/>
+      </navPoint>
+      <navPoint id="np_327" playOrder="327">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0217.xhtml"/>
+      </navPoint>
+      <navPoint id="np_328" playOrder="328">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0218.xhtml"/>
+      </navPoint>
+      <navPoint id="np_329" playOrder="329">
+      <navLabel>
+      <text>小屁孩日记：⑱.惊险岔路口</text>
+      </navLabel>
+      <content src="Text/part0219.xhtml"/>
+        <navPoint id="np_330" playOrder="330">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0219.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_331" playOrder="331">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0219.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_332" playOrder="332">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0219.xhtml#CHP6-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_333" playOrder="333">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑱ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0220.xhtml"/>
+        <navPoint id="np_334" playOrder="334">
+        <navLabel>
+        <text>AcknOwledgments</text>
+        </navLabel>
+        <content src="Text/part0220.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_335" playOrder="335">
+        <navLabel>
+        <text>AbOUt the AUthOr</text>
+        </navLabel>
+        <content src="Text/part0220.xhtml#CHP7-2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_336" playOrder="336">
+      <navLabel>
+      <text>望子快乐</text>
+      </navLabel>
+      <content src="Text/part0221.xhtml"/>
+      </navPoint>
+      <navPoint id="np_337" playOrder="337">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0222.xhtml"/>
+      </navPoint>
+      <navPoint id="np_338" playOrder="338">
+      <navLabel>
+      <text>悦读“小屁孩”</text>
+      </navLabel>
+      <content src="Text/part0223.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_339" playOrder="339">
+    <navLabel>
+    <text>小屁孩日记：⑲.难忘的老派时光</text>
+    </navLabel>
+    <content src="Text/part0224.xhtml"/>
+      <navPoint id="np_340" playOrder="340">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0225.xhtml"/>
+      </navPoint>
+      <navPoint id="np_341" playOrder="341">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0228.xhtml"/>
+      </navPoint>
+      <navPoint id="np_342" playOrder="342">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0229.xhtml"/>
+      </navPoint>
+      <navPoint id="np_343" playOrder="343">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0230.xhtml"/>
+      </navPoint>
+      <navPoint id="np_344" playOrder="344">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0231.xhtml"/>
+      </navPoint>
+      <navPoint id="np_345" playOrder="345">
+      <navLabel>
+      <text>小屁孩日记：⑲.难忘的老派时光</text>
+      </navLabel>
+      <content src="Text/part0232.xhtml"/>
+        <navPoint id="np_346" playOrder="346">
+        <navLabel>
+        <text>九月</text>
+        </navLabel>
+        <content src="Text/part0232.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_347" playOrder="347">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0232.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_348" playOrder="348">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0232.xhtml#CHP6-3"/>
+        </navPoint>
+        <navPoint id="np_349" playOrder="349">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0232.xhtml#CHP6-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_350" playOrder="350">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑲ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0233.xhtml"/>
+        <navPoint id="np_351" playOrder="351">
+        <navLabel>
+        <text>SEPTEMBER</text>
+        </navLabel>
+        <content src="Text/part0233.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_352" playOrder="352">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0233.xhtml#CHP7-2"/>
+        </navPoint>
+        <navPoint id="np_353" playOrder="353">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0233.xhtml#CHP7-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_354" playOrder="354">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0234.xhtml"/>
+      </navPoint>
+      <navPoint id="np_355" playOrder="355">
+      <navLabel>
+      <text>望子快乐</text>
+      </navLabel>
+      <content src="Text/part0235.xhtml"/>
+      </navPoint>
+      <navPoint id="np_356" playOrder="356">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0236.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_357" playOrder="357">
+    <navLabel>
+    <text>小屁孩日记：⑳.“吃苦农场”逃生记</text>
+    </navLabel>
+    <content src="Text/part0237.xhtml"/>
+      <navPoint id="np_358" playOrder="358">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0238.xhtml"/>
+      </navPoint>
+      <navPoint id="np_359" playOrder="359">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0241.xhtml"/>
+      </navPoint>
+      <navPoint id="np_360" playOrder="360">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0242.xhtml"/>
+      </navPoint>
+      <navPoint id="np_361" playOrder="361">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0243.xhtml"/>
+      </navPoint>
+      <navPoint id="np_362" playOrder="362">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0244.xhtml"/>
+      </navPoint>
+      <navPoint id="np_363" playOrder="363">
+      <navLabel>
+      <text>小屁孩日记20 ：“吃苦农场”逃生记</text>
+      </navLabel>
+      <content src="Text/part0245.xhtml"/>
+        <navPoint id="np_364" playOrder="364">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0245.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_365" playOrder="365">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0245.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_366" playOrder="366">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0245.xhtml#CHP6-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_367" playOrder="367">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ⑳ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0246.xhtml"/>
+        <navPoint id="np_368" playOrder="368">
+        <navLabel>
+        <text>OCTOBER</text>
+        </navLabel>
+        <content src="Text/part0246.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_369" playOrder="369">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0246.xhtml#CHP7-2"/>
+        </navPoint>
+        <navPoint id="np_370" playOrder="370">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0246.xhtml#CHP7-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_371" playOrder="371">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0247.xhtml"/>
+      </navPoint>
+      <navPoint id="np_372" playOrder="372">
+      <navLabel>
+      <text>望子快乐</text>
+      </navLabel>
+      <content src="Text/part0248.xhtml"/>
+      </navPoint>
+      <navPoint id="np_373" playOrder="373">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0249.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_374" playOrder="374">
+    <navLabel>
+    <text>小屁孩日记：㉑.梦想真人秀</text>
+    </navLabel>
+    <content src="Text/part0250.xhtml"/>
+      <navPoint id="np_375" playOrder="375">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0251.xhtml"/>
+      </navPoint>
+      <navPoint id="np_376" playOrder="376">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0254.xhtml"/>
+      </navPoint>
+      <navPoint id="np_377" playOrder="377">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0255.xhtml"/>
+      </navPoint>
+      <navPoint id="np_378" playOrder="378">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0256.xhtml"/>
+      </navPoint>
+      <navPoint id="np_379" playOrder="379">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0257.xhtml"/>
+      </navPoint>
+      <navPoint id="np_380" playOrder="380">
+      <navLabel>
+      <text>小屁孩日记：㉑.梦想真人秀</text>
+      </navLabel>
+      <content src="Text/part0258.xhtml"/>
+        <navPoint id="np_381" playOrder="381">
+        <navLabel>
+        <text>十月</text>
+        </navLabel>
+        <content src="Text/part0258.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_382" playOrder="382">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0258.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_383" playOrder="383">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0258.xhtml#CHP6-3"/>
+        </navPoint>
+        <navPoint id="np_384" playOrder="384">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0258.xhtml#CHP6-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_385" playOrder="385">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ㉑ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0259.xhtml"/>
+        <navPoint id="np_386" playOrder="386">
+        <navLabel>
+        <text>OCTOBER</text>
+        </navLabel>
+        <content src="Text/part0259.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_387" playOrder="387">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0259.xhtml#CHP7-2"/>
+        </navPoint>
+        <navPoint id="np_388" playOrder="388">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0259.xhtml#CHP7-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_389" playOrder="389">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0260.xhtml"/>
+      </navPoint>
+      <navPoint id="np_390" playOrder="390">
+      <navLabel>
+      <text>望子快乐</text>
+      </navLabel>
+      <content src="Text/part0261.xhtml"/>
+      </navPoint>
+      <navPoint id="np_391" playOrder="391">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0262.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_392" playOrder="392">
+    <navLabel>
+    <text>小屁孩日记㉒——聪明反被聪明误：汉、英</text>
+    </navLabel>
+    <content src="Text/part0263.xhtml"/>
+      <navPoint id="np_393" playOrder="393">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0264.xhtml"/>
+      </navPoint>
+      <navPoint id="np_394" playOrder="394">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0267.xhtml"/>
+      </navPoint>
+      <navPoint id="np_395" playOrder="395">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0268.xhtml"/>
+      </navPoint>
+      <navPoint id="np_396" playOrder="396">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0269.xhtml"/>
+      </navPoint>
+      <navPoint id="np_397" playOrder="397">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0270.xhtml"/>
+      </navPoint>
+      <navPoint id="np_398" playOrder="398">
+      <navLabel>
+      <text>小屁孩日记㉒——聪明反被聪明误：汉、英</text>
+      </navLabel>
+      <content src="Text/part0271.xhtml"/>
+        <navPoint id="np_399" playOrder="399">
+        <navLabel>
+        <text>十一月</text>
+        </navLabel>
+        <content src="Text/part0271.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_400" playOrder="400">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0271.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_401" playOrder="401">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0271.xhtml#CHP6-3"/>
+        </navPoint>
+        <navPoint id="np_402" playOrder="402">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0271.xhtml#CHP6-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_403" playOrder="403">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ㉒ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0272.xhtml"/>
+        <navPoint id="np_404" playOrder="404">
+        <navLabel>
+        <text>NOVEMBER</text>
+        </navLabel>
+        <content src="Text/part0272.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_405" playOrder="405">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0272.xhtml#CHP7-2"/>
+        </navPoint>
+        <navPoint id="np_406" playOrder="406">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0272.xhtml#CHP7-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_407" playOrder="407">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0273.xhtml"/>
+      </navPoint>
+      <navPoint id="np_408" playOrder="408">
+      <navLabel>
+      <text>望子快乐</text>
+      </navLabel>
+      <content src="Text/part0274.xhtml"/>
+      </navPoint>
+      <navPoint id="np_409" playOrder="409">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0275.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_410" playOrder="410">
+    <navLabel>
+    <text>小屁孩日记：㉓.奔跑吧，格雷！</text>
+    </navLabel>
+    <content src="Text/part0276.xhtml"/>
+      <navPoint id="np_411" playOrder="411">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0277.xhtml"/>
+      </navPoint>
+      <navPoint id="np_412" playOrder="412">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0280.xhtml"/>
+      </navPoint>
+      <navPoint id="np_413" playOrder="413">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0281.xhtml"/>
+      </navPoint>
+      <navPoint id="np_414" playOrder="414">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0282.xhtml"/>
+      </navPoint>
+      <navPoint id="np_415" playOrder="415">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0283.xhtml"/>
+      </navPoint>
+      <navPoint id="np_416" playOrder="416">
+      <navLabel>
+      <text>小屁孩日记㉓：奔跑吧，格雷！</text>
+      </navLabel>
+      <content src="Text/part0284.xhtml"/>
+        <navPoint id="np_417" playOrder="417">
+        <navLabel>
+        <text>十二月</text>
+        </navLabel>
+        <content src="Text/part0284.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_418" playOrder="418">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0284.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_419" playOrder="419">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0284.xhtml#CHP6-3"/>
+        </navPoint>
+        <navPoint id="np_420" playOrder="420">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0284.xhtml#CHP6-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_421" playOrder="421">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ㉓ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0285.xhtml"/>
+        <navPoint id="np_422" playOrder="422">
+        <navLabel>
+        <text>DECEMBER</text>
+        </navLabel>
+        <content src="Text/part0285.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_423" playOrder="423">
+        <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+        </navLabel>
+        <content src="Text/part0285.xhtml#CHP7-2"/>
+        </navPoint>
+        <navPoint id="np_424" playOrder="424">
+        <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+        </navLabel>
+        <content src="Text/part0285.xhtml#CHP7-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_425" playOrder="425">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0286.xhtml"/>
+      </navPoint>
+      <navPoint id="np_426" playOrder="426">
+      <navLabel>
+      <text>望子快乐</text>
+      </navLabel>
+      <content src="Text/part0287.xhtml"/>
+      </navPoint>
+      <navPoint id="np_427" playOrder="427">
+      <navLabel>
+      <text>我眼中的……</text>
+      </navLabel>
+      <content src="Text/part0288.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_428" playOrder="428">
+    <navLabel>
+    <text>小屁孩日记㉔：危机四伏的度假村</text>
+    </navLabel>
+    <content src="Text/part0289.xhtml"/>
+      <navPoint id="np_429" playOrder="429">
+      <navLabel>
+      <text>版权信息</text>
+      </navLabel>
+      <content src="Text/part0290.xhtml"/>
+      </navPoint>
+      <navPoint id="np_430" playOrder="430">
+      <navLabel>
+      <text>“小屁孩之父”杰夫·金尼致中国粉丝</text>
+      </navLabel>
+      <content src="Text/part0293.xhtml"/>
+      </navPoint>
+      <navPoint id="np_431" playOrder="431">
+      <navLabel>
+      <text>A Letter to Chinese Readers</text>
+      </navLabel>
+      <content src="Text/part0294.xhtml"/>
+      </navPoint>
+      <navPoint id="np_432" playOrder="432">
+      <navLabel>
+      <text>有趣的书，好玩的书</text>
+      </navLabel>
+      <content src="Text/part0295.xhtml"/>
+      </navPoint>
+      <navPoint id="np_433" playOrder="433">
+      <navLabel>
+      <text>一种简单的快乐</text>
+      </navLabel>
+      <content src="Text/part0296.xhtml"/>
+      </navPoint>
+      <navPoint id="np_434" playOrder="434">
+      <navLabel>
+      <text>小屁孩日记x：危机四伏的度假村</text>
+      </navLabel>
+      <content src="Text/part0297.xhtml"/>
+        <navPoint id="np_435" playOrder="435">
+        <navLabel>
+        <text>致谢</text>
+        </navLabel>
+        <content src="Text/part0297.xhtml#CHP6-1"/>
+        </navPoint>
+        <navPoint id="np_436" playOrder="436">
+        <navLabel>
+        <text>作者简介</text>
+        </navLabel>
+        <content src="Text/part0297.xhtml#CHP6-2"/>
+        </navPoint>
+        <navPoint id="np_437" playOrder="437">
+        <navLabel>
+        <text>译者简介</text>
+        </navLabel>
+        <content src="Text/part0297.xhtml#CHP6-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_438" playOrder="438">
+      <navLabel>
+      <text>DIARY of a Wimpy Kid ㉔ by Jeff Kinney</text>
+      </navLabel>
+      <content src="Text/part0298.xhtml"/>
+        <navPoint id="np_439" playOrder="439">
+        <navLabel>
+        <text>Acknowledgments</text>
+        </navLabel>
+        <content src="Text/part0298.xhtml#CHP7-1"/>
+        </navPoint>
+        <navPoint id="np_440" playOrder="440">
+        <navLabel>
+        <text>ABoUt tHe AUtHoR</text>
+        </navLabel>
+        <content src="Text/part0298.xhtml#CHP7-2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_441" playOrder="441">
+      <navLabel>
+      <text>杰夫·金尼 2018中国行</text>
+      </navLabel>
+      <content src="Text/part0299.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
