@@ -36,3 +36,29 @@ body.reading .page-turner{min-height:26px;padding:1px 2px max(1px,env(safe-area-
 #readerTools{bottom:34px;max-height:calc(100% - 44px)}
 #pageJump{bottom:34px}
 @media(max-width:400px){body.reading .page-turner{gap:4px}.page-turner button{padding:1px 6px}}
+
+/* Adjustable shelf: the resize grip is separate from the vertical scrollbar. */
+:root{--shelf-width:145px}
+@media(min-width:761px){.layout{grid-template-columns:var(--shelf-width) minmax(0,1fr)}}
+#sidebar{padding:14px 10px}
+#sidebar .aside-title{font-size:14px;flex-wrap:wrap;gap:5px;margin-bottom:14px}
+#sidebar .aside-title span{font-size:10px;padding:2px 5px}
+#sidebar label{font-size:11px}
+#sidebar input{font-size:12px;padding:7px;margin:6px 0 12px}
+#sidebar summary{font-size:12px;padding:10px 2px;overflow-wrap:anywhere}
+#sidebar .tree-books{padding-left:0}
+#sidebar .tree-books a{font-size:12px;padding:6px 4px;overflow-wrap:anywhere}
+#shelfResize{position:fixed;top:46px;bottom:0;left:calc(var(--shelf-width) - 4px);width:9px;z-index:5;cursor:col-resize;touch-action:none}
+#shelfResize::after{content:"";position:absolute;top:0;bottom:0;left:3px;width:3px;background:var(--line);transition:background .15s}
+#shelfResize:hover::after,#shelfResize:focus-visible::after,body.resizing-shelf #shelfResize::after{background:var(--green)}
+#shelfResize:focus-visible{outline:2px solid var(--green);outline-offset:1px}
+body.resizing-shelf{cursor:col-resize;user-select:none}
+body.resizing-shelf #page{pointer-events:none}
+body.focus-reading #shelfResize{display:none}
+@media(max-width:760px){
+:root{--shelf-width:min(88vw,330px)}
+#sidebar{width:var(--shelf-width)}
+#shelfResize{display:none;top:48px;width:13px;left:calc(var(--shelf-width) - 6px)}
+#shelfResize::after{left:5px}
+#sidebar.open + #shelfResize{display:block}
+}

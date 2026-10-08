@@ -62,3 +62,40 @@ function setJump(open){$('#pageJump').hidden=!open;$('#pageMore').setAttribute('
 $('#pageMore').onclick=()=>setJump($('#pageJump').hidden);
 $('#pageJump').onsubmit=e=>{e.preventDefault();jumpPage(Number($('#jumpNumber').value));$('#pageMore').focus()};
 $('#jumpClose').onclick=()=>{setJump(false);$('#pageMore').focus()};
+
+// Native Pointer Events cover mouse, pen and touch without another dependency.
+const shelfGrip=$('#shelfResize'),shelfMobile=matchMedia('(max-width:760px)');
+let shelfDrag=null;
+const shelfKey=()=> 'bookworms-shelf-width:'+(shelfMobile.matches?'mobile':'desktop');
+const shelfDefault=()=>shelfMobile.matches?Math.min(innerWidth*.88,330):145;
+const shelfMax=()=>Math.max(120,Math.min(420,innerWidth-(shelfMobile.matches?32:320)));
+function setShelfWidth(width,persist=false){
+ const value=Math.round(Math.max(120,Math.min(shelfMax(),width)));
+ document.documentElement.style.setProperty('--shelf-width',value+'px');
+ shelfGrip.setAttribute('aria-valuemin','120');shelfGrip.setAttribute('aria-valuemax',String(shelfMax()));
+ shelfGrip.setAttribute('aria-valuenow',String(value));shelfGrip.setAttribute('aria-valuetext',value+' 像素');
+ if(persist)writeStore(shelfKey(),String(value));
+ requestAnimationFrame(updateScreenPosition);
+}
+function restoreShelfWidth(){setShelfWidth(Number(readStore(shelfKey()))||shelfDefault())}
+shelfGrip.addEventListener('pointerdown',e=>{
+ if(e.button!==0)return;e.preventDefault();
+ shelfDrag={id:e.pointerId,x:e.clientX,width:$('#sidebar').getBoundingClientRect().width};
+ shelfGrip.setPointerCapture(e.pointerId);document.body.classList.add('resizing-shelf');
+});
+shelfGrip.addEventListener('pointermove',e=>{if(shelfDrag?.id===e.pointerId)setShelfWidth(shelfDrag.width+e.clientX-shelfDrag.x)});
+function finishShelfDrag(e){
+ if(!shelfDrag||e.pointerId!==shelfDrag.id)return;
+ shelfDrag=null;document.body.classList.remove('resizing-shelf');
+ setShelfWidth($('#sidebar').getBoundingClientRect().width,true);
+ if(shelfGrip.hasPointerCapture(e.pointerId))shelfGrip.releasePointerCapture(e.pointerId);
+}
+for(const name of ['pointerup','pointercancel','lostpointercapture'])shelfGrip.addEventListener(name,finishShelfDrag);
+shelfGrip.addEventListener('keydown',e=>{
+ if(!['ArrowLeft','ArrowRight','Home','End'].includes(e.key))return;
+ e.preventDefault();e.stopPropagation();
+ const width=$('#sidebar').getBoundingClientRect().width;
+ setShelfWidth(e.key==='Home'?120:e.key==='End'?shelfMax():width+(e.key==='ArrowRight'?1:-1)*(e.shiftKey?40:10),true);
+});
+shelfGrip.addEventListener('dblclick',()=>setShelfWidth(shelfDefault(),true));
+window.addEventListener('resize',restoreShelfWidth);restoreShelfWidth();
