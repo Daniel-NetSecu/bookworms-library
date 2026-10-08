@@ -12,6 +12,42 @@
  function setOpen(value){opened=value;writeStore('bookworms-study-open',String(value));panel.hidden=!value;document.body.classList.toggle('study-open',value);toggle.setAttribute('aria-expanded',String(value));if(value)schedule(0);else{serial++;clearTimeout(timer)}}
  toggle.addEventListener('click',()=>setOpen(!opened));byId('studyClose').onclick=()=>{setOpen(false);toggle.focus()};
  document.addEventListener('keydown',e=>{if(e.key==='Escape'&&opened){setOpen(false);toggle.focus()}});
+ // Reuse the shelf's native Pointer Events interaction, with reversed drag direction.
+ const grip=byId('studyResize'),reader=byId('reader'),mobile=matchMedia('(max-width:980px)');
+ let drag=null;
+ const widthKey=()=> 'bookworms-study-width-'+(mobile.matches?'mobile':'desktop');
+ const defaultWidth=()=>mobile.matches?380:Math.max(270,Math.min(350,innerWidth*.27));
+ const maxWidth=()=>Math.max(220,Math.min(640,reader.clientWidth-(mobile.matches?30:340)));
+ function setWidth(width,persist=false){
+  const value=Math.round(Math.max(220,Math.min(maxWidth(),width)));
+  reader.style.setProperty('--study-width',value+'px');
+  grip.setAttribute('aria-valuemin','220');grip.setAttribute('aria-valuemax',String(Math.floor(maxWidth())));
+  grip.setAttribute('aria-valuenow',String(value));grip.setAttribute('aria-valuetext',value+' 像素');
+  if(persist)writeStore(widthKey(),String(value));
+  requestAnimationFrame(updateScreenPosition);
+ }
+ function restoreWidth(){if(reader.clientWidth)setWidth(Number(readStore(widthKey()))||defaultWidth())}
+ function finishDrag(e){
+  if(!drag||(e?.pointerId!==undefined&&e.pointerId!==drag.id))return;
+  const id=drag.id;drag=null;document.body.classList.remove('resizing-study');
+  setWidth(parseFloat(reader.style.getPropertyValue('--study-width')),true);
+  if(grip.hasPointerCapture(id))grip.releasePointerCapture(id);
+ }
+ grip.addEventListener('pointerdown',e=>{
+  if(e.button!==0||drag)return;e.preventDefault();
+  drag={id:e.pointerId,x:e.clientX,width:panel.getBoundingClientRect().width};
+  document.body.classList.add('resizing-study');try{grip.setPointerCapture(e.pointerId)}catch{}
+ });
+ window.addEventListener('pointermove',e=>{if(drag?.id===e.pointerId){e.preventDefault();setWidth(drag.width+drag.x-e.clientX)}},{passive:false});
+ for(const name of ['pointerup','pointercancel'])window.addEventListener(name,finishDrag);
+ grip.addEventListener('lostpointercapture',finishDrag);window.addEventListener('blur',()=>finishDrag());
+ grip.addEventListener('dblclick',()=>setWidth(defaultWidth(),true));
+ grip.addEventListener('keydown',e=>{
+  if(!['ArrowLeft','ArrowRight','Home','End'].includes(e.key))return;
+  e.preventDefault();e.stopPropagation();
+  setWidth(e.key==='Home'?220:e.key==='End'?maxWidth():panel.getBoundingClientRect().width+(e.key==='ArrowLeft'?1:-1)*(e.shiftKey?40:10),true);
+ });
+ new ResizeObserver(restoreWidth).observe(reader);window.addEventListener('resize',restoreWidth);restoreWidth();
  function reset(){serial++;lookupSerial++;lastKey='';pageText='';lastInfo=null;clearTimeout(timer);abort?.abort();byId('studyStatus').textContent='正在读取本页…';for(const id of ['studyWords','studyPhrases','studyGrammar','studyLookup'])byId(id).replaceChildren()}
  function schedule(delay=350){if(!opened)return;clearTimeout(timer);timer=setTimeout(refresh,delay)}
  function bind(d){abort?.abort();abort=new AbortController();const signal=abort.signal;

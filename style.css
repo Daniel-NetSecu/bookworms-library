@@ -81,9 +81,17 @@ html[data-theme=dark] #shelfResize{background:#304737}
 .study-status{display:flex;align-items:center;gap:5px;margin:10px 0;font-size:11px;color:var(--muted)}#studyRefresh{margin-left:auto;white-space:nowrap;font-size:11px;padding:3px 5px}
 .study-card{padding:10px 0;border-bottom:1px solid var(--line);overflow-wrap:anywhere}.study-word strong{font-size:15px}.study-phonetic,.study-card small{font-size:11px;color:var(--muted)}.study-card p{font-size:12px}.study-card details{margin-top:6px}.study-card summary,#studyLookup summary{padding:0;font-weight:400;font-size:11px;color:var(--muted)}#studyPanel blockquote{margin:7px 0;padding:6px 9px;border-left:2px solid var(--line);font:12px/1.6 Georgia,serif;background:color-mix(in srgb,var(--green) 5%,transparent);white-space:normal}#studyLookup:empty{display:none}#studyLookup{padding:5px 10px;margin:10px 0;border:1px solid var(--line);border-radius:6px}.study-footnote{margin-top:20px!important}.study-footnote a{text-decoration:underline}
 #studyToggle[aria-expanded=true]{background:var(--green);color:var(--paper)}
-@media(min-width:981px){body.reading.study-open #reader{display:grid;grid-template-columns:minmax(0,1fr) clamp(270px,27vw,350px);grid-template-rows:minmax(0,1fr) auto;column-gap:8px}body.reading.study-open #page{grid-column:1;grid-row:1;width:100%;height:100%;min-width:0}body.reading.study-open #studyPanel{grid-column:2;grid-row:1}body.reading.study-open .page-turner{grid-column:1 / -1;grid-row:2}}
+@media(min-width:981px){body.reading.study-open #reader{display:grid;grid-template-columns:minmax(0,1fr) 20px var(--study-width,324px);grid-template-rows:minmax(0,1fr) auto;column-gap:0}body.reading.study-open #page{grid-column:1;grid-row:1;width:100%;height:100%;min-width:0}body.reading.study-open #studyPanel{grid-column:3;grid-row:1}body.reading.study-open .page-turner{grid-column:1 / -1;grid-row:2}}
 @media(max-width:980px){#studyPanel{position:absolute;z-index:9;bottom:32px;right:0;width:min(380px,100%);height:62%;box-shadow:0 -6px 25px #0003;padding:10px 12px}.study-heading{position:sticky;top:-10px;background:var(--paper);z-index:1;padding:5px 0}.page-turner #studyToggle{padding:3px 5px;font-size:11px}}
 @media(max-width:360px){body.reading .page-turner{gap:2px}.page-turner #studyToggle{padding:2px 3px}.page-turner #toolsToggle{margin-left:0}}
 #studyPanel .study-heading{position:sticky;top:-12px;z-index:2;background:var(--paper);padding:4px 0}
 .study-tabs{position:sticky;top:27px;z-index:2;background:var(--paper);display:flex;gap:6px;padding:6px 0;border-bottom:1px solid var(--line)}.study-tabs button{flex:1;padding:4px;font-size:12px}
 @media(max-width:980px){#studyPanel .study-heading{top:-10px}.study-tabs{top:29px}}
+
+/* A dedicated rail keeps study resizing separate from document/panel scrolling. */
+#studyResize{display:none;touch-action:none;user-select:none;cursor:col-resize;background:var(--line);z-index:10;position:relative}
+#studyResize span{position:absolute;top:45%;left:50%;transform:translate(-50%,-50%);display:grid;place-items:center;width:30px;height:48px;border:1px solid #9aaf9b;border-radius:8px;background:var(--paper);color:var(--green);font-size:21px;box-shadow:0 1px 5px #0002}
+#studyResize:focus-visible{outline:2px solid var(--green);outline-offset:-2px}
+body.resizing-study{cursor:col-resize;user-select:none}body.resizing-study #page{pointer-events:none}
+@media(min-width:981px){body.reading.study-open #studyResize{display:block;grid-column:2;grid-row:1}}
+@media(max-width:980px){body.reading.study-open #studyResize{display:block;position:absolute;bottom:32px;right:var(--study-width,300px);width:20px;height:62%}#studyPanel{width:var(--study-width,300px)}}
