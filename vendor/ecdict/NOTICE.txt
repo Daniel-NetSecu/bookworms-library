@@ -1,0 +1,4 @@
+English–Chinese data: ECDICT, https://github.com/skywind3000/ECDICT
+MIT license; see LICENSE.
+Subset: frequency rank <= 60000 or tagged/core entries; derived inflections included.
+Definitions longer than 360 characters are abbreviated. Sharded for on-demand lookup.
