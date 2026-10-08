@@ -16,15 +16,75 @@ function savePosition(hash=location.hash){if(!current)return;history[current.id]
 function star(){$('#bookmark').textContent=favorites.has(current?.id)?'★ 已收藏':'☆ 收藏本书';$('#bookmark').setAttribute('aria-pressed',String(favorites.has(current?.id)))}
 $('#bookmark').onclick=()=>{if(!current)return;if(favorites.has(current.id))favorites.delete(current.id);else favorites.add(current.id);writeStore('bookworms-favorites',JSON.stringify([...favorites]));star();draw()};
 $('#favorites').onclick=()=>{onlyFavorites=!onlyFavorites;draw()};$('#sort').onchange=draw;
-function route(){setTools(false);setJump(false);renderPages(1,1);$('#screenPrev').disabled=$('#screenNext').disabled=true;const token=++loadToken,p=new URLSearchParams(location.hash.slice(1));current=books.find(b=>b.id===p.get('book'));document.body.classList.toggle('reading',!!current);if(!current)document.body.classList.remove('focus-reading');$('#home').hidden=!!current;$('#reader').hidden=!current;if(!current){document.title='书虫 · 双语阅读书房';$('#page').src='about:blank';draw();return}closeMenu();entries=current.level===7?current.children.flatMap(flatten):flatten(current);let i=Math.max(0,Math.min(entries.length-1,Math.floor(Number(p.get('chapter'))||0)));$('#bookTitle').textContent=current.title;document.title=current.title+' · 书虫双语书房';$('#breadcrumb').textContent=levels[current.level].label+' / '+current.title;$('#chapters').replaceChildren();entries.forEach((n,j)=>{$('#chapters').add(new Option((current.level!==7&&j===0?'封面 · ':'')+n.title,String(j)))});$('#chapters').value=i;$('#prev').disabled=i===0;$('#next').disabled=i===entries.length-1;$('#readStatus').textContent='正在打开：'+entries[i].title;const e=entries[i],isPDF=e.format==='pdf',frame=$('#page');frame.dataset.kind=isPDF?'pdf':'html';frame.setAttribute('sandbox',isPDF?'allow-same-origin allow-scripts allow-downloads allow-modals':'allow-same-origin');$('#smaller').hidden=$('#larger').hidden=isPDF;$('#position').textContent='';$('#original').href=e.href;$('#original').hidden=!isPDF;$('#readingHint').textContent=isPDF?'PDF 支持搜索、页码跳转和缩放。阅读页码保存在当前浏览器。':(current.note||'原文、译文和练习按原目录保留。')+' 章节位置保存在当前浏览器；图片页不受字号按钮影响。';let page=Math.max(1,parseInt(p.get('page'))||Number(readStore('pdf-page:'+e.href))||1);frame.onload=()=>onFrameLoad(token,e,i);$('#screenPrev').textContent='上一页';$('#screenNext').textContent='下一页';$('#screenPosition').textContent='';const sameDocument=!isPDF&&frame.src.split('#')[0]===new URL(e.href,location.href).href.split('#')[0]&&frame.contentDocument?.readyState==='complete';frame.src=isPDF?'vendor/pdfjs/web/viewer.html?file='+encodeURIComponent(new URL(e.href,location.href).pathname)+'#page='+page+'&zoom=page-width':e.href;if(sameDocument)requestAnimationFrame(()=>onFrameLoad(token,e,i));savePosition();star();document.querySelectorAll('.tree-books a').forEach(a=>{a.classList.toggle('active',a.dataset.id===current.id);if(a.dataset.id===current.id){a.hidden=false;a.closest('details').hidden=false;a.closest('details').open=true}})}
-async function onFrameLoad(token,e,i){if(token!==loadToken||!current)return;const frame=$('#page'),d=frame.contentDocument;if(!d)return;if(e.format==='pdf'){try{const app=frame.contentWindow.PDFViewerApplication;if(!app)throw Error('阅读器初始化失败');await app.initializedPromise;if(token!==loadToken)return;const update=()=>{if(token!==loadToken||!current)return;const p=app.page||1;$('#readStatus').textContent='已打开 · '+e.title+' · PDF';$('#position').textContent=`第 ${p} / ${app.pagesCount} 页`;renderPages(p,app.pagesCount,true);writeStore('pdf-page:'+e.href,String(p));const hash='#book='+current.id+'&chapter='+i+'&page='+p;window.history.replaceState(null,'',hash);savePosition(hash)};app.eventBus.on('pagesloaded',update);app.eventBus.on('pagechanging',update);if(app.pagesCount)update()}catch(err){$('#readStatus').textContent='PDF 加载失败，可点击“打开原文件”重试';console.error(err)}return}styleContent();installPaging(d,e,token);$('#readStatus').textContent='已打开 · '+(d.title||current.title);d.addEventListener('click',ev=>{const a=ev.target.closest('a[href]');if(!a)return;const u=new URL(a.getAttribute('href'),d.URL),base=new URL('content/',location.href);if(u.origin!==base.origin||!u.pathname.startsWith(base.pathname)){ev.preventDefault();return}const j=entries.findIndex(x=>new URL(x.href,location.href).href===u.href);if(j>=0){ev.preventDefault();go(j)}})}
-function go(i){location.hash='book='+current.id+'&chapter='+i}
+function route(){$('#page').contentDocument?._saveReading?.();activePagingAbort?.abort();prefetchController?.abort();setTools(false);setJump(false);renderPages(1,1);$('#screenPrev').disabled=$('#screenNext').disabled=true;const token=++loadToken,p=new URLSearchParams(location.hash.slice(1));current=books.find(b=>b.id===p.get('book'));document.body.classList.toggle('reading',!!current);if(!current)document.body.classList.remove('focus-reading');$('#home').hidden=!!current;$('#reader').hidden=!current;if(!current){document.title='书虫 · 双语阅读书房';$('#page').src='about:blank';draw();return}closeMenu();entries=current.level===7?current.children.flatMap(flatten):flatten(current);let i=Math.max(0,Math.min(entries.length-1,Math.floor(Number(p.get('chapter'))||0)));$('#bookTitle').textContent=current.title;document.title=current.title+' · 书虫双语书房';$('#breadcrumb').textContent=levels[current.level].label+' / '+current.title;$('#chapters').replaceChildren();entries.forEach((n,j)=>{$('#chapters').add(new Option((current.level!==7&&j===0?'封面 · ':'')+n.title,String(j)))});$('#chapters').value=i;$('#prev').disabled=i===0;$('#next').disabled=i===entries.length-1;$('#readStatus').textContent='正在打开：'+entries[i].title;const e=entries[i],isPDF=e.format==='pdf',frame=$('#page');frame.dataset.kind=isPDF?'pdf':'html';frame.setAttribute('sandbox',isPDF?'allow-same-origin allow-scripts allow-downloads allow-modals':'allow-same-origin');$('#smaller').hidden=$('#larger').hidden=isPDF;$('#position').textContent='';$('#original').href=e.href;$('#original').hidden=!isPDF;$('#readingHint').textContent=isPDF?'PDF 支持搜索、页码跳转和缩放。阅读页码保存在当前浏览器。':(current.note||'原文、译文和练习按原目录保留。')+' 章节位置保存在当前浏览器；图片页不受字号按钮影响。';let page=Math.max(1,parseInt(p.get('page'))||Number(readStore('pdf-page:'+e.href))||1);frame.onload=()=>onFrameLoad(token,e,i);$('#screenPrev').textContent='上一页';$('#screenNext').textContent='下一页';$('#screenPosition').textContent='';const sameDocument=!isPDF&&frame.src.split('#')[0]===new URL(e.href,location.href).href.split('#')[0]&&frame.contentDocument?.readyState==='complete';frame.src=isPDF?'vendor/pdfjs/web/viewer.html?file='+encodeURIComponent(new URL(e.href,location.href).pathname)+'#page='+page+'&zoom=page-width':e.href;if(sameDocument)requestAnimationFrame(()=>onFrameLoad(token,e,i));savePosition();star();document.querySelectorAll('.tree-books a').forEach(a=>{a.classList.toggle('active',a.dataset.id===current.id);if(a.dataset.id===current.id){a.hidden=false;a.closest('details').hidden=false;a.closest('details').open=true}})}
+async function onFrameLoad(token,e,i){if(token!==loadToken||!current)return;const frame=$('#page'),d=frame.contentDocument;if(!d)return;if(e.format==='pdf'){try{const app=frame.contentWindow.PDFViewerApplication;if(!app)throw Error('阅读器初始化失败');await app.initializedPromise;if(token!==loadToken)return;const update=()=>{if(token!==loadToken||!current)return;const p=app.page||1;$('#readStatus').textContent='已打开 · '+e.title+' · PDF';$('#position').textContent=`第 ${p} / ${app.pagesCount} 页`;renderPages(p,app.pagesCount,true);writeStore('pdf-page:'+e.href,String(p));const hash='#book='+current.id+'&chapter='+i+'&page='+p;window.history.replaceState(null,'',hash);savePosition(hash)};app.eventBus.on('pagesloaded',update);app.eventBus.on('pagechanging',update);if(app.pagesCount)update()}catch(err){$('#readStatus').textContent='PDF 加载失败，可点击“打开原文件”重试';console.error(err)}return}styleContent();installPaging(d,e,token);prefetchNextSection(i,token);$('#readStatus').textContent='已打开 · '+(d.title||current.title);d.addEventListener('click',ev=>{const a=ev.target.closest('a[href]');if(!a)return;const u=new URL(a.getAttribute('href'),d.URL),base=new URL('content/',location.href);if(u.origin!==base.origin||!u.pathname.startsWith(base.pathname)){ev.preventDefault();return}const j=entries.findIndex(x=>new URL(x.href,location.href).href===u.href);if(j>=0){ev.preventDefault();go(j)}})}
+function go(i){$('#page').contentDocument?._saveReading?.();location.hash='book='+current.id+'&chapter='+i}
 $('#chapters').onchange=e=>go(e.target.value);$('#prev').onclick=()=>go(Number($('#chapters').value)-1);$('#next').onclick=()=>go(Number($('#chapters').value)+1);
-$('#larger').onclick=()=>{font=Math.min(32,font+2);writeStore('bookworms-font',String(font));styleContent();requestAnimationFrame(updateScreenPosition)};$('#smaller').onclick=()=>{font=Math.max(14,font-2);writeStore('bookworms-font',String(font));styleContent();requestAnimationFrame(updateScreenPosition)};
+function changeFont(delta){
+ const d=$('#page').contentDocument,anchor=captureReadingAnchor(d);
+ font=Math.max(14,Math.min(32,font+delta));writeStore('bookworms-font',String(font));styleContent();
+ requestAnimationFrame(()=>{if(d===$('#page').contentDocument){restoreReadingAnchor(d,anchor);d._saveReading?.();updateScreenPosition()}});
+}
+$('#larger').onclick=()=>changeFont(2);$('#smaller').onclick=()=>changeFont(-2);
 $('#search').oninput=()=>{if(current)location.hash='';draw()};window.onhashchange=route;
 Promise.all(['catalog.json','classics.json','world770.json'].map(u=>fetch(u).then(r=>{if(!r.ok)throw Error('目录加载失败');return r.json()}))).then(([data,extra,world])=>{levels=[...data,extra,...world];books=levels.flatMap(l=>l.children);$('#total').textContent=books.length+' 个书目';$('#statTotal').textContent=books.length;$('#statWorld').textContent=world.reduce((n,l)=>n+l.children.length,0);[-1,...levels.keys()].forEach(i=>{const b=document.createElement('button');b.textContent=i<0?'全部':levels[i].label;b.onclick=()=>{chosen=i;draw()};$('#filters').append(b)});levels.forEach(l=>{const d=document.createElement('details'),s=document.createElement('summary'),list=document.createElement('div');s.textContent=l.label+' · '+l.children.length;list.className='tree-books';l.children.forEach(b=>{const a=document.createElement('a');a.href='#book='+b.id;a.dataset.id=b.id;a.textContent=b.title;list.append(a)});d.append(s,list);$('#tree').append(d)});const last=readStore('bookworms-last');if(last&&last.startsWith('#book=')){$('#resume').href=last;$('#resume').hidden=false}font=Math.min(32,Math.max(14,Number(readStore('bookworms-font'))||19));theme();draw();route()}).catch(e=>{$('#count').textContent='加载失败，请刷新重试';console.error(e)});
 
 let scrollSaveTimer, pendingBottom=false, pendingContinuation=null;
+let prefetchController=null,activePagingAbort=null;
+const prefetchedSections=new Set();
+function nextDocumentIndex(index,direction){
+ const url=href=>new URL(href,location.href).href.split('#')[0],base=url(entries[index].href);
+ let next=index+direction;
+ while(next>=0&&next<entries.length&&url(entries[next].href)===base)next+=direction;
+ return next;
+}
+function prefetchNextSection(index,token){
+ const next=nextDocumentIndex(index,1),connection=navigator.connection;
+ if(next>=entries.length||entries[next].format==='pdf'||connection?.saveData||/^(slow-)?2g$/.test(connection?.effectiveType))return;
+ const url=new URL(entries[next].href,location.href);url.hash='';
+ if(url.origin!==location.origin||prefetchedSections.has(url.href))return;
+ const warm=async()=>{
+  if(token!==loadToken)return;
+  const controller=new AbortController();prefetchController=controller;
+  try{
+   const response=await fetch(url.href,{signal:controller.signal,cache:'force-cache',credentials:'same-origin'});
+   if(!response.ok)return;await response.arrayBuffer();
+   prefetchedSections.add(url.href);
+   if(prefetchedSections.size>8)prefetchedSections.delete(prefetchedSections.values().next().value);
+  }catch{/* Prefetch is optional: ordinary navigation remains the fallback. */}
+ };
+ if(window.requestIdleCallback)requestIdleCallback(warm,{timeout:1200});else setTimeout(warm,300);
+}
+// Paragraph-relative positions survive text reflow better than raw scroll pixels.
+// Keep the old pixel value as a fallback for older saves or changed documents.
+function captureReadingAnchor(d){
+ const el=d?.scrollingElement;if(!el||!d.body)return null;
+ const max=el.scrollHeight-el.clientHeight,top=el.scrollTop;
+ if(top<=1)return {version:1,edge:'start',top};
+ if(max>0&&top>=max-2)return {version:1,edge:'end',top};
+ let target=[...d.querySelectorAll('p,li,h1,h2,h3,h4,blockquote,pre,img,svg')].find(node=>{
+  const rect=node.getBoundingClientRect();return rect.height>0&&rect.bottom>1&&rect.top<el.clientHeight;
+ })||d.body;
+ const rect=target.getBoundingClientRect(),path=[];
+ for(let node=target;node!==d.body;node=node.parentElement){
+  if(!node?.parentElement)return {version:1,top};
+  path.unshift(Array.prototype.indexOf.call(node.parentElement.children,node));
+ }
+ return {version:1,path,tag:target.tagName,text:target.textContent.trim().slice(0,48),ratio:-rect.top/Math.max(1,rect.height),top};
+}
+function restoreReadingAnchor(d,anchor){
+ const el=d?.scrollingElement;if(!el||!anchor||anchor.version!==1)return false;
+ if(anchor.edge){el.scrollTop=anchor.edge==='end'?el.scrollHeight:0;return true}
+ let target=d.body;
+ if(Array.isArray(anchor.path)&&anchor.path.length<64){
+  for(const n of anchor.path)target=Number.isInteger(n)&&n>=0?target?.children[n]:null;
+  if(target&&target.tagName===anchor.tag&&target.textContent.trim().slice(0,48)===anchor.text&&Number.isFinite(anchor.ratio)){
+   const rect=target.getBoundingClientRect();el.scrollTop+=rect.top+rect.height*anchor.ratio;return true;
+  }
+ }
+ if(Number.isFinite(anchor.top)){el.scrollTop=anchor.top;return true}return false;
+}
+
 $('#focus').onclick=()=>{setTools(false);const on=document.body.classList.toggle('focus-reading');$('#focus').textContent=on?'↙ 退出专注':'⛶ 专注阅读';setTimeout(updateScreenPosition,100)};
 function updateScreenPosition(){const d=$('#page').contentDocument;if(!d||$('#page').dataset.kind==='pdf')return;const el=d.scrollingElement;if(!el)return;const h=el.clientHeight||$('#page').clientHeight;const step=Math.max(80,h-35),max=Math.max(0,el.scrollHeight-h),total=Math.ceil(max/step)+1;const index=el.scrollTop>=max-3?total:Math.round(el.scrollTop/step)+1;renderPages(Math.min(total,index),total)}
 function turnScreen(direction){if(!current)return;const frame=$('#page');if(frame.dataset.kind==='pdf'){const a=frame.contentWindow.PDFViewerApplication;if(a?.pagesCount)a.page=Math.max(1,Math.min(a.pagesCount,a.page+direction));return}const d=frame.contentDocument,el=d?.scrollingElement;if(!el)return;const max=el.scrollHeight-el.clientHeight,step=Math.max(80,el.clientHeight-35);if(direction>0&&el.scrollTop>=max-3){if(Number($('#chapters').value)<entries.length-1)go(Number($('#chapters').value)+1)}else if(direction<0&&el.scrollTop<=2){if(Number($('#chapters').value)>0){pendingBottom=true;go(Number($('#chapters').value)-1)}}else{el.scrollTo({top:Math.max(0,Math.min(max,el.scrollTop+direction*step)),behavior:'smooth'})}}
@@ -34,14 +94,25 @@ document.addEventListener('keydown',pageKey);
 // Continue across document boundaries using native wheel/touch input, without
 // turning a restored position or a programmatic page jump into navigation.
 function installPaging(d,entry,token){
- d._pagingAbort?.abort();const ctrl=new AbortController();d._pagingAbort=ctrl;
+ d._pagingAbort?.abort();const ctrl=new AbortController();d._pagingAbort=ctrl;activePagingAbort=ctrl;
  const opts={passive:true,signal:ctrl.signal};
  d.addEventListener('keydown',pageKey,{signal:ctrl.signal});
  const el=d.scrollingElement,key='bookworms-scroll:'+entry.href;
- const savedValue=readStore(key),saved=Number(savedValue)||0;
+ const savedValue=readStore(key),saved=Number(savedValue)||0,anchorKey='bookworms-anchor:'+entry.href;
+ const savedAnchor=readJSON(anchorKey,null);
  const continuation=pendingContinuation?.href===entry.href?pendingContinuation:null;
  pendingContinuation=null;
- let ready=false,leaving=false,readyAt=0;
+ let ready=false,leaving=false,readyAt=0,lastAnchor=null;
+ const saveReading=()=>{
+  if(!ready||leaving||token!==loadToken)return;
+  lastAnchor=captureReadingAnchor(d);
+  writeStore(key,String(el.scrollTop));
+  if(lastAnchor)writeStore(anchorKey,JSON.stringify(lastAnchor));
+ };
+ d._saveReading=saveReading;
+ d.defaultView.addEventListener('pagehide',saveReading,{signal:ctrl.signal});
+ document.addEventListener('visibilitychange',()=>{if(document.hidden)saveReading()},{signal:ctrl.signal});
+ window.addEventListener('pagehide',saveReading,{signal:ctrl.signal});
  requestAnimationFrame(()=>{
   if(token!==loadToken)return;
   if(pendingBottom||continuation?.direction<0)el.scrollTop=el.scrollHeight;
@@ -50,19 +121,15 @@ function installPaging(d,entry,token){
    const fragment=new URL(entry.href,location.href).hash.slice(1);
    if(fragment){let id=fragment;try{id=decodeURIComponent(fragment)}catch{}
     (d.getElementById(id)||d.getElementsByName(id)[0])?.scrollIntoView();}
-  }else if(savedValue!==null)el.scrollTop=saved;
-  pendingBottom=false;ready=true;readyAt=performance.now();updateScreenPosition();
+  }else if(!restoreReadingAnchor(d,savedAnchor)&&savedValue!==null)el.scrollTop=saved;
+  pendingBottom=false;ready=true;readyAt=performance.now();lastAnchor=captureReadingAnchor(d);updateScreenPosition();
  });
  const atEdge=dir=>dir>0?el.scrollTop>=el.scrollHeight-el.clientHeight-3:el.scrollTop<=2;
  const continueReading=dir=>{
   if(!ready||leaving||token!==loadToken||!atEdge(dir)||performance.now()-readyAt<400)return false;
-  let next=Number($('#chapters').value)+dir;
-  const documentURL=href=>new URL(href,location.href).href.split('#')[0];
-  // The entire current XHTML is visible, including later translated anchors.
-  // At its edge, continue to a different document, not back into this one.
-  while(next>=0&&next<entries.length&&documentURL(entries[next].href)===documentURL(entry.href))next+=dir;
+  const next=nextDocumentIndex(Number($('#chapters').value),dir);
   if(next<0||next>=entries.length||entries[next].format==='pdf')return false;
-  leaving=true;clearTimeout(scrollSaveTimer);writeStore(key,String(el.scrollTop));
+  saveReading();leaving=true;clearTimeout(scrollSaveTimer);
   pendingContinuation={href:entries[next].href,direction:dir};go(next);return true;
  };
  d.addEventListener('wheel',ev=>{
@@ -71,9 +138,11 @@ function installPaging(d,entry,token){
  },{passive:false,signal:ctrl.signal});
  d.addEventListener('scroll',()=>{
   updateScreenPosition();clearTimeout(scrollSaveTimer);
-  scrollSaveTimer=setTimeout(()=>{if(token===loadToken&&!leaving)writeStore(key,String(el.scrollTop))},150);
+  scrollSaveTimer=setTimeout(saveReading,150);
  },opts);
- for(const img of d.images)if(!img.complete)img.addEventListener('load',updateScreenPosition,{once:true,signal:ctrl.signal});
+ const reflow=()=>{if(ready&&!leaving&&token===loadToken){restoreReadingAnchor(d,lastAnchor);updateScreenPosition()}};
+ d.defaultView.addEventListener('resize',reflow,opts);
+ for(const img of d.images)if(!img.complete)img.addEventListener('load',reflow,{once:true,signal:ctrl.signal});
  let start=null;
  d.addEventListener('touchstart',ev=>{
   start=ev.touches.length===1?{x:ev.touches[0].clientX,y:ev.touches[0].clientY,top:atEdge(-1),bottom:atEdge(1)}:null;
