@@ -62,3 +62,14 @@ body.focus-reading #shelfResize{display:none}
 #shelfResize::after{left:5px}
 #sidebar.open + #shelfResize{display:block}
 }
+
+/* Keep scrolling and resizing in separate, visible lanes. */
+:root{--shelf-rail:20px}
+#sidebar{padding:0 var(--shelf-rail) 0 0;overflow:hidden}
+.shelf-content{height:100%;overflow:auto;padding:14px 8px;overscroll-behavior:contain}
+#shelfResize{left:calc(var(--shelf-width) - var(--shelf-rail));width:var(--shelf-rail);background:#e5ebe1;border-left:1px solid var(--line);border-right:1px solid var(--line);user-select:none;-webkit-user-select:none;-webkit-touch-callout:none}
+#shelfResize::after{display:none}
+#shelfResize span{position:absolute;top:45%;left:50%;transform:translate(-50%,-50%);display:grid;place-items:center;width:30px;height:48px;border:1px solid #9aaf9b;border-radius:8px;background:var(--paper);color:var(--green);font-size:21px;box-shadow:0 1px 5px #0002;touch-action:none}
+#shelfResize:hover,#shelfResize:focus-visible,body.resizing-shelf #shelfResize{background:#cedecb}
+html[data-theme=dark] #shelfResize{background:#304737}
+@media(max-width:760px){:root{--shelf-rail:24px}#shelfResize span{width:34px;height:52px}}

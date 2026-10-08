@@ -79,18 +79,20 @@ function setShelfWidth(width,persist=false){
 }
 function restoreShelfWidth(){setShelfWidth(Number(readStore(shelfKey()))||shelfDefault())}
 shelfGrip.addEventListener('pointerdown',e=>{
- if(e.button!==0)return;e.preventDefault();
+ if(e.button!==0||shelfDrag)return;e.preventDefault();
  shelfDrag={id:e.pointerId,x:e.clientX,width:$('#sidebar').getBoundingClientRect().width};
- shelfGrip.setPointerCapture(e.pointerId);document.body.classList.add('resizing-shelf');
+ document.body.classList.add('resizing-shelf');
+ try{shelfGrip.setPointerCapture(e.pointerId)}catch{}
 });
-shelfGrip.addEventListener('pointermove',e=>{if(shelfDrag?.id===e.pointerId)setShelfWidth(shelfDrag.width+e.clientX-shelfDrag.x)});
+window.addEventListener('pointermove',e=>{if(shelfDrag?.id===e.pointerId){e.preventDefault();setShelfWidth(shelfDrag.width+e.clientX-shelfDrag.x)}},{passive:false});
 function finishShelfDrag(e){
  if(!shelfDrag||e.pointerId!==shelfDrag.id)return;
  shelfDrag=null;document.body.classList.remove('resizing-shelf');
  setShelfWidth($('#sidebar').getBoundingClientRect().width,true);
  if(shelfGrip.hasPointerCapture(e.pointerId))shelfGrip.releasePointerCapture(e.pointerId);
 }
-for(const name of ['pointerup','pointercancel','lostpointercapture'])shelfGrip.addEventListener(name,finishShelfDrag);
+for(const name of ['pointerup','pointercancel'])window.addEventListener(name,finishShelfDrag);
+shelfGrip.addEventListener('lostpointercapture',finishShelfDrag);
 shelfGrip.addEventListener('keydown',e=>{
  if(!['ArrowLeft','ArrowRight','Home','End'].includes(e.key))return;
  e.preventDefault();e.stopPropagation();
