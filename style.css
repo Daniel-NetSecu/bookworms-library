@@ -112,3 +112,5 @@ body.reading .page-turner{flex-wrap:wrap;column-gap:5px;row-gap:1px}
 #pageNumbers{width:88px;flex:none;justify-content:center}
 #pageNumbers button{min-width:26px;padding-left:3px;padding-right:3px}
 @media(max-width:980px){#pageNumbers{display:none}#screenPosition{flex-basis:100%;width:auto}}
+
+#marksDialog{width:min(520px,calc(100vw - 24px));max-height:70dvh;box-sizing:border-box;padding:18px;border:1px solid var(--line);border-radius:14px;background:var(--paper);color:var(--ink);overflow:auto;box-shadow:0 12px 50px #0004}#marksDialog::backdrop{background:#0005}.marks-heading{display:flex;align-items:center;justify-content:space-between;gap:12px}.marks-heading h2{margin:0;font-size:20px}.marks-note{font-size:13px;line-height:1.6;white-space:normal}#marksList{list-style:none;margin:0;padding:0}#marksList li{display:flex;gap:10px;align-items:center;padding:10px 0;border-top:1px solid var(--line)}#marksList .mark-go{flex:1;min-width:0;text-align:left;white-space:normal;overflow-wrap:anywhere;line-height:1.6}#marksList .mark-delete{flex:none;color:#a03930}#marksDialog button{min-height:40px}#marksEmpty{white-space:normal;font-size:14px}

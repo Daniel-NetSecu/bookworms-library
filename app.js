@@ -16,7 +16,7 @@ function savePosition(hash=location.hash){if(!current)return;history[current.id]
 function star(){$('#bookmark').textContent=favorites.has(current?.id)?'★ 已收藏':'☆ 收藏本书';$('#bookmark').setAttribute('aria-pressed',String(favorites.has(current?.id)))}
 $('#bookmark').onclick=()=>{if(!current)return;if(favorites.has(current.id))favorites.delete(current.id);else favorites.add(current.id);writeStore('bookworms-favorites',JSON.stringify([...favorites]));star();draw()};
 $('#favorites').onclick=()=>{onlyFavorites=!onlyFavorites;draw()};$('#sort').onchange=draw;
-function route(){window.ReaderStudy?.reset();$('#page').contentDocument?._saveReading?.();activePagingAbort?.abort();setTools(false);setJump(false);setPagerPending('正在打开…');$('#screenPrev').disabled=$('#screenNext').disabled=true;const token=++loadToken,p=new URLSearchParams(location.hash.slice(1));current=books.find(b=>b.id===p.get('book'));document.body.classList.toggle('reading',!!current);if(!current)document.body.classList.remove('focus-reading');$('#home').hidden=!!current;$('#reader').hidden=!current;if(!current){bookPagination?.controller.abort();bookPagination=null;discardPrefetchedFrame();document.title='书虫 · 双语阅读书房';$('#page').src='about:blank';draw();return}closeMenu();entries=current.level===7?current.children.flatMap(flatten):flatten(current);let i=Math.max(0,Math.min(entries.length-1,Math.floor(Number(p.get('chapter'))||0)));$('#bookTitle').textContent=current.title;document.title=current.title+' · 书虫双语书房';$('#breadcrumb').textContent=levels[current.level].label+' / '+current.title;$('#chapters').replaceChildren();entries.forEach((n,j)=>{$('#chapters').add(new Option((current.level!==7&&j===0?'封面 · ':'')+n.title,String(j)))});$('#chapters').value=i;$('#prev').disabled=i===0;$('#next').disabled=i===entries.length-1;$('#readStatus').textContent='正在打开：'+entries[i].title;const e=entries[i],isPDF=e.format==='pdf',frame=takePrefetchedFrame(e.href)||$('#page');frame.dataset.kind=isPDF?'pdf':'html';frame.setAttribute('sandbox',isPDF?'allow-same-origin allow-scripts allow-downloads allow-modals':'allow-same-origin');$('#smaller').hidden=$('#larger').hidden=isPDF;$('#position').textContent='';$('#original').href=e.href;$('#original').hidden=!isPDF;$('#readingHint').textContent=isPDF?'PDF 支持搜索、页码跳转和缩放。阅读页码保存在当前浏览器。':(current.note||'原文、译文和练习按原目录保留。')+' 章节位置保存在当前浏览器；图片页不受字号按钮影响。';let page=Math.max(1,parseInt(p.get('page'))||Number(readStore('pdf-page:'+e.href))||1);frame.onload=()=>onFrameLoad(token,e,i);$('#screenPrev').textContent='上一页';$('#screenNext').textContent='下一页';$('#screenPosition').textContent='';const sameDocument=!isPDF&&frame.src.split('#')[0]===new URL(e.href,location.href).href.split('#')[0]&&frame.contentDocument?.readyState==='complete';if(!frame.dataset.preloaded)frame.src=isPDF?'vendor/pdfjs/web/viewer.html?file='+encodeURIComponent(new URL(e.href,location.href).pathname)+'#page='+page+'&zoom=page-width':e.href;if(sameDocument)requestAnimationFrame(()=>onFrameLoad(token,e,i));delete frame.dataset.preloaded;savePosition();star();renderMark();document.querySelectorAll('.tree-books a').forEach(a=>{a.classList.toggle('active',a.dataset.id===current.id);if(a.dataset.id===current.id){a.hidden=false;a.closest('details').hidden=false;a.closest('details').open=true}})}
+function route(){window.ReaderStudy?.reset();$('#page').contentDocument?._saveReading?.();activePagingAbort?.abort();setTools(false);setJump(false);$('#marksDialog').close();setPagerPending('正在打开…');$('#screenPrev').disabled=$('#screenNext').disabled=true;const token=++loadToken,p=new URLSearchParams(location.hash.slice(1));current=books.find(b=>b.id===p.get('book'));document.body.classList.toggle('reading',!!current);if(!current)document.body.classList.remove('focus-reading');$('#home').hidden=!!current;$('#reader').hidden=!current;if(!current){bookPagination?.controller.abort();bookPagination=null;discardPrefetchedFrame();document.title='书虫 · 双语阅读书房';$('#page').src='about:blank';draw();return}closeMenu();entries=current.level===7?current.children.flatMap(flatten):flatten(current);let i=Math.max(0,Math.min(entries.length-1,Math.floor(Number(p.get('chapter'))||0)));$('#bookTitle').textContent=current.title;document.title=current.title+' · 书虫双语书房';$('#breadcrumb').textContent=levels[current.level].label+' / '+current.title;$('#chapters').replaceChildren();entries.forEach((n,j)=>{$('#chapters').add(new Option((current.level!==7&&j===0?'封面 · ':'')+n.title,String(j)))});$('#chapters').value=i;$('#prev').disabled=i===0;$('#next').disabled=i===entries.length-1;$('#readStatus').textContent='正在打开：'+entries[i].title;const e=entries[i],isPDF=e.format==='pdf',frame=takePrefetchedFrame(e.href)||$('#page');frame.dataset.kind=isPDF?'pdf':'html';frame.setAttribute('sandbox',isPDF?'allow-same-origin allow-scripts allow-downloads allow-modals':'allow-same-origin');$('#smaller').hidden=$('#larger').hidden=isPDF;$('#position').textContent='';$('#original').href=e.href;$('#original').hidden=!isPDF;$('#readingHint').textContent=isPDF?'PDF 支持搜索、页码跳转和缩放。阅读页码保存在当前浏览器。':(current.note||'原文、译文和练习按原目录保留。')+' 章节位置保存在当前浏览器；图片页不受字号按钮影响。';let page=Math.max(1,parseInt(p.get('page'))||Number(readStore('pdf-page:'+e.href))||1);frame.onload=()=>onFrameLoad(token,e,i);$('#screenPrev').textContent='上一页';$('#screenNext').textContent='下一页';$('#screenPosition').textContent='';const sameDocument=!isPDF&&frame.src.split('#')[0]===new URL(e.href,location.href).href.split('#')[0]&&frame.contentDocument?.readyState==='complete';if(!frame.dataset.preloaded)frame.src=isPDF?'vendor/pdfjs/web/viewer.html?file='+encodeURIComponent(new URL(e.href,location.href).pathname)+'#page='+page+'&zoom=page-width':e.href;if(sameDocument)requestAnimationFrame(()=>onFrameLoad(token,e,i));delete frame.dataset.preloaded;savePosition();star();renderMark();document.querySelectorAll('.tree-books a').forEach(a=>{a.classList.toggle('active',a.dataset.id===current.id);if(a.dataset.id===current.id){a.hidden=false;a.closest('details').hidden=false;a.closest('details').open=true}})}
 async function onFrameLoad(token,e,i){if(token!==loadToken||!current)return;const frame=$('#page'),d=frame.contentDocument;if(!d)return;if(e.format==='pdf'){bookPagination?.controller.abort();bookPagination=null;try{const app=frame.contentWindow.PDFViewerApplication;if(!app)throw Error('阅读器初始化失败');await app.initializedPromise;if(token!==loadToken)return;window.ReaderStudy?.bind(d);const update=()=>{if(token!==loadToken||!current)return;const p=app.page||1;$('#readStatus').textContent='已打开 · '+e.title+' · PDF';$('#position').textContent=`第 ${p} / ${app.pagesCount} 页`;renderPages(p,app.pagesCount,true);writeStore('pdf-page:'+e.href,String(p));const hash='#book='+current.id+'&chapter='+i+'&page='+p;window.history.replaceState(null,'',hash);savePosition(hash);window.ReaderStudy?.schedule()};app.eventBus.on('pagesloaded',update);app.eventBus.on('pagechanging',update);if(app.pagesCount)update()}catch(err){$('#readStatus').textContent='PDF 加载失败，可点击“打开原文件”重试';console.error(err)}return}styleContent();installPaging(d,e,token);window.ReaderStudy?.bind(d);d.addEventListener('pointerdown',()=>setTools(false),{signal:d._pagingAbort.signal});prefetchNextSection(i,token);$('#readStatus').textContent='已打开 · '+(d.title||current.title);d.addEventListener('click',ev=>{const a=ev.target.closest('a[href]');if(!a)return;const u=new URL(a.getAttribute('href'),d.URL),base=new URL('content/',location.href);if(u.origin!==base.origin||!u.pathname.startsWith(base.pathname)){ev.preventDefault();return}const j=entries.findIndex(x=>new URL(x.href,location.href).href===u.href);if(j>=0){ev.preventDefault();go(j)}})}
 function go(i){$('#page').contentDocument?._saveReading?.();location.hash='book='+current.id+'&chapter='+i}
 $('#chapters').onchange=e=>go(e.target.value);$('#prev').onclick=()=>go(Number($('#chapters').value)-1);$('#next').onclick=()=>go(Number($('#chapters').value)+1);
@@ -273,12 +273,39 @@ window.addEventListener('resize',restoreShelfWidth);restoreShelfWidth();
 
 // Manual marks are independent of the automatically updated reading position.
 function markKey(){return 'bookworms-mark:'+current.id}
-function renderMark(){
- const mark=current?readJSON(markKey(),null):null;
- const button=$('#returnMark');button.hidden=!mark;
- if(mark){const page=markBookPage(mark);button.textContent=page?`Mark · 第 ${page} 页`:'Mark · 返回标记';button.title=`返回：${mark.title}（按保存的原文位置定位）`}
- $('#markStatus').textContent='';
+function marksKey(){return 'bookworms-marks:'+current.id}
+function readMarks(){
+ if(!current)return [];
+ const saved=readJSON(marksKey(),null);
+ if(Array.isArray(saved))return saved;
+ const old=readJSON(markKey(),null);
+ return old?[{...old,id:'legacy'}]:[];
 }
+function writeMarks(marks){
+ try{localStorage.setItem(marksKey(),JSON.stringify(marks));return true}
+ catch{alert('无法保存书签，请允许浏览器保存网站数据。');return false}
+}
+function renderMark(){
+ const marks=readMarks(),button=$('#returnMark');button.hidden=false;
+ button.textContent=`书签 · ${marks.length}`;button.title='查看、跳转或删除本书书签';
+ if($('#marksDialog').open)renderMarksList();
+}
+function renderMarksList(){
+ const list=$('#marksList');list.replaceChildren();const marks=readMarks();
+ $('#marksEmpty').hidden=marks.length>0;
+ for(const mark of marks){
+  const row=document.createElement('li'),go=document.createElement('button'),del=document.createElement('button');
+  const page=markBookPage(mark);
+  go.className='mark-go';go.textContent=(page?`第 ${page} 页`:'页码计算中')+' · '+mark.title;
+  go.title='返回保存的原文位置';go.onclick=()=>{$('#marksDialog').close();returnToMark(mark)};
+  del.className='mark-delete';del.textContent='删除';del.setAttribute('aria-label','删除书签：'+go.textContent);
+  del.onclick=()=>{if(writeMarks(readMarks().filter(m=>m.id!==mark.id))){renderMark();$('#markStatus').textContent='书签已删除';$('#marksClose').focus()}};
+  row.append(go,del);list.append(row);
+ }
+}
+$('#returnMark').onclick=()=>{renderMarksList();$('#marksDialog').showModal()};
+$('#marksClose').onclick=()=>$('#marksDialog').close();
+$('#marksDialog').addEventListener('click',e=>{if(e.target===$('#marksDialog')){const r=e.target.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)e.target.close()}});
 $('#setMark').onclick=()=>{
  if(!current)return;
  const chapter=Number($('#chapters').value),entry=entries[chapter],f=$('#page');
@@ -286,13 +313,13 @@ $('#setMark').onclick=()=>{
  if(pdf?!f.contentWindow.PDFViewerApplication?.pagesCount:!f.contentDocument?._saveReading)return;
  if(!pdf)updateScreenPosition();
  if(!pagerState.ready)return;
- const mark={version:2,localPage:localPagerState.index,href:entry.href,chapter,title:entry.title,page:pagerState.index,anchor:pdf?null:captureReadingAnchor(f.contentDocument)};
- try{localStorage.setItem(markKey(),JSON.stringify(mark));renderMark();$('#markStatus').textContent='Mark 已保存'}
- catch{$('#markStatus').textContent='无法保存 Mark，请允许浏览器保存网站数据';alert('无法保存 Mark，请允许浏览器保存网站数据。')}
+ const mark={id:crypto.randomUUID(),version:2,localPage:localPagerState.index,href:entry.href,chapter,title:entry.title,page:pagerState.index,anchor:pdf?null:captureReadingAnchor(f.contentDocument)};
+ const marks=readMarks();
+ if(marks.some(m=>m.href===mark.href&&markBookPage(m)===mark.page)){$('#markStatus').textContent='本页已有书签';return}
+ if(writeMarks([...marks,mark])){renderMark();$('#markStatus').textContent='书签已添加'}
 };
-$('#returnMark').onclick=()=>{
- if(!current)return;
- const mark=readJSON(markKey(),null);if(!mark)return;
+function returnToMark(mark){
+ if(!current||!mark)return;
  const chapter=entries.findIndex(e=>e.href===mark.href);if(chapter<0)return;
  const frame=$('#page');frame.contentDocument?._saveReading?.();
  pendingBottom=false;pendingContinuation=null;pendingBookJump=null;
@@ -363,8 +390,9 @@ function markBookPage(mark){
  const state=bookPagination;if(!state?.ready)return null;
  const doc=state.docs.find(x=>x.url===documentURL(mark.href));if(!doc)return null;
  const signature=JSON.stringify(mark.anchor);
- if(documentURL($('#page').src)===doc.url){doc.markPage=anchorPage($('#page').contentDocument,mark.anchor,doc.count);doc.markSignature=signature}
- const local=doc.markSignature===signature&&doc.markPage?doc.markPage:mark.localPage||mark.page;
+ doc.markPages ||= {};
+ if(documentURL($('#page').src)===doc.url)doc.markPages[signature]=anchorPage($('#page').contentDocument,mark.anchor,doc.count);
+ const local=doc.markPages[signature]||mark.localPage||mark.page;
  return doc.offset+Math.min(doc.count,local);
 }
 function ensureBookPagination(){
@@ -373,8 +401,8 @@ function ensureBookPagination(){
  bookPagination?.controller.abort();
  const state={...spec,ready:false,error:false,controller:new AbortController(),total:0};bookPagination=state;
  let cached=paginationCache.get(spec.key);
- const mark=readJSON(markKey(),null);
- if(mark&&cached?.some(doc=>doc.url===documentURL(mark.href)&&doc.markSignature!==JSON.stringify(mark.anchor)))cached=null;
+ const marks=readMarks();
+ if(marks.some(mark=>cached?.some(doc=>doc.url===documentURL(mark.href)&&!doc.markPages?.[JSON.stringify(mark.anchor)])))cached=null;
  if(cached){state.docs=cached.map(x=>({...x}));state.ready=true;recountBookPages(state);return state}
  // Debounce resizing and footer reflow; old jobs are cancelled, not accumulated.
  setTimeout(()=>{if(bookPagination===state&&!state.controller.signal.aborted)measureBookPages(state)},180);
@@ -382,7 +410,7 @@ function ensureBookPagination(){
 }
 async function measureBookPages(state){
  const {signal}=state.controller,frames=[];let cursor=0;
- const mark=current?readJSON(markKey(),null):null;
+ const marks=readMarks();
  try{
   const worker=async()=>{
    const frame=document.createElement('iframe');frames.push(frame);
@@ -402,7 +430,8 @@ async function measureBookPages(state){
     styleContent(d);
     // Force final layout after reader styles; iframe load has awaited images/CSS.
     doc.count=screenCount(d);
-    if(mark&&documentURL(mark.href)===doc.url){doc.markPage=anchorPage(d,mark.anchor,doc.count);doc.markSignature=JSON.stringify(mark.anchor)}
+    doc.markPages={};
+    for(const mark of marks)if(documentURL(mark.href)===doc.url)doc.markPages[JSON.stringify(mark.anchor)]=anchorPage(d,mark.anchor,doc.count);
    }
   };
   await Promise.all(Array.from({length:Math.min(3,state.docs.length)},worker));
