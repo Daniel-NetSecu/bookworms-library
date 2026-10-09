@@ -107,3 +107,8 @@ body.reading .page-turner{flex-wrap:wrap;column-gap:5px;row-gap:1px}
 @media(max-width:440px){#screenPosition{flex-basis:100%;text-align:center}#quickPage{width:44px}.page-turner button{font-size:11px}#returnMark{max-width:120px;overflow:hidden;text-overflow:ellipsis}}
 #readerTools,#pageJump{bottom:calc(var(--pager-height,28px) + 6px)}
 @media(max-width:980px){#studyPanel,body.reading.study-open #studyResize{bottom:calc(var(--pager-height,28px) + 4px)}}
+/* Keep the footer height stable while whole-book pagination is calculated. */
+#screenPosition{display:inline-block;width:154px;min-height:17px;text-align:center}
+#pageNumbers{width:88px;flex:none;justify-content:center}
+#pageNumbers button{min-width:26px;padding-left:3px;padding-right:3px}
+@media(max-width:980px){#pageNumbers{display:none}#screenPosition{flex-basis:100%;width:auto}}
