@@ -95,3 +95,15 @@ html[data-theme=dark] #shelfResize{background:#304737}
 body.resizing-study{cursor:col-resize;user-select:none}body.resizing-study #page{pointer-events:none}
 @media(min-width:981px){body.reading.study-open #studyResize{display:block;grid-column:2;grid-row:1}}
 @media(max-width:980px){body.reading.study-open #studyResize{display:block;position:absolute;bottom:32px;right:var(--study-width,300px);width:20px;height:62%}#studyPanel{width:var(--study-width,300px)}}
+
+/* Persistent progress, direct page jump and a per-book manual reading mark. */
+body.reading .page-turner{flex-wrap:wrap;column-gap:5px;row-gap:1px}
+#screenPosition{order:-2;white-space:nowrap;font-variant-numeric:tabular-nums;color:var(--green)}
+#quickJump{display:flex;align-items:center;gap:2px;margin:0}
+#quickPage{width:54px;min-width:0;height:23px;margin:0;padding:1px 4px;font:12px system-ui;border-radius:4px}
+#returnMark{border:1px solid var(--line);font-weight:600}
+#pageMore{display:none}
+@media(max-width:760px){#pageNumbers{display:none}body.reading .page-turner{column-gap:3px}.page-turner button{padding-left:4px;padding-right:4px}#screenPosition{font-size:11px}}
+@media(max-width:440px){#screenPosition{flex-basis:100%;text-align:center}#quickPage{width:44px}.page-turner button{font-size:11px}#returnMark{max-width:120px;overflow:hidden;text-overflow:ellipsis}}
+#readerTools,#pageJump{bottom:calc(var(--pager-height,28px) + 6px)}
+@media(max-width:980px){#studyPanel,body.reading.study-open #studyResize{bottom:calc(var(--pager-height,28px) + 4px)}}
